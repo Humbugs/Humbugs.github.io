@@ -11,7 +11,7 @@ width: 193
 height: 150
 depth: 3
 weight: 27
-meta_description: Double Dip sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Double Dip sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Sherbet, Wrapped]
 contains: [Lactose, Sugar]

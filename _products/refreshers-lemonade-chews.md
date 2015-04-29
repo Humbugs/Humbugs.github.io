@@ -11,7 +11,7 @@ width: 50
 height: 20
 depth: 5
 weight: 0
-meta_description: Refreshers Lemonade Chews only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Refreshers Lemonade Chews only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Swizzels Matlow
 type: [Chewy, Wrapped]
 contains: [Lactose, Sugar, Gelatin]

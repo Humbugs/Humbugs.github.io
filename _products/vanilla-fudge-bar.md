@@ -11,7 +11,7 @@ width: 200
 height: 40
 depth: 15
 weight: 0
-meta_description: Vanilla Fudge Bar sweets only £1.25. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Vanilla Fudge Bar sweets only Ãº1.25. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 flavour: [Vanilla]

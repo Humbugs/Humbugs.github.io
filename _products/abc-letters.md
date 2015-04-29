@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: ABC Letters sweets only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'ABC Letters sweets only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 flavour: ['Mixed Fruit']
 colour: [Pink, White, Yellow]

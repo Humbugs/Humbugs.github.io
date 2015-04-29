@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Butterscotch Gums sweets only £1.30/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Butterscotch Gums sweets only Ãº1.30/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Butter, Gummy]
 colour: [Yellow]

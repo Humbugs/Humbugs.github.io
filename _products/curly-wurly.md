@@ -11,7 +11,7 @@ width: 222
 height: 30
 depth: 8
 weight: 28
-meta_description: Curly Wurly only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Curly Wurly only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Caramel, Chocolate, Wrapped]
 contains: [Lactose, Nuts, Sugar]
@@ -22,4 +22,4 @@ protein: 3.4
 carbohydrates: 69.2
 fat: 17.4
 ---
-Chewy caramel wrapped in Cadburyís milk chocolate.
+Chewy caramel wrapped in Cadbury√Üs milk chocolate.

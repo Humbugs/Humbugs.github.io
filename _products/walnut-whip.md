@@ -11,7 +11,7 @@ width: 70
 height: 60
 depth: 40
 weight: 0
-meta_description: Walnut Whip only 80p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Walnut Whip only 80p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Nestle
 type: [Chocolate, Nuts, Wrapped]
 colour: [Blue]

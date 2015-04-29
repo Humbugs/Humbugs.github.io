@@ -11,7 +11,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: Chewits sweets only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Chewits sweets only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Chewits
 type: [Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

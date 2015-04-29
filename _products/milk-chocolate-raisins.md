@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Milk Chocolate Raisins only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Milk Chocolate Raisins only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate, 'Dried Fruit']
 colour: [Brown]

@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Yorkshire Mix sweets only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Yorkshire Mix sweets only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Maxons
 type: [Hard]
 flavour: [Lemon]

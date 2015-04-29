@@ -61,6 +61,7 @@ prose:
           element: text
           label: Image
       - name: purchase_option
+        field:
           element: select
           label: Purchase Option
           options:
@@ -217,6 +218,10 @@ prose:
         field:
           element: number
           label: 'Fat (g)'
+      - name: meta_description
+        field:
+          element: textarea
+          label: 'Meta-Description'
 
 # http://jekyllrb.com/docs/configuration/
 permalink: blog/:title

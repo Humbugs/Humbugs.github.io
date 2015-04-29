@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 0
-meta_description: Fizzy Cola Bottles sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Fizzy Cola Bottles sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Fizzy, Gummy]
 colour: [Brown]
@@ -23,4 +23,4 @@ protein:
 carbohydrates: 
 fat: 
 ---
-Theyíre fizzy and cola flavoured! The pick a mix gummy legend; fizzy sour bottle shaped sweets with a coating of sugar that are delightfully chewy.
+They√Üre fizzy and cola flavoured! The pick a mix gummy legend; fizzy sour bottle shaped sweets with a coating of sugar that are delightfully chewy.

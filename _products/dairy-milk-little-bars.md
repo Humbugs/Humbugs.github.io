@@ -11,7 +11,7 @@ width: 155
 height: 35
 depth: 3
 weight: 0
-meta_description: Dairy Milk Little Bars only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Dairy Milk Little Bars only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Chocolate, Wrapped]
 colour: [Purple]
@@ -23,4 +23,4 @@ protein: 1.6
 carbohydrates: 12
 fat: 6.3
 ---
-Cadburyís milk chocolate bar.
+Cadbury√Üs milk chocolate bar.

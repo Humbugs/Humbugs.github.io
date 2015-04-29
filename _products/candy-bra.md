@@ -11,7 +11,7 @@ width: 180
 height: 158
 depth: 42
 weight: 335
-meta_description: Candy Bra only £5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Candy Bra only Ãº5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Novelty]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

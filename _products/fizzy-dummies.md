@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 0
-meta_description: Fizzy Dummies sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Fizzy Dummies sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Fizzy, Gummy]
 flavour: [Sour]

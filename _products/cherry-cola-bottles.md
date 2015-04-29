@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Cherry Cola Bottles only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Cherry Cola Bottles only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gummy]
 flavour: [Cherry, Cola]

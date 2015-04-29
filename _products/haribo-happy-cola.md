@@ -11,7 +11,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: Haribo Happy Cola sweets only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Haribo Happy Cola sweets only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Haribo
 type: [Gummy, Wrapped]
 flavour: [Cola]

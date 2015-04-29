@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Extra Strong Mints only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Extra Strong Mints only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Mint]
 flavour: [Mint]

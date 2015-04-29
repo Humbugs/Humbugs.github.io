@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Barley Sugars only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Barley Sugars only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Hard, Traditional, Wrapped]
 colour: [Orange]

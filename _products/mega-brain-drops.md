@@ -11,7 +11,7 @@ width: 125
 height: 30
 depth: 20
 weight: 0
-meta_description: Mega Brain Drops only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Mega Brain Drops only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar]

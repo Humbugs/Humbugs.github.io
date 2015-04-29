@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Mega Sour Bubblegum only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Mega Sour Bubblegum only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Barnetts
 type: [Hard]
 flavour: [Bubblegum, Sour]

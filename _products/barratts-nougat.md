@@ -11,7 +11,7 @@ width: 150
 height: 60
 depth: 15
 weight: 0
-meta_description: Barratts Nougat Bar only 45p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Barratts Nougat Bar only 45p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Barratt
 type: [Nougat, Wrapped]
 flavour: [Raspberry, Vanilla]

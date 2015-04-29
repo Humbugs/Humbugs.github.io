@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Nutty Brazil Toffees only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Nutty Brazil Toffees only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Walkers-Nonsuch
 type: [Nuts, Toffee, Wrapped]
 flavour: [Watermelon]

@@ -11,7 +11,7 @@ width: 85
 height: 29
 depth: 26
 weight: 9
-meta_description: Double Lollies sweets only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Double Lollies sweets only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]
 ingredients: 

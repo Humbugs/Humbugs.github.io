@@ -11,7 +11,7 @@ width: 150
 height: 20
 depth: 20
 weight: 0
-meta_description: Starburst sweets only 50p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Starburst sweets only 50p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chewy, Wrapped]
 flavour: ['Mixed Fruit', Ginger]

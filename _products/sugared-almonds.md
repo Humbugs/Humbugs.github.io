@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Sugared Almonds only £1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Sugared Almonds only Ãº1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Nuts]
 colour: [Pink, Purple, White, Yellow]

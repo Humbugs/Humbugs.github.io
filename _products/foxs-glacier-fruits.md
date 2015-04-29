@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Foxs Glacier Fruits sweets only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Foxs Glacier Fruits sweets only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Butter, Wrapped]
 flavour: ['Mixed Fruit']

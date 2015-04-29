@@ -11,7 +11,7 @@ width: 80
 height: 75
 depth: 20
 weight: 0
-meta_description: Hubba Bubba Mega Long Strawberry only £1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Hubba Bubba Mega Long Strawberry only Ãº1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Hubba-Bubba
 type: [Gummy, Wrapped]
 flavour: [Strawberry]

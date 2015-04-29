@@ -11,7 +11,7 @@ width: 85
 height: 50
 depth: 7
 weight: 20
-meta_description: Animal Bar only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Animal Bar only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Nestle
 type: [Chocolate, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar]

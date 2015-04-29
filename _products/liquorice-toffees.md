@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Liquorice Toffees only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Liquorice Toffees only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Walkers-Nonsuch
 type: [Liquorice, Toffee, Wrapped]
 flavour: [Aniseed, Toffee]

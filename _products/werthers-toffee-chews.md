@@ -11,7 +11,7 @@ width: 105
 height: 30
 depth: 15
 weight: 0
-meta_description: Werthers Toffee Chews only 60p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Werthers Toffee Chews only 60p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Werthers
 type: [Toffee, Wrapped]
 flavour: [Cream]
@@ -23,4 +23,4 @@ protein:
 carbohydrates: 
 fat: 
 ---
-Wertherís Originals in a chewy, toffee form.
+Werther√Üs Originals in a chewy, toffee form.

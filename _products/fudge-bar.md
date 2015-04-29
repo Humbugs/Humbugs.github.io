@@ -11,7 +11,7 @@ width: 215
 height: 43
 depth: 18
 weight: 153
-meta_description: Fudge Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Fudge Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Chocolate, Wrapped]
 contains: [Lactose, Nuts, Sugar]
@@ -22,4 +22,4 @@ protein: 2.5
 carbohydrates: 73.9
 fat: 13.1
 ---
-Soft fudge bar wrapped in Cadburyís milk chocolate.
+Soft fudge bar wrapped in Cadbury√Üs milk chocolate.

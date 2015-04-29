@@ -11,12 +11,12 @@ width: 160
 height: 30
 depth: 3
 weight: 0
-meta_description: Maoam Giant Stripe bar only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Maoam Giant Stripe bar only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Maoam
 type: [Chewy, Wrapped]
 flavour: [Ginger]
 contains: [Lactose, Sugar, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Food Acid (E330)†, Artificial Flavourings, Humectant (Sorbitol Syrup), Fruit Juice† 3% From Concentrate, Strawberry, Celling Agent Gelatine, Citric Acid, Fruit and Plant Concentrates; Safflower, Sweet Potato, Carrot, Radish, Blackcurrant, Hibiscus, Flavourings, Invert Sugar Syrup'
+ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Food Acid (E330)√°, Artificial Flavourings, Humectant (Sorbitol Syrup), Fruit Juice√° 3% From Concentrate, Strawberry, Celling Agent Gelatine, Citric Acid, Fruit and Plant Concentrates; Safflower, Sweet Potato, Carrot, Radish, Blackcurrant, Hibiscus, Flavourings, Invert Sugar Syrup'
 serving_size: 
 energy: 
 protein: 

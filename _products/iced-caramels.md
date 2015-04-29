@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Iced Caramels only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Iced Caramels only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Caramel, Wrapped]
 colour: [White]

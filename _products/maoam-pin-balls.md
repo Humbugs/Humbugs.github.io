@@ -11,7 +11,7 @@ width: 80
 height: 25
 depth: 15
 weight: 0
-meta_description: Maoam Pin Balls only . Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Maoam Pin Balls only . Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Maoam
 type: [Wrapped]
 flavour: ['Mixed Fruit', Ginger]

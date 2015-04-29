@@ -11,7 +11,7 @@ width: 60
 height: 40
 depth: 20
 weight: 0
-meta_description: Gummy Burger sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Gummy Burger sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gummy, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]
@@ -22,4 +22,4 @@ protein:
 carbohydrates: 
 fat: 
 ---
-Novelty gummy ëmake your owní hamburger.
+Novelty gummy √¶make your own√Ü hamburger.

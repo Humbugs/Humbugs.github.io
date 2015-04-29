@@ -11,7 +11,7 @@ width: 105
 height: 40
 depth: 10
 weight: 0
-meta_description: Freddo Frog Regular only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Freddo Frog Regular only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Chocolate, Wrapped]
 colour: [Purple]
@@ -23,4 +23,4 @@ protein: 7.5
 carbohydrates: 87
 fat: 29.8
 ---
-Cadburyís milk chocolate bar.
+Cadbury√Üs milk chocolate bar.

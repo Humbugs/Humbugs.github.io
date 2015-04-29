@@ -11,8 +11,8 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Jameson's Raspberry Ruffles only £1.45/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
-brand: Jamesonís
+meta_description: 'Jameson's Raspberry Ruffles only √∫1.45/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+brand: Jameson√Üs
 type: [Chocolate, 'Dried Fruit', Wrapped]
 flavour: [Coconut, Raspberry]
 colour: [Red]

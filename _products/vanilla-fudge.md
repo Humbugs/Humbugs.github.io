@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Vanilla Fudge sweets only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Vanilla Fudge sweets only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 flavour: [Vanilla]
 contains: [Gluten, Lactose, Nuts, Sugar]

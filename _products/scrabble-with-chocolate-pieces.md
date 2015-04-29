@@ -11,7 +11,7 @@ width: 215
 height: 215
 depth: 38
 weight: 315
-meta_description: Scrabble with Chocolate pieces only £9.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Scrabble with Chocolate pieces only Ãº9.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate, Novelty]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

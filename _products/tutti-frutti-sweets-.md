@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Tutti Frutti Sweets  only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Tutti Frutti Sweets  only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 flavour: ['Mixed Fruit']
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

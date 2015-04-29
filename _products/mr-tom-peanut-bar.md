@@ -11,7 +11,7 @@ width: 160
 height: 40
 depth: 10
 weight: 0
-meta_description: Mr Tom Peanut Bar only 45p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Mr Tom Peanut Bar only 45p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Nuts, Wrapped]
 contains: [Nuts, Sugar]

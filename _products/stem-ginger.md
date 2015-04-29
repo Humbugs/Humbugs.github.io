@@ -11,12 +11,12 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Stem Ginger only £1.50/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Stem Ginger only √∫1.50/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Sultans
 flavour: [Ginger]
 colour: [Brown]
 contains: [Gluten, Lactose, Nuts, Gelatin]
-ingredients: 'Stem Ginger, Sugar†'
+ingredients: 'Stem Ginger, Sugar√°'
 serving_size: 
 energy: 
 protein: 

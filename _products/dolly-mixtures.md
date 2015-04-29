@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Dolly Mixtures only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Dolly Mixtures only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Jelly, Traditional]
 colour: [Green, Orange, Pink, Rainbow, White, Yellow]

@@ -11,7 +11,7 @@ width: 110
 height: 20
 depth: 20
 weight: 0
-meta_description: Barratts Black Jacks only 40p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Barratts Black Jacks only 40p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Barratt
 type: [Chewy, Wrapped]
 flavour: [Aniseed]

@@ -11,12 +11,12 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Milk Chocolate Honeycomb Pieces only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Milk Chocolate Honeycomb Pieces only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate]
 colour: [Brown]
 contains: [Gluten, Lactose, Nuts, Gelatin]
-ingredients: 'Sugar, Cocoa Butter, Cocoa Mass, Wheat Glucose Syrup, Milk Solids, Emulsifiers (Soya Lecithin, 476), Mineral Salt (500), Flavours, Hydrolysed Milk Protein.  May contain traces of nuts. Milk Chocolate contains Cocoa Solids 26%, Milk Solids 28%.'
+ingredients: 'Sugar, Cocoa Butter, Cocoa Mass, Wheat Glucose Syrup,Ã¡Milk Solids, Emulsifiers (Soya Lecithin, 476), Mineral Salt (500), Flavours, Hydrolysed Milk Protein. Ã¡May contain traces of nuts. Milk Chocolate contains Cocoa Solids 26%, Milk Solids 28%.'
 serving_size: 
 energy: 
 protein: 

@@ -11,7 +11,7 @@ width: 95
 height: 25
 depth: 10
 weight: 0
-meta_description: Strawberry Gum only 5p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Strawberry Gum only 5p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gum, Wrapped]
 flavour: [Strawberry]

@@ -11,7 +11,7 @@ width: 80
 height: 30
 depth: 25
 weight: 0
-meta_description: Chupa Chup Lollies sweets only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Chupa Chup Lollies sweets only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Chupa-Chups
 type: [Lollipop, Wrapped]
 flavour: ['Mixed Fruit', Ginger]

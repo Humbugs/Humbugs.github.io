@@ -11,7 +11,7 @@ width: 180
 height: 10
 depth: 10
 weight: 0
-meta_description: Root Liquorice Stick sweets only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Root Liquorice Stick sweets only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Liquorice]
 flavour: [Aniseed]

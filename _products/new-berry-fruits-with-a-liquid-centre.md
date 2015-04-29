@@ -11,7 +11,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: New Berry Fruits With A Liquid Centre only £4.29. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'New Berry Fruits With A Liquid Centre only Ãº4.29. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Jelly, Wrapped]
 flavour: ['Mixed Fruit']

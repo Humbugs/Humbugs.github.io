@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Mega Sour Fruits only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Mega Sour Fruits only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Barnetts
 type: [Hard]
 flavour: [Sour]

@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Crystal Liquorice only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Crystal Liquorice only Ãº1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Caramel, Liquorice, Wrapped]
 flavour: [Aniseed]

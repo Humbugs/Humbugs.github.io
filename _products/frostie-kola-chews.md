@@ -11,7 +11,7 @@ width: 65
 height: 20
 depth: 20
 weight: 0
-meta_description: Frostie Kola Chews only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Frostie Kola Chews only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Fizzy, Wrapped]
 flavour: [Cola]

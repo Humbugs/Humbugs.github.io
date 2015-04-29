@@ -11,7 +11,7 @@ width: 115
 height: 50
 depth: 20
 weight: 0
-meta_description: Clicker Pop sweets only 40p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Clicker Pop sweets only 40p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 flavour: ['Mixed Fruit', Ginger]

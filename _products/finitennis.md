@@ -11,7 +11,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: Finitennis sweets only £1.20. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Finitennis sweets only Ãº1.20. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]
 ingredients: 

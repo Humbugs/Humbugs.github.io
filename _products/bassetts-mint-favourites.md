@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Bassetts Mint Favourites only £1.30/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Bassetts Mint Favourites only Ãº1.30/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Bassetts
 type: [Mint, Wrapped]
 flavour: [Mint]
@@ -23,4 +23,4 @@ protein:
 carbohydrates: 
 fat: 
 ---
-A much loved assortment of mint favourites; Murray Mints, Murray Butter Mints, Everton Mints & Mint Toffees.
+A much loved assortment of mint favourites; Murray Mints, Murray Butter Mints, Everton Mints &Ã¡Mint Toffees.

@@ -11,7 +11,7 @@ width: 100
 height: 15
 depth: 10
 weight: 0
-meta_description: Wine Gummies sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Wine Gummies sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gummy, Wrapped]
 flavour: ['Mixed Fruit', Ginger]

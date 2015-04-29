@@ -11,7 +11,7 @@ width: 87
 height: 85
 depth: 9
 weight: 30
-meta_description: Gummy Pizza sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Gummy Pizza sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gummy, Wrapped]
 contains: [Gluten, Sugar, Gelatin]

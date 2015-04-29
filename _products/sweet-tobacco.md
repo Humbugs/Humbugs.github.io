@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Sweet Tobacco only £1.35/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Sweet Tobacco only Ãº1.35/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate, Traditional]
 flavour: [Coconut]

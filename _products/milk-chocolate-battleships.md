@@ -11,7 +11,7 @@ width: 290
 height: 145
 depth: 40
 weight: 140
-meta_description: Milk Chocolate Battleships set only £5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")
+meta_description: 'Milk Chocolate Battleships set only Ãº5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")'
 brand: 
 type: [Chocolate, Novelty, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

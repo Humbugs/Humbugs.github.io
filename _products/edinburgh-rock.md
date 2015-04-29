@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Edinburgh Rock only £1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Edinburgh Rock only Ãº1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Hard]
 flavour: ['Mixed Fruit']

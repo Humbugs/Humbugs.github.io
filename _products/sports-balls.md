@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Sports Balls sweets only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Sports Balls sweets only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 flavour: [Chocolate]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

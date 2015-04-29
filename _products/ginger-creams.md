@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Ginger Creams sweets only £1.45/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Ginger Creams sweets only Ãº1.45/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Gibb
 flavour: [Cream, Ginger]
 colour: [White]

@@ -11,7 +11,7 @@ width: 250
 height: 135
 depth: 135
 weight: 0
-meta_description: Jelly Belly Jelly Bean Machine only £24.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Jelly Belly Jelly Bean Machine only Ãº24.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Jelly-Belly
 type: [Novelty, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar]

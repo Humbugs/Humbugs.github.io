@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Boiled Assortment sweets only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Boiled Assortment sweets only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Royale
 type: [Hard]
 flavour: [Custard]

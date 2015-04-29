@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Barratts Jelly Babies only £1.00/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Barratts Jelly Babies only Ãº1.00/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Barratt
 type: [Chewy, Jelly]
 flavour: ['Mixed Fruit']

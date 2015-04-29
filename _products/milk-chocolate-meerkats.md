@@ -11,7 +11,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: Milk Chocolate Meerkats only £3.29. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")
+meta_description: 'Milk Chocolate Meerkats only Ãº3.29. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")'
 brand: 
 type: [Chocolate, Novelty, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

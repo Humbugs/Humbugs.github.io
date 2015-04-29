@@ -11,7 +11,7 @@ width: 190
 height: 30
 depth: 15
 weight: 0
-meta_description: Lindor Bar only 75p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Lindor Bar only 75p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Lindor
 contains: [Gluten, Lactose, Nuts, Sugar]
 ingredients: 

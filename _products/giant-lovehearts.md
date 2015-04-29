@@ -11,7 +11,7 @@ width: 375
 height: 74
 depth: 74
 weight: 444
-meta_description: Giant Lovehearts only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Giant Lovehearts only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 contains: [Sugar]

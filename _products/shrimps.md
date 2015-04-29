@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Shrimps sweets only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Shrimps sweets only 95p/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chewy]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

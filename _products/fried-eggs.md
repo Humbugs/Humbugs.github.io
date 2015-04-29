@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 0
-meta_description: Fried Eggs sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Fried Eggs sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gummy]
 flavour: ['Mixed Fruit']

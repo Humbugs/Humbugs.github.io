@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: approx. Mint Creams sweets only £1.50/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'approx. Mint Creams sweets only Ãº1.50/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Bassetts
 type: [Mint, Wrapped]
 flavour: [Mint]

@@ -11,7 +11,7 @@ width: 30
 height: 25
 depth: 20
 weight: 0
-meta_description: Terror Eyes sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Terror Eyes sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gum]
 contains: [Sugar]

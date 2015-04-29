@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Sugar free Wine gums only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Sugar free Wine gums only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gummy]
 flavour: ['Mixed Fruit']

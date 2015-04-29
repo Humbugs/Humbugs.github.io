@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Cough Candy Twists only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Cough Candy Twists only Ãº1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Hard, Wrapped]
 colour: [Red]

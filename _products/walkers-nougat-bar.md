@@ -11,7 +11,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: Walkers Nougat Bar sweets only 95p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Walkers Nougat Bar sweets only 95p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Walkers-Nonsuch
 type: [Nougat, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

@@ -11,7 +11,7 @@ width: 80
 height: 15
 depth: 15
 weight: 0
-meta_description: Lovehearts Whistles only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Lovehearts Whistles only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 contains: [Nuts, Sugar]

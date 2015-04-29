@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Whole Cerisettes only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Whole Cerisettes only Ãº3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate, 'Dried Fruit']
 flavour: [Cherry]

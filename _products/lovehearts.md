@@ -11,7 +11,7 @@ width: 150
 height: 20
 depth: 15
 weight: 0
-meta_description: Lovehearts sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Lovehearts sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 contains: [Sugar]

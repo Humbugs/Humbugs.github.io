@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 0
-meta_description: Haribo Jelly Babies sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Haribo Jelly Babies sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Haribo
 flavour: ['Mixed Fruit']
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

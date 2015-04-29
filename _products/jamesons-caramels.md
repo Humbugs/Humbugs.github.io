@@ -11,8 +11,8 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Jameson's Caramels only £1.45/100g. Traditional sweets and more at humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
-brand: Jamesonís
+meta_description: 'Jameson's Caramels only √∫1.45/100g. Traditional sweets and more at humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+brand: Jameson√Üs
 type: [Caramel, Chocolate, Wrapped]
 colour: [Yellow]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

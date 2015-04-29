@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Liquorice Satins only £1.35/100g. Traditional sweets and more at Humbugs Confectionery  Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Liquorice Satins only Ãº1.35/100g. Traditional sweets and more at Humbugs Confectionery  Store. Specialists in satisfying your sweet tooth!'
 brand: Gibb
 type: [Liquorice]
 flavour: [Aniseed]

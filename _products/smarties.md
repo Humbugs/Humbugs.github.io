@@ -11,7 +11,7 @@ width: 110
 height: 35
 depth: 25
 weight: 0
-meta_description: Smarties sweets only . Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Smarties sweets only . Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Nestle
 type: [Chocolate, Wrapped]
 contains: [Lactose, Nuts, Sugar]

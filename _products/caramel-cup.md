@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 18
-meta_description: Caramel Cup chocolates only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Caramel Cup chocolates only Ãº3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Caramel, Chocolate]
 flavour: [Chocolate]

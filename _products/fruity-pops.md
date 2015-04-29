@@ -11,11 +11,11 @@ width: 100
 height: 25
 depth: 20
 weight: 0
-meta_description: Fruity Pops lollies only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Fruity Pops lollies only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 contains: [Nuts, Sugar]
-ingredients: 'Sugar, Glucose Syrup, Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Curcumin, Paprika†'
+ingredients: 'Sugar, Glucose Syrup, Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Curcumin, Paprika√°'
 serving_size: 
 energy: 
 protein: 

@@ -11,7 +11,7 @@ width: 265
 height: 140
 depth: 33
 weight: 230
-meta_description: Mr Potato Head with Chocolate pieces only £7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Mr Potato Head with Chocolate pieces only Ãº7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate, Novelty]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

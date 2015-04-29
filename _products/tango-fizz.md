@@ -11,7 +11,7 @@ width: 110
 height: 30
 depth: 3
 weight: 0
-meta_description: Tango Fizz sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Tango Fizz sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Fizzy, Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar]

@@ -11,7 +11,7 @@ width: 290
 height: 145
 depth: 40
 weight: 
-meta_description: Expressa chocolates only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Expressa chocolates only Ãº3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate]
 colour: [Brown]

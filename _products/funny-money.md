@@ -11,11 +11,11 @@ width: 190
 height: 80
 depth: 10
 weight: 0
-meta_description: Funny Money only 65p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Funny Money only 65p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]
-ingredients: ' Starch, Vegetable Oil, Sweetener: Sucralose; Flavourings, Colours:  E120,  E141,  E160A'
+ingredients: 'Ã¡Starch, Vegetable Oil, Sweetener: Sucralose; Flavourings, Colours: Ã¡E120, Ã¡E141, Ã¡E160A'
 serving_size: 
 energy: 
 protein: 

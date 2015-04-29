@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Werthers Originals only £1.29/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Werthers Originals only Ãº1.29/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Butter, Wrapped]
 flavour: [Cream]

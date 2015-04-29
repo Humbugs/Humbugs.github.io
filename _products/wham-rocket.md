@@ -11,7 +11,7 @@ width: 125
 height: 25
 depth: 25
 weight: 0
-meta_description: Wham Rocket only 55p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Wham Rocket only 55p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Wham
 type: [Sherbet, Wrapped]
 contains: [Nuts, Sugar, Gelatin]

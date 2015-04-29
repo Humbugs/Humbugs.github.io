@@ -11,7 +11,7 @@ width: 105
 height: 40
 depth: 10
 weight: 0
-meta_description: Freddo Frog Caramel only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Freddo Frog Caramel only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Caramel, Chocolate, Wrapped]
 colour: [Yellow]
@@ -23,4 +23,4 @@ protein: 1
 carbohydrates: 12
 fat: 5
 ---
-Cadburyís milk chocolate bar with a caramel centre.
+Cadbury√Üs milk chocolate bar with a caramel centre.

@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 19
-meta_description: Limona only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Limona only Ãº3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate]
 flavour: [Lemon]

@@ -11,7 +11,7 @@ width: 130
 height: 25
 depth: 10
 weight: 0
-meta_description: Cadburys Chomp Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Cadburys Chomp Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Caramel, Chocolate, Wrapped]
 colour: [Red, Yellow]
@@ -23,4 +23,4 @@ protein: 3.1
 carbohydrates: 68.3
 fat: 19.9
 ---
-Caramel bar wrapped in Cadburyís milk chocolate.
+Caramel bar wrapped in Cadbury√Üs milk chocolate.

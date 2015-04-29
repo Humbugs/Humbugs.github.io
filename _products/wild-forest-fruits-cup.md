@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 19
-meta_description: Wild Forest Fruits Cup sweets only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Wild Forest Fruits Cup sweets only Ãº3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate]
 flavour: ['Mixed Fruit']

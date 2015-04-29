@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 
-meta_description: Liquorice Torpedoes only £1.00/100g. Traditional sweets and more at Humbugs Confectionery  Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Liquorice Torpedoes only Ãº1.00/100g. Traditional sweets and more at Humbugs Confectionery  Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Liquorice]
 flavour: [Aniseed]

@@ -11,12 +11,12 @@ width: 65
 height: 45
 depth: 30
 weight: 0
-meta_description: Ice Bomb sweets only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Ice Bomb sweets only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Gum, Wrapped]
 flavour: [Mint]
 contains: [Gluten, Sugar, Gelatin]
-ingredients: 'Dextrose, Sucrose, Gum Base, Glucose Syrup, Flavourings, Colours:  E171, E133; Glazing Agents: Carnauba Wax; Antioxidant: E321'
+ingredients: 'Dextrose, Sucrose, Gum Base, Glucose Syrup, Flavourings, Colours: Ã¡E171, E133; Glazing Agents: Carnauba Wax; Antioxidant: E321'
 serving_size: 
 energy: 
 protein: 

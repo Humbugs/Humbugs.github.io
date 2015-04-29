@@ -11,7 +11,7 @@ width:
 height: 
 depth: 
 weight: 18
-meta_description: Babette only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!
+meta_description: 'Babette only Ãº3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 
 type: [Chocolate]
 flavour: [Vanilla]

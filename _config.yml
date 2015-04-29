@@ -48,42 +48,175 @@ prose:
           element: text
           label: Name
           help: Must be unique
-      - name: price
-        field:
-          element: number
-          label: 'Price (£)'
-      - name: weight
-        field:
-          element: number
-          label: 'Weight (kg)'
-      - name: designer
+      - name: sku
         field:
           element: text
-          label: Designer
-      - name: type
+          label: SKU
+      - name: available
         field:
-          element: select
-          label: Type
-          options:
-            - value: Wood
-            - value: Metal
-            - value: Metallic
-      - name: condition
-        field:
-          element: select
-          label: Condition
-          options:
-            - value: Mint
-            - value: Worn
-            - value: Rough
+          element: checkbox
+          label: Available
       - name: image
         field:
           element: text
           label: Image
-      - name: big_image
+      - name: purchase_option
+          element: select
+          label: Purchase Option
+          options:
+            - name: Purchase by Unit
+              value: 0
+            - name: Purchase by Weight
+              value: 1
+            - name: Pick'n'Mix
+              value: 2
+      - name: price
+        field:
+          element: number
+          label: 'Price (£)'
+      - name: cost_price
+        field:
+          element: number
+          label: 'Cost Price (£)'
+      - name: container_water_weight
+        field:
+          element: number
+          label: 'Weight of the Container with Water (g)'
+      - name: container_sweets_weight
+        field:
+          element: number
+          label: 'Weight of the Container with Sweets (g)'
+      - name: width
+        field:
+          element: number
+          label: 'Width (mm)'
+      - name: height
+        field:
+          element: number
+          label: 'Height (mm)'
+      - name: depth
+        field:
+          element: number
+          label: 'Depth (mm)'
+      - name: weight
+        field:
+          element: number
+          label: 'Weight (g)'
+      - name: brand
         field:
           element: text
-          label: Big Image
+          label: Brand
+      - name: type
+        field:
+          element: multiselect
+          label: Type
+          alterable: true
+          options:
+            - value: Butter
+            - value: Caramel
+            - value: Chewy
+            - value: Chocolate
+            - value: Dried Fruit
+            - value: Fizzy
+            - value: Gum
+            - value: Gummy
+            - value: Hard
+            - value: Jelly
+            - value: Liquorice
+            - value: Lollipop
+            - value: Mint
+            - value: Nougat
+            - value: Novelty
+            - value: Nuts
+            - value: Sherbet
+            - value: Traditional
+            - value: Toffee
+            - value: Wrapped
+      - name: flavour
+        field:
+          element: multiselect
+          label: Flavour
+          alterable: true
+          options:
+            - value: Aniseed
+            - value: Apple
+            - value: Banana
+            - value: Blackcurrant
+            - value: Bubblegum
+            - value: Cherry
+            - value: Chocolate
+            - value: Coconut
+            - value: Cola
+            - value: Cream
+            - value: Custard
+            - value: Mixed Fruit
+            - value: Ginger
+            - value: Lemon
+            - value: Lime
+            - value: Mint
+            - value: Orange
+            - value: Pear
+            - value: Raspberry
+            - value: Rhubarb
+            - value: Salt
+            - value: Sour
+            - value: Strawberry
+            - value: Toffee
+            - value: Vanilla
+            - value: Watermelon
+      - name: colour
+        field:
+          element: multiselect
+          label: Colour
+          alterable: true
+          options:
+            - value: Black
+            - value: Blue
+            - value: Brown
+            - value: Green
+            - value: Orange
+            - value: Pink
+            - value: Purple
+            - value: Rainbow
+            - value: Red
+            - value: White
+            - value: Yellow
+      - name: contains
+        field:
+          element: multiselect
+          label: Contains
+          alterable: true
+          options:
+            - value: Alcohol
+            - value: Gluten
+            - value: Lactose
+            - value: Nuts
+            - value: Sugar
+            - value: Gelatin
+      - name: ingredients
+        field:
+          element: textarea
+          label: Ingredients
+      - name: serving_size
+        field:
+          element: number
+          label: 'Serving Size (g)'
+      - name: energy
+        field:
+          element: number
+          label: 'Energy (kcal)'
+      - name: protein
+        field:
+          element: number
+          label: 'Protein (g)'
+      - name: carbohydrates
+        field:
+          element: number
+          label: 'Carbohydrates (g)'
+      - name: fat
+        field:
+          element: number
+          label: 'Fat (g)'
 
 # http://jekyllrb.com/docs/configuration/
 permalink: blog/:title

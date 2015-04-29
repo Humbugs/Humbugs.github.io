@@ -1,7 +1,7 @@
-title: Jekyll-Store
-description: 'A lightweight, backend-free ecommerce solution.'
+title: Humbugs
+description: Purveyor of Quality Confectionery
 baseurl: /front
-url: 'http://www.jekyll-store.com'
+url: ''
 
 # Jekyll-Store Engine
 defaultAddress:
@@ -9,14 +9,14 @@ defaultAddress:
 payment:
   tokenizer: Paymill
   currency: GBP
-  hook: 'https://jekyll-store-microservice.herokuapp.com/purchase'
-tracking_id: 'UA-62379004-1'
+  hook: ''
+tracking_id: ''
 
 # Jekll-Store Front
-image_prefix: 'http://res.cloudinary.com/jekyll-store/'
-paymillPublicKey: 323027826220f6ed944b96a1a47e35a0
-wake_up: 'http://jekyll-store-microservice.herokuapp.com/ping'
-disqus_shortname: 'jekyll-store'
+image_prefix: ''
+paymillPublicKey:
+wake_up: ''
+disqus_shortname: ''
 
 # http://openexchangerates.github.io/accounting.js/#documentation
 accounting:
@@ -97,8 +97,8 @@ collections:
 defaults:
   -
     scope:
-      path: '' # an empty string here means all files in the project
-      type: posts # previously `post` in Jekyll 2.2.
+      path: ''
+      type: posts
     values:
       layout: post
   -

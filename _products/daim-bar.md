@@ -1,18 +1,15 @@
 ---
 name: Daim Bar
-sku: HBG-CB-004-01
-available: false
+sku: 'HBG-CB-004-01'
+available: FALSE
 purchase_option: 0
 price: 0.6
 cost_price: 0.3
-container_water_weight: 
-container_sweets_weight: 
 width: 135
 height: 40
 depth: 3
 weight: 0
 meta_description: 'Daim Bar only . Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
-brand: 
 type: [Chocolate, Nuts, Wrapped]
 colour: [Red]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]

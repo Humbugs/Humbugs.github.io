@@ -1,12 +1,10 @@
 ---
-name: Chewits Pack (Orange)
-sku: HBG-SI-011-01
-available: false
+name: 'Chewits Pack (Orange)'
+sku: 'HBG-SI-011-01'
+available: FALSE
 purchase_option: 0
 price: 0.4
 cost_price: 0.16
-container_water_weight: 
-container_sweets_weight: 
 width: 105
 height: 20
 depth: 20
@@ -18,10 +16,5 @@ flavour: [Orange]
 colour: [Orange]
 contains: [Gluten, Lactose, Sugar]
 ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Orange Juice 3% (From Concentrate), Lactic Acid, Egg White, Citric Acid, Hydrolysed Rice Protein, Natural Flavouring, Colour: Paprika Extract'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Small wrapped orange flavoured chews.

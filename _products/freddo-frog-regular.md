@@ -1,12 +1,10 @@
 ---
 name: Freddo Frog Regular
-sku: HBG-CB-007-01
-available: false
+sku: 'HBG-CB-007-01'
+available: FALSE
 purchase_option: 0
 price: 0.2
 cost_price: 0.08
-container_water_weight: 
-container_sweets_weight: 
 width: 105
 height: 40
 depth: 10
@@ -23,4 +21,4 @@ protein: 7.5
 carbohydrates: 87
 fat: 29.8
 ---
-CadburyÆs milk chocolate bar.
+Cadbury’s milk chocolate bar.

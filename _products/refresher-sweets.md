@@ -1,12 +1,10 @@
 ---
 name: Refresher Sweets
-sku: HBG-SI-074-01
-available: false
+sku: 'HBG-SI-074-01'
+available: FALSE
 purchase_option: 0
 price: 0.45
 cost_price: 0.18
-container_water_weight: 
-container_sweets_weight: 
 width: 112
 height: 20
 depth: 19

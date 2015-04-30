@@ -1,17 +1,13 @@
 ---
 name: Clarinco Mint Creams
-sku: HBG-JR-023-01
-available: true
+sku: 'HBG-JR-023-01'
+available: TRUE
 purchase_option: 1
 price: 0.015
 cost_price: 0.009
 container_water_weight: 919
 container_sweets_weight: 602
-width: 
-height: 
-depth: 
-weight: 
-meta_description: 'approx. Mint Creams sweets only ú1.50/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'approx. Mint Creams sweets only Ł1.50/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Bassetts
 type: [Mint, Wrapped]
 flavour: [Mint]

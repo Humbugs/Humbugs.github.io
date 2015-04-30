@@ -1,12 +1,10 @@
 ---
 name: Animal Bar
-sku: HBG-CB-001-01
-available: false
+sku: 'HBG-CB-001-01'
+available: FALSE
 purchase_option: 0
 price: 1
 cost_price: 0.1
-container_water_weight: 
-container_sweets_weight: 
 width: 85
 height: 50
 depth: 7

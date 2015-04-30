@@ -1,12 +1,10 @@
 ---
 name: Frys Chocolate Cream
-sku: HBG-CB-008-01
-available: false
+sku: 'HBG-CB-008-01'
+available: FALSE
 purchase_option: 0
 price: 0.7
 cost_price: 0.28
-container_water_weight: 
-container_sweets_weight: 
 width: 160
 height: 40
 depth: 10

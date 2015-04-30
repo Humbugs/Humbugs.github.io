@@ -1,12 +1,10 @@
 ---
 name: Barratts Nougat
-sku: HBG-SI-004-01
-available: false
+sku: 'HBG-SI-004-01'
+available: FALSE
 purchase_option: 0
 price: 0.45
 cost_price: 0.3
-container_water_weight: 
-container_sweets_weight: 
 width: 150
 height: 60
 depth: 15

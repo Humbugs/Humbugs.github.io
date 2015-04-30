@@ -1,12 +1,10 @@
 ---
 name: Curly Wurly
-sku: HBG-CB-016-01
-available: false
+sku: 'HBG-CB-016-01'
+available: FALSE
 purchase_option: 0
 price: 0.3
 cost_price: 0.2
-container_water_weight: 
-container_sweets_weight: 
 width: 222
 height: 30
 depth: 8
@@ -22,4 +20,4 @@ protein: 3.4
 carbohydrates: 69.2
 fat: 17.4
 ---
-Chewy caramel wrapped in CadburyÆs milk chocolate.
+Chewy caramel wrapped in Cadbury’s milk chocolate.

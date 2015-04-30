@@ -1,12 +1,10 @@
 ---
-name: Refresher Bar (Strawberry)
-sku: HBG-SI-073-02
-available: false
+name: 'Refresher Bar (Strawberry)'
+sku: 'HBG-SI-073-02'
+available: FALSE
 purchase_option: 0
 price: 0.2
 cost_price: 0.08
-container_water_weight: 
-container_sweets_weight: 
 width: 175
 height: 25
 depth: 5
@@ -17,10 +15,5 @@ type: [Chewy, Wrapped]
 flavour: [Strawberry]
 contains: [Lactose, Sugar, Gelatin]
 ingredients: 'Glucose Syrup, Sugar, Vegetable Opil, Acidity Regulators (Tartaric Acid, Citric Acid), Gelatine, Stearic Acid, Modified Starch, Flavourings, Emulsifier (Glycerol Mono Stearate), Magnesium Stearate, Natural Colour'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Strawberry flavoured chew bar with a sherbet centre.

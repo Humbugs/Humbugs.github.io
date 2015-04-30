@@ -1,12 +1,10 @@
 ---
 name: Smarties
-sku: HBG-CB-012-01
-available: false
+sku: 'HBG-CB-012-01'
+available: FALSE
 purchase_option: 0
 price: 0
 cost_price: 0
-container_water_weight: 
-container_sweets_weight: 
 width: 110
 height: 35
 depth: 25

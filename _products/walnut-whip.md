@@ -1,12 +1,10 @@
 ---
 name: Walnut Whip
-sku: HBG-CB-013-01
-available: false
+sku: 'HBG-CB-013-01'
+available: FALSE
 purchase_option: 0
 price: 0.8
 cost_price: 0.32
-container_water_weight: 
-container_sweets_weight: 
 width: 70
 height: 60
 depth: 40
@@ -17,7 +15,6 @@ type: [Chocolate, Nuts, Wrapped]
 colour: [Blue]
 contains: [Lactose, Nuts, Sugar]
 ingredients: 'Milk Chocolate (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Lactose and Proteins From Whey, Whey Powder, Vegetable Fat, Emulsifier (Soy Lecithin)), Butterfat, Sugar, Walnuts 5%, Glucose Syrup, Glucose-Fructose Syrup, Dried Egg White, Humectant (Glycerol, Flavouring, Tartaric Acid)'
-serving_size: 
 energy: 171
 protein: 1.7
 carbohydrates: 21.2

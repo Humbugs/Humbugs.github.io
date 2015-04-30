@@ -1,12 +1,10 @@
 ---
-name: Kiddysway Lollies (Small)
-sku: HBG-SI-046-01
-available: false
+name: 'Kiddysway Lollies (Small)'
+sku: 'HBG-SI-046-01'
+available: FALSE
 purchase_option: 0
 price: 0.5
 cost_price: 0.2
-container_water_weight: 
-container_sweets_weight: 
 width: 0
 height: 0
 depth: 0
@@ -15,10 +13,4 @@ meta_description: 'Kiddysway Lollies sweets only 50p. Traditional sweets and mor
 brand: Kiddysway
 type: [Wrapped]
 contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]
-ingredients: 
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---

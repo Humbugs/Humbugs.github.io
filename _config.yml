@@ -64,6 +64,7 @@ prose:
         field:
           element: select
           label: Purchase Option
+          alterable: false
           options:
             - name: Purchase by Unit
               value: 0

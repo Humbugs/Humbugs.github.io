@@ -1,12 +1,10 @@
 ---
 name: Caramac
-sku: HBG-CB-003-01
-available: false
+sku: 'HBG-CB-003-01'
+available: FALSE
 purchase_option: 0
 price: 0.6
 cost_price: 0.4
-container_water_weight: 
-container_sweets_weight: 
 width: 160
 height: 50
 depth: 3
@@ -16,8 +14,7 @@ brand: Nestle
 type: [Caramel, Wrapped]
 colour: [Red, Yellow]
 contains: [Lactose, Nuts, Sugar]
-ingredients: 'Vegetable Fat, Sugar, Lactose, Sweetened Condensed Skimmed Milk, Skimmed Milk Powder, Butter, Emulsifier (Soya Lecithin), Treacle, Salt, Flavouringá'
-serving_size: 
+ingredients: 'Vegetable Fat, Sugar, Lactose, Sweetened Condensed Skimmed Milk, Skimmed Milk Powder, Butter, Emulsifier (Soya Lecithin), Treacle, Salt, Flavouring '
 energy: 174
 protein: 1.8
 carbohydrates: 16.9

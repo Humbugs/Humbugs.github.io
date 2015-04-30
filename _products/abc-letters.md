@@ -1,19 +1,14 @@
 ---
 name: ABC Letters
-sku: HBG-JR-001-01
-available: true
+sku: 'HBG-JR-001-01'
+available: TRUE
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065
 container_water_weight: 919
 container_sweets_weight: 545
-width: 
-height: 
-depth: 
-weight: 
-meta_description: 'ABC Letters sweets only ú1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
-brand: 
-flavour: ['Mixed Fruit']
+meta_description: 'ABC Letters sweets only Ł1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+flavour: [Mixed Fruit]
 colour: [Pink, White, Yellow]
 contains: [Gluten, Nuts, Sugar, Gelatin]
 ingredients: 'Sugar, Dextrose, Gelatine, Citric Acid, Modified Starch, Colours: E100, E120'

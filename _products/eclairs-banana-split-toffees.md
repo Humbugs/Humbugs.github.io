@@ -1,18 +1,14 @@
 ---
-name: Eclairs (Banana Split Toffees)
-sku: HBG-JR-041-02
-available: false
+name: 'Eclairs (Banana Split Toffees)'
+sku: 'HBG-JR-041-02'
+available: FALSE
 purchase_option: 1
 price: 0.01
 cost_price: 0.006
 container_water_weight: 919
 container_sweets_weight: 0
-width: 
-height: 
-depth: 
-weight: 
-meta_description: 'Banana Split Toffee Eclairs only ú1.00/100g. traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
-brand: Walkers-Nonsuch
+meta_description: 'Banana Split Toffee Eclairs only Ł1.00/100g. traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+brand: 'Walkers-Nonsuch'
 type: [Toffee, Wrapped]
 flavour: [Banana, Toffee]
 colour: [Green, Yellow]

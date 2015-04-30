@@ -1,12 +1,10 @@
 ---
 name: Fudge Bar
-sku: HBG-CB-010-01
-available: false
+sku: 'HBG-CB-010-01'
+available: FALSE
 purchase_option: 0
 price: 0.2
 cost_price: 0.08
-container_water_weight: 
-container_sweets_weight: 
 width: 215
 height: 43
 depth: 18
@@ -22,4 +20,4 @@ protein: 2.5
 carbohydrates: 73.9
 fat: 13.1
 ---
-Soft fudge bar wrapped in CadburyÆs milk chocolate.
+Soft fudge bar wrapped in Cadbury’s milk chocolate.

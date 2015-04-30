@@ -1,12 +1,10 @@
 ---
-name: Wham Bar (Sour Apple)
-sku: HBG-SI-093-03
-available: false
+name: 'Wham Bar (Sour Apple)'
+sku: 'HBG-SI-093-03'
+available: FALSE
 purchase_option: 0
 price: 0.2
 cost_price: 0.08
-container_water_weight: 
-container_sweets_weight: 
 width: 180
 height: 30
 depth: 3
@@ -17,10 +15,5 @@ type: [Wrapped]
 flavour: [Apple]
 contains: [Gluten, Lactose, Sugar]
 ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322, Colours: Curcumin, Chlorophyll'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Sour apple flavoured chew bar.

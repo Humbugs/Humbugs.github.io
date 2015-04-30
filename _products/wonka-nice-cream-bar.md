@@ -1,12 +1,10 @@
 ---
 name: Wonka Nice Cream Bar
-sku: HBG-CB-015-01
-available: false
+sku: 'HBG-CB-015-01'
+available: FALSE
 purchase_option: 0
 price: 0.65
 cost_price: 0.26
-container_water_weight: 
-container_sweets_weight: 
 width: 135
 height: 40
 depth: 10

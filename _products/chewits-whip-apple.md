@@ -1,12 +1,10 @@
 ---
-name: Chewits Whip (Apple)
-sku: HBG-SI-012-03
-available: false
+name: 'Chewits Whip (Apple)'
+sku: 'HBG-SI-012-03'
+available: FALSE
 purchase_option: 0
 price: 0.15
 cost_price: 0.06
-container_water_weight: 
-container_sweets_weight: 
 width: 693
 height: 4
 depth: 4
@@ -18,10 +16,5 @@ flavour: [Apple]
 colour: [Green]
 contains: [Gluten, Sugar]
 ingredients: 'Glucose Syrup, Wheat Flour, Sugar, Starch, Apple Juice Concentrate 1.5%, Hydrogenated Vegetable Oil, Citric Acid, Flavouring, Glazing Agent (Shellac), Emulsifier (E471), Colours: E102, E133'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Apple flavoured jelly whips.

@@ -1,12 +1,10 @@
 ---
 name: Wham Rocket
-sku: HBG-SI-094-01
-available: false
+sku: 'HBG-SI-094-01'
+available: FALSE
 purchase_option: 0
 price: 0.55
 cost_price: 0.22
-container_water_weight: 
-container_sweets_weight: 
 width: 125
 height: 25
 depth: 25
@@ -16,10 +14,5 @@ brand: Wham
 type: [Sherbet, Wrapped]
 contains: [Nuts, Sugar, Gelatin]
 ingredients: 'Sugar, Cornflour, Sodium Bicarbonate, Glucose Syrup, Citric Acid, Tartaric Acid, Dextrose, Beef Gelatine, Anti-Caking Agent, Flavourings, Natural Colours (Beetroot Red, Curcumin, Chlorophylls)'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Sour raspberry flavoured sherbet, served with a raspberry flavour foam dipping stick.

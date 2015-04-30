@@ -1,12 +1,10 @@
 ---
 name: Cadburys Chomp Bar
-sku: HBG-CB-002-01
-available: false
+sku: 'HBG-CB-002-01'
+available: FALSE
 purchase_option: 0
 price: 0.2
 cost_price: 0.15
-container_water_weight: 
-container_sweets_weight: 
 width: 130
 height: 25
 depth: 10
@@ -23,4 +21,4 @@ protein: 3.1
 carbohydrates: 68.3
 fat: 19.9
 ---
-Caramel bar wrapped in CadburyÆs milk chocolate.
+Caramel bar wrapped in Cadbury’s milk chocolate.

@@ -1,18 +1,13 @@
 ---
 name: Werthers Originals
-sku: HBG-JR-112-01
-available: false
+sku: 'HBG-JR-112-01'
+available: FALSE
 purchase_option: 1
 price: 0.01
 cost_price: 0.00516
 container_water_weight: 919
 container_sweets_weight: 0
-width: 
-height: 
-depth: 
-weight: 
-meta_description: 'Werthers Originals only ú1.29/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
-brand: 
+meta_description: 'Werthers Originals only Ł1.29/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Butter, Wrapped]
 flavour: [Cream]
 colour: [Yellow]

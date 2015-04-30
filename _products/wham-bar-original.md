@@ -1,12 +1,10 @@
 ---
-name: Wham Bar (Original)
-sku: HBG-SI-093-01
-available: false
+name: 'Wham Bar (Original)'
+sku: 'HBG-SI-093-01'
+available: FALSE
 purchase_option: 0
 price: 0.2
 cost_price: 0.08
-container_water_weight: 
-container_sweets_weight: 
 width: 180
 height: 30
 depth: 3
@@ -17,10 +15,5 @@ type: [Chewy, Wrapped]
 flavour: [Raspberry]
 contains: [Gluten, Lactose, Sugar]
 ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Solublised Milk Protein, Glycerol E422, Soya Lethicin, Flavouring, Colour: E163'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Sour raspberry flavoured chew bar.

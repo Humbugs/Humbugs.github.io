@@ -1,12 +1,10 @@
 ---
 name: Wham Rollafizz Sour Raspberry
-sku: HBG-SI-095-01
-available: false
+sku: 'HBG-SI-095-01'
+available: FALSE
 purchase_option: 0
 price: 0.55
 cost_price: 0.22
-container_water_weight: 
-container_sweets_weight: 
 width: 110
 height: 65
 depth: 20
@@ -17,10 +15,5 @@ type: [Chewy, Wrapped]
 flavour: [Raspberry]
 contains: [Gluten, Sugar]
 ingredients: 'Sugar, Glucose-Fructose Syrup, Wheat Flour, Dextrose, Malic Acid, Palm Oil, Citric Acid, Fruit Concentrates, Asorbic Acid, Tocopherol-Rich Extract'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
 ---
 Fizzy, sour raspberry flavoured chewy belts with a tingling sugar coating.

@@ -1,26 +1,19 @@
 ---
-name: Alphabet Chocolate (P is for Peanut Butter)
-sku: HBG-NV-001-16
-available: false
+name: 'Alphabet Chocolate (P is for Peanut Butter)'
+sku: 'HBG-NV-001-16'
+available: FALSE
 purchase_option: 0
 price: 2.89
 cost_price: 1.8
-container_water_weight: 
-container_sweets_weight: 
 width: 165
 height: 80
 depth: 15
 weight: 0
-meta_description: 'Peanut Butter Alphabet Chocolate for ú2.89. Traditional sweet treats and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Peanut Butter Alphabet Chocolate for Ł2.89. Traditional sweet treats and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Laybella
 type: [Chocolate, Novelty, Nuts, Wrapped]
 colour: [Brown]
 contains: [Lactose, Nuts, Sugar]
-ingredients: 'Cocoa 33.6%, Sugar, Cocoa Butter, Whole Milk Powder,áCocoa Mass, Soy Lecithin, Flavouring: NaturaláVanilla, Whole Skin Peanuts, Sea Salt'
-serving_size: 
-energy: 
-protein: 
-carbohydrates: 
-fat: 
+ingredients: 'Cocoa 33.6%, Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Soy Lecithin, Flavouring: Natural Vanilla, Whole Skin Peanuts, Sea Salt'
 ---
-A fun way to spell out your name or a personal message in a variety of flavours. With choices of chocolate bar from gold covered pieces of almond and walnut to yoghurt covered raisins, this is a delicious way to learn your ABCÆs - Smooth milk chocolate with a peanut butter centre.
+A fun way to spell out your name or a personal message in a variety of flavours. With choices of chocolate bar from gold covered pieces of almond and walnut to yoghurt covered raisins, this is a delicious way to learn your ABC’s - Smooth milk chocolate with a peanut butter centre.

@@ -6,16 +6,29 @@ permalink: /products.json
 [
 	{% for product in site.products %}
 		{
-			"name": "{{ product.name }}",
-			"price": {{ product.price }},
-			"weight": {{ product.weight }},
-			"designer": "{{ product.designer }}",
-			"type": "{{ product.type }}",
-			"condition": "{{ product.condition }}",
-			"image": "{{ product.image }}",
-			"big_image": "{{ product.big_image }}",
-			"url": "{{ product.url }}"
+      "name": "{{ product.name }}",
+      "available": "{{ product.available }}",
+      "image": "{{ product.image }}",
+      "purchase_option": "{{ product.purchase_option }}",
+      "price": {{ product.price }},
+      "cost_price": {{ product.cost_price }},
+      {% if product.purchase_option != 0 %}
+      	"container_water_weight": {{ product.container_water_weight }},
+      	"container_sweets_weight": {{ product.container_sweets_weight }},
+      {% else %}
+	      "width": {{ product.width }},
+	      "height": {{ product.height }},
+	      "depth": {{ product.depth }},
+	    {% endif %}
+      {% if product.weight %}"weight": {{ product.weight }},{% endif %}
+      "brand": "{{ product.brand }}",
+      "type": "{{ product.type }}",
+      "flavour": "{{ product.flavour }}",
+      "colour": "{{ product.colour }}",
+      "contains": "{{ product.contains }}",
+      "url": "{{ product.url }}"
 		}
 		{% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
 ]
+

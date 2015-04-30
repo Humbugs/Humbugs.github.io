@@ -2,6 +2,7 @@
 name: 'Novelty Lollies (Happy Birthday)'
 sku: 'HBG-NV-033-01'
 available: FALSE
+image: 'novelty-lollies-happy-birthday.jpg'
 purchase_option: 0
 price: 1.5
 cost_price: 0.6

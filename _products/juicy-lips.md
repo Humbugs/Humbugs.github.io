@@ -2,6 +2,7 @@
 name: Juicy Lips
 sku: 'HBG-PM-039-01'
 available: FALSE
+image: 'juicy-lips.jpg'
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

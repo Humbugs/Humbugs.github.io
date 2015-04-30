@@ -2,6 +2,7 @@
 name: 'Bonbons (Lemon & Lime)'
 sku: 'HBG-JR-016-08'
 available: TRUE
+image: 'bonbons-lemon-lime.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

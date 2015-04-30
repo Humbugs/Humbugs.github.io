@@ -2,6 +2,7 @@
 name: 'Fizz Balls (Raspberry)'
 sku: 'HBG-JR-047-04'
 available: TRUE
+image: 'fizz-balls-raspberry.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

@@ -2,6 +2,7 @@
 name: Giant Strawbs
 sku: 'HBG-PM-023-01'
 available: FALSE
+image: 'giant-strawbs.jpg'
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

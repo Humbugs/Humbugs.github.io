@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (H is for Honeycomb)'
 sku: 'HBG-NV-001-08'
 available: FALSE
+image: 'alphabet-chocolate-h-is-for-honeycomb.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

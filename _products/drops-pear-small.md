@@ -2,6 +2,7 @@
 name: 'Drops (Pear - Small)'
 sku: 'HBG-JR-039-05'
 available: TRUE
+image: 'drops-pear-small.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

@@ -2,6 +2,7 @@
 name: 'Luxury Belgian Chocolate Set (Toolkit)'
 sku: 'HBG-NV-025-06'
 available: FALSE
+image: 'luxury-belgian-chocolate-set-toolkit.jpg'
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (F is for Fudge Brownie)'
 sku: 'HBG-NV-001-06'
 available: FALSE
+image: 'alphabet-chocolate-f-is-for-fudge-brownie.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

@@ -2,6 +2,7 @@
 name: Barratts Jelly Babies
 sku: 'HBG-JR-009-01'
 available: FALSE
+image: 'barratts-jelly-babies.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

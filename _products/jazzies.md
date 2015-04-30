@@ -2,6 +2,7 @@
 name: Jazzies
 sku: 'HBG-PM-034-01'
 available: FALSE
+image: jazzies.jpg
 purchase_option: 2
 price: 0.0095
 cost_price: 0.0038

@@ -2,6 +2,7 @@
 name: 'Brazils (Chocolate)'
 sku: 'HBG-JR-017-02'
 available: TRUE
+image: 'brazils-chocolate.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0065

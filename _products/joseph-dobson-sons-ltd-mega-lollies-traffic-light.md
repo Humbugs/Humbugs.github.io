@@ -2,6 +2,7 @@
 name: 'Joseph Dobson & Sons Ltd: Mega Lollies (Traffic Light)'
 sku: 'HBG-NV-023-05'
 available: FALSE
+image: 'joseph-dobson-sons-ltd-mega-lollies-traffic-light.jpg'
 purchase_option: 0
 price: 0.2
 cost_price: 0.08

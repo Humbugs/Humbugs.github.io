@@ -2,6 +2,7 @@
 name: Milk Chocolate Meerkats
 sku: 'HBG-NV-028-01'
 available: FALSE
+image: 'milk-chocolate-meerkats.jpg'
 purchase_option: 0
 price: 3.29
 cost_price: 1.316

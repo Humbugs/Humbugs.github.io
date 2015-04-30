@@ -2,6 +2,7 @@
 name: Peanut Brittle
 sku: 'HBG-JR-089-01'
 available: FALSE
+image: 'peanut-brittle.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

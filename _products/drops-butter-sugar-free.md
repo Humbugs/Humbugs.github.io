@@ -2,6 +2,7 @@
 name: 'Drops (Butter - Sugar Free)'
 sku: 'HBG-JR-039-01'
 available: TRUE
+image: 'drops-butter-sugar-free.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.008

@@ -2,6 +2,7 @@
 name: 'Drops (Pear - Large)'
 sku: 'HBG-JR-039-06'
 available: FALSE
+image: 'drops-pear-large.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

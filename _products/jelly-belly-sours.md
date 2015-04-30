@@ -2,6 +2,7 @@
 name: Jelly Belly Sours
 sku: 'HBG-NV-022-01'
 available: TRUE
+image: 'jelly-belly-sours.jpg'
 purchase_option: 0
 price: 3.3
 cost_price: 1.32

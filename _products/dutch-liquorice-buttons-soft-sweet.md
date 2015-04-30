@@ -2,6 +2,7 @@
 name: 'Dutch Liquorice  (Buttons - Soft & Sweet)'
 sku: 'HBG-JR-040-01'
 available: TRUE
+image: 'dutch-liquorice-buttons-soft-sweet.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0065

@@ -2,6 +2,7 @@
 name: 'Bonbons (Strawberry & Cream)'
 sku: 'HBG-JR-016-14'
 available: TRUE
+image: 'bonbons-strawberry-cream.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

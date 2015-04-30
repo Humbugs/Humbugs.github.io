@@ -2,6 +2,7 @@
 name: Dark Ginger
 sku: 'HBG-NV-012-01'
 available: FALSE
+image: 'dark-ginger.jpg'
 purchase_option: 3
 price: 1.2
 cost_price: 0.8

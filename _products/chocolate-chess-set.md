@@ -2,6 +2,7 @@
 name: Chocolate Chess Set
 sku: 'HBG-NV-009-01'
 available: TRUE
+image: 'chocolate-chess-set.jpg'
 purchase_option: 0
 price: 5.99
 cost_price: 3.75

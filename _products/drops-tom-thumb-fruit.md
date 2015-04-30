@@ -2,6 +2,7 @@
 name: 'Drops (Tom Thumb Fruit)'
 sku: 'HBG-JR-039-07'
 available: TRUE
+image: 'drops-tom-thumb-fruit.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.006

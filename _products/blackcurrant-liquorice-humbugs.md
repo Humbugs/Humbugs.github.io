@@ -2,6 +2,7 @@
 name: 'Blackcurrant & Liquorice Humbugs'
 sku: 'HBG-JR-014-01'
 available: TRUE
+image: 'blackcurrant-liquorice-humbugs.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

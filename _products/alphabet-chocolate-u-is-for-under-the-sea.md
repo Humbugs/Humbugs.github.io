@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (U is for Under the Sea)'
 sku: 'HBG-NV-001-21'
 available: FALSE
+image: 'alphabet-chocolate-u-is-for-under-the-sea.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

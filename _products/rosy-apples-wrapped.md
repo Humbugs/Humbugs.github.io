@@ -2,6 +2,7 @@
 name: 'Rosy Apples (Wrapped)'
 sku: 'HBG-JR-095-01'
 available: TRUE
+image: 'rosy-apples-wrapped.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

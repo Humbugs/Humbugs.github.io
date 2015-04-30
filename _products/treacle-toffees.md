@@ -2,6 +2,7 @@
 name: Treacle Toffees
 sku: 'HBG-JR-108-01'
 available: FALSE
+image: 'treacle-toffees.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

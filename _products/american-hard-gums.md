@@ -2,6 +2,7 @@
 name: American Hard Gums
 sku: 'HBG-JR-003-01'
 available: TRUE
+image: 'american-hard-gums.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

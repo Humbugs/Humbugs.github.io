@@ -2,6 +2,7 @@
 name: Jelly Babies
 sku: 'HBG-PM-035-01'
 available: FALSE
+image: 'jelly-babies.jpg'
 purchase_option: 2
 price: 0.0095
 cost_price: 0.0038

@@ -2,6 +2,7 @@
 name: 'Midget Gems (Lions)'
 sku: 'HBG-JR-076-02'
 available: TRUE
+image: 'midget-gems-lions.jpg'
 purchase_option: 1
 price: 0.0135
 cost_price: 0.0054

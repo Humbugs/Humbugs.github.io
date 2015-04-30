@@ -2,6 +2,7 @@
 name: 'Cubes (Cola)'
 sku: 'HBG-JR-035-01'
 available: TRUE
+image: 'cubes-cola.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.005

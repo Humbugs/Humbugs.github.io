@@ -2,6 +2,7 @@
 name: 'Brazils (Buttered)'
 sku: 'HBG-JR-017-01'
 available: FALSE
+image: 'brazils-buttered.jpg'
 purchase_option: 1
 price: 0.017
 cost_price: 0.0085

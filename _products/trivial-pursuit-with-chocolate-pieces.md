@@ -2,6 +2,7 @@
 name: Trivial Pursuit with Chocolate pieces
 sku: Xmas003
 available: TRUE
+image: 'trivial-pursuit-with-chocolate-pieces.jpg'
 purchase_option: 0
 price: 9.99
 cost_price: 6.74

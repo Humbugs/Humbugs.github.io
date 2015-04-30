@@ -2,6 +2,7 @@
 name: Wild Forest Fruits Cup
 sku: 'HBG-NV-041-01'
 available: FALSE
+image: 'wild-forest-fruits-cup.jpg'
 purchase_option: 3
 price: 0.0399
 cost_price: 0.01596

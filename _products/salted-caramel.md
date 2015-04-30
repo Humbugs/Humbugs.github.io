@@ -2,6 +2,7 @@
 name: Salted Caramel
 sku: 'HBG-NV-036-01'
 available: FALSE
+image: 'salted-caramel.jpg'
 purchase_option: 3
 price: 0.0399
 cost_price: 0.01596

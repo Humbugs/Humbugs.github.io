@@ -2,6 +2,7 @@
 name: Jelly Mix
 sku: 'HBG-PM-037-01'
 available: FALSE
+image: 'jelly-mix.jpg'
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

@@ -2,6 +2,7 @@
 name: 'Bonbons (Blackcurrant & Liquorice)'
 sku: 'HBG-JR-016-04'
 available: TRUE
+image: 'bonbons-blackcurrant-liquorice.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

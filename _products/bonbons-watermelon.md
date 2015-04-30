@@ -2,6 +2,7 @@
 name: 'Bonbons (Watermelon)'
 sku: 'HBG-JR-016-17'
 available: TRUE
+image: 'bonbons-watermelon.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

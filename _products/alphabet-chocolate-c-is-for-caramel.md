@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (C is for Caramel)'
 sku: 'HBG-NV-001-03'
 available: FALSE
+image: 'alphabet-chocolate-c-is-for-caramel.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

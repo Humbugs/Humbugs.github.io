@@ -2,6 +2,7 @@
 name: 'Cola Bottles (Sugar Free Cola Bottles)'
 sku: 'HBG-JR-028-02'
 available: TRUE
+image: 'cola-bottles-sugar-free-cola-bottles.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.008

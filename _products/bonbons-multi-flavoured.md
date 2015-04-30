@@ -2,6 +2,7 @@
 name: 'Bonbons (Multi-Flavoured)'
 sku: 'HBG-JR-016-10'
 available: TRUE
+image: 'bonbons-multi-flavoured.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

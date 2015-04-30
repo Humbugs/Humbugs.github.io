@@ -2,6 +2,7 @@
 name: 'Bonbons (Sour Raspberry)'
 sku: 'HBG-JR-016-13'
 available: TRUE
+image: 'bonbons-sour-raspberry.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

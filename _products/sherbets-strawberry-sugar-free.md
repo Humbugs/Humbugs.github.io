@@ -2,6 +2,7 @@
 name: 'Sherbets (Strawberry - Sugar Free)'
 sku: 'HBG-JR-097-04'
 available: FALSE
+image: 'sherbets-strawberry-sugar-free.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

@@ -2,6 +2,7 @@
 name: Jamesons Caramels
 sku: 'HBG-JR-062-01'
 available: TRUE
+image: 'jamesons-caramels.jpg'
 purchase_option: 1
 price: 0.0145
 cost_price: 0.0058

@@ -2,6 +2,7 @@
 name: Mushrooms
 sku: 'HBG-PM-044-01'
 available: FALSE
+image: mushrooms.jpg
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

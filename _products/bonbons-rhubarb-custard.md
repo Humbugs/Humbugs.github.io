@@ -2,6 +2,7 @@
 name: 'Bonbons (Rhubarb & Custard)'
 sku: 'HBG-JR-016-12'
 available: TRUE
+image: 'bonbons-rhubarb-custard.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

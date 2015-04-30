@@ -2,6 +2,7 @@
 name: Uno with chocolate pieces
 sku: Xmas005
 available: TRUE
+image: 'uno-with-chocolate-pieces.jpg'
 purchase_option: 0
 price: 9.99
 cost_price: 6.74

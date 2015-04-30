@@ -2,6 +2,7 @@
 name: 'Joseph Dobson & Sons Ltd: Mega Lollies (Rhubarb & Custard)'
 sku: 'HBG-NV-023-02'
 available: FALSE
+image: 'joseph-dobson-sons-ltd-mega-lollies-rhubarb-custard.jpg'
 purchase_option: 0
 price: 0.2
 cost_price: 0.08

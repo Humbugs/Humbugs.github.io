@@ -2,6 +2,7 @@
 name: 'Mixed Chocolate Macaroons (Clementine Buttercream)'
 sku: 'HBG-NV-030-01'
 available: FALSE
+image: 'mixed-chocolate-macaroons-clementine-buttercream.jpg'
 purchase_option: 3
 price: 0.0399
 cost_price: 0.01596

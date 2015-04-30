@@ -2,6 +2,7 @@
 name: 'Bonbons (Cherry)'
 sku: 'HBG-JR-016-06'
 available: TRUE
+image: 'bonbons-cherry.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

@@ -2,6 +2,7 @@
 name: Mr Potato Head with Chocolate pieces
 sku: Xmas012
 available: TRUE
+image: 'mr-potato-head-with-chocolate-pieces.jpg'
 purchase_option: 0
 price: 7.99
 cost_price: 4.3

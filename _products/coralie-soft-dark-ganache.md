@@ -2,6 +2,7 @@
 name: Coralie Soft Dark Ganache
 sku: 'HBG-NV-010-01'
 available: FALSE
+image: 'coralie-soft-dark-ganache.jpg'
 purchase_option: 3
 price: 0.0399
 weight: 16

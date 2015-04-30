@@ -2,6 +2,7 @@
 name: Barbie Game with chocolate pieces
 sku: Xmas007
 available: TRUE
+image: 'barbie-game-with-chocolate-pieces.jpg'
 purchase_option: 0
 price: 7.99
 cost_price: 4.23

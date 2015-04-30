@@ -2,6 +2,7 @@
 name: 'Fizz Balls (Orange & Lemon)'
 sku: 'HBG-JR-047-03'
 available: TRUE
+image: 'fizz-balls-orange-lemon.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

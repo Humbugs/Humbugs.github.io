@@ -2,6 +2,7 @@
 name: 'Black & White Mints Round'
 sku: 'HBG-JR-012-01'
 available: FALSE
+image: 'black-white-mints-round.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

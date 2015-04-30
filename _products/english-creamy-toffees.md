@@ -2,6 +2,7 @@
 name: English Creamy Toffees
 sku: 'HBG-JR-043-01'
 available: FALSE
+image: 'english-creamy-toffees.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

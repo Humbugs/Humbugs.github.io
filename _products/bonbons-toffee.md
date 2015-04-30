@@ -2,6 +2,7 @@
 name: 'Bonbons (Toffee)'
 sku: 'HBG-JR-016-16'
 available: TRUE
+image: 'bonbons-toffee.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

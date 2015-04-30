@@ -2,6 +2,7 @@
 name: 'Chocolate Limes (Sugar Free)'
 sku: 'HBG-JR-020-02'
 available: TRUE
+image: 'chocolate-limes-sugar-free.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.008

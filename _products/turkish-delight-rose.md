@@ -2,6 +2,7 @@
 name: 'Turkish Delight (Rose)'
 sku: 'HBG-NV-039-03'
 available: FALSE
+image: 'turkish-delight-rose.jpg'
 purchase_option: 1
 price: 0.0399
 cost_price: 0.01596

@@ -2,6 +2,7 @@
 name: Jelly Beans
 sku: 'HBG-PM-036-01'
 available: FALSE
+image: 'jelly-beans.jpg'
 purchase_option: 2
 price: 0.0095
 cost_price: 0.0038

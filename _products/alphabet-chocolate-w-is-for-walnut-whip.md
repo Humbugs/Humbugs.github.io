@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (W is for Walnut Whip)'
 sku: 'HBG-NV-001-23'
 available: FALSE
+image: 'alphabet-chocolate-w-is-for-walnut-whip.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

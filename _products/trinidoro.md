@@ -2,6 +2,7 @@
 name: Trinidoro
 sku: 'HBG-NV-038-01'
 available: FALSE
+image: trinidoro.jpg
 purchase_option: 0
 price: 2.8
 cost_price: 1.12

@@ -2,6 +2,7 @@
 name: 'Fizz Balls (Cherry)'
 sku: 'HBG-JR-047-01'
 available: TRUE
+image: 'fizz-balls-cherry.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

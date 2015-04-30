@@ -2,6 +2,7 @@
 name: Clarinco Mint Creams
 sku: 'HBG-JR-023-01'
 available: TRUE
+image: 'clarinco-mint-creams.jpg'
 purchase_option: 1
 price: 0.015
 cost_price: 0.009

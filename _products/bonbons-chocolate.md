@@ -2,6 +2,7 @@
 name: 'Bonbons (Chocolate)'
 sku: 'HBG-JR-016-07'
 available: TRUE
+image: 'bonbons-chocolate.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

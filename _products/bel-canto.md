@@ -2,6 +2,7 @@
 name: Bel Canto
 sku: 'HBG-NV-003-01'
 available: FALSE
+image: 'bel-canto.jpg'
 purchase_option: 0
 price: 1.2
 cost_price: 0.8

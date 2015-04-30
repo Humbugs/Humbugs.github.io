@@ -2,6 +2,7 @@
 name: 'Winter Mix (Wrapped)'
 sku: 'HBG-JR-115-01'
 available: TRUE
+image: 'winter-mix-wrapped.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.004

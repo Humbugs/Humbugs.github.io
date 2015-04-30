@@ -2,6 +2,7 @@
 name: Werthers Originals
 sku: 'HBG-JR-112-01'
 available: FALSE
+image: 'werthers-originals.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.00516

@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (P is for Peanut Butter)'
 sku: 'HBG-NV-001-16'
 available: FALSE
+image: 'alphabet-chocolate-p-is-for-peanut-butter.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

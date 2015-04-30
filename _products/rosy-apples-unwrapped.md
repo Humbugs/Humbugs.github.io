@@ -2,6 +2,7 @@
 name: 'Rosy Apples (Unwrapped)'
 sku: 'HBG-JR-095-02'
 available: TRUE
+image: 'rosy-apples-unwrapped.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

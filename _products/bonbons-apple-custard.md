@@ -2,6 +2,7 @@
 name: 'Bonbons (Apple & Custard)'
 sku: 'HBG-JR-016-02'
 available: TRUE
+image: 'bonbons-apple-custard.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

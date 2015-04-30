@@ -2,6 +2,7 @@
 name: 'Luxury Belgian Chocolate Set (Gardening)'
 sku: 'HBG-NV-025-04'
 available: FALSE
+image: 'luxury-belgian-chocolate-set-gardening.jpg'
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

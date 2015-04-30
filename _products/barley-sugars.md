@@ -2,6 +2,7 @@
 name: Barley Sugars
 sku: 'HBG-JR-008-01'
 available: TRUE
+image: 'barley-sugars.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

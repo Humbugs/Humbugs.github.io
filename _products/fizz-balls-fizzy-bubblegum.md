@@ -2,6 +2,7 @@
 name: 'Fizz Balls (Fizzy Bubblegum)'
 sku: 'HBG-JR-047-02'
 available: TRUE
+image: 'fizz-balls-fizzy-bubblegum.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

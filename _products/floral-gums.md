@@ -2,6 +2,7 @@
 name: Floral Gums
 sku: 'HBG-JR-048-01'
 available: FALSE
+image: 'floral-gums.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

@@ -2,6 +2,7 @@
 name: 'Sebahat Turkish Delight (Lemon, Strawberry & Orange)'
 sku: 'HBG-NV-037-01'
 available: FALSE
+image: 'sebahat-turkish-delight-lemon-strawberry-orange.jpg'
 purchase_option: 0
 price: 4.49
 cost_price: 1.796

@@ -2,6 +2,7 @@
 name: 'Luxury Belgian Chocolate Set (Makeup)'
 sku: 'HBG-NV-025-05'
 available: FALSE
+image: 'luxury-belgian-chocolate-set-makeup.jpg'
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

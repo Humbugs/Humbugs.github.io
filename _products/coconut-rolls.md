@@ -2,6 +2,7 @@
 name: Coconut Rolls
 sku: 'HBG-JR-027-01'
 available: TRUE
+image: 'coconut-rolls.jpg'
 purchase_option: 1
 price: 0.002
 cost_price: 0.0012

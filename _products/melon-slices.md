@@ -2,6 +2,7 @@
 name: Melon Slices
 sku: 'HBG-PM-042-01'
 available: FALSE
+image: 'melon-slices.jpg'
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

@@ -13,7 +13,7 @@ payment:
 tracking_id: ''
 
 # Jekll-Store Front
-image_prefix: ''
+image_prefix: 'http://res.cloudinary.com/dtfg8neiv/'
 paymillPublicKey:
 wake_up: ''
 disqus_shortname: ''

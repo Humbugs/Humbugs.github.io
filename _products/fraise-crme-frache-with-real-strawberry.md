@@ -2,6 +2,7 @@
 name: 'Fraise Crčme Fraîche With Real Strawberry'
 sku: 'HBG-NV-017-01'
 available: FALSE
+image: 'fraise-crme-frache-with-real-strawberry.jpg'
 purchase_option: 3
 price: 0.0399
 cost_price: 0.01596

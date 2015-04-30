@@ -2,6 +2,7 @@
 name: 'Eclairs (Banana Split Toffees)'
 sku: 'HBG-JR-041-02'
 available: FALSE
+image: 'eclairs-banana-split-toffees.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

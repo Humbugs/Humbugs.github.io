@@ -2,6 +2,7 @@
 name: 'Joseph Dobson & Sons Ltd: Mega Lollies (Tropical Fruit)'
 sku: 'HBG-NV-023-06'
 available: FALSE
+image: 'joseph-dobson-sons-ltd-mega-lollies-tropical-fruit.jpg'
 purchase_option: 0
 price: 0.2
 cost_price: 0.08

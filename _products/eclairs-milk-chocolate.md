@@ -2,6 +2,7 @@
 name: 'Eclairs (Milk Chocolate)'
 sku: 'HBG-JR-041-03'
 available: FALSE
+image: 'eclairs-milk-chocolate.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

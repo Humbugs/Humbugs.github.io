@@ -2,6 +2,7 @@
 name: 'Belgian Stevia (Cocoa Dark Nibs)'
 sku: 'HBG-NV-004-01'
 available: FALSE
+image: 'belgian-stevia-cocoa-dark-nibs.jpg'
 purchase_option: 0
 price: 1.39
 cost_price: 0.556

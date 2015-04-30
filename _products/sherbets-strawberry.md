@@ -2,6 +2,7 @@
 name: 'Sherbets (Strawberry)'
 sku: 'HBG-JR-097-02'
 available: TRUE
+image: 'sherbets-strawberry.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

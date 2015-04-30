@@ -2,6 +2,7 @@
 name: 'Bean Boozled Giftbox/Spinner'
 sku: Xmas011
 available: TRUE
+image: 'bean-boozled-giftbox-spinner.jpg'
 purchase_option: 0
 price: 7.99
 cost_price: 4.51

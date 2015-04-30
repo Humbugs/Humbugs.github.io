@@ -2,6 +2,7 @@
 name: ABC Letters
 sku: 'HBG-JR-001-01'
 available: TRUE
+image: 'abc-letters.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

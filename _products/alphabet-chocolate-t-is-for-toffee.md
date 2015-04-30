@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (T is for Toffee)'
 sku: 'HBG-NV-001-20'
 available: FALSE
+image: 'alphabet-chocolate-t-is-for-toffee.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

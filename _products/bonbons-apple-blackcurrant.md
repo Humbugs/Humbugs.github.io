@@ -2,6 +2,7 @@
 name: 'Bonbons (Apple & Blackcurrant)'
 sku: 'HBG-JR-016-01'
 available: TRUE
+image: 'bonbons-apple-blackcurrant.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

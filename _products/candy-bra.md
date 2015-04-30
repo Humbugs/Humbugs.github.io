@@ -2,6 +2,7 @@
 name: Candy Bra
 sku: Xmas008
 available: TRUE
+image: 'candy-bra.jpg'
 purchase_option: 0
 price: 5.99
 cost_price: 3.89

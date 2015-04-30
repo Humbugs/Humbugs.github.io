@@ -2,6 +2,7 @@
 name: Mintoes
 sku: 'HBG-JR-087-01'
 available: TRUE
+image: mintoes.jpg
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

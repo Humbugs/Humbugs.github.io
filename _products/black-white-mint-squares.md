@@ -2,6 +2,7 @@
 name: 'Black & White Mint Squares'
 sku: 'HBG-JR-013-01'
 available: TRUE
+image: 'black-white-mint-squares.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

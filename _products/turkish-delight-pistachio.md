@@ -2,6 +2,7 @@
 name: 'Turkish Delight (Pistachio)'
 sku: 'HBG-NV-039-02'
 available: FALSE
+image: 'turkish-delight-pistachio.jpg'
 purchase_option: 1
 price: 0.0399
 cost_price: 0.01596

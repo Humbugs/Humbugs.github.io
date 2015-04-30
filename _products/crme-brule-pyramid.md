@@ -2,6 +2,7 @@
 name: 'Crčme Brulée Pyramid'
 sku: 'HBG-NV-011-01'
 available: FALSE
+image: 'crme-brule-pyramid.jpg'
 purchase_option: 3
 price: 0.0399
 weight: 12

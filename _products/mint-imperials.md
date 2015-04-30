@@ -2,6 +2,7 @@
 name: Mint Imperials
 sku: 'HBG-JR-086-01'
 available: TRUE
+image: 'mint-imperials.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

@@ -2,6 +2,7 @@
 name: 'Army & Navy'
 sku: 'HBG-JR-006-01'
 available: TRUE
+image: 'army-navy.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0085

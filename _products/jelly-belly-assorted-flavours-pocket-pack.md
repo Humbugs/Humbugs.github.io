@@ -2,6 +2,7 @@
 name: 'Jelly Belly Assorted Flavours (Pocket Pack)'
 sku: 'HBG-NV-019-02'
 available: TRUE
+image: 'jelly-belly-assorted-flavours-pocket-pack.jpg'
 purchase_option: 0
 price: 1.1
 cost_price: 0.44

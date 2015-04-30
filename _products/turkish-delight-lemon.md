@@ -2,6 +2,7 @@
 name: 'Turkish Delight (Lemon)'
 sku: 'HBG-NV-039-01'
 available: FALSE
+image: 'turkish-delight-lemon.jpg'
 purchase_option: 1
 price: 0.0399
 cost_price: 0.01596

@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (D is for Dark Chilli)'
 sku: 'HBG-NV-001-04'
 available: FALSE
+image: 'alphabet-chocolate-d-is-for-dark-chilli.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

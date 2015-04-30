@@ -2,6 +2,7 @@
 name: Liquorice Toffees
 sku: 'HBG-JR-071-01'
 available: FALSE
+image: 'liquorice-toffees.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

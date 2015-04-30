@@ -2,6 +2,7 @@
 name: Wine Gums
 sku: 'HBG-JR-114-01'
 available: FALSE
+image: 'wine-gums.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0048

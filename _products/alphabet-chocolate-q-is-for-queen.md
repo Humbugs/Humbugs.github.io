@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (Q is for Queen)'
 sku: 'HBG-NV-001-17'
 available: FALSE
+image: 'alphabet-chocolate-q-is-for-queen.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

@@ -2,6 +2,7 @@
 name: Milkshakes
 sku: 'HBG-PM-043-01'
 available: FALSE
+image: milkshakes.jpg
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

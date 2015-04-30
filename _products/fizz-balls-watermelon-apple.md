@@ -2,6 +2,7 @@
 name: 'Fizz Balls (Watermelon & Apple)'
 sku: 'HBG-JR-047-05'
 available: TRUE
+image: 'fizz-balls-watermelon-apple.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

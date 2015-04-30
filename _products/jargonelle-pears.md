@@ -2,6 +2,7 @@
 name: Jargonelle Pears
 sku: 'HBG-JR-063-01'
 available: FALSE
+image: 'jargonelle-pears.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

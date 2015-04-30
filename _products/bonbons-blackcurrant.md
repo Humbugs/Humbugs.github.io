@@ -2,6 +2,7 @@
 name: 'Bonbons (Blackcurrant)'
 sku: 'HBG-JR-016-05'
 available: TRUE
+image: 'bonbons-blackcurrant.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

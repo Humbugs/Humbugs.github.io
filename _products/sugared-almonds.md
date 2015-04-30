@@ -2,6 +2,7 @@
 name: Sugared Almonds
 sku: 'HBG-JR-102-01'
 available: TRUE
+image: 'sugared-almonds.jpg'
 purchase_option: 1
 price: 0.014
 cost_price: 0.0056

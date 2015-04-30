@@ -2,6 +2,7 @@
 name: Jamesons Raspberry Ruffles
 sku: 'HBG-JR-061-01'
 available: TRUE
+image: 'jamesons-raspberry-ruffles.jpg'
 purchase_option: 1
 price: 0.0145
 cost_price: 0.0058

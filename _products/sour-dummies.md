@@ -2,6 +2,7 @@
 name: Sour Dummies
 sku: 'HBG-PM-053-01'
 available: FALSE
+image: 'sour-dummies.jpg'
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

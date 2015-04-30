@@ -2,6 +2,7 @@
 name: Guacimo
 sku: 'HBG-NV-018-01'
 available: FALSE
+image: guacimo.jpg
 purchase_option: 0
 price: 2.8
 cost_price: 1.12

@@ -2,6 +2,7 @@
 name: Rum And Butter Toffees
 sku: 'HBG-JR-096-01'
 available: TRUE
+image: 'rum-and-butter-toffees.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

@@ -2,6 +2,7 @@
 name: Acid Drops
 sku: 'HBG-JR-002-01'
 available: TRUE
+image: 'acid-drops.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

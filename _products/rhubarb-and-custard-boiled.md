@@ -2,6 +2,7 @@
 name: 'Rhubarb and Custard (Boiled)'
 sku: 'HBG-JR-093-01'
 available: TRUE
+image: 'rhubarb-and-custard-boiled.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

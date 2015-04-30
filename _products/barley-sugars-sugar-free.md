@@ -2,6 +2,7 @@
 name: 'Barley Sugars (Sugar Free)'
 sku: 'HBG-JR-008-02'
 available: FALSE
+image: 'barley-sugars-sugar-free.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0065

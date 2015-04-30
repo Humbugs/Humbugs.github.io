@@ -2,6 +2,7 @@
 name: Shrimps
 sku: 'HBG-PM-049-01'
 available: FALSE
+image: shrimps.jpg
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

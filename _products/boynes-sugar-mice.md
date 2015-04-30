@@ -2,6 +2,7 @@
 name: Boynes Sugar Mice
 sku: 'HBG-NV-005-01'
 available: TRUE
+image: 'boynes-sugar-mice.jpg'
 purchase_option: 0
 price: 0.75
 cost_price: 0.5

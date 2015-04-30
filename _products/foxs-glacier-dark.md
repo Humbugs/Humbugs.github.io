@@ -2,6 +2,7 @@
 name: Foxs Glacier Dark
 sku: 'HBG-JR-049-01'
 available: TRUE
+image: 'foxs-glacier-dark.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

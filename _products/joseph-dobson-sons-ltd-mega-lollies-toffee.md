@@ -2,6 +2,7 @@
 name: 'Joseph Dobson & Sons Ltd: Mega Lollies (Toffee)'
 sku: 'HBG-NV-023-04'
 available: FALSE
+image: 'joseph-dobson-sons-ltd-mega-lollies-toffee.jpg'
 purchase_option: 0
 price: 0.2
 cost_price: 0.08

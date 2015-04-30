@@ -2,6 +2,7 @@
 name: White Drops
 sku: 'HBG-PM-058-01'
 available: FALSE
+image: 'white-drops.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0038

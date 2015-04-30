@@ -1,7 +1,8 @@
 ---
-name: 'Alphabet Chocolate (N is for Neapolitan )'
+name: 'Alphabet Chocolate (N is for Neapolitan)'
 sku: 'HBG-NV-001-14'
 available: FALSE
+image: 'alphabet-chocolate-n-is-for-neapolitan-.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

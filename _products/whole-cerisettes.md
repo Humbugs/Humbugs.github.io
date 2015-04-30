@@ -2,6 +2,7 @@
 name: Whole Cerisettes
 sku: 'HBG-NV-040-01'
 available: FALSE
+image: 'whole-cerisettes.jpg'
 purchase_option: 3
 price: 0.0399
 cost_price: 0.01596

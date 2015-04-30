@@ -2,6 +2,7 @@
 name: Babette
 sku: 'HBG-NV-002-01'
 available: FALSE
+image: babette.jpg
 purchase_option: 3
 price: 0.06
 weight: 18

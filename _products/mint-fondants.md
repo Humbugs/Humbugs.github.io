@@ -2,6 +2,7 @@
 name: Mint Fondants
 sku: 'HBG-JR-084-01'
 available: TRUE
+image: 'mint-fondants.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

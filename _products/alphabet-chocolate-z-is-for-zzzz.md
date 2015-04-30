@@ -2,6 +2,7 @@
 name: 'Alphabet Chocolate (Z is for Zzzz)'
 sku: 'HBG-NV-001-26'
 available: FALSE
+image: 'alphabet-chocolate-z-is-for-zzzz.jpg'
 purchase_option: 0
 price: 2.89
 cost_price: 1.8

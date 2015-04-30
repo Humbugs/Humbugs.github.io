@@ -2,6 +2,7 @@
 name: Expressa
 sku: 'HBG-NV-014-01'
 available: FALSE
+image: expressa.jpg
 purchase_option: 3
 price: 0.0399
 cost_price: 0.01596

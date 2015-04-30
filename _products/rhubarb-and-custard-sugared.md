@@ -2,6 +2,7 @@
 name: 'Rhubarb and Custard (Sugared)'
 sku: 'HBG-JR-093-02'
 available: FALSE
+image: 'rhubarb-and-custard-sugared.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.0065

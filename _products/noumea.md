@@ -2,6 +2,7 @@
 name: Noumea
 sku: 'HBG-NV-032-01'
 available: FALSE
+image: noumea.jpg
 purchase_option: 0
 price: 2.8
 cost_price: 1.12

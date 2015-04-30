@@ -2,6 +2,7 @@
 name: Snowies
 sku: 'HBG-PM-051-01'
 available: FALSE
+image: snowies.jpg
 purchase_option: 1
 price: 0.0095
 cost_price: 0.0038

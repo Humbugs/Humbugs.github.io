@@ -2,6 +2,7 @@
 name: Toffee Crumble
 sku: 'HBG-JR-107-01'
 available: TRUE
+image: 'toffee-crumble.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.004

@@ -2,6 +2,7 @@
 name: 'Pips (Sherbet)'
 sku: 'HBG-JR-091-02'
 available: TRUE
+image: 'pips-sherbet.jpg'
 purchase_option: 1
 price: 0.012
 cost_price: 0.0048

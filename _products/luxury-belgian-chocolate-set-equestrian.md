@@ -2,6 +2,7 @@
 name: 'Luxury Belgian Chocolate Set (Equestrian)'
 sku: 'HBG-NV-025-01'
 available: FALSE
+image: 'luxury-belgian-chocolate-set-equestrian.jpg'
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

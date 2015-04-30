@@ -2,6 +2,7 @@
 name: 'Cola Bottles (Fizzy Cola Bottles)'
 sku: 'HBG-JR-028-01'
 available: TRUE
+image: 'cola-bottles-fizzy-cola-bottles.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.005

@@ -2,6 +2,7 @@
 name: Cherry Cola Bottles
 sku: 'HBG-PM-006-01'
 available: FALSE
+image: 'cherry-cola-bottles.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

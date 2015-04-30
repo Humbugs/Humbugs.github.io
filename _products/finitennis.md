@@ -2,6 +2,7 @@
 name: Finitennis
 sku: 'HBG-NV-015-01'
 available: FALSE
+image: finitennis.jpg
 purchase_option: 0
 price: 1.2
 cost_price: 0.48

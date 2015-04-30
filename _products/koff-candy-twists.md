@@ -2,6 +2,7 @@
 name: Koff Candy Twists
 sku: 'HBG-JR-065-01'
 available: TRUE
+image: 'koff-candy-twists.jpg'
 purchase_option: 1
 price: 0.01
 cost_price: 0.006

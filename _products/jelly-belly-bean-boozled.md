@@ -2,6 +2,7 @@
 name: Jelly Belly Bean Boozled
 sku: 'HBG-NV-020-01'
 available: TRUE
+image: 'jelly-belly-bean-boozled.jpg'
 purchase_option: 0
 price: 2.5
 cost_price: 1

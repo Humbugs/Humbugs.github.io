@@ -1,17 +1,12 @@
-var TagButtonGroup = require('./components/TagButtonGroup.jsx');
-var RangesButtonGroup = require('./components/RangesButtonGroup.jsx');
 var renderComponent = require('./helpers/renderComponent');
 
 // Layout
 renderComponent('basket-summary', require('./components/BasketSummary.jsx'));
 
 // Index
+renderComponent('taxonomies', require('./components/TaxonomiesMenu.jsx'));
 renderComponent('search', require('./components/SearchBox.jsx'));
-renderComponent('sort', require('./components/SortButtonGroup.jsx'));
-renderComponent('type', TagButtonGroup);
-renderComponent('condition', TagButtonGroup);
-renderComponent('price-range', RangesButtonGroup);
-renderComponent('weight-range', RangesButtonGroup);
+renderComponent('sort', require('./components/Sort.jsx'));
 renderComponent('display', require('./components/Display.jsx'));
 renderComponent('pagination', require('./components/Pagination.jsx'));
 

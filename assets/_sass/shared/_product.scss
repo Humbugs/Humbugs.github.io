@@ -9,19 +9,21 @@
   img {
     margin: auto;
     display: block;
+    border: 3px solid #EFEFEF;
+    box-shadow: 0 0 1px 1px #BBBBBB;
+    border-radius: 3px;
+    max-height: 200px;
+    margin-bottom: 5px;
   }
 
   .details {
     @include row;
-    background: #EDEDED;
     padding: 5px 5px;
     border-radius: 5px;
-    box-shadow: 0 0 1px 1px #C3C3C3;
     margin-top: 1px;
     color: #666;
-    & > div { @include span-columns(1 of 2); }
+    text-align: center;
     &.added { background: #D7F7D1; }
-    .details-buttons { text-align: right; }
   }
 
   .fa {

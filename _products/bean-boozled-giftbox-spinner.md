@@ -12,6 +12,6 @@ depth: 29
 weight: 155
 meta_description: 'Bean Boozled Giftbox/Spinner only Ł7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Novelty]
-contains: [Lactose, Nuts, Sugar]
+free: [Alcohol, Gluten, Gelatin]
 ---
 It's a game of luck, with weird & wild flavours. 3rd Edition new flavours.

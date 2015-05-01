@@ -8,13 +8,9 @@ var BasketSummary = React.createClass({
 
   render: function() {
     var total = this.state.order.getIn(['totals', 'price']);
-    return total.gt(0) ? this.renderSummary(total) : null;
-  },
-
-  renderSummary: function(total) {
     return (
       <a href={this.props.link}>
-        <img src={this.props.img} alt='Cart' id='cart' />
+        <i className='fa fa-shopping-cart'></i>
         <span>{money(total)}</span>
       </a>
     );

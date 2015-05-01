@@ -4,15 +4,15 @@ sku: 'HBG-JR-113-01'
 available: TRUE
 image: 'west-indian-limes.jpg'
 purchase_option: 1
-price: 0.01
-cost_price: 0.004
+price: 1
+cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 656
 meta_description: 'West Indian Limes only Ł1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Hard, Traditional, Wrapped]
 flavour: [Lime]
 colour: [Green]
-contains: [Sugar, Gelatin]
+free: [Alcohol, Gluten, Lactose, Nut]
 ingredients: 'Sugar, Glucose, Citric Acid, Flavouring, E102, E142'
 ---
 Hard boiled lime sweets, individually wrapped.

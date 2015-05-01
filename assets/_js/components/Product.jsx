@@ -1,6 +1,5 @@
 var React = require('react');
 var JSE = require('jekyll-store-engine');
-var money = require('../helpers/money');
 
 var Product = React.createClass({
   addToBasket: function() {
@@ -20,10 +19,7 @@ var Product = React.createClass({
           <img src={'{{ site.image_prefix }}' + product.image} alt={product.name} />
         </a>
         <div className={this.props.inBasket ? 'details added' : 'details' }>
-          <div>
-            <div className='name'>{product.name}</div>
-            <div className='price'>{money(product.price)}</div>
-          </div>
+          <div>{product.name} - {product.displayPrice}</div>
           <div className='details-buttons'>
             {
               this.props.inBasket ?

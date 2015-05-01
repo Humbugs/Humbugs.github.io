@@ -12,6 +12,6 @@ depth: 38
 weight: 315
 meta_description: 'Scrabble with Chocolate pieces only Ł9.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Novelty]
-contains: [Gluten, Lactose, Nuts, Sugar, Gelatin]
+free: [Alcohol]
 ---
 Chocolate versions of some of the worlds most popular board games. Each box comes complete with a miniature version of the game with Belgian chocolate playing pieces.

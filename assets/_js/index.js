@@ -14,6 +14,9 @@ require('jekyll-store-visited');
 require('jekyll-store-favourites');
 require('jekyll-store-google-analytics');
 
+// Action Helpers
+require('./action-helpers/loadProducts');
+
 // Helpers
 window.toggle = require('./helpers/toggle');
 window.loadJSON = require('./helpers/loadJSON');

@@ -6,24 +6,17 @@
     <i id='nav-mobile-menu' onclick='toggle("nav-menu", "show")'>MENU</i>
     <nav role='navigation'>
       <ul id='nav-menu'>
-        <li class='nav-link logo'>
+        <li class='nav-link'><a href='javascript:void(0)'>About Us</a></li>
+        <li class='nav-link'><a href='javascript:void(0)'>Contact</a></li>
+        <li class='nav-link logo' id='banner-wrapper'>
+          <img src='{{ site.image_prefix }}banner.png' id='banner' alt='Banner' />
           <a href='{{ site.baseurl }}/' class='logo'>
             <img src='{{ site.image_prefix }}logo.png' alt='Logo'>
-            Jekyll-Store
-          </a>
-        </li>
-        <li class='nav-link'>
-          <a href='http://www.jekyll-store.com' target='_blank'>
-            About Us
           </a>
         </li>
         <li class='nav-link'>
           <a href='{{ site.baseurl }}/favourites'>Favourites</a>
         </li>
-        <li class='nav-link'>
-          <a href='{{ site.baseurl }}/blog'>Blog</a>
-        </li>
-        <li class='nav-link'><a href='javascript:void(0)'>Contact</a></li>
         <li class='nav-link'
             id='basket-summary'
             data-img='"{{ site.image_prefix }}cart.png"'

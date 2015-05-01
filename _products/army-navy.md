@@ -1,0 +1,18 @@
+---
+name: 'Army & Navy'
+sku: 'HBG-JR-006-01'
+available: TRUE
+image: 'army-navy.jpg'
+purchase_option: 1
+price: 1.2
+cost_price: 0.85
+container_water_weight: 919
+container_sweets_weight: 761
+meta_description: 'Army & Navy sweets only Ł1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+type: [Hard]
+flavour: [Aniseed]
+colour: [Black]
+free: [Alcohol, Gluten, Lactose]
+ingredients: 'Sugar, Glucose Syrup, Citric Acid, Liquorice Extract, Colours: Carbon Black'
+---
+Traditional hard boiled sweets flavoured with liquorice and herbs.

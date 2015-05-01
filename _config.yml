@@ -183,16 +183,16 @@ prose:
             - value: Red
             - value: White
             - value: Yellow
-      - name: contains
+      - name: free
         field:
           element: multiselect
-          label: Contains
+          label: Free
           alterable: true
           options:
             - value: Alcohol
             - value: Gluten
             - value: Lactose
-            - value: Nuts
+            - value: Nut
             - value: Sugar
             - value: Gelatin
       - name: ingredients

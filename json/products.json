@@ -6,8 +6,8 @@ permalink: /products.json
 {% assign available_products = site.products | where: 'available', true %}
 
 [
-	{% for product in available_products %}
-		{
+  {% for product in available_products %}
+    {
       "name": "{{ product.name }}",
       "image": "{{ product.image }}",
       "purchase_option": "{{ product.purchase_option }}",
@@ -15,25 +15,41 @@ permalink: /products.json
       {% if product.cost_price %}"cost_price": {{ product.cost_price }},{% endif %}
 
       {% if product.container_water_weight %}
-      	"container_water_weight": {{ product.container_water_weight }},
+        "container_water_weight": {{ product.container_water_weight }},
       {% endif %}
 
       {% if product.container_sweets_weight %}
-      	"container_sweets_weight": {{ product.container_sweets_weight }},
+        "container_sweets_weight": {{ product.container_sweets_weight }},
       {% endif %}
 
-	    {% if product.width %}"width": {{ product.width }},{% endif %}
-	    {% if product.height %}"height": {{ product.height }},{% endif %}
-	    {% if product.depth %}"depth": {{ product.depth }},{% endif %}
+      {% if product.width %}"width": {{ product.width }},{% endif %}
+      {% if product.height %}"height": {{ product.height }},{% endif %}
+      {% if product.depth %}"depth": {{ product.depth }},{% endif %}
       {% if product.weight %}"weight": {{ product.weight }},{% endif %}
 
-      "brand": "{{ product.brand }}",
-      "type": "{{ product.type }}",
-      "flavour": "{{ product.flavour }}",
-      "colour": "{{ product.colour }}",
-      "contains": "{{ product.contains }}",
+      "brand": ["{{ product.brand }}"],
+      "type": [
+        {% for type in product.type %}
+          "{{type}}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "flavour": [
+        {% for flavour in product.flavour %}
+          "{{flavour}}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "colour": [
+        {% for colour in product.colour %}
+          "{{colour}}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "free": [
+        {% for free in product.free %}
+          "{{free}}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
       "url": "{{ product.url }}"
-		}
-		{% if forloop.last %}{% else %},{% endif %}
-	{% endfor %}
+    }
+    {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
 ]

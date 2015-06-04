@@ -1,0 +1,6 @@
+---
+layout: compress
+permalink: /packing-types.json
+---
+
+{{ site.data.packing-types | replace: '=>', ':' }}

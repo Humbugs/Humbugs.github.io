@@ -3,10 +3,6 @@ var JSE = require('jekyll-store-engine');
 var productPageElem = document.getElementById('product-page');
 
 if(productPageElem) {
-  JSE.Stores.Basket.listen(function() {
-    window.location.href = '{{ site.baseurl }}/basket';
-  });
-
   JSE.Actions.setVisitedLimit({ limit: 4 });
   JSE.Actions.visit({ name: productPageElem.getAttribute('data-name') });
 

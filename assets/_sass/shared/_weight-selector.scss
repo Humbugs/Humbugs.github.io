@@ -1,0 +1,17 @@
+.weight-selector {
+  input {
+    display: inline-block;
+    vertical-align: middle;
+    width: 80%;
+  }
+
+  span {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 0.5em;
+    border-radius: 0 5px 5px 0;
+    font-size: 1.4em;
+    color: #fff;
+    font-family: "Lucida Sans Typewriter","Lucida Console",monaco,"Bitstream Vera Sans Mono",monospace;
+  }
+}

@@ -7,7 +7,6 @@
 accounting.settings.currency = {{ site.accounting | replace: '=>', ':' }};
 PAYMILL_PUBLIC_KEY = '{{ site.paymillPublicKey }}';
 JSE.Actions.setTrackingId({ id: '{{ site.tracking_id }}' });
-JSE.Actions.setAddress({{ site.defaultAddress | replace: '=>', ':' }});
 JSE.Actions.setPaymentOptions({{ site.payment | replace: '=>', ':' }});
 
 // Data

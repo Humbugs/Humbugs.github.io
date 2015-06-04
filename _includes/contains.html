@@ -1,0 +1,10 @@
+{% assign contains = 'Alcohol,Gluten,Lactose,Nut,Sugar,Gelatin' | split: ',' %}
+{% capture contains %}
+  {% for ingredient in contains %}
+    {% if page.free contains ingredient %}{% else %}
+      {{ ingredient }},
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+{% assign contains = contains | replace: 'Nut', 'Nuts'  %}
+{% assign contains = contains | strip_newlines | replace: ' ', '' | split: ','  %}

@@ -1,18 +1,22 @@
 main { @include outer-container; }
 #nav { box-shadow: 0 0 1px 1px #333; }
-#banner { margin-bottom: -31px; }
 #banner-wrapper { position: relative; }
+
+#banner {
+  margin-bottom: -31px;
+  width: 415px;
+}
 
 a.logo {
   position: absolute;
-  width: 100%;
-  left: 0;
+  width: 316px;
   text-align: center;
-  top: -30px;
+  top: -25px;
+  left: 60px;
 }
 
 .fa-shopping-cart {
-  padding-right: 5px;
+  padding: 0 5px 0 0;
 }
 
 .footer-social { font-size: 1.5em; }
@@ -27,12 +31,30 @@ a.logo {
 .hide { display: none; }
 .show { display: block !important; }
 
-/*.wrapper-for-content-outside-of-footer {
-  background: repeating-linear-gradient(-18deg,
-    rgba(96,109,188,0.02),
-    rgba(96,109,188,0.07) 12px,
-    rgba(70,82,152,0.18) 12px,
-    rgba(70,82,152,0) 13px,
-    rgba(141,148,189,0.45) 15px
-  );
-}*/
+i {
+  @extend .fa;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1.5em;
+  padding: 5px;
+  cursor: pointer;
+}
+
+i.add {
+  @extend .fa-plus;
+  color: #B2D0FF;
+  &:hover { color: #6BA4FD; }
+}
+
+i.added {
+  @extend .fa-check;
+  color: #56C263;
+}
+
+i.favourite, i.favourited {
+  color: #F59D54;
+  &:hover { color: #F97100; }
+}
+
+i.favourite { @extend .fa-star-o; }
+i.favourited { @extend .fa-star; }

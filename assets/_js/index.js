@@ -13,6 +13,7 @@ require('jekyll-store-display');
 require('jekyll-store-visited');
 require('jekyll-store-favourites');
 require('jekyll-store-google-analytics');
+require('./store-decorators/BasketStoreDecorator');
 
 // Action Helpers
 require('./action-helpers/loadProducts');

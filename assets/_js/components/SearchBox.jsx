@@ -12,9 +12,7 @@ var SearchBox = React.createClass({
     }
   },
   render: function() {
-    return (
-      <input type='text' placeholder='Search' onChange={this.update}></input>
-    );
+    return <input type='text' placeholder='Search' onChange={this.update}></input>;
   }
 });
 

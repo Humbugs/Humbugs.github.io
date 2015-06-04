@@ -26,28 +26,58 @@
     &.added { background: #D7F7D1; }
   }
 
-  .fa {
-    font-size: 1.5em;
-    padding: 5px;
-    cursor: pointer;
+  .add-button {
+    padding: 0 10px 0 0;
+    margin: 5px 0 5px 25px;
+    box-shadow: 0 0 1px 1px #7196C8;
+    background: #2A4D7C;
   }
 
-  .add {
-    @extend .fa, .fa-plus;
-    color: #B2D0FF;
-    &:hover { color: #6BA4FD; }
+  .weight-selector {
+    span {
+      background: #A8CAA2;
+      box-shadow: 0 0 1px 1px #85A97F;
+    }
   }
 
-  i.added {
-    @extend .fa, .fa-check;
-    color: #56C263;
+  .subtotal-or-basket-link {
+    display: inline-block;
+    vertical-align: middle;
+    width: 77%;
+
+    .basket-link { display: none; }
+
+    &:hover {
+      .subtotal { display: none; }
+      .basket-link { display: block; }
+    }
   }
 
-  .favourite, .favourited {
-    color: #F59D54;
-    &:hover { color: #F97100; }
+  .subtotal {
+    border: 1px solid #85A97F;
+    background: #EBFFE7;
+    border-radius: 2px;
   }
 
-  .favourite { @extend .fa, .fa-star-o; }
-  .favourited { @extend .fa, .fa-star; }
+  .basket-link {
+    border: 1px solid #7393BE;
+    background: #779BCD;
+    border-radius: 2px;
+    color: #fff;
+    &:hover { color: #fff; }
+  }
+
+  .fa-shopping-cart {
+    font-size: 1em;
+    padding: 0 5px 5px;
+  }
+
+  input {
+    margin-bottom: 0;
+  }
+
+  .add-button span {
+    display: inline-block;
+    vertical-align: middle;
+  }
 }

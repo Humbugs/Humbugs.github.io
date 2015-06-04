@@ -1,30 +1,43 @@
 var React = require('react');
 var JSE = require('jekyll-store-engine');
+var Quantity = require('./Quantity.jsx');
+var money = require('../helpers/money');
 
 var Product = React.createClass({
   addToBasket: function() {
-    JSE.Actions.setItem({ name: this.props.product.get('name'), quantity: 1 });
+    JSE.Actions.setItem({ name: this.props.item.name, quantity: 1 });
   },
   addToFavourites: function() {
-    JSE.Actions.favourite({ name: this.props.product.get('name') });
+    JSE.Actions.favourite({ name: this.props.item.name });
   },
   removeFromFavourites: function() {
-    JSE.Actions.removeFromFavourites({ name: this.props.product.get('name') });
+    JSE.Actions.removeFromFavourites({ name: this.props.item.name });
   },
   render: function() {
-    var product = this.props.product.toJS();
+    var item = this.props.item;
     return (
       <li className='product'>
-        <a href={'{{ site.baseurl }}' + product.url}>
-          <img src={'{{ site.image_prefix }}' + product.image} alt={product.name} />
+        <a href={'{{ site.baseurl }}' + item.url}>
+          <img src={'{{ site.image_prefix }}' + item.image} alt={item.name} />
         </a>
-        <div className={this.props.inBasket ? 'details added' : 'details' }>
-          <div>{product.name} - {product.displayPrice}</div>
-          <div className='details-buttons'>
+        <div className={item.quantity ? 'details added' : 'details' }>
+          <div>
             {
-              this.props.inBasket ?
-                <i className='added'></i> :
-                <i className='add' onClick={this.addToBasket}></i>
+              item.quantity ? <Quantity item={item} /> :
+                <button type='button' className='add-button' onClick={this.addToBasket}>
+                  <i className='add'></i>
+                  Add To Basket
+                </button>
+            }
+            {
+              item.subtotal ?
+                <div className='subtotal-or-basket-link'>
+                  <div className='subtotal'>{money(item.subtotal)}</div>
+                  <a className='basket-link' href='{{site.baseurl}}/basket'>
+                    <i className='fa-shopping-cart' />Go to Basket
+                  </a>
+                </div> :
+                null
             }
             {
               this.props.inFavourites ?
@@ -32,6 +45,8 @@ var Product = React.createClass({
                 <i className='favourite' onClick={this.addToFavourites}></i>
             }
           </div>
+          <div className='product-name'>{item.name}</div>
+          <div className='product-price'>{item.displayPrice}</div>
         </div>
       </li>
     );

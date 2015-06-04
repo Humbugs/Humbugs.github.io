@@ -1,49 +1,83 @@
 ---
 layout: default
 ---
+
+{% include contains.html %}
+
 <main id='product-page'
       itemscope
       itemtype='http://schema.org/Product'
       data-name='{{ page.name | escape }}'>
-  <header>
-    <h1 itemprop='name'>{{ page.name }}</h1>
-    <h2 itemprop='offers' itemscope itemtype='http://schema.org/Offer'>
-      <span itemprop='priceCurrency' content='GBP'>£</span>
-      <span itemprop='price' content='{{ page.price }}'>{{ page.price }}</span>
-    </h2>
-  </header>
+  <h1 itemprop='name'>{{ page.name }}</h1>
   <div class='row'>
-    <aside>
-      <img src='{{ site.image_prefix }}{{ page.image }}'
-           alt='{{ page.name }}'
-           itemprop='image'/>
-      <table>
-        <tr>
-          <th>Type</th>
-          <td>{{ page.type }}</td>
-        </tr>
-        <tr>
-          <th>Condition</th>
-          <td itemprop='itemCondition'>{{ page.condition }}</td>
-        </tr>
-        <tr>
-          <th>Weight</th>
-          <td itemprop='weight'>{{ page.weight }}kg</td>
-        </tr>
-      </table>
-    </aside>
+    <aside id='addToBasket' data-name='"{{ page.name | escape }}"'></aside>
     <article>
-      <img src='{{ site.image_prefix }}{{ page.big_image }}'
-           alt='{{ page.name | escape }}' />
-      <div id='addToBasket' data-name='"{{ page.name | escape }}"'></div>
-      <div itemprop='description' class='description'>{{ content }}</div>
+      <h2 itemprop='offers' itemscope itemtype='http://schema.org/Offer'>
+        <span itemprop='priceCurrency' content='GBP'>£</span>
+        <span itemprop='price' content='{{ page.price }}'>{{ page.price }}</span>
+        {% if page.purchase_option == 1 %}
+        <span class='units'>/100g</span>
+        {% endif %}
+      </h2>
+      <section itemprop='description'>
+        <h4>Description:</h4>
+        {{ content }}
+      </section>
+      {% if page.ingredients %}
+      <div class='half'>
+        <section>
+          <h4>Ingredients:</h4>
+          <p>{{ page.ingredients }}</p>
+        </section>
+        {% endif %}
+        {% if contains != [] %}
+        <section>
+          <h4>Contains:</h4>
+          <ul>
+          {% for ingredient in contains %}
+            <li class='contains-item'>
+              <img src='{{ site.image_prefix }}{{ ingredient }}.png'
+                   alt='{{ ingredient }}' />
+              <span>{{ ingredient }}</span>
+            </li>
+          {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+      </div>
+      {% if page.serving_size %}
+      <section class='half'>
+        <table>
+          <tr>
+            <th>Serving Size</th>
+            <td>{{ page.serving_size }}g</td>
+          </tr>
+          <tr>
+            <th>Energy</th>
+            <td>{{ page.energy }}kcal</td>
+          </tr>
+          <tr>
+            <th>Protein</th>
+            <td>{{ page.protein }}g</td>
+          </tr>
+          <tr>
+            <th>Carbohydrates</th>
+            <td>{{ page.carbohydrates }}g</td>
+          </tr>
+          <tr>
+            <th>Fat</th>
+            <td>{{ page.fat }}g</td>
+          </tr>
+        </table>
+      </section>
+      {% endif %}
     </article>
   </div>
   <div id='visited' data-begin='1' data-end='4'></div>
-  <section class='yotpo yotpo-main-widget'
+  <!-- <section class='yotpo yotpo-main-widget'
     data-product-id='{{ page.url }}'
     data-name='{{ page.name }}'
     data-url='{{ site.url }}{{ site.baseurl }}{{ page.url }}'
     data-image-url='{{ site.image_prefix }}{{ page.image }}'>
-  </section>
+  </section> -->
 </main>

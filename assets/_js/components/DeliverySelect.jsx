@@ -14,25 +14,22 @@ var DeliverySelect = React.createClass({
   },
 
   render: function() {
-    var delivery = this.state.delivery;
-    var selectedName = delivery && delivery.get('name');
     return (
       <div>
         <div className='button-group'>
           {
-            this.state.methods.toList().map(function(method, i) {
-              var methodName = method.get('name');
+            Object.keys(this.state.methods).map(function(name, i) {
               return (
                 <button type='button' key={i}
-                  onClick={this.select.bind(this, methodName)}
-                  className={selectedName == methodName ? 'selected' : ''}>
-                  {method.get('name')}
+                  onClick={this.select.bind(this, name)}
+                  className={this.state.delivery.name == name ? 'selected' : ''}>
+                  {name}
                 </button>
               );
             }, this)
           }
         </div>
-        <h2>{money(delivery && delivery.get('amount'))}</h2>
+        <h2>{money(this.state.delivery.amount)}</h2>
       </div>
     );
   }

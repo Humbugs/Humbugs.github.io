@@ -2,7 +2,10 @@
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin: 0 auto -4em;
+  margin: 0 auto -13em;
+  @include media($large-screen) {
+    margin: 0 auto -4em;
+  }
 }
 
 html, body {
@@ -15,7 +18,7 @@ html, body {
 }
 
 .footer-2, .wrapper-for-content-outside-of-footer:after {
-  height: 17em;
+  height: 13em;
 
   @include media($large-screen) {
     height: 4em;

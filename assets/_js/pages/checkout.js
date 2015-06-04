@@ -16,6 +16,7 @@ if(document.getElementById('checkout-page')) {
   /* Wake up server */
   SuperAgent.get('{{ site.wake_up }}').end();
   JSE.Actions.checkoutStep({ step: 2 });
+  JSE.Actions.setAddress({ country: '{{ site.defaultAddress.country }}' });
 }
 
 exports.submitPurchase = function(event, form) {

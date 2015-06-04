@@ -7,7 +7,7 @@ var BasketSummary = React.createClass({
   mixins: [Reflux.connect(JSE.Stores.Order)],
 
   render: function() {
-    var total = this.state.order.getIn(['totals', 'price']);
+    var total = this.state.order.totals.price;
     return (
       <a href={this.props.link}>
         <i className='fa fa-shopping-cart'></i>

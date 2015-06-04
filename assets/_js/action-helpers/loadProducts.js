@@ -12,8 +12,8 @@ function setDisplayPrice(products) {
 		product.displayPrice = money(product.price);
 
 		if(product.purchase_option === '1') {
-			product.price = B(product.price).div(100);
-			product.cost_price = B(product.cost_price).div(100);
+			product.price = +B(product.price).div(100);
+			product.cost_price = +B(product.cost_price).div(100);
 			product.displayPrice = product.displayPrice + '/100g';
 		}
 	});

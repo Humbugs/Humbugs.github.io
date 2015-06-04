@@ -1,53 +1,86 @@
 #product-page {
   margin-top: 15px;
-  header { padding: 5px 10px; @include row; }
+  header { padding: 10px 0; @include row; }
+
+  h1, h2 {
+    padding-left: 15px;
+    color: #fff;
+    font-family: Consolas,monaco,monospace;
+  }
 
   h1 {
-    font-size: 4em;
-    background: #ECECEC;
-    padding-left: 5px;
+    font-size: 3.5em;
+    background: #2A4D7C;
+    margin: 10px 0;
   }
 
   h2 {
-    font-size: 3em;
-    margin: -35px 0 5px;
-    background: #F7F7F7;
-    padding-left: 5px;
+    font-size: 2.5em;
+    margin: 0 0 20px;
+    background: #84ACE2;
+
+    span { margin-right: -20px; }
   }
 
-  aside { @include span-columns(3); }
-  article { @include span-columns(9); }
+  .units { font-size: 0.8em; }
 
-  #addToBasket {
+  @include media($medium-screen) {
+    aside { @include span-columns(4); }
+    article { @include span-columns(8); }
+  }
+
+  img { max-height: initial; }
+
+  .add-button {
+    width: 80%;
+    span {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+
+  .weight-selector span {
+    background: #84ACE2;
+    box-shadow: 0 0 1px 1px #6383B2;
+    width: 10%;
+    padding: 0 3%;
+  }
+
+  .product-name, .product-price { display: none; }
+
+  section {
     padding: 10px;
-    margin: 10px 0px;
-    border-radius: 10px;
-    height: 3.5em;
     box-shadow: 0 0 1px 1px #DADADA;
     background: #F7F7F7;
+    margin: 10px 0;
   }
 
-  input, button { @include span-columns(4 of 8) }
-
-  .description {
-    padding: 15px;
-    border-radius: 15px;
-    box-shadow: 0 0 1px 1px #DADADA;
-    background: #F7F7F7;
+  .half {
+    @include span-columns(4 of 8);
   }
 
-  article img {
-    border: 1px solid #D7D7D7;
-    box-shadow: 0 0 1px 1px #D7D7D7;
-    border-radius: 15px;
+  table { margin: 0; text-align: right; }
+  td, th { padding: 5px; }
+
+  .contains-item {
+    display: inline-block;
+    width: 45px;
+    margin-right: 10px;
+    text-align: center;
+    img { display: block; }
   }
 
   #visited-products {
-    margin-top: 5em;
-    li {
-      @include span-columns(4);
-      @include omega(3n);
-      margin-bottom: 2em;
+    margin-top: 10px;
+    h2 { font-size: 2em; }
+
+    @include media($medium-screen) {
+      margin-top: 5em;
+      li {
+        @include span-columns(4);
+        @include omega(3n);
+        margin-bottom: 2em;
+      }
     }
   }
 

@@ -1,7 +1,5 @@
 #taxonomies {
-  margin-top: 5px;
-  box-shadow: 0 0 1px 1px #8E8E8E;
-  color: #fff;
+  box-shadow: 0 0 1px 1px #56716B;
   text-align: center;
 
   li {
@@ -14,9 +12,13 @@
   }
 }
 
-#taxonomies-menu { background: #2A4D7C; }
+#taxonomies-menu {
+  background: #C8DED9;
+}
+
 #taxons-menu {
-  background: #7196C8;
+  background: #FFEFB2;
+  box-shadow: 0 0 1px 1px #76641F;
 
   @include media($large-screen) {
     padding: 0 200px;

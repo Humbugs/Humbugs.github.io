@@ -2,6 +2,7 @@ var React = require('react');
 var JSE = require('jekyll-store-engine');
 var Quantity = require('./Quantity.jsx');
 var money = require('../helpers/money');
+var LazyLoad = require('../vendor/LazyLoad');
 
 var Product = React.createClass({
   addToBasket: function() {
@@ -18,7 +19,9 @@ var Product = React.createClass({
     return (
       <li className='product'>
         <a href={'{{ site.baseurl }}' + item.url}>
-          <img src={'{{ site.image_prefix }}' + item.image} alt={item.name} />
+          <LazyLoad height='200px'>
+            <img src={'{{ site.image_prefix }}' + item.image} alt={item.name} />
+          </LazyLoad>
         </a>
         <div className={item.quantity ? 'details added' : 'details' }>
           <div>

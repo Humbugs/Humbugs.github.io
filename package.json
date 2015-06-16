@@ -19,7 +19,7 @@
   "dependencies": {
     "accounting": "^0.4.1",
     "big.js": "^3.0.1",
-    "box-packer.js": "0.0.1",
+    "classnames": "^2.1.2",
     "jekyll-store-engine": "0.2.6",
     "jekyll-store-display": "0.1.0",
     "jekyll-store-visited": "0.1.0",

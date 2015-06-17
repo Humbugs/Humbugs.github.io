@@ -8,7 +8,6 @@ width: 140
 height: 75
 depth: 15
 weight: 0
-meta_description: 'Small Rainbow Drops only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: 'Sugar, Maize Starch, Rice, Glucose Syrup. Colours: Beetroot, Carmine Extract, Copper Chlorophyll, Lutein, Paprika Extract'

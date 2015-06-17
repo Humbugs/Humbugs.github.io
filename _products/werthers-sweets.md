@@ -8,7 +8,6 @@ width: 110
 height: 25
 depth: 20
 weight: 0
-meta_description: 'Werthers Sweets only 60p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Werthers
 type: [Wrapped]
 flavour: [Cream]

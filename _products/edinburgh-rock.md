@@ -6,7 +6,6 @@ price: 1.4
 cost_price: 0.8
 container_water_weight: 919
 container_sweets_weight: 513
-meta_description: 'Edinburgh Rock only £1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Hard]
 flavour: [Mixed Fruit]
 colour: [Green, Pink, White, Yellow]

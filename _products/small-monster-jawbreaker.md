@@ -8,7 +8,6 @@ width: 40
 height: 40
 depth: 30
 weight: 0
-meta_description: 'Small Monster Jawbreaker only 50p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 free: [Alcohol]
 ---
 Small jawbreaker.

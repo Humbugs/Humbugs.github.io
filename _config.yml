@@ -215,10 +215,6 @@ prose:
         field:
           element: number
           label: 'Fat (g)'
-      - name: meta_description
-        field:
-          element: textarea
-          label: 'Meta-Description'
 
 # http://jekyllrb.com/docs/configuration/
 permalink: blog/:title

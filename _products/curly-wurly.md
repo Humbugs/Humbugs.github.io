@@ -8,7 +8,6 @@ width: 222
 height: 30
 depth: 8
 weight: 28
-meta_description: 'Curly Wurly only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Caramel, Chocolate, Wrapped]
 free: [Alcohol, Gluten, Gelatin]

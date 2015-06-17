@@ -9,7 +9,6 @@ width: 190
 height: 90
 depth: 10
 weight: 0
-meta_description: 'Trinidoro bar only £2.80. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 free: [Alcohol]
 ingredients: 'Cocoa Massa, Cane Sugar, Cocoa Butter, Cocoa: 70% '
 ---

@@ -8,7 +8,6 @@ width: 160
 height: 25
 depth: 10
 weight: 0
-meta_description: 'Fruitella Pixel Chews sweets only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Fruitella
 type: [Chewy, Wrapped]
 flavour: [Mixed Fruit, Ginger]

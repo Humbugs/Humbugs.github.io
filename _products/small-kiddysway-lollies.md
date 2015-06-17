@@ -8,7 +8,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: 'Kiddysway Lollies sweets only 50p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Kiddysway
 type: [Wrapped]
 free: [Alcohol]

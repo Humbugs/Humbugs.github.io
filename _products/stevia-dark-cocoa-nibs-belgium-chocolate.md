@@ -9,7 +9,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: 'Stevia Dark Cocoa-Nibs Belgium Chocolate only £1.39. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Wrapped]
 free: [Alcohol, Sugar]
 ingredients: 'Cocoa Mass, Alimentary Fibre: Dextrin, Inulin, Oligofructose.  Sweeteners: Erythritol, Steviol Glycosides. Cocoa Butter, Roasted Cocoa Bean Kernels, Soya Lecithin, Natural Flavourings. Cocoa Solids: 55%. Factory Processes: Milk, Soya & Nuts. Contains naturally occurring sugars.'

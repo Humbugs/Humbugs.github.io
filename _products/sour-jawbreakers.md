@@ -8,7 +8,6 @@ width: 150
 height: 40
 depth: 20
 weight: 0
-meta_description: 'Sour Jawbreakers only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Gummy, Wrapped]
 flavour: [Sour]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]

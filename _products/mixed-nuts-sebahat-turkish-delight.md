@@ -9,7 +9,6 @@ width: 0
 height: 0
 depth: 0
 weight: 400
-meta_description: 'Mixed Nuts Turkish Delight only £7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Sebahat
 type: [Nuts]
 free: [Alcohol]

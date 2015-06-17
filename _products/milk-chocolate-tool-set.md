@@ -9,7 +9,6 @@ width: 200
 height: 85
 depth: 60
 weight: 0
-meta_description: 'Milk Chocolate Tool Set only £5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")'
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
 ---

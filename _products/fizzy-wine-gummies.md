@@ -8,7 +8,6 @@ width: 100
 height: 15
 depth: 10
 weight: 0
-meta_description: 'Fizzy Wine Gummies only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Fizzy, Gummy, Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol]

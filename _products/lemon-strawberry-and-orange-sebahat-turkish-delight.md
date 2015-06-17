@@ -9,7 +9,6 @@ width: 0
 height: 0
 depth: 0
 weight: 400
-meta_description: 'Lemon, Strawberry & Orange Turkish Delight only £4.49. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Sebahat
 flavour: [Lemon, Orange, Strawberry]
 free: [Alcohol]

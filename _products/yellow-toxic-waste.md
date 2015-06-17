@@ -8,7 +8,6 @@ width: 75
 height: 55
 depth: 50
 weight: 0
-meta_description: 'Yellow Toxic Waste sweets only £1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Hard, Wrapped]
 flavour: [Mixed Fruit, Ginger, Sour]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]

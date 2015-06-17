@@ -6,7 +6,6 @@ purchase_option: 3
 price: 3.99
 cost_price: 0.01596
 weight: 18
-meta_description: 'Fraise Crčme Fraîche With Real Strawberry £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 flavour: [Strawberry]
 colour: [Red]
 free: [Gluten]

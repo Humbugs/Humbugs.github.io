@@ -5,6 +5,5 @@ price: 0.95
 cost_price: 0.38
 container_water_weight: 919
 container_sweets_weight: 0
-meta_description: 'type: [Chewy]
 free: [Alcohol, Gelatin]
 ---

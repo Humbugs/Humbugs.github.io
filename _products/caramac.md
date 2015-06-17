@@ -8,7 +8,6 @@ width: 160
 height: 50
 depth: 3
 weight: 0
-meta_description: 'Caramac bar only 60p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Nestle
 type: [Caramel, Wrapped]
 colour: [Red, Yellow]

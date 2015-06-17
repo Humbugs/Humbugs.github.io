@@ -8,7 +8,6 @@ width: 60
 height: 40
 depth: 20
 weight: 0
-meta_description: 'Gummy Burger sweets only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Gummy, Wrapped]
 free: [Alcohol]
 ---

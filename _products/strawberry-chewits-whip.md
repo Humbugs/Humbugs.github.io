@@ -8,7 +8,6 @@ width: 693
 height: 4
 depth: 4
 weight: 17
-meta_description: 'Strawberry Chewits Whip only 15p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Chewits
 type: [Chewy]
 flavour: [Strawberry]

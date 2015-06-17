@@ -9,7 +9,6 @@ width: 220
 height: 155
 depth: 20
 weight: 0
-meta_description: 'Luxury Belgian Chocolate Equestrian Set only £5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
 ---

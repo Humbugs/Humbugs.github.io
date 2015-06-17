@@ -8,7 +8,6 @@ width: 215
 height: 43
 depth: 18
 weight: 153
-meta_description: 'Fudge Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Chocolate, Wrapped]
 free: [Alcohol, Gluten, Gelatin]

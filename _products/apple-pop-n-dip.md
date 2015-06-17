@@ -8,7 +8,6 @@ width: 120
 height: 70
 depth: 10
 weight: 0
-meta_description: "Apple Pop'n'Dip only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
 type: [Wrapped]
 flavour: [Apple]
 free: [Alcohol, Gluten, Gelatin]

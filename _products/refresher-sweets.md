@@ -8,7 +8,6 @@ width: 112
 height: 20
 depth: 19
 weight: 36
-meta_description: 'Refresher Sweets only 45p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Barratt
 type: [Fizzy, Wrapped]
 free: [Alcohol, Gelatin]

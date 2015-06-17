@@ -9,7 +9,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: 'Chocolate iPad only £12.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")'
 type: [Chocolate, Novelty, Wrapped]
 colour: [Brown]
 free: [Alcohol]

@@ -8,7 +8,6 @@ width: 145
 height: 55
 depth: 15
 weight: 0
-meta_description: 'Raspberry Mini Whips Box only 20p". Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chewy, Wrapped]
 flavour: [Raspberry]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]

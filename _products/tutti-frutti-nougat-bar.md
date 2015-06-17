@@ -8,7 +8,6 @@ width: 190
 height: 30
 depth: 25
 weight: 110
-meta_description: 'Tutti Frutti Nougat Bar only £1.25. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Nougat, Wrapped]
 flavour: [Mixed Fruit]
 free: [Alcohol]

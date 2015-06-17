@@ -8,7 +8,6 @@ width: 180
 height: 30
 depth: 3
 weight: 0
-meta_description: 'Wham Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Wham
 type: [Chewy, Wrapped]
 flavour: [Raspberry]

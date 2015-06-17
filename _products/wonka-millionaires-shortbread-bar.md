@@ -8,7 +8,6 @@ width: 130
 height: 40
 depth: 10
 weight: 0
-meta_description: 'Wonka Millionaires Shortbread Bar only 65p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Wonka
 type: [Chocolate, Wrapped]
 colour: [Purple]

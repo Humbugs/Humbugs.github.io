@@ -8,7 +8,6 @@ width: 160
 height: 30
 depth: 3
 weight: 0
-meta_description: 'Maoam Giant Sour Stripe bar only 10p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Maoam
 type: [Chewy, Wrapped]
 flavour: [Cola, Lemon, Sour]

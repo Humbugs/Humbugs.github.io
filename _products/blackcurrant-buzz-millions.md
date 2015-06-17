@@ -8,7 +8,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: 'Blackcurrant Buzz Millions only £1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chewy, Wrapped]
 flavour: [Blackcurrant]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]

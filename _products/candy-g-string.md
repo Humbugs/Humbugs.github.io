@@ -9,7 +9,6 @@ width: 180
 height: 160
 depth: 45
 weight: 200
-meta_description: 'Candy G-string only £5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Novelty]
 free: [Alcohol]
 ---

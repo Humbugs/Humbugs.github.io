@@ -9,7 +9,6 @@ width: 120
 height: 65
 depth: 15
 weight: 0
-meta_description: 'Chocolate iPhone only £3.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")'
 type: [Chocolate, Novelty, Wrapped]
 colour: [White]
 free: [Alcohol]

@@ -8,7 +8,6 @@ width: 135
 height: 40
 depth: 3
 weight: 0
-meta_description: 'Daim Bar only . Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Nuts, Wrapped]
 colour: [Red]
 free: [Alcohol]

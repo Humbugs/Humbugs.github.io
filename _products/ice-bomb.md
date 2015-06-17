@@ -8,7 +8,6 @@ width: 65
 height: 45
 depth: 30
 weight: 0
-meta_description: 'Ice Bomb sweets only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Gum, Wrapped]
 flavour: [Mint]
 free: [Alcohol, Lactose, Nut]

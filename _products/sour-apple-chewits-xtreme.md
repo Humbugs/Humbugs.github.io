@@ -8,7 +8,6 @@ width: 180
 height: 35
 depth: 10
 weight: 0
-meta_description: 'Sour Apple Chewits Xtreme bars only 40p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"),"")'
 brand: Chewits
 type: [Chewy, Wrapped]
 flavour: [Apple, Sour]

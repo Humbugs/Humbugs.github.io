@@ -8,7 +8,6 @@ width: 160
 height: 40
 depth: 10
 weight: 0
-meta_description: 'Frys Peppermint Cream only 75p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Frys
 type: [Chocolate, Wrapped]
 flavour: [Mint]

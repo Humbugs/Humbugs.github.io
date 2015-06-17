@@ -8,7 +8,6 @@ width: 175
 height: 25
 depth: 5
 weight: 17
-meta_description: 'Swizzleberry Refresher Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Swizzels Matlow
 type: [Chewy, Wrapped]
 free: [Alcohol, Gluten, Nut]

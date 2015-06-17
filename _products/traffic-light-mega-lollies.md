@@ -9,7 +9,6 @@ width: 110
 height: 40
 depth: 20
 weight: 0
-meta_description: 'Traffic Light Mega Lollies only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 'Joseph-Dobson-&-Sons-Ltd'
 type: [Liquorice, Lollipop]
 colour: [Red]

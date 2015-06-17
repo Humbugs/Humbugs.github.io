@@ -8,7 +8,6 @@ width: 150
 height: 41
 depth: 34
 weight: 100
-meta_description: 'Brain Licker sweets only £1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Wrapped]
 flavour: [Sour]
 free: [Alcohol, Nut]

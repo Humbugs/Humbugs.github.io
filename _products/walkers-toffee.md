@@ -8,7 +8,6 @@ width: 110
 height: 60
 depth: 15
 weight: 0
-meta_description: 'Walkers Toffee bar only 95p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 'Walkers-Nonsuch'
 type: [Toffee, Wrapped]
 free: [Alcohol, Gluten, Nut, Gelatin]

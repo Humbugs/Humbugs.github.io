@@ -8,7 +8,6 @@ width: 50
 height: 50
 depth: 40
 weight: 0
-meta_description: 'Medium Monster Jawbreaker only £1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 free: [Alcohol]
 ---
 Medium sized jawbreaker.

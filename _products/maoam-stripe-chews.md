@@ -8,7 +8,6 @@ width: 85
 height: 30
 depth: 3
 weight: 0
-meta_description: 'Maoam Stripe Chews only 5p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Maoam
 type: [Wrapped]
 free: [Alcohol, Gluten, Nut]

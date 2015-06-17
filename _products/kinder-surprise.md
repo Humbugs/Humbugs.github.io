@@ -8,7 +8,6 @@ width: 65
 height: 50
 depth: 30
 weight: 0
-meta_description: 'Kinder Surprise only 50p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Kinder
 type: [Chocolate, Wrapped]
 colour: [White]

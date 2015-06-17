@@ -8,7 +8,6 @@ width: 105
 height: 20
 depth: 20
 weight: 0
-meta_description: 'Blackcurrant Chewits sweets only 40p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Chewits
 type: [Chewy, Wrapped]
 flavour: [Blackcurrant]

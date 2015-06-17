@@ -8,7 +8,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: 'Sour Sherbet Gummy Face Plastic Fruits sweets only 20p. Traditional sweets at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Sherbet, Wrapped]
 flavour: [Mixed Fruit, Ginger, Sour]
 colour: [Orange, Pink, Yellow]

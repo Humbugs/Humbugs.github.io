@@ -7,7 +7,6 @@ price: 0.2
 cost_price: 0.12
 container_water_weight: 919
 container_sweets_weight: 655
-meta_description: 'Coconut Rolls only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Liquorice]
 flavour: [Aniseed, Coconut]
 colour: [Black, Pink, White, Yellow]

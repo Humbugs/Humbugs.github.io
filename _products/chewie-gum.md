@@ -8,7 +8,6 @@ width: 100
 height: 30
 depth: 25
 weight: 0
-meta_description: 'Chewie Gum sweets only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Gum, Wrapped]
 flavour: [Banana, Lemon]
 colour: [Yellow]

@@ -9,7 +9,6 @@ width: 165
 height: 80
 depth: 15
 weight: 0
-meta_description: 'Xplosive Alphabet Chocolate for £2.89 with popping candy pieces. Traditional sweet treats and more at Humbugs Confectionery Store.'
 brand: Laybella
 type: [Chocolate, Novelty, Wrapped]
 colour: [Brown]

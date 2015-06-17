@@ -9,7 +9,6 @@ width: 80
 height: 65
 depth: 20
 weight: 50
-meta_description: 'Jelly Belly Assorted Flavours Pocket Pack only £1.10. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 'Jelly-Belly'
 type: [Chewy]
 flavour: [Mixed Fruit]

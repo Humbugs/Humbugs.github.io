@@ -8,7 +8,6 @@ width: 80
 height: 60
 depth: 20
 weight: 29
-meta_description: 'Weirds Strawberry & Orange Tangy Candy only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Weirds
 type: [Wrapped]
 flavour: [Orange, Strawberry]

@@ -2,7 +2,12 @@
   <meta charset='utf-8'>
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
-  <meta name='description' content='{{ site.description }}'>
+
+  {% if page.layout == 'product' %}
+    <meta name='description' content='{{ page.name }} only £{{ page.price }}{% if page.purchase_option == 1 %}/100g{% endif %}. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'>
+  {% else %}
+    <meta name='description' content='{{ site.description }}'>
+  {% endif %}
 
   <title>{% if page.title %}{{ page.title }} | {% elsif page.name %}{{ page.name }} | {% endif %}{{ site.title }}</title>
 

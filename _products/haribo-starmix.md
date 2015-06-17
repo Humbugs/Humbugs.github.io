@@ -8,7 +8,6 @@ width: 130
 height: 95
 depth: 3
 weight: 0
-meta_description: 'Haribo Starmix sweets only 25p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Haribo
 type: [Gummy, Wrapped]
 free: [Alcohol, Lactose, Nut]

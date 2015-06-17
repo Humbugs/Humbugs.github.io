@@ -8,7 +8,6 @@ width: 85
 height: 45
 depth: 15
 weight: 0
-meta_description: 'Atomic Fireblast (Box) sweets only 35p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Hard, Wrapped]
 flavour: [Aniseed]
 colour: [Red]

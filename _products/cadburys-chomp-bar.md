@@ -8,7 +8,6 @@ width: 130
 height: 25
 depth: 10
 weight: 0
-meta_description: 'Cadburys Chomp Bar only 20p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Cadburys
 type: [Caramel, Chocolate, Wrapped]
 colour: [Red, Yellow]

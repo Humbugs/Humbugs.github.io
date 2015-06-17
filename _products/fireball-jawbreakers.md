@@ -8,7 +8,6 @@ width: 150
 height: 40
 depth: 20
 weight: 0
-meta_description: 'Fireball Jawbreakers only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Gummy, Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: 'Dextrose, Sucrose, Gum Base, Glucose Syrup, Modified Starch, Glazing Agents: Carnauba Wax, Antioxidant: E321. Colours: E120, E160A'

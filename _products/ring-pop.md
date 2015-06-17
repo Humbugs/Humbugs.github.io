@@ -8,7 +8,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: 'Ring Pop only 50p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Lollipop]
 flavour: [Strawberry]
 free: [Alcohol]

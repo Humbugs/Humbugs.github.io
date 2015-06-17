@@ -8,7 +8,6 @@ width: 120
 height: 70
 depth: 10
 weight: 0
-meta_description: "Strawberry Pop'n'Dip only 30p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
 flavour: [Strawberry]
 free: [Alcohol, Gluten, Gelatin]
 ingredients: 'Sugar, Glucose Syrup, Carbon Dioxide, Lactose, Flavouring, Colours: E192, E102, E133, E129, E102'

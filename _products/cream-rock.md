@@ -6,7 +6,6 @@ price: 1.2
 cost_price: 0.55
 container_water_weight: 919
 container_sweets_weight: 712
-meta_description: 'Cream Rock Liquorice only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Liquorice]
 flavour: [Aniseed, Cream]
 colour: [Black, White, Yellow]

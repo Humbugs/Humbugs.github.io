@@ -9,7 +9,6 @@ width: 263
 height: 137
 depth: 33
 weight: 240
-meta_description: 'Barbie Game with Chocolate Pieces only £7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Novelty]
 free: [Alcohol]
 ---

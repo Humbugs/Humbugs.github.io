@@ -9,7 +9,6 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-meta_description: "Duncan's Chocolate Stacks set only £5.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
 ---

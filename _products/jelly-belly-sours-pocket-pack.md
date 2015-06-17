@@ -9,7 +9,6 @@ width: 80
 height: 65
 depth: 20
 weight: 50
-meta_description: 'Jelly Belly Sours Pocket Pack only £1.10 from. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"'
 brand: 'Jelly-Belly'
 type: [Chewy]
 flavour: [Sour]

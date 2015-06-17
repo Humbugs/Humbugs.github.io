@@ -9,7 +9,6 @@ width: 165
 height: 80
 depth: 15
 weight: 0
-meta_description: 'Almond Alphabet Chocolate for £2.89. Traditional sweet treats and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: Laybella
 type: [Chocolate, Novelty, Wrapped]
 colour: [Brown]

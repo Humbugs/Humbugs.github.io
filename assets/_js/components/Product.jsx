@@ -49,7 +49,10 @@ var Product = React.createClass({
             }
           </div>
           <div className='product-name'>{item.name}</div>
-          <div className='product-price'>{item.displayPrice}</div>
+          <div className='product-price'>
+            {money(item.display_price)}
+            { item.purchase_option == '1' ? '/100g' : null}
+          </div>
         </div>
       </li>
     );

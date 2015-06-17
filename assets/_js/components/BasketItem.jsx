@@ -17,7 +17,10 @@ var BasketItem = React.createClass({
           <img src={'{{ site.image_prefix }}' + item.image} alt={item.name} />
           </a>
         </td>
-        <td>{item.displayPrice}</td>
+        <td>
+          {money(item.display_price)}
+          { item.purchase_option == '1' ? '/100g' : null}
+        </td>
         <td><Quantity item={item} /></td>
         <td>{money(item.subtotal)}</td>
         <td onClick={this.remove}>x</td>

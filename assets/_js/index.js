@@ -15,9 +15,6 @@ require('jekyll-store-favourites');
 require('jekyll-store-google-analytics');
 require('./store-decorators/BasketStoreDecorator');
 
-// Action Helpers
-require('./action-helpers/loadProducts');
-
 // Helpers
 window.toggle = require('./helpers/toggle');
 window.loadJSON = require('./helpers/loadJSON');

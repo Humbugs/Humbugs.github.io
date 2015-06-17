@@ -19,7 +19,7 @@ var Product = React.createClass({
     return (
       <li className='product'>
         <a href={'{{ site.baseurl }}' + item.url}>
-          <LazyLoad height='200px'>
+          <LazyLoad>
             <img src={'{{ site.image_prefix }}' + item.image} alt={item.name} />
           </LazyLoad>
         </a>

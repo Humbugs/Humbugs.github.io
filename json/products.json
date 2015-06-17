@@ -7,12 +7,22 @@ permalink: /products.json
 
 [
   {% for product in available_products %}
+      {% if product.purchase_option == 1 %}
+        {% capture price %}{{ product.price | divided_by: 100.0 }}{% endcapture %}
+        {% capture cost_price %}{{ product.cost_price | divided_by: 100 }}{% endcapture %}
+        {% capture display_price %}£{{ product.price }}/100g{% endcapture %}
+      {% else %}
+        {% assign price = product.price %}
+        {% assign cost_price = product.cost_price %}
+        {% capture display_price %}£{{ product.price }}{% endcapture %}
+      {% endif %}
     {
       "name": "{{ product.name }}",
       "image": "{{ product.image }}",
       "purchase_option": "{{ product.purchase_option }}",
-      {% if product.price %}"price": {{ product.price }},{% endif %}
-      {% if product.cost_price %}"cost_price": {{ product.cost_price }},{% endif %}
+      "price": {{ price }},
+      "cost_price": {{ cost_price }},
+      "display_price": "{{ display_price }}",
 
       {% if product.container_water_weight %}
         "container_water_weight": {{ product.container_water_weight }},

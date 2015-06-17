@@ -8,7 +8,7 @@ price: 1
 cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 717
-meta_description: 'Fruit Caramels sweets only Ł1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Fruit Caramels sweets only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chewy]
 flavour: [Mixed Fruit]
 colour: [White]

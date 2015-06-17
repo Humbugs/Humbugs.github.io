@@ -10,7 +10,7 @@ width: 190
 height: 90
 depth: 10
 weight: 0
-meta_description: 'Noumea bar only Ł2.80. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Noumea bar only £2.80. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 free: [Alcohol]
 ingredients: 'Milk Chocolate (Cane Sugar, Cocoa Butter, Milk, Chocolate Liquor)'
 ---

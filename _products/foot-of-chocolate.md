@@ -10,7 +10,7 @@ width: 320
 height: 155
 depth: 25
 weight: 200
-meta_description: 'Foot Of Chocolate bar only Ł3.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Foot Of Chocolate bar only £3.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
 ---

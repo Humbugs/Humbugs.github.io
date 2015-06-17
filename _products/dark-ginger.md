@@ -7,7 +7,7 @@ purchase_option: 3
 price: 120
 cost_price: 0.8
 weight: 13
-meta_description: 'Dark Ginger chocolates only Ł3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Dark Ginger chocolates only £3.99/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate]
 flavour: [Ginger]
 colour: [Brown]

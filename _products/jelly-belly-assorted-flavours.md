@@ -10,7 +10,7 @@ width: 145
 height: 75
 depth: 20
 weight: 150
-meta_description: 'Jelly Belly Assorted Flavours only Ł3.30. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Jelly Belly Assorted Flavours only £3.30. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 'Jelly-Belly'
 type: [Chewy]
 flavour: [Mixed Fruit]

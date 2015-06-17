@@ -8,7 +8,7 @@ price: 1.3
 cost_price: 0.52
 container_water_weight: 919
 container_sweets_weight: 468
-meta_description: 'Uncle Joes Mint Balls only Ł1.30/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Uncle Joes Mint Balls only £1.30/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Hard, Mint, Traditional, Wrapped]
 flavour: [Mint]
 colour: [Brown]

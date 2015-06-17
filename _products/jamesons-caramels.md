@@ -1,5 +1,5 @@
 ---
-name: Jamesons Caramels
+name: "Jameson's Caramels"
 sku: 'HBG-JR-062-01'
 available: TRUE
 image: 'jamesons-caramels.jpg'
@@ -8,8 +8,8 @@ price: 1.45
 cost_price: 0.58
 container_water_weight: 919
 container_sweets_weight: 501
-meta_description: "Jameson's Caramels only Ł1.45/100g. Traditional sweets and more at humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
-brand: 'Jameson’s'
+meta_description: "Jameson's Caramels only £1.45/100g. Traditional sweets and more at humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
+brand: "Jameson's"
 type: [Caramel, Chocolate, Wrapped]
 colour: [Yellow]
 free: [Alcohol]

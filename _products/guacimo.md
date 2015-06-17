@@ -10,7 +10,7 @@ width: 190
 height: 90
 depth: 10
 weight: 0
-meta_description: 'Guacimo bars only Ł2.80. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Guacimo bars only £2.80. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Wrapped]
 free: [Alcohol]
 ingredients: 'Cane Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Cocoa Solids 47%, Milk Solids 18%'

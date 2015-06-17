@@ -18,9 +18,9 @@ permalink: /products.json
       "name": "{{ product.name }}",
       "image": "{{ product.image }}",
       "purchase_option": "{{ product.purchase_option }}",
-      "price": {{ price }},
-      "cost_price": {{ cost_price }},
-      "display_price": {{ product.price }},
+      {% if product.price %}"price": {{ price }},{% endif %}
+      {% if product.cost_price %}"cost_price": {{ cost_price }},{% endif %}
+      {% if product.price %}"display_price": {{ product.price }},{% endif %}
 
       {% if product.container_water_weight %}
         "container_water_weight": {{ product.container_water_weight }},

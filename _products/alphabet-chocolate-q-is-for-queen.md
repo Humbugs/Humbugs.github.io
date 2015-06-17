@@ -10,7 +10,7 @@ width: 165
 height: 80
 depth: 15
 weight: 0
-meta_description: 'Queen Alphabet Chocolate for Ł2.89 with gold coloured almond and walnut pieces. Traditional sweet treats and more at Humbugs Confectionery Store.'
+meta_description: 'Queen Alphabet Chocolate for £2.89 with gold coloured almond and walnut pieces. Traditional sweet treats and more at Humbugs Confectionery Store.'
 brand: Laybella
 type: [Chocolate, Novelty, Nuts, Wrapped]
 colour: [Brown]

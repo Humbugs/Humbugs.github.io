@@ -10,7 +10,7 @@ width: 200
 height: 90
 depth: 29
 weight: 155
-meta_description: 'Bean Boozled Giftbox/Spinner only Ł7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Bean Boozled Giftbox/Spinner only £7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Novelty]
 free: [Alcohol, Gluten, Gelatin]
 ---

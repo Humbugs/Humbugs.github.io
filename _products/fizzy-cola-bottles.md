@@ -1,16 +1,17 @@
 ---
 name: Fizzy Cola Bottles
-sku: 'HBG-PM-017-01'
-available: FALSE
-purchase_option: 2
-price: 0.01
-cost_price: 0.004
+sku: 'HBG-JR-028-01'
+available: TRUE
+image: 'cola-bottles-fizzy-cola-bottles.jpg'
+purchase_option: 1
+price: 1
+cost_price: 0.5
 container_water_weight: 919
-container_sweets_weight: 0
-weight: 0
-meta_description: 'Fizzy Cola Bottles sweets only 1p. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
-type: [Fizzy, Gummy]
+container_sweets_weight: 703
+meta_description: 'Fizzy Cola Bottles only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+type: [Fizzy, Jelly]
+flavour: [Cola]
 colour: [Brown]
 free: [Alcohol]
 ---
-They’re fizzy and cola flavoured! The pick a mix gummy legend; fizzy sour bottle shaped sweets with a coating of sugar that are delightfully chewy.
+Fizzy cola flavoured bottle gums.

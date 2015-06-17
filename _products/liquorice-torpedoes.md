@@ -7,7 +7,7 @@ price: 1
 cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 876
-meta_description: 'Liquorice Torpedoes only Ł1.00/100g. Traditional sweets and more at Humbugs Confectionery  Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Liquorice Torpedoes only £1.00/100g. Traditional sweets and more at Humbugs Confectionery  Store. Specialists in satisfying your sweet tooth!'
 type: [Liquorice]
 flavour: [Aniseed]
 colour: [Green, Orange, Pink, Purple, Rainbow, Red, Yellow]

@@ -8,7 +8,7 @@ price: 1.2
 cost_price: 0.85
 container_water_weight: 919
 container_sweets_weight: 750
-meta_description: 'Chocolate Stones sweets only Ł1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Chocolate Stones sweets only £1.20/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate]
 flavour: [Chocolate]
 colour: [Black, Brown, White]

@@ -1,5 +1,5 @@
 ---
-name: 'Fruit Salad Bar (Max)'
+name: Fruit Salad Bar Max
 sku: 'HBG-SI-025-02'
 available: FALSE
 purchase_option: 0

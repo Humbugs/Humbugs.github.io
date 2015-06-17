@@ -9,7 +9,7 @@ width: 235
 height: 64
 depth: 11
 weight: 147
-meta_description: 'Pink & White Nougat Bar only Ł1.25. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Pink & White Nougat Bar only £1.25. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Nougat, Wrapped]
 colour: [Pink, White]
 free: [Alcohol]

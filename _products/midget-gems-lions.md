@@ -1,5 +1,5 @@
 ---
-name: 'Midget Gems (Lions)'
+name: "Lion's Midget Gems"
 sku: 'HBG-JR-076-02'
 available: TRUE
 image: 'midget-gems-lions.jpg'
@@ -8,7 +8,8 @@ price: 1.35
 cost_price: 0.54
 container_water_weight: 919
 container_sweets_weight: 816
-meta_description: 'Lions Midget Gems only Ł1.35/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: "Lion's Midget Gems only £1.35/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
+brand: "Lion's"
 type: [Chewy, Gummy]
 flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, White, Yellow]

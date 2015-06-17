@@ -10,7 +10,7 @@ width: 165
 height: 80
 depth: 15
 weight: 0
-meta_description: 'Under the Sea Alphabet Chocolate for Ł2.89 with sea salt and caramel. Traditional sweet treats and more at Humbugs Confectionery Store.'
+meta_description: 'Under the Sea Alphabet Chocolate for £2.89 with sea salt and caramel. Traditional sweet treats and more at Humbugs Confectionery Store.'
 brand: Laybella
 type: [Caramel, Chocolate, Novelty, Wrapped]
 flavour: [Salt]

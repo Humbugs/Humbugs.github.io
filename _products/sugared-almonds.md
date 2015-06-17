@@ -8,7 +8,7 @@ price: 1.4
 cost_price: 0.56
 container_water_weight: 919
 container_sweets_weight: 820
-meta_description: 'Sugared Almonds only Ł1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Sugared Almonds only £1.40/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Nuts]
 colour: [Pink, Purple, White, Yellow]
 free: [Alcohol, Lactose]

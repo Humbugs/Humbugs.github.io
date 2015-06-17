@@ -1,5 +1,5 @@
 ---
-name: Jamesons Raspberry Ruffles
+name: "Jameson's Raspberry Ruffles"
 sku: 'HBG-JR-061-01'
 available: TRUE
 image: 'jamesons-raspberry-ruffles.jpg'
@@ -8,8 +8,8 @@ price: 1.45
 cost_price: 0.58
 container_water_weight: 919
 container_sweets_weight: 492
-meta_description: "Jameson's Raspberry Ruffles only Ł1.45/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
-brand: 'Jameson’s'
+meta_description: "Jameson's Raspberry Ruffles only £1.45/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"
+brand: "Jameson's"
 type: [Chocolate, Dried Fruit, Wrapped]
 flavour: [Coconut, Raspberry]
 colour: [Red]

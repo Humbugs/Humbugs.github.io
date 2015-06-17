@@ -1,5 +1,5 @@
 ---
-name: Barbie Game with chocolate pieces
+name: Barbie Game with Chocolate Pieces
 sku: Xmas007
 available: TRUE
 image: 'barbie-game-with-chocolate-pieces.jpg'
@@ -10,7 +10,7 @@ width: 263
 height: 137
 depth: 33
 weight: 240
-meta_description: 'Barbie Game with Chocolate Pieces only Ł7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Barbie Game with Chocolate Pieces only £7.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Novelty]
 free: [Alcohol]
 ---

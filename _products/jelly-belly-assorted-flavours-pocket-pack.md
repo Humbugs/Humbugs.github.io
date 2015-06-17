@@ -1,5 +1,5 @@
 ---
-name: 'Jelly Belly Assorted Flavours (Pocket Pack)'
+name: Jelly Belly Assorted Flavours Pocket Pack
 sku: 'HBG-NV-019-02'
 available: TRUE
 image: 'jelly-belly-assorted-flavours-pocket-pack.jpg'
@@ -10,7 +10,7 @@ width: 80
 height: 65
 depth: 20
 weight: 50
-meta_description: 'Jelly Belly Assorted Flavours Pocket Pack only Ł1.10. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Jelly Belly Assorted Flavours Pocket Pack only £1.10. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 'Jelly-Belly'
 type: [Chewy]
 flavour: [Mixed Fruit]

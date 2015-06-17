@@ -1,5 +1,5 @@
 ---
-name: 'Jelly Belly Sours (Pocket Pack)'
+name: Jelly Belly Sours Pocket Pack
 sku: 'HBG-NV-022-02'
 available: TRUE
 image: 'jelly-belly-sours-pocket-pack.jpg'
@@ -10,7 +10,7 @@ width: 80
 height: 65
 depth: 20
 weight: 50
-meta_description: 'Jelly Belly Sours Pocket Pack only Ł1.10 from. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"'
+meta_description: 'Jelly Belly Sours Pocket Pack only £1.10 from. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!"'
 brand: 'Jelly-Belly'
 type: [Chewy]
 flavour: [Sour]

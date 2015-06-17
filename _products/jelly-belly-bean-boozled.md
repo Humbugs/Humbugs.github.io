@@ -10,7 +10,7 @@ width: 80
 height: 65
 depth: 15
 weight: 150
-meta_description: 'Jelly Belly Bean Boozled only Ł2.50. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Jelly Belly Bean Boozled only £2.50. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 brand: 'Jelly-Belly'
 type: [Chewy]
 flavour: [Mixed Fruit]

@@ -10,7 +10,7 @@ width: 215
 height: 215
 depth: 37
 weight: 285
-meta_description: 'Trivial Pursuit with Chocolate pieces only Ł9.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Trivial Pursuit with Chocolate pieces only £9.99. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Chocolate, Novelty]
 free: [Alcohol]
 ---

@@ -8,7 +8,7 @@ price: 1
 cost_price: 0.65
 container_water_weight: 919
 container_sweets_weight: 545
-meta_description: 'ABC Letters sweets only Ł1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'ABC Letters sweets only £1/100g. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 flavour: [Mixed Fruit]
 colour: [Pink, White, Yellow]
 free: [Alcohol, Lactose]

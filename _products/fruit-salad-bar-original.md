@@ -1,5 +1,5 @@
 ---
-name: 'Fruit Salad Bar (Original)'
+name: Fruit Salad Bar Original
 sku: 'HBG-SI-025-01'
 available: FALSE
 purchase_option: 0

@@ -9,7 +9,7 @@ width: 100
 height: 35
 depth: 35
 weight: 0
-meta_description: 'Lickedy Lips only Ł1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
+meta_description: 'Lickedy Lips only £1. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'
 type: [Wrapped]
 flavour: [Sour]
 free: [Alcohol, Gluten, Nut, Gelatin]

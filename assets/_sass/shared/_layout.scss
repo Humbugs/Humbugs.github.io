@@ -33,8 +33,7 @@ i {
 
 i.add {
   @extend .fa-plus;
-  color: #B2D0FF;
-  &:hover { color: #6BA4FD; }
+  color: #D0A56F;
 }
 
 i.added {
@@ -56,4 +55,11 @@ h1 {
   text-align: center;
 
   @include media($large-screen) { font-size: 4em; }
+}
+
+.footer-2 { background: #C8DED9; }
+
+.footer-2 ul li a {
+  color: #555555;
+  &:focus, &:hover { color: rgba(85, 85, 85, 0.44); }
 }

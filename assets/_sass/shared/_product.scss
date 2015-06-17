@@ -23,20 +23,25 @@
     margin-top: 1px;
     color: #666;
     text-align: center;
-    &.added { background: #D7F7D1; }
+    &.added { background: #C8DED9; }
   }
 
   .add-button {
     padding: 0 10px 0 0;
     margin: 5px 0 5px 25px;
-    box-shadow: 0 0 1px 1px #7196C8;
-    background: #2A4D7C;
+    box-shadow: 0 0 1px 1px #B3A15E;
+    background: #FFEFB2;
+    color: #555;
+
+    &:hover {
+      i.add { color: #8C6E47; }
+    }
   }
 
   .weight-selector {
     span {
-      background: #A8CAA2;
-      box-shadow: 0 0 1px 1px #85A97F;
+      background: #6A8680;
+      box-shadow: 0 0 1px 1px #20493F;
     }
   }
 

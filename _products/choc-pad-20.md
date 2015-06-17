@@ -1,6 +1,5 @@
 ---
 name: Choc Pad 2.0
-sku: 'HBG-NV-008-01'
 available: FALSE
 image: 'choc-pad-20.jpg'
 purchase_option: 0

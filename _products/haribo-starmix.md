@@ -1,6 +1,5 @@
 ---
 name: Haribo Starmix
-sku: 'HBG-SI-037-01'
 available: FALSE
 purchase_option: 0
 price: 0.25

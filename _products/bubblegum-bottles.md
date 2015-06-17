@@ -1,6 +1,5 @@
 ---
 name: Bubblegum Bottles
-sku: 'HBG-PM-002-01'
 available: FALSE
 purchase_option: 1
 price: 1

@@ -1,6 +1,5 @@
 ---
 name: Foot Of Chocolate
-sku: 'HBG-NV-016-01'
 available: TRUE
 image: 'foot-of-chocolate.jpg'
 purchase_option: 0

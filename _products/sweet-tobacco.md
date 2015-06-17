@@ -1,6 +1,5 @@
 ---
 name: Sweet Tobacco
-sku: 'HBG-JR-106-01'
 available: FALSE
 purchase_option: 1
 price: 1.35

@@ -1,6 +1,5 @@
 ---
 name: Milk Chocolate Raisins
-sku: 'HBG-JR-079-01'
 available: FALSE
 purchase_option: 1
 price: 1

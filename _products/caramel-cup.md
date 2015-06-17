@@ -1,6 +1,5 @@
 ---
 name: Caramel Cup
-sku: 'HBG-NV-006-01'
 available: FALSE
 image: 'caramel-cup.jpg'
 purchase_option: 3

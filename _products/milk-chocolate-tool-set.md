@@ -1,6 +1,5 @@
 ---
 name: Milk Chocolate Tool Set
-sku: 'HBG-NV-029-01'
 available: FALSE
 image: 'milk-chocolate-tool-set.jpg'
 purchase_option: 0

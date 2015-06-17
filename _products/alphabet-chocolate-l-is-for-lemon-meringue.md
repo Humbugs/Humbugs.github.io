@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (L is for Lemon Meringue)'
-sku: 'HBG-NV-001-12'
 available: FALSE
 image: 'alphabet-chocolate-l-is-for-lemon-meringue.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Small Kiddysway Lollies
-sku: 'HBG-SI-046-01'
 available: FALSE
 purchase_option: 0
 price: 0.5

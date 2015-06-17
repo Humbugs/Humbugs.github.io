@@ -1,6 +1,5 @@
 ---
 name: Boiled Assortment
-sku: 'HBG-JR-015-01'
 available: FALSE
 purchase_option: 1
 price: 1

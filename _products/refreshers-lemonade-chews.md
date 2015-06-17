@@ -1,6 +1,5 @@
 ---
 name: Refreshers Lemonade Chews
-sku: 'HBG-SI-075-01'
 available: FALSE
 purchase_option: 0
 price: 0.25

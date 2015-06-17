@@ -1,6 +1,5 @@
 ---
 name: Sour Apple Cubes
-sku: 'HBG-JR-035-03'
 available: FALSE
 purchase_option: 1
 price: 1

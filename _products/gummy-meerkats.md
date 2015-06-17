@@ -1,6 +1,5 @@
 ---
 name: Gummy Meerkats
-sku: 'HBG-PM-027-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

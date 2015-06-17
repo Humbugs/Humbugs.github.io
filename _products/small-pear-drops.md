@@ -1,6 +1,5 @@
 ---
 name: Small Pear Drops
-sku: 'HBG-JR-039-05'
 available: TRUE
 image: 'drops-pear-small.jpg'
 purchase_option: 1

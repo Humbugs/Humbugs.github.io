@@ -1,6 +1,5 @@
 ---
 name: Turquoise Fizzy Belt
-sku: 'HBG-PM-014-06'
 available: FALSE
 purchase_option: 2
 price: 0.05

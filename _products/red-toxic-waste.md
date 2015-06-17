@@ -1,6 +1,5 @@
 ---
 name: Red Toxic Waste
-sku: 'HBG-SI-085-02'
 available: FALSE
 purchase_option: 0
 price: 1

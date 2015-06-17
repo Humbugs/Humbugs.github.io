@@ -1,6 +1,5 @@
 ---
 name: Sour Raspberry Bonbons
-sku: 'HBG-JR-016-13'
 available: TRUE
 image: 'bonbons-sour-raspberry.jpg'
 purchase_option: 1

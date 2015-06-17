@@ -1,6 +1,5 @@
 ---
 name: Giant Strawbs
-sku: 'HBG-PM-023-01'
 available: FALSE
 image: 'giant-strawbs.jpg'
 purchase_option: 1

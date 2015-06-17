@@ -1,6 +1,5 @@
 ---
 name: Luxury Belgian Chocolate Football Set
-sku: 'HBG-NV-025-03'
 available: FALSE
 image: 'luxury-belgian-chocolate-set-football.jpg'
 purchase_option: 0

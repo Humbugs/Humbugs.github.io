@@ -1,6 +1,5 @@
 ---
 name: Nutty Brazil Toffees
-sku: 'HBG-JR-088-01'
 available: FALSE
 image: 'nutty-brazil-toffees.jpg'
 purchase_option: 1

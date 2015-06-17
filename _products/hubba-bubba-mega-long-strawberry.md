@@ -1,6 +1,5 @@
 ---
 name: Hubba Bubba Mega Long Strawberry
-sku: 'HBG-SI-040-01'
 available: FALSE
 purchase_option: 0
 price: 1

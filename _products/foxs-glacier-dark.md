@@ -1,6 +1,5 @@
 ---
 name: Foxs Glacier Dark
-sku: 'HBG-JR-049-01'
 available: TRUE
 image: 'foxs-glacier-dark.jpg'
 purchase_option: 1

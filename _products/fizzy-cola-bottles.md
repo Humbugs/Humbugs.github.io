@@ -1,6 +1,5 @@
 ---
 name: Fizzy Cola Bottles
-sku: 'HBG-JR-028-01'
 available: TRUE
 image: 'cola-bottles-fizzy-cola-bottles.jpg'
 purchase_option: 1

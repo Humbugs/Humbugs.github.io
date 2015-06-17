@@ -1,6 +1,5 @@
 ---
 name: Rhubarb & Custard Boiled
-sku: 'HBG-JR-093-01'
 available: TRUE
 image: 'rhubarb-and-custard-boiled.jpg'
 purchase_option: 1

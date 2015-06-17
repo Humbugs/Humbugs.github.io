@@ -1,6 +1,5 @@
 ---
 name: Wrapped Winter Mix
-sku: 'HBG-JR-115-01'
 available: TRUE
 image: 'winter-mix-wrapped.jpg'
 purchase_option: 1

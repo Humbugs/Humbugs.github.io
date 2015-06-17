@@ -1,6 +1,5 @@
 ---
 name: White Chocolate Discs
-sku: 'HBG-PM-008-02'
 available: FALSE
 purchase_option: 2
 price: 0.1

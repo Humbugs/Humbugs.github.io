@@ -1,6 +1,5 @@
 ---
 name: Aniseed Twists
-sku: 'HBG-JR-005-01'
 available: TRUE
 image: 'aniseed-twists.jpg'
 purchase_option: 1

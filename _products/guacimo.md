@@ -1,6 +1,5 @@
 ---
 name: Guacimo
-sku: 'HBG-NV-018-01'
 available: FALSE
 image: guacimo.jpg
 purchase_option: 0

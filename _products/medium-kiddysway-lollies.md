@@ -1,6 +1,5 @@
 ---
 name: Medium Kiddysway Lollies
-sku: 'HBG-SI-046-02'
 available: FALSE
 purchase_option: 0
 price: 1

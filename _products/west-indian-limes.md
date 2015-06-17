@@ -1,6 +1,5 @@
 ---
 name: West Indian Limes
-sku: 'HBG-JR-113-01'
 available: TRUE
 image: 'west-indian-limes.jpg'
 purchase_option: 1

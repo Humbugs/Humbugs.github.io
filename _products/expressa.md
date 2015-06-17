@@ -1,6 +1,5 @@
 ---
 name: Expressa
-sku: 'HBG-NV-014-01'
 available: FALSE
 image: expressa.jpg
 purchase_option: 3

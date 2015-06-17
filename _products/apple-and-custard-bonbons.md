@@ -1,6 +1,5 @@
 ---
 name: 'Apple & Custard Bonbons'
-sku: 'HBG-JR-016-02'
 available: TRUE
 image: 'bonbons-apple-custard.jpg'
 purchase_option: 1

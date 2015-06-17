@@ -1,6 +1,5 @@
 ---
 name: 'Apple Bonbons'
-sku: 'HBG-JR-016-03'
 available: TRUE
 image: 'bonbons-apple.jpg'
 purchase_option: 1

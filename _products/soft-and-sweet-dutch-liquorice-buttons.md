@@ -1,6 +1,5 @@
 ---
 name: 'Soft & Sweet Dutch Liquorice Buttons'
-sku: 'HBG-JR-040-01'
 available: TRUE
 image: 'dutch-liquorice-buttons-soft-sweet.jpg'
 purchase_option: 1

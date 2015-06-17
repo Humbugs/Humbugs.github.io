@@ -1,6 +1,5 @@
 ---
 name: Cherry Liquorice Pencil
-sku: 'HBG-PM-040-03'
 available: FALSE
 purchase_option: 2
 price: 0.1

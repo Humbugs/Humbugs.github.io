@@ -1,6 +1,5 @@
 ---
 name: Wham Cola Bar
-sku: 'HBG-SI-093-02'
 available: FALSE
 purchase_option: 0
 price: 0.2

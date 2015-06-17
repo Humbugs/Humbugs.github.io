@@ -1,6 +1,5 @@
 ---
 name: Chocolate Stones
-sku: 'HBG-JR-022-01'
 available: TRUE
 image: 'chocolate-stones.jpg'
 purchase_option: 1

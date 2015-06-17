@@ -1,6 +1,5 @@
 ---
 name: Strawberry Refresher Bar
-sku: 'HBG-SI-073-02'
 available: FALSE
 purchase_option: 0
 price: 0.2

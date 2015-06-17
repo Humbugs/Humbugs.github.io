@@ -1,6 +1,5 @@
 ---
 name: Crystal Liquorice
-sku: 'HBG-JR-034-01'
 available: FALSE
 purchase_option: 1
 price: 1

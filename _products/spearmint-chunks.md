@@ -1,6 +1,5 @@
 ---
 name: Spearmint Chunks
-sku: 'HBG-JR-103-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

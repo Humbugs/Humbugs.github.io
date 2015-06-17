@@ -1,6 +1,5 @@
 ---
 name: Babette
-sku: 'HBG-NV-002-01'
 available: FALSE
 image: babette.jpg
 purchase_option: 3

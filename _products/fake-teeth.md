@@ -1,6 +1,5 @@
 ---
 name: Fake Teeth
-sku: 'HBG-PM-013-01'
 available: FALSE
 purchase_option: 2
 price: 0.05

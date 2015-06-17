@@ -1,6 +1,5 @@
 ---
 name: Green Apple Ganache Mixed Chocolate Macaroons
-sku: 'HBG-NV-030-02'
 available: FALSE
 purchase_option: 3
 price: 3.99

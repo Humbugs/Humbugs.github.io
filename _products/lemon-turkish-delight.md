@@ -1,6 +1,5 @@
 ---
 name: Lemon Turkish Delight
-sku: 'HBG-NV-039-01'
 available: FALSE
 image: 'turkish-delight-lemon.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Luxury Belgian Chocolate Fishing Set
-sku: 'HBG-NV-025-02'
 available: FALSE
 image: 'luxury-belgian-chocolate-set-fishing.jpg'
 purchase_option: 0

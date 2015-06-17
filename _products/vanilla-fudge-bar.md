@@ -1,6 +1,5 @@
 ---
 name: Vanilla Fudge Bar
-sku: 'HBG-SI-086-01'
 available: FALSE
 purchase_option: 0
 price: 1.25

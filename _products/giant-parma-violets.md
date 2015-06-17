@@ -1,6 +1,5 @@
 ---
 name: Giant Parma Violets
-sku: 'HBG-SI-031-01'
 available: FALSE
 purchase_option: 0
 price: 0.35

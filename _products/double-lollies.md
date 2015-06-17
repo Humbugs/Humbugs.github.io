@@ -1,6 +1,5 @@
 ---
 name: Double Lollies
-sku: 'HBG-SI-018-01'
 available: FALSE
 purchase_option: 0
 price: 0.15

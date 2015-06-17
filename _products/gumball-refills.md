@@ -1,6 +1,5 @@
 ---
 name: Gumball Refills
-sku: 'HBG-SI-033-01'
 available: FALSE
 purchase_option: 0
 price: 0.5

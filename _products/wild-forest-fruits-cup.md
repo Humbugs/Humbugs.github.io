@@ -1,6 +1,5 @@
 ---
 name: Wild Forest Fruits Cup
-sku: 'HBG-NV-041-01'
 available: FALSE
 image: 'wild-forest-fruits-cup.jpg'
 purchase_option: 3

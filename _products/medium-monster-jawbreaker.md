@@ -1,6 +1,5 @@
 ---
 name: Medium Monster Jawbreaker
-sku: 'HBG-SI-063-02'
 available: FALSE
 purchase_option: 0
 price: 1

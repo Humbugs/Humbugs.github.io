@@ -1,6 +1,5 @@
 ---
 name: Traffic Light Mega Lollies
-sku: 'HBG-NV-023-05'
 available: FALSE
 image: 'joseph-dobson-sons-ltd-mega-lollies-traffic-light.jpg'
 purchase_option: 0

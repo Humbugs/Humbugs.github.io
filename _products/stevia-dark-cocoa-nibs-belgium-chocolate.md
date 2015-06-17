@@ -1,6 +1,5 @@
 ---
 name: 'Stevia Dark Cocoa-Nibs Belgium Chocolate'
-sku: 'HBG-NV-004-01'
 available: FALSE
 image: 'belgian-stevia-cocoa-dark-nibs.jpg'
 purchase_option: 0

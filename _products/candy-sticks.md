@@ -1,6 +1,5 @@
 ---
 name: Candy Sticks
-sku: 'HBG-PM-004-01'
 available: FALSE
 image: 'candy-sticks.jpg'
 purchase_option: 1

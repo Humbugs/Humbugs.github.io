@@ -1,6 +1,5 @@
 ---
 name: Bulls Eyes
-sku: 'HBG-JR-018-01'
 available: TRUE
 image: 'bulls-eyes.jpg'
 purchase_option: 1

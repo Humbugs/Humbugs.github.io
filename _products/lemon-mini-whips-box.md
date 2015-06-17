@@ -1,6 +1,5 @@
 ---
 name: Lemon Mini Whips Box
-sku: 'HBG-SI-060-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

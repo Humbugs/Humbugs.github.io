@@ -1,6 +1,5 @@
 ---
 name: Fried Eggs
-sku: 'HBG-PM-022-01'
 available: FALSE
 image: 'fried-eggs.jpg'
 purchase_option: 2

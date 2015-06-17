@@ -1,6 +1,5 @@
 ---
 name: 'Red & Yellow Fizzy Belt'
-sku: 'HBG-PM-014-04'
 available: FALSE
 purchase_option: 2
 price: 0.05

@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Sours
-sku: 'HBG-NV-022-01'
 available: TRUE
 image: 'jelly-belly-sours.jpg'
 purchase_option: 0

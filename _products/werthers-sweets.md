@@ -1,6 +1,5 @@
 ---
 name: Werthers Sweets
-sku: 'HBG-SI-091-01'
 available: FALSE
 purchase_option: 0
 price: 0.6

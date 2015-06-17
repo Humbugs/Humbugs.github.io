@@ -1,6 +1,5 @@
 ---
 name: Haribo Happy Cola
-sku: 'HBG-SI-038-01'
 available: FALSE
 purchase_option: 0
 price: 0.25

@@ -1,6 +1,5 @@
 ---
 name: Twister with Chocolate pieces
-sku: Xmas004
 available: TRUE
 image: 'twister-with-chocolate-pieces.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Foam Bananas
-sku: 'HBG-PM-021-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

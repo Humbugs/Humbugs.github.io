@@ -1,6 +1,5 @@
 ---
 name: Bassetts Mint Favourites
-sku: 'HBG-JR-011-01'
 available: TRUE
 image: 'bassetts-mint-favourites.jpg'
 purchase_option: 1

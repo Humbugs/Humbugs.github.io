@@ -1,6 +1,5 @@
 ---
 name: Mint Fondants
-sku: 'HBG-JR-084-01'
 available: TRUE
 image: 'mint-fondants.jpg'
 purchase_option: 1

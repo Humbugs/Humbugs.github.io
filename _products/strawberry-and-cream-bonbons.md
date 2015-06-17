@@ -1,6 +1,5 @@
 ---
 name: 'Strawberry & Cream Bonbons'
-sku: 'HBG-JR-016-14'
 available: TRUE
 image: 'bonbons-strawberry-cream.jpg'
 purchase_option: 1

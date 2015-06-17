@@ -1,6 +1,5 @@
 ---
 name: Sour Apple Chewits Xtreme
-sku: 'HBG-SI-013-01'
 available: FALSE
 purchase_option: 0
 price: 0.4

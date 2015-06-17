@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Sours Pocket Pack
-sku: 'HBG-NV-022-02'
 available: TRUE
 image: 'jelly-belly-sours-pocket-pack.jpg'
 purchase_option: 0

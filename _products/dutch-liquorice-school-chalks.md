@@ -1,6 +1,5 @@
 ---
 name: 'Dutch Liquorice School Chalks'
-sku: 'HBG-JR-040-05'
 available: TRUE
 image: 'dutch-liquorice-school-chalks.jpg'
 purchase_option: 1

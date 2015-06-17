@@ -1,6 +1,5 @@
 ---
 name: Milkshakes
-sku: 'HBG-PM-043-01'
 available: FALSE
 image: milkshakes.jpg
 purchase_option: 1

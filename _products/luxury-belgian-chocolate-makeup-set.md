@@ -1,6 +1,5 @@
 ---
 name: Luxury Belgian Chocolate Makeup Set
-sku: 'HBG-NV-025-05'
 available: FALSE
 image: 'luxury-belgian-chocolate-set-makeup.jpg'
 purchase_option: 0

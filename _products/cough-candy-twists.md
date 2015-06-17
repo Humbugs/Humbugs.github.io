@@ -1,6 +1,5 @@
 ---
 name: Cough Candy Twists
-sku: 'HBG-JR-030-01'
 available: FALSE
 purchase_option: 1
 price: 1

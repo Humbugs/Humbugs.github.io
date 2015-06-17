@@ -1,6 +1,5 @@
 ---
 name: Cola Chewits Whip
-sku: 'HBG-SI-012-01'
 available: FALSE
 purchase_option: 0
 price: 0.15

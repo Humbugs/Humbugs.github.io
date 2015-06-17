@@ -1,6 +1,5 @@
 ---
 name: Mini Mallows
-sku: 'HBG-JR-082-01'
 available: FALSE
 purchase_option: 1
 price: 1

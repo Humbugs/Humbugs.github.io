@@ -1,6 +1,5 @@
 ---
 name: Rosy Apples
-sku: 'HBG-JR-095-02'
 available: TRUE
 image: 'rosy-apples-unwrapped.jpg'
 purchase_option: 1

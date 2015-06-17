@@ -1,6 +1,5 @@
 ---
 name: Tropical Jawbreakers
-sku: 'HBG-SI-042-04'
 available: FALSE
 purchase_option: 0
 price: 0.3

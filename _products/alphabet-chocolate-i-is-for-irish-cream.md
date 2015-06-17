@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (I is for Irish Cream)'
-sku: 'HBG-NV-001-09'
 available: FALSE
 image: 'alphabet-chocolate-i-is-for-irish-cream.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Trinidoro
-sku: 'HBG-NV-038-01'
 available: FALSE
 image: trinidoro.jpg
 purchase_option: 0

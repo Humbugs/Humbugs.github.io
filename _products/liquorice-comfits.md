@@ -1,6 +1,5 @@
 ---
 name: Liquorice Comfits
-sku: 'HBG-JR-068-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

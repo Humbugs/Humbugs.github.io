@@ -1,6 +1,5 @@
 ---
 name: Midget Gems
-sku: 'HBG-JR-076-01'
 available: TRUE
 image: 'midget-gems.jpg'
 purchase_option: 1

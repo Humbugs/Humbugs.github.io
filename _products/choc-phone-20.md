@@ -1,6 +1,5 @@
 ---
 name: Choc Phone 2.0
-sku: 'HBG-NV-008-02'
 available: FALSE
 image: 'choc-phone-20.jpg'
 purchase_option: 0

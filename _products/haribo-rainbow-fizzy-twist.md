@@ -1,6 +1,5 @@
 ---
 name: Haribo Rainbow Fizzy Twist
-sku: 'HBG-PM-032-01'
 available: FALSE
 purchase_option: 2
 price: 0.1

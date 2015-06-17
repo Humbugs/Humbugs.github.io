@@ -1,6 +1,5 @@
 ---
 name: Dark Chocolate Gingers
-sku: 'HBG-JR-036-01'
 available: TRUE
 image: 'dark-chocolate-gingers.jpg'
 purchase_option: 1

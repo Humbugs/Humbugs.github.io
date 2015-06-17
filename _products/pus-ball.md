@@ -1,6 +1,5 @@
 ---
 name: Pus Ball
-sku: 'HBG-SI-070-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

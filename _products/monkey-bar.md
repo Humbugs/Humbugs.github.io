@@ -1,6 +1,5 @@
 ---
 name: Monkey Bar
-sku: 'HBG-SI-062-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

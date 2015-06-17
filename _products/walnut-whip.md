@@ -1,6 +1,5 @@
 ---
 name: Walnut Whip
-sku: 'HBG-CB-013-01'
 available: FALSE
 purchase_option: 0
 price: 0.8

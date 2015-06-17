@@ -1,6 +1,5 @@
 ---
 name: Fruit Pips
-sku: 'HBG-JR-091-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

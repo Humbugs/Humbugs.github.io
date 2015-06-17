@@ -1,6 +1,5 @@
 ---
 name: Candy Bra
-sku: Xmas008
 available: TRUE
 image: 'candy-bra.jpg'
 purchase_option: 0

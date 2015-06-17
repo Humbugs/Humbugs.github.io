@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Fruit Bowl
-sku: 'HBG-NV-021-01'
 available: TRUE
 image: 'jelly-belly-fruit-bowl.jpg'
 purchase_option: 0

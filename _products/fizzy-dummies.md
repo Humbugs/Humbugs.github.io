@@ -1,6 +1,5 @@
 ---
 name: Fizzy Dummies
-sku: 'HBG-PM-018-01'
 available: FALSE
 purchase_option: 2
 price: 0.1

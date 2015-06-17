@@ -1,6 +1,5 @@
 ---
 name: Mushrooms
-sku: 'HBG-PM-044-01'
 available: FALSE
 image: mushrooms.jpg
 purchase_option: 1

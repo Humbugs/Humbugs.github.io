@@ -1,6 +1,5 @@
 ---
 name: Frys Peppermint Cream
-sku: 'HBG-CB-009-01'
 available: FALSE
 purchase_option: 0
 price: 0.75

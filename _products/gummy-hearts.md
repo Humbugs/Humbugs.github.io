@@ -1,6 +1,5 @@
 ---
 name: Gummy Hearts
-sku: 'HBG-PM-026-01'
 available: FALSE
 purchase_option: 2
 price: 0.02

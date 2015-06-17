@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (K is for Key Lime)'
-sku: 'HBG-NV-001-11'
 available: FALSE
 image: 'alphabet-chocolate-k-is-for-key-lime.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Large Rainbow Drops
-sku: 'HBG-SI-072-02'
 available: FALSE
 purchase_option: 0
 price: 0.38

@@ -1,6 +1,5 @@
 ---
 name: 'Raspberry & Pineapple Barratts Fruit Salad Chews'
-sku: 'HBG-SI-003-01'
 available: FALSE
 purchase_option: 0
 price: 0.4

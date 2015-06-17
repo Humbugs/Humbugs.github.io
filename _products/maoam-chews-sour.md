@@ -1,6 +1,5 @@
 ---
 name: Maoam Sour Chews
-sku: 'HBG-SI-055-02'
 available: FALSE
 purchase_option: 0
 price: 0.15

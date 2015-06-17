@@ -1,6 +1,5 @@
 ---
 name: Fruit Chews
-sku: 'HBG-JR-052-01'
 available: TRUE
 image: 'fruit-chews.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Gummy Bananas
-sku: 'HBG-PM-024-01'
 available: FALSE
 purchase_option: 2
 price: 0.05

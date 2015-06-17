@@ -1,6 +1,5 @@
 ---
 name: 'Super Fruits (Sugar Free)'
-sku: 'HBG-JR-104-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

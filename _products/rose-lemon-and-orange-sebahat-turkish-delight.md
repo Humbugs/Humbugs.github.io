@@ -1,6 +1,5 @@
 ---
 name: 'Rose, Lemon & Orange Turkish Delight'
-sku: 'HBG-NV-037-03'
 available: FALSE
 image: 'sebahat-turkish-delight-rose-lemon-orange.jpg'
 purchase_option: 0

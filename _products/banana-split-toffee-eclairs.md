@@ -1,6 +1,5 @@
 ---
 name: 'Banana Split Toffee Eclairs'
-sku: 'HBG-JR-041-02'
 available: FALSE
 image: 'eclairs-banana-split-toffees.jpg'
 purchase_option: 1

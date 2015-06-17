@@ -1,6 +1,5 @@
 ---
 name: Large Kiddysway Lollies
-sku: 'HBG-SI-046-03'
 available: FALSE
 purchase_option: 0
 price: 1.5

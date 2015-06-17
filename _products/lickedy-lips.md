@@ -1,6 +1,5 @@
 ---
 name: Lickedy Lips
-sku: 'HBG-SI-048-01'
 available: FALSE
 purchase_option: 0
 price: 1

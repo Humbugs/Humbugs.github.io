@@ -1,6 +1,5 @@
 ---
 name: Raspberry Mini Whips Box
-sku: 'HBG-SI-061-02'
 available: FALSE
 purchase_option: 0
 price: 0.2

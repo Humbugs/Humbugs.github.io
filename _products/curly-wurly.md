@@ -1,6 +1,5 @@
 ---
 name: Curly Wurly
-sku: 'HBG-CB-016-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

@@ -1,6 +1,5 @@
 ---
 name: Salted Caramel
-sku: 'HBG-NV-036-01'
 available: FALSE
 image: 'salted-caramel.jpg'
 purchase_option: 3

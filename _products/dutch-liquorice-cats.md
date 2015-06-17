@@ -1,6 +1,5 @@
 ---
 name: Dutch Liquorice Cats
-sku: 'HBG-JR-040-03'
 available: FALSE
 purchase_option: 1
 price: 1.2

@@ -1,6 +1,5 @@
 ---
 name: Fruit Caramels
-sku: 'HBG-JR-051-01'
 available: TRUE
 image: 'fruit-caramels.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: 'Crème Brulée Pyramid'
-sku: 'HBG-NV-011-01'
 available: FALSE
 image: 'crme-brule-pyramid.jpg'
 purchase_option: 3

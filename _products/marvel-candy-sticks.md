@@ -1,6 +1,5 @@
 ---
 name: Marvel Candy Sticks
-sku: 'HBG-SI-078-01'
 available: FALSE
 purchase_option: 0
 price: 0.4

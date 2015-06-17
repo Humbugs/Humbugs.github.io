@@ -1,6 +1,5 @@
 ---
 name: Golf Balls
-sku: 'HBG-SI-032-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

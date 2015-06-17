@@ -1,6 +1,5 @@
 ---
 name: Blue Liquorice Pencil
-sku: 'HBG-PM-040-02'
 available: FALSE
 purchase_option: 2
 price: 0.1

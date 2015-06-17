@@ -1,6 +1,5 @@
 ---
 name: Melon Slices
-sku: 'HBG-PM-042-01'
 available: FALSE
 image: 'melon-slices.jpg'
 purchase_option: 1

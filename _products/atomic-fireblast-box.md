@@ -1,6 +1,5 @@
 ---
 name: 'Atomic Fireblast (Box)'
-sku: 'HBG-SI-001-01'
 available: FALSE
 purchase_option: 0
 price: 0.4

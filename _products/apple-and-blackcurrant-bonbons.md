@@ -1,6 +1,5 @@
 ---
 name: 'Apple & Blackcurrant Bonbons'
-sku: 'HBG-JR-016-01'
 available: TRUE
 image: 'bonbons-apple-blackcurrant.jpg'
 purchase_option: 1

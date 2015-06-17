@@ -1,6 +1,5 @@
 ---
 name: Coltsfoot Rock
-sku: 'HBG-JR-029-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

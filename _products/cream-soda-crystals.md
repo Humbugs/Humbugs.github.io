@@ -1,6 +1,5 @@
 ---
 name: 'Cream Soda Crystals'
-sku: 'HBG-JR-033-04'
 available: FALSE
 purchase_option: 1
 price: 1

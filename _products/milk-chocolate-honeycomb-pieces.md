@@ -1,6 +1,5 @@
 ---
 name: Milk Chocolate Honeycomb Pieces
-sku: 'HBG-JR-077-01'
 available: TRUE
 image: 'milk-chocolate-honeycomb-pieces.jpg'
 purchase_option: 1

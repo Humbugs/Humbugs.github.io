@@ -1,6 +1,5 @@
 ---
 name: 'Candy G-string'
-sku: Xmas009
 available: TRUE
 image: 'candy-g-string.jpg'
 purchase_option: 0

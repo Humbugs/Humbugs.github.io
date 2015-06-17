@@ -1,6 +1,5 @@
 ---
 name: Lemon Sherbets
-sku: 'HBG-JR-097-01'
 available: TRUE
 image: 'sherbets-lemon.jpg'
 purchase_option: 1

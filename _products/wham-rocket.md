@@ -1,6 +1,5 @@
 ---
 name: Wham Rocket
-sku: 'HBG-SI-094-01'
 available: FALSE
 purchase_option: 0
 price: 0.55

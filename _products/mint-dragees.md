@@ -1,6 +1,5 @@
 ---
 name: Mint Dragees
-sku: 'HBG-JR-083-01'
 available: TRUE
 image: 'mint-dragees.jpg'
 purchase_option: 1

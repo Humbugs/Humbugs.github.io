@@ -1,6 +1,5 @@
 ---
 name: Blue Razz Jawbreakers
-sku: 'HBG-SI-042-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

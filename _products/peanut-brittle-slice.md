@@ -1,6 +1,5 @@
 ---
 name: Peanut Brittle Slice
-sku: 'HBG-SI-065-01'
 available: FALSE
 purchase_option: 0
 price: 1.25

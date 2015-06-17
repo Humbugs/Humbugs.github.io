@@ -1,6 +1,5 @@
 ---
 name: Cloves
-sku: 'HBG-JR-024-01'
 available: FALSE
 purchase_option: 1
 price: 1

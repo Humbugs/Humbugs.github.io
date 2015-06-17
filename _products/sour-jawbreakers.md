@@ -1,6 +1,5 @@
 ---
 name: Sour Jawbreakers
-sku: 'HBG-SI-042-03'
 available: FALSE
 purchase_option: 0
 price: 0.3

@@ -1,6 +1,5 @@
 ---
 name: 'Fraise Crème Fraîche With Real Strawberry'
-sku: 'HBG-NV-017-01'
 available: FALSE
 image: 'fraise-crme-frache-with-real-strawberry.jpg'
 purchase_option: 3

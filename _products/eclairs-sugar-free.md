@@ -1,6 +1,5 @@
 ---
 name: 'Eclairs (Sugar Free)'
-sku: 'HBG-JR-041-01'
 available: TRUE
 image: 'eclairs-sugar-free.jpg'
 purchase_option: 1

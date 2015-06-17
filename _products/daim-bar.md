@@ -1,6 +1,5 @@
 ---
 name: Daim Bar
-sku: 'HBG-CB-004-01'
 available: FALSE
 purchase_option: 0
 price: 0.6

@@ -1,6 +1,5 @@
 ---
 name: Giant Fizzers
-sku: 'HBG-SI-029-01'
 available: FALSE
 purchase_option: 0
 price: 0.35

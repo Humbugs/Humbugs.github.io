@@ -1,6 +1,5 @@
 ---
 name: Lovehearts
-sku: 'HBG-SI-050-01'
 available: FALSE
 purchase_option: 0
 price: 0.35

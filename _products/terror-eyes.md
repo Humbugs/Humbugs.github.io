@@ -1,6 +1,5 @@
 ---
 name: Terror Eyes
-sku: 'HBG-SI-083-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

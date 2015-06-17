@@ -1,6 +1,5 @@
 ---
 name: Swizzleberry Refresher Bar
-sku: 'HBG-SI-073-03'
 available: FALSE
 purchase_option: 0
 price: 0.2

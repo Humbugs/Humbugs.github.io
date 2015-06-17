@@ -1,6 +1,5 @@
 ---
 name: Strawberry Planks
-sku: 'HBG-PM-055-01'
 available: FALSE
 purchase_option: 2
 price: 0.01

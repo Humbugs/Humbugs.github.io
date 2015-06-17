@@ -1,6 +1,5 @@
 ---
 name: Rhapsody
-sku: 'HBG-NV-035-01'
 available: FALSE
 image: rhapsody.jpg
 purchase_option: 3

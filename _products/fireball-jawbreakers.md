@@ -1,6 +1,5 @@
 ---
 name: Fireball Jawbreakers
-sku: 'HBG-SI-042-02'
 available: FALSE
 purchase_option: 0
 price: 0.3

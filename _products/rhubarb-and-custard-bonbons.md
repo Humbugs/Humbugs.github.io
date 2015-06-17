@@ -1,6 +1,5 @@
 ---
 name: 'Rhubarb & Custard Bonbons'
-sku: 'HBG-JR-016-12'
 available: TRUE
 image: 'bonbons-rhubarb-custard.jpg'
 purchase_option: 1

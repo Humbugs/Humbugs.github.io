@@ -1,6 +1,5 @@
 ---
 name: Maoam Chews
-sku: 'HBG-SI-055-01'
 available: FALSE
 purchase_option: 0
 price: 0.15

@@ -1,6 +1,5 @@
 ---
 name: Liquorice Allsorts
-sku: 'HBg-JR-067-01'
 available: FALSE
 purchase_option: 1
 price: 1

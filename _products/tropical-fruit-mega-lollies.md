@@ -1,6 +1,5 @@
 ---
 name: Tropical Fruit Mega Lollies
-sku: 'HBG-NV-023-06'
 available: FALSE
 image: 'joseph-dobson-sons-ltd-mega-lollies-tropical-fruit.jpg'
 purchase_option: 0

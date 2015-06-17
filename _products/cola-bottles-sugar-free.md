@@ -1,6 +1,5 @@
 ---
 name: 'Cola Bottles (Sugar Free)'
-sku: 'HBG-JR-028-02'
 available: TRUE
 image: 'cola-bottles-sugar-free-cola-bottles.jpg'
 purchase_option: 1

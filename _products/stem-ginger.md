@@ -1,6 +1,5 @@
 ---
 name: Stem Ginger
-sku: 'HBG-JR-099-01'
 available: FALSE
 purchase_option: 1
 price: 1.5

@@ -1,6 +1,5 @@
 ---
 name: Toffee Bonbons
-sku: 'HBG-JR-016-16'
 available: TRUE
 image: 'bonbons-toffee.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Luxury Belgian Chocolate Toolkit Set
-sku: 'HBG-NV-025-06'
 available: FALSE
 image: 'luxury-belgian-chocolate-set-toolkit.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: 'Cola Cubes'
-sku: 'HBG-JR-035-01'
 available: TRUE
 image: 'cubes-cola.jpg'
 purchase_option: 1

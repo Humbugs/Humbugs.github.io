@@ -1,6 +1,5 @@
 ---
 name: Dairy Milk Little Bars
-sku: 'HBG-CB-005-01'
 available: FALSE
 purchase_option: 0
 price: 0.25

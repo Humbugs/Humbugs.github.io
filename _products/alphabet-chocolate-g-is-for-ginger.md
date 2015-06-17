@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (G is for Ginger)'
-sku: 'HBG-NV-001-07'
 available: FALSE
 image: 'alphabet-chocolate-g-is-for-ginger.jpg'
 purchase_option: 0

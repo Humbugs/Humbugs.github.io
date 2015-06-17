@@ -1,6 +1,5 @@
 ---
 name: Raspberry Buzz Millions
-sku: 'HBG-SI-058-01'
 available: FALSE
 purchase_option: 0
 price: 1

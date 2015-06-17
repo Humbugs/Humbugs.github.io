@@ -1,6 +1,5 @@
 ---
 name: Tango Fizz
-sku: 'HBG-SI-082-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

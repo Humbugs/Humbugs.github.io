@@ -1,6 +1,5 @@
 ---
 name: Dracula Teeth
-sku: 'HBG-PM-012-01'
 available: FALSE
 image: 'dracula-teeth.jpg'
 purchase_option: 1

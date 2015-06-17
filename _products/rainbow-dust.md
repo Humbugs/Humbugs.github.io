@@ -1,6 +1,5 @@
 ---
 name: Rainbow Dust
-sku: 'HBG-PM-046-01'
 available: FALSE
 purchase_option: 2
 price: 0.05

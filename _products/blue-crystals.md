@@ -1,6 +1,5 @@
 ---
 name: 'Blue Crystals'
-sku: 'HBG-JR-033-01'
 available: FALSE
 purchase_option: 1
 price: 1

@@ -1,6 +1,5 @@
 ---
 name: Walkers Nougat Bar
-sku: 'HBG-SI-088-01'
 available: FALSE
 purchase_option: 0
 price: 1.25

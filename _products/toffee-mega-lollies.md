@@ -1,6 +1,5 @@
 ---
 name: Toffee Mega Lollies
-sku: 'HBG-NV-023-04'
 available: FALSE
 image: 'joseph-dobson-sons-ltd-mega-lollies-toffee.jpg'
 purchase_option: 0

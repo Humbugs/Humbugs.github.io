@@ -1,6 +1,5 @@
 ---
 name: Fizzy Cola Bottles
-sku: 'HBG-PM-017-01'
 available: FALSE
 purchase_option: 2
 price: 0.01

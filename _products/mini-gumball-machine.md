@@ -1,6 +1,5 @@
 ---
 name: Mini Gumball Machine
-sku: 'HBG-SI-059-01'
 available: FALSE
 purchase_option: 0
 price: 1.1

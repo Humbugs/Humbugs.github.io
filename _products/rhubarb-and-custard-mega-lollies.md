@@ -1,6 +1,5 @@
 ---
 name: 'Rhubarb & Custard Mega Lollies'
-sku: 'HBG-NV-023-02'
 available: FALSE
 image: 'joseph-dobson-sons-ltd-mega-lollies-rhubarb-custard.jpg'
 purchase_option: 0

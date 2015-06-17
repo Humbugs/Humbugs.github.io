@@ -1,6 +1,5 @@
 ---
 name: Gummy Seahorses
-sku: 'HBG-PM-028-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

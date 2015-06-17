@@ -1,6 +1,5 @@
 ---
 name: Sweet Peanuts
-sku: 'HBG-JR-105-01'
 available: FALSE
 image: 'sweet-peanuts.jpg'
 purchase_option: 1

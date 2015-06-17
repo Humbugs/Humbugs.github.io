@@ -1,6 +1,5 @@
 ---
 name: Liquorice Torpedoes
-sku: 'HBG-JR-072-01'
 available: FALSE
 purchase_option: 1
 price: 1

@@ -1,6 +1,5 @@
 ---
 name: 'White Chocolate Fish & Chips'
-sku: 'HBG-JR-046-01'
 available: TRUE
 image: 'fish-chips-white-chocolate.jpg'
 purchase_option: 1

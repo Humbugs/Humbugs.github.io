@@ -48,10 +48,6 @@ prose:
           element: text
           label: Name
           help: Must be unique
-      - name: sku
-        field:
-          element: text
-          label: SKU
       - name: available
         field:
           element: checkbox

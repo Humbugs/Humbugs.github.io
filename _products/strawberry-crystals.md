@@ -1,6 +1,5 @@
 ---
 name: Strawberry Crystals
-sku: 'HBG-JR-033-07'
 available: FALSE
 purchase_option: 1
 price: 1

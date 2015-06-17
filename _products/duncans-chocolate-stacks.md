@@ -1,6 +1,5 @@
 ---
 name: "Duncan's Chocolate Stacks"
-sku: 'HBG-NV-013-01'
 available: FALSE
 image: 'duncans-chocolate-stacks.jpg'
 purchase_option: 0

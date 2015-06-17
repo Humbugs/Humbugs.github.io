@@ -1,6 +1,5 @@
 ---
 name: Winter Spice Mixed Chocolate Macaroons
-sku: 'HBG-NV-030-04'
 available: FALSE
 purchase_option: 3
 price: 3.99

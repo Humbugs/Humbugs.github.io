@@ -1,6 +1,5 @@
 ---
 name: Wham Sour Apple Bar
-sku: 'HBG-SI-093-03'
 available: FALSE
 purchase_option: 0
 price: 0.2

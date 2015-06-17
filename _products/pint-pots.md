@@ -1,6 +1,5 @@
 ---
 name: Pint Pots
-sku: 'HBG-PM-045-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

@@ -1,6 +1,5 @@
 ---
 name: Vimto Bar
-sku: 'HBG-SI-087-01'
 available: FALSE
 purchase_option: 0
 price: 0.45

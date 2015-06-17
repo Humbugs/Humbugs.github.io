@@ -1,6 +1,5 @@
 ---
 name: Foxs Glacier Fruits
-sku: 'HBG-JR-050-01'
 available: TRUE
 image: 'foxs-glacier-fruits.jpg'
 purchase_option: 1

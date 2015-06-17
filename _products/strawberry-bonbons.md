@@ -1,6 +1,5 @@
 ---
 name: Strawberry Bonbons
-sku: 'HBG-JR-016-15'
 available: TRUE
 image: 'bonbons-strawberry.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Wham Rollafizz Sour Raspberry
-sku: 'HBG-SI-095-01'
 available: FALSE
 purchase_option: 0
 price: 0.55

@@ -1,6 +1,5 @@
 ---
 name: Bassetts Liquorice Allsorts
-sku: 'HBG-JR-010-01'
 available: FALSE
 image: 'bassetts-liquorice-allsorts.jpg'
 purchase_option: 1

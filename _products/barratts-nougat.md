@@ -1,6 +1,5 @@
 ---
 name: Barratts Nougat
-sku: 'HBG-SI-004-01'
 available: FALSE
 purchase_option: 0
 price: 0.45

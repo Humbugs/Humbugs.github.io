@@ -1,6 +1,5 @@
 ---
 name: Small Monster Jawbreaker
-sku: 'HBG-SI-063-01'
 available: FALSE
 purchase_option: 0
 price: 0.5

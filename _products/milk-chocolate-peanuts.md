@@ -1,6 +1,5 @@
 ---
 name: Milk Chocolate Peanuts
-sku: 'HBG-JR-078-01'
 available: FALSE
 purchase_option: 1
 price: 1

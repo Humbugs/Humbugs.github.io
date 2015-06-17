@@ -1,6 +1,5 @@
 ---
 name: 'Lemon Sherbets (Sugar Free)'
-sku: 'HBG-JR-097-03'
 available: TRUE
 image: 'sherbets-lemon-sugar-free.jpg'
 purchase_option: 1

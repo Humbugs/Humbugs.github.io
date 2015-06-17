@@ -1,6 +1,5 @@
 ---
 name: Clementine Buttercream Mixed Chocolate Macaroons
-sku: 'HBG-NV-030-01'
 available: FALSE
 image: 'mixed-chocolate-macaroons-clementine-buttercream.jpg'
 purchase_option: 3

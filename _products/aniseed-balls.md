@@ -1,6 +1,5 @@
 ---
 name: Aniseed Balls
-sku: 'HBG-JR-004-01'
 available: TRUE
 image: 'aniseed-balls.jpg'
 purchase_option: 1

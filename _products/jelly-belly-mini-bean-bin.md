@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Mini Bean Bin
-sku: 'HBG-SI-044-01'
 available: FALSE
 purchase_option: 0
 price: 8.99

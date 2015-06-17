@@ -1,6 +1,5 @@
 ---
 name: Everton Mints
-sku: 'HBG-JR-044-01'
 available: TRUE
 image: 'everton-mints.jpg'
 purchase_option: 1

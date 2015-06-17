@@ -1,6 +1,5 @@
 ---
 name: Cream rock
-sku: 'HBG-JR-031-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

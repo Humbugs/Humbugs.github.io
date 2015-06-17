@@ -1,6 +1,5 @@
 ---
 name: Chocolate Bonbons
-sku: 'HBG-JR-016-07'
 available: TRUE
 image: 'bonbons-chocolate.jpg'
 purchase_option: 1

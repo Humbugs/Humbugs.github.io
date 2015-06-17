@@ -1,6 +1,5 @@
 ---
 name: Sour Apples
-sku: 'HBG-PM-052-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

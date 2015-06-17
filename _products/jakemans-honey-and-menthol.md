@@ -1,6 +1,5 @@
 ---
 name: "Jakeman's Honey & Menthol"
-sku: 'HBG-JR-059-01'
 available: TRUE
 image: 'jakemans-honey-menthol.jpg'
 purchase_option: 1

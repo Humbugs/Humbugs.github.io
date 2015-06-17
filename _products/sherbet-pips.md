@@ -1,6 +1,5 @@
 ---
 name: Sherbet Pips
-sku: 'HBG-JR-091-02'
 available: TRUE
 image: 'pips-sherbet.jpg'
 purchase_option: 1

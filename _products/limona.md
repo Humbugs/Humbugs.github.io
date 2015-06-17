@@ -1,6 +1,5 @@
 ---
 name: Limona
-sku: 'HBG-NV-024-01'
 available: FALSE
 image: limona.jpg
 purchase_option: 3

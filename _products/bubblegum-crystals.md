@@ -1,6 +1,5 @@
 ---
 name: 'Bubblegum Crystals'
-sku: 'HBG-JR-033-02'
 available: FALSE
 purchase_option: 1
 price: 1

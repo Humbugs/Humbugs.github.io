@@ -1,6 +1,5 @@
 ---
 name: Strawberry Sherbets
-sku: 'HBG-JR-097-02'
 available: TRUE
 image: 'sherbets-strawberry.jpg'
 purchase_option: 1

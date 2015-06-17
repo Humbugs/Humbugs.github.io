@@ -1,6 +1,5 @@
 ---
 name: Chocolate Chess Set
-sku: 'HBG-NV-009-01'
 available: TRUE
 image: 'chocolate-chess-set.jpg'
 purchase_option: 0

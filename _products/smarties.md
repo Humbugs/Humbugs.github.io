@@ -1,6 +1,5 @@
 ---
 name: Smarties
-sku: 'HBG-CB-012-01'
 available: FALSE
 purchase_option: 0
 price: 0

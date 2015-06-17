@@ -1,6 +1,5 @@
 ---
 name: 'Orange & Lemon Fizz Balls'
-sku: 'HBG-JR-047-03'
 available: TRUE
 image: 'fizz-balls-orange-lemon.jpg'
 purchase_option: 1

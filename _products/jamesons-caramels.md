@@ -1,6 +1,5 @@
 ---
 name: "Jameson's Caramels"
-sku: 'HBG-JR-062-01'
 available: TRUE
 image: 'jamesons-caramels.jpg'
 purchase_option: 1

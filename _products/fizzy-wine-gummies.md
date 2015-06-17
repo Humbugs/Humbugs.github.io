@@ -1,6 +1,5 @@
 ---
 name: Fizzy Wine Gummies
-sku: 'HBG-SI-022-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

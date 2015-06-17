@@ -1,6 +1,5 @@
 ---
 name: Whole Cerisettes
-sku: 'HBG-NV-040-01'
 available: FALSE
 image: 'whole-cerisettes.jpg'
 purchase_option: 3

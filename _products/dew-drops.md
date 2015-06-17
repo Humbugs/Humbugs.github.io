@@ -1,6 +1,5 @@
 ---
 name: 'Dew Drops'
-sku: 'HBG-JR-039-02'
 available: FALSE
 purchase_option: 1
 price: 1

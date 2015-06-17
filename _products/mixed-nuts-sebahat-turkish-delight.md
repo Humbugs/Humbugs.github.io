@@ -1,6 +1,5 @@
 ---
 name: Mixed Nuts Turkish Delight
-sku: 'HBG-NV-037-02'
 available: FALSE
 image: 'sebahat-turkish-delight-mixed-nuts.jpg'
 purchase_option: 0

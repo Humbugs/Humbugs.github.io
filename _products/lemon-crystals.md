@@ -1,6 +1,5 @@
 ---
 name: Lemon Crystals
-sku: 'HBG-JR-033-05'
 available: FALSE
 purchase_option: 1
 price: 1

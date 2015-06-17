@@ -1,6 +1,5 @@
 ---
 name: 'Fizzy Bubblegum Balls'
-sku: 'HBG-JR-047-02'
 available: TRUE
 image: 'fizz-balls-fizzy-bubblegum.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Banana Milkshakes
-sku: 'HBG-JR-007-01'
 available: FALSE
 purchase_option: 1
 price: 1

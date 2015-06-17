@@ -1,6 +1,5 @@
 ---
 name: "Lion's Midget Gems"
-sku: 'HBG-JR-076-02'
 available: TRUE
 image: 'midget-gems-lions.jpg'
 purchase_option: 1

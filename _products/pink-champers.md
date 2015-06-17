@@ -1,6 +1,5 @@
 ---
 name: Pink Champers
-sku: 'HBG-JR-090-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

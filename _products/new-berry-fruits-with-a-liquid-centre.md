@@ -1,6 +1,5 @@
 ---
 name: New Berry Fruits With A Liquid Centre
-sku: 'HBG-NV-031-01'
 available: FALSE
 image: 'new-berry-fruits-with-a-liquid-centre.jpg'
 purchase_option: 0

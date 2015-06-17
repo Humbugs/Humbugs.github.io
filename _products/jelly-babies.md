@@ -1,6 +1,5 @@
 ---
 name: Jelly Babies
-sku: 'HBG-PM-035-01'
 available: FALSE
 image: 'jelly-babies.jpg'
 purchase_option: 2

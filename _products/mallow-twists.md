@@ -1,6 +1,5 @@
 ---
 name: Mallow Twists
-sku: 'HBG-PM-041-01'
 available: FALSE
 image: 'mallow-twists.jpg'
 purchase_option: 1

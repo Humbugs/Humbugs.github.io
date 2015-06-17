@@ -1,6 +1,5 @@
 ---
 name: "Jameson's Raspberry Ruffles"
-sku: 'HBG-JR-061-01'
 available: TRUE
 image: 'jamesons-raspberry-ruffles.jpg'
 purchase_option: 1

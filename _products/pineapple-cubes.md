@@ -1,6 +1,5 @@
 ---
 name: Pineapple Cubes
-sku: 'HBG-JR-035-02'
 available: FALSE
 purchase_option: 1
 price: 1

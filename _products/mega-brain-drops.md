@@ -1,6 +1,5 @@
 ---
 name: Mega Brain Drops
-sku: 'HBG-SI-057-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

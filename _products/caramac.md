@@ -1,6 +1,5 @@
 ---
 name: Caramac
-sku: 'HBG-CB-003-01'
 available: FALSE
 purchase_option: 0
 price: 0.6

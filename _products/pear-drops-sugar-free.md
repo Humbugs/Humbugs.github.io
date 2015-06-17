@@ -1,6 +1,5 @@
 ---
 name: 'Pear Drops (Sugar Free)'
-sku: 'HBG-JR-039-04'
 available: TRUE
 image: 'drops-pear-sugar-free.jpg'
 purchase_option: 1

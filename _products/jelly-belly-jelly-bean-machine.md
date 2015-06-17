@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Jelly Bean Machine
-sku: 'HBG-SI-043-01'
 available: FALSE
 image: 'jelly-belly-jelly-bean-machine.jpg'
 purchase_option: 0

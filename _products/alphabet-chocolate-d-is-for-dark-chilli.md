@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (D is for Dark Chilli)'
-sku: 'HBG-NV-001-04'
 available: FALSE
 image: 'alphabet-chocolate-d-is-for-dark-chilli.jpg'
 purchase_option: 0

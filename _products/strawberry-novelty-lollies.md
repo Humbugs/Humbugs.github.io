@@ -1,6 +1,5 @@
 ---
 name: Strawberry Novelty Lollies
-sku: 'HBG-NV-033-03'
 available: FALSE
 image: 'novelty-lollies-strawberry.jpg'
 purchase_option: 0

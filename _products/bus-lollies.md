@@ -1,6 +1,5 @@
 ---
 name: Bus Lollies
-sku: 'HBG-SI-007-01'
 available: FALSE
 purchase_option: 0
 price: 1.3

@@ -1,6 +1,5 @@
 ---
 name: Rose Turkish Delight
-sku: 'HBG-NV-039-03'
 available: FALSE
 image: 'turkish-delight-rose.jpg'
 purchase_option: 1

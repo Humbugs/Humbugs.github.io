@@ -1,6 +1,5 @@
 ---
 name: Gobstoppers
-sku: 'HBG-JR-056-01'
 available: TRUE
 image: gobstoppers.jpg
 purchase_option: 1

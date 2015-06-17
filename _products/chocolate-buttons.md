@@ -1,6 +1,5 @@
 ---
 name: Chocolate Buttons
-sku: 'HBG-PM-007-01'
 available: FALSE
 purchase_option: 1
 price: 1

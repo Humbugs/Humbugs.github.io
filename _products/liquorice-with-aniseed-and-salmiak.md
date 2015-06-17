@@ -1,6 +1,5 @@
 ---
 name: Liquorice With Aniseed And Salmiak
-sku: 'HBG-SI-049-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

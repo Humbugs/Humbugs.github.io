@@ -1,6 +1,5 @@
 ---
 name: Chewits
-sku: 'HBG-SI-010-01'
 available: FALSE
 purchase_option: 0
 price: 0.35

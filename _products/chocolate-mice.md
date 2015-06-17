@@ -1,6 +1,5 @@
 ---
 name: Chocolate Mice
-sku: 'HBG-PM-010-01'
 available: FALSE
 purchase_option: 2
 price: 0.05

@@ -1,6 +1,5 @@
 ---
 name: Mega Sour Bubblegum
-sku: 'HBG-JR-074-01'
 available: TRUE
 image: 'mega-sour-bubblegum.jpg'
 purchase_option: 1

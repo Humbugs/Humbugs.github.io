@@ -1,6 +1,5 @@
 ---
 name: Jelly Tots
-sku: 'HBG-SI-045-01'
 available: FALSE
 purchase_option: 0
 price: 0.6

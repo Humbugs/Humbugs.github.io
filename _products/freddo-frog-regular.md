@@ -1,6 +1,5 @@
 ---
 name: Freddo Frog Regular
-sku: 'HBG-CB-007-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

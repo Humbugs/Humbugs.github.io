@@ -1,6 +1,5 @@
 ---
 name: Pez Refills
-sku: 'HBG-SI-067-01'
 available: FALSE
 purchase_option: 0
 price: 1.3

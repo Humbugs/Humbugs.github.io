@@ -1,6 +1,5 @@
 ---
 name: Barratts Black Jacks
-sku: 'HBG-SI-002-01'
 available: FALSE
 purchase_option: 0
 price: 0.4

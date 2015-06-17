@@ -1,6 +1,5 @@
 ---
 name: Noumea
-sku: 'HBG-NV-032-01'
 available: FALSE
 image: noumea.jpg
 purchase_option: 0

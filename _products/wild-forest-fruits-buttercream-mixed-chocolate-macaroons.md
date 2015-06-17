@@ -1,6 +1,5 @@
 ---
 name: Wild Forest Fruits Buttercream Mixed Chocolate Macaroons
-sku: 'HBG-NV-030-03'
 available: FALSE
 purchase_option: 3
 price: 3.99

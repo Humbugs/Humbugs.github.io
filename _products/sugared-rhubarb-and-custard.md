@@ -1,6 +1,5 @@
 ---
 name: 'Sugared Rhubarb & Custard'
-sku: 'HBG-JR-093-02'
 available: FALSE
 image: 'rhubarb-and-custard-sugared.jpg'
 purchase_option: 1

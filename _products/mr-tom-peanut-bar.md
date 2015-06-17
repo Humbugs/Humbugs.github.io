@@ -1,6 +1,5 @@
 ---
 name: Mr Tom Peanut Bar
-sku: 'HBG-SI-064-01'
 available: FALSE
 purchase_option: 0
 price: 0.45

@@ -1,6 +1,5 @@
 ---
 name: Maoam Pin Balls
-sku: 'HBG-SI-054-01'
 available: FALSE
 purchase_option: 0
 price: 0

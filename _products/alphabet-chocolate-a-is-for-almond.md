@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (A is For Almond)'
-sku: 'HBG-NV-001-01'
 available: FALSE
 image: 'alphabet-chocolate-a-is-for-almond.jpg'
 purchase_option: 0

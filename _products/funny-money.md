@@ -1,6 +1,5 @@
 ---
 name: Funny Money
-sku: 'HBG-SI-028-01'
 available: FALSE
 purchase_option: 0
 price: 0.65

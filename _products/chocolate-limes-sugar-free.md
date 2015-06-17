@@ -1,6 +1,5 @@
 ---
 name: 'Chocolate Limes (Sugar Free)'
-sku: 'HBG-JR-020-02'
 available: TRUE
 image: 'chocolate-limes-sugar-free.jpg'
 purchase_option: 1

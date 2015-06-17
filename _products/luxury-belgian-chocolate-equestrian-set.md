@@ -1,6 +1,5 @@
 ---
 name: Luxury Belgian Chocolate Equestrian Set
-sku: 'HBG-NV-025-01'
 available: FALSE
 image: 'luxury-belgian-chocolate-set-equestrian.jpg'
 purchase_option: 0

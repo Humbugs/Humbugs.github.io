@@ -1,6 +1,5 @@
 ---
 name: Ice Bomb
-sku: 'HBG-SI-041-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

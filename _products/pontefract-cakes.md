@@ -1,6 +1,5 @@
 ---
 name: Pontefract cakes
-sku: 'HBG-JR-092-01'
 available: FALSE
 purchase_option: 1
 price: 1

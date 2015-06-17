@@ -1,6 +1,5 @@
 ---
 name: Mega Sour Fruits
-sku: 'HBG-JR-075-01'
 available: TRUE
 image: 'mega-sour-fruits.jpg'
 purchase_option: 1

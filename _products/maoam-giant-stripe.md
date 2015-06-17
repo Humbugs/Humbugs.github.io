@@ -1,6 +1,5 @@
 ---
 name: Maoam Giant Stripe
-sku: 'HBG-SI-053-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

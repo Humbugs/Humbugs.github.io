@@ -1,6 +1,5 @@
 ---
 name: 'Butter Drops (Sugar Free)'
-sku: 'HBG-JR-039-01'
 available: TRUE
 image: 'drops-butter-sugar-free.jpg'
 purchase_option: 1

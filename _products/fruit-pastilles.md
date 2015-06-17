@@ -1,6 +1,5 @@
 ---
 name: Fruit Pastilles
-sku: 'HBG-JR-053-01'
 available: TRUE
 image: 'fruit-pastilles.jpg'
 purchase_option: 1

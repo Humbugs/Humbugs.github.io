@@ -1,6 +1,5 @@
 ---
 name: 'Blackcurrant Chewits Pack'
-sku: 'HBG-SI-011-02'
 available: FALSE
 purchase_option: 0
 price: 0.4

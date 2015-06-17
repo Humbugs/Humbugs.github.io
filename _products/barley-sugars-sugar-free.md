@@ -1,6 +1,5 @@
 ---
 name: 'Barley Sugars (Sugar Free)'
-sku: 'HBG-JR-008-02'
 available: FALSE
 image: 'barley-sugars-sugar-free.jpg'
 purchase_option: 1

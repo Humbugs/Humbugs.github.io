@@ -1,6 +1,5 @@
 ---
 name: Dinosaur Novelty Lollies
-sku: 'HBG-NV-033-02'
 available: FALSE
 image: 'novelty-lollies-dinosaur.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Bel Canto
-sku: 'HBG-NV-003-01'
 available: FALSE
 image: 'bel-canto.jpg'
 purchase_option: 0

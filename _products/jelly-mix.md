@@ -1,6 +1,5 @@
 ---
 name: Jelly Mix
-sku: 'HBG-PM-037-01'
 available: FALSE
 image: 'jelly-mix.jpg'
 purchase_option: 1

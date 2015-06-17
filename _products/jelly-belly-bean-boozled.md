@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Bean Boozled
-sku: 'HBG-NV-020-01'
 available: TRUE
 image: 'jelly-belly-bean-boozled.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Gummy Burger
-sku: 'HBG-SI-034-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

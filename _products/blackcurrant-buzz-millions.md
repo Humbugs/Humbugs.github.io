@@ -1,6 +1,5 @@
 ---
 name: Blackcurrant Buzz Millions
-sku: 'HBG-SI-058-02'
 available: FALSE
 purchase_option: 0
 price: 1

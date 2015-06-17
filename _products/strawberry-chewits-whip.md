@@ -1,6 +1,5 @@
 ---
 name: Strawberry Chewits Whip
-sku: 'HBG-SI-012-02'
 available: FALSE
 purchase_option: 0
 price: 0.15

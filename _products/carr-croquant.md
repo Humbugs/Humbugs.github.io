@@ -1,6 +1,5 @@
 ---
 name: 'Carré Croquant'
-sku: 'HBG-NV-007-01'
 available: FALSE
 image: 'carr-croquant.jpg'
 purchase_option: 3

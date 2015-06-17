@@ -1,6 +1,5 @@
 ---
 name: Brain Licker
-sku: 'HBG-SI-006-01'
 available: FALSE
 purchase_option: 0
 price: 1

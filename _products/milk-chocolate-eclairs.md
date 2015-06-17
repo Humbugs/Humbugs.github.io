@@ -1,6 +1,5 @@
 ---
 name: Milk Chocolate Eclairs
-sku: 'HBG-JR-041-03'
 available: FALSE
 image: 'eclairs-milk-chocolate.jpg'
 purchase_option: 1

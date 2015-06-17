@@ -1,6 +1,5 @@
 ---
 name: Coconut Ice Bar
-sku: 'HBG-SI-016-01'
 available: FALSE
 purchase_option: 0
 price: 1.25

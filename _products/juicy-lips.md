@@ -1,6 +1,5 @@
 ---
 name: Juicy Lips
-sku: 'HBG-PM-039-01'
 available: FALSE
 image: 'juicy-lips.jpg'
 purchase_option: 1

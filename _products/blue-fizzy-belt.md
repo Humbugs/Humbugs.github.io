@@ -1,6 +1,5 @@
 ---
 name: Blue Fizzy Belt
-sku: 'HBG-PM-014-02'
 available: FALSE
 purchase_option: 2
 price: 0.05

@@ -1,6 +1,5 @@
 ---
 name: Chocolate Stem Ginger
-sku: 'HBG-JR-021-01'
 available: TRUE
 image: 'chocolate-stem-ginger.jpg'
 purchase_option: 1

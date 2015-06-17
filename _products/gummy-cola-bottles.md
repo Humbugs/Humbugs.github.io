@@ -1,6 +1,5 @@
 ---
 name: Gummy Cola Bottles
-sku: 'HBG-PM-025-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

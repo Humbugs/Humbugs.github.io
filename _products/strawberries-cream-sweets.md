@@ -1,6 +1,5 @@
 ---
 name: 'Strawberries & Cream Sweets'
-sku: 'HBG-JR-101-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

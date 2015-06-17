@@ -1,6 +1,5 @@
 ---
 name: 'Milk Chocolate, Toffee Biscuits And Nuts Nibbles'
-sku: 'HBG-JR-080-01'
 available: FALSE
 purchase_option: 1
 price: 1

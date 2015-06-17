@@ -1,6 +1,5 @@
 ---
 name: Drumstick
-sku: 'HBG-SI-019-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

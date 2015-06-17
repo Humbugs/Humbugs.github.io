@@ -1,6 +1,5 @@
 ---
 name: Wrapped Rosy Apples
-sku: 'HBG-JR-095-01'
 available: TRUE
 image: 'rosy-apples-wrapped.jpg'
 purchase_option: 1

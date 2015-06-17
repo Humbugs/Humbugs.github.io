@@ -1,6 +1,5 @@
 ---
 name: 'Everton Mints (Sugar Free)'
-sku: 'HBG-JR-044-02'
 available: TRUE
 image: 'everton-mints-sugar-free.jpg'
 purchase_option: 1

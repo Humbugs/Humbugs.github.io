@@ -1,6 +1,5 @@
 ---
 name: Dark Ginger
-sku: 'HBG-NV-012-01'
 available: FALSE
 image: 'dark-ginger.jpg'
 purchase_option: 3

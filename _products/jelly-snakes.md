@@ -1,6 +1,5 @@
 ---
 name: Jelly Snakes
-sku: 'HBG-PM-038-01'
 available: FALSE
 image: 'jelly-snakes.jpg'
 purchase_option: 1

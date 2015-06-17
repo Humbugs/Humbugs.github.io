@@ -1,6 +1,5 @@
 ---
 name: Grays Herbal Tablets
-sku: 'HBG-JR-057-01'
 available: FALSE
 image: 'grays-herbal-tablets.jpg'
 purchase_option: 1

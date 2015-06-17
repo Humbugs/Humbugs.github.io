@@ -1,6 +1,5 @@
 ---
 name: Haribo Terrific Turtles
-sku: 'HBG-PM-030-01'
 available: FALSE
 purchase_option: 2
 price: 0.02

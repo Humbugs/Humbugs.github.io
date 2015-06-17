@@ -1,6 +1,5 @@
 ---
 name: Sour Apple Mega Lollies
-sku: 'HBG-NV-023-03'
 available: FALSE
 image: 'joseph-dobson-sons-ltd-mega-lollies-sour-apple.jpg'
 purchase_option: 0

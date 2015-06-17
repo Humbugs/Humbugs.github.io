@@ -1,6 +1,5 @@
 ---
 name: Fruity Pops
-sku: 'HBG-SI-027-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

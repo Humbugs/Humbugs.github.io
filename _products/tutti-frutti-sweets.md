@@ -1,6 +1,5 @@
 ---
 name: Tutti Frutti Sweets
-sku: 'HBG-JR-109-01'
 available: FALSE
 purchase_option: 1
 price: 1.2

@@ -1,6 +1,5 @@
 ---
 name: Fudge Bar
-sku: 'HBG-CB-010-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

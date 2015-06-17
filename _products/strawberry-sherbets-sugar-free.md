@@ -1,6 +1,5 @@
 ---
 name: 'Strawberry Sherbets (Sugar Free)'
-sku: 'HBG-JR-097-04'
 available: FALSE
 image: 'sherbets-strawberry-sugar-free.jpg'
 purchase_option: 1

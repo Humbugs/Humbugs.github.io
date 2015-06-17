@@ -1,6 +1,5 @@
 ---
 name: Marzipan Fruits
-sku: 'HBG-NV-026-01'
 available: FALSE
 image: 'marzipan-fruits.jpg'
 purchase_option: 1

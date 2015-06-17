@@ -1,6 +1,5 @@
 ---
 name: Gummy Pizza
-sku: 'HBG-SI-036-01'
 available: FALSE
 purchase_option: 0
 price: 0.35

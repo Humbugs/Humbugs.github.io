@@ -1,6 +1,5 @@
 ---
 name: Large Pear Drops
-sku: 'HBG-JR-039-06'
 available: FALSE
 image: 'drops-pear-large.jpg'
 purchase_option: 1

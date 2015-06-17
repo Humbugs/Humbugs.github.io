@@ -1,6 +1,5 @@
 ---
 name: Maoam Stripe Chews
-sku: 'HBG-SI-056-01'
 available: FALSE
 purchase_option: 0
 price: 0.05

@@ -1,6 +1,5 @@
 ---
 name: Pistachio Turkish Delight
-sku: 'HBG-NV-039-02'
 available: FALSE
 image: 'turkish-delight-pistachio.jpg'
 purchase_option: 1

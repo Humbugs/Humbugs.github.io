@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (E is for Eton Mess)'
-sku: 'HBG-NV-001-05'
 available: FALSE
 image: 'alphabet-chocolate-e-is-for-eton-mess.jpg'
 purchase_option: 0

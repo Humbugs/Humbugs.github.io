@@ -1,6 +1,5 @@
 ---
 name: 'Blackcurrant & Liquorice Bonbons'
-sku: 'HBG-JR-016-04'
 available: TRUE
 image: 'bonbons-blackcurrant-liquorice.jpg'
 purchase_option: 1

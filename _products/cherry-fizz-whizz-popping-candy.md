@@ -1,6 +1,5 @@
 ---
 name: 'Cherry Fizz Whizz Popping Candy'
-sku: 'HBG-SI-021-02'
 available: FALSE
 purchase_option: 0
 price: 0.2

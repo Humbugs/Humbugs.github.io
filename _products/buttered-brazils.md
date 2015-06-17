@@ -1,6 +1,5 @@
 ---
 name: 'Buttered Brazils'
-sku: 'HBG-JR-017-01'
 available: FALSE
 image: 'brazils-buttered.jpg'
 purchase_option: 1

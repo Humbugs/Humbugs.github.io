@@ -1,6 +1,5 @@
 ---
 name: Prestige
-sku: 'HBG-NV-034-01'
 available: FALSE
 image: prestige.jpg
 purchase_option: 3

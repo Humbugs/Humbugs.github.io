@@ -1,6 +1,5 @@
 ---
 name: Watermelon Bonbons
-sku: 'HBG-JR-016-17'
 available: TRUE
 image: 'bonbons-watermelon.jpg'
 purchase_option: 1

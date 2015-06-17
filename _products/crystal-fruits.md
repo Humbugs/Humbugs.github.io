@@ -1,6 +1,5 @@
 ---
 name: Crystal Fruits
-sku: 'HBG-JR-032-01'
 available: FALSE
 image: 'crystal-fruits.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Stinger Bar
-sku: 'HBG-SI-080-01'
 available: FALSE
 purchase_option: 0
 price: 0.15

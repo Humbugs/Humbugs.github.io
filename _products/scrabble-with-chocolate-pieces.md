@@ -1,6 +1,5 @@
 ---
 name: Scrabble with Chocolate pieces
-sku: Xmas001
 available: TRUE
 image: 'scrabble-with-chocolate-pieces.jpg'
 purchase_option: 0

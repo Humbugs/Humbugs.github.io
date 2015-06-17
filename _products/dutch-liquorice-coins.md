@@ -1,6 +1,5 @@
 ---
 name: Dutch Liquorice Coins
-sku: 'HBG-JR-040-02'
 available: FALSE
 purchase_option: 1
 price: 1.2

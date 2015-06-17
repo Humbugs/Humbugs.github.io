@@ -1,6 +1,5 @@
 ---
 name: Haribo Yellow Bellies
-sku: 'HBG-SI-043-01'
 available: FALSE
 image: 'haribo-yellow-bellies.jpg'
 purchase_option: 2

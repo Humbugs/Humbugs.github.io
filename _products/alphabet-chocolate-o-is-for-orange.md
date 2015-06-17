@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (O is for Orange)'
-sku: 'HBG-NV-001-15'
 available: FALSE
 image: 'alphabet-chocolate-o-is-for-orange.jpg'
 purchase_option: 0

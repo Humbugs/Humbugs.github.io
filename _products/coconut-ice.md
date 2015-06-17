@@ -1,6 +1,5 @@
 ---
 name: Coconut Ice
-sku: 'HBG-JR-025-01'
 available: FALSE
 purchase_option: 1
 price: 1.3

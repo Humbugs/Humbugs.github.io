@@ -1,6 +1,5 @@
 ---
 name: Uncle Joes Mint Balls
-sku: 'HBG-JR-111-01'
 available: TRUE
 image: 'uncle-joes-mint-balls.jpg'
 purchase_option: 1

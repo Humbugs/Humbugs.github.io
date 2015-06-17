@@ -1,6 +1,5 @@
 ---
 name: "Maynard's Wine Gums"
-sku: 'HBG-JR-073-01'
 available: TRUE
 image: 'maynards-wine-gums.jpg'
 purchase_option: 1

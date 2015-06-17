@@ -1,6 +1,5 @@
 ---
 name: Lindor Bar
-sku: 'HBG-CB-011-01'
 available: FALSE
 purchase_option: 0
 price: 0.75

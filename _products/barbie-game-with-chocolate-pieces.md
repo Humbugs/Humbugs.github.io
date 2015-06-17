@@ -1,6 +1,5 @@
 ---
 name: Barbie Game with Chocolate Pieces
-sku: Xmas007
 available: TRUE
 image: 'barbie-game-with-chocolate-pieces.jpg'
 purchase_option: 0

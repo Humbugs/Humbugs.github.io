@@ -1,6 +1,5 @@
 ---
 name: Large Monster Jawbreaker
-sku: 'HBG-SI-063-03'
 available: FALSE
 purchase_option: 0
 price: 1.5

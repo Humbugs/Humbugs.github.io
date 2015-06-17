@@ -1,6 +1,5 @@
 ---
 name: Vanilla Fudge
-sku: 'HBG-PM-057-01'
 available: FALSE
 purchase_option: 1
 price: 0.95

@@ -1,6 +1,5 @@
 ---
 name: Small Tongue Painter
-sku: 'HBG-SI-084-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

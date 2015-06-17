@@ -1,6 +1,5 @@
 ---
 name: Rainbow Fizzy Belt
-sku: 'HBG-PM-014-03'
 available: FALSE
 purchase_option: 2
 price: 0.05

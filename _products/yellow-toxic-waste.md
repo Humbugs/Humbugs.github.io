@@ -1,6 +1,5 @@
 ---
 name: Yellow Toxic Waste
-sku: 'HBG-SI-085-01'
 available: FALSE
 purchase_option: 0
 price: 1

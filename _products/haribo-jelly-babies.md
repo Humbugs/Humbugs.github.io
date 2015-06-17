@@ -1,6 +1,5 @@
 ---
 name: Haribo Jelly Babies
-sku: 'HBG-PM-033-01'
 available: FALSE
 purchase_option: 2
 price: 0.01

@@ -1,6 +1,5 @@
 ---
 name: Tutti Frutti Chewits Xtreme
-sku: 'HBG-SI-013-02'
 available: FALSE
 purchase_option: 0
 price: 0.4

@@ -1,6 +1,5 @@
 ---
 name: Striped Fizzy Belt
-sku: 'HBG-PM-014-05'
 available: FALSE
 purchase_option: 2
 price: 0.05

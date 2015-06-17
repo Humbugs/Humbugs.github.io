@@ -1,6 +1,5 @@
 ---
 name: Flying Saucers
-sku: 'HBG-PM-020-01'
 available: FALSE
 purchase_option: 2
 price: 0.03

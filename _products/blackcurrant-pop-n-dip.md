@@ -1,6 +1,5 @@
 ---
 name: "Blackcurrant Pop'n'Dip"
-sku: 'HBG-SI-069-02'
 available: FALSE
 purchase_option: 0
 price: 0.3

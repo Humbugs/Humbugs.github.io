@@ -1,6 +1,5 @@
 ---
 name: Yorkshire Mix
-sku: 'HBG-JR-116-01'
 available: TRUE
 image: 'yorkshire-mix.jpg'
 purchase_option: 1

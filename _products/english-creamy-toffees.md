@@ -1,6 +1,5 @@
 ---
 name: English Creamy Toffees
-sku: 'HBG-JR-043-01'
 available: FALSE
 image: 'english-creamy-toffees.jpg'
 purchase_option: 1

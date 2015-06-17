@@ -1,6 +1,5 @@
 ---
 name: Original Refresher Bar
-sku: 'HBG-SI-073-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

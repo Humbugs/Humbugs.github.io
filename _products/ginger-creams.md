@@ -1,6 +1,5 @@
 ---
 name: Ginger Creams
-sku: 'HBG-JR-055-01'
 available: FALSE
 image: 'ginger-creams.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Fruitella Pixel Chews
-sku: 'HBG-SI-026-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

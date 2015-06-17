@@ -1,6 +1,5 @@
 ---
 name: 'Rum & Butter Toffees'
-sku: 'HBG-JR-096-01'
 available: TRUE
 image: 'rum-and-butter-toffees.jpg'
 purchase_option: 1

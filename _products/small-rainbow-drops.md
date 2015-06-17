@@ -1,6 +1,5 @@
 ---
 name: Small Rainbow Drops
-sku: 'HBG-SI-072-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

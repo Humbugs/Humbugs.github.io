@@ -1,6 +1,5 @@
 ---
 name: Wham Bar
-sku: 'HBG-SI-093-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

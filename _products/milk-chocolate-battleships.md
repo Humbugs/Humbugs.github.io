@@ -1,6 +1,5 @@
 ---
 name: Milk Chocolate Battleships
-sku: 'HBG-NV-027-01'
 available: TRUE
 image: 'milk-chocolate-battleships.jpg'
 purchase_option: 0

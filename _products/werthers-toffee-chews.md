@@ -1,6 +1,5 @@
 ---
 name: Werthers Toffee Chews
-sku: 'HBG-SI-092-01'
 available: FALSE
 purchase_option: 0
 price: 0.6

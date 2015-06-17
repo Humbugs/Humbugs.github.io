@@ -1,6 +1,5 @@
 ---
 name: Red Liquorice Pencil
-sku: 'HBG-PM-040-05'
 available: FALSE
 purchase_option: 2
 price: 0.1

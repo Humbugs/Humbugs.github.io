@@ -1,6 +1,5 @@
 ---
 name: "Jakeman's Throat & Chest"
-sku: 'HBG-JR-060-01'
 available: TRUE
 image: 'jakemans-throat-chest.jpg'
 purchase_option: 1

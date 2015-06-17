@@ -1,6 +1,5 @@
 ---
 name: Happy Birthday Novelty Lollies
-sku: 'HBG-NV-033-01'
 available: FALSE
 image: 'novelty-lollies-happy-birthday.jpg'
 purchase_option: 0

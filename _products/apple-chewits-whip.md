@@ -1,6 +1,5 @@
 ---
 name: Apple Chewits Whip
-sku: 'HBG-SI-012-03'
 available: FALSE
 purchase_option: 0
 price: 0.15

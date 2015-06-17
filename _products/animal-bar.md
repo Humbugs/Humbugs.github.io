@@ -1,6 +1,5 @@
 ---
 name: Animal Bar
-sku: 'HBG-CB-001-01'
 available: FALSE
 purchase_option: 0
 price: 1

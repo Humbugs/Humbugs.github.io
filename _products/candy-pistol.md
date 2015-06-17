@@ -1,6 +1,5 @@
 ---
 name: Candy Pistol
-sku: 'HBG-SI-008-01'
 available: FALSE
 purchase_option: 0
 price: 0.65

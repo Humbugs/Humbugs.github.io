@@ -1,6 +1,5 @@
 ---
 name: 'Army & Navy'
-sku: 'HBG-JR-006-01'
 available: TRUE
 image: 'army-navy.jpg'
 purchase_option: 1

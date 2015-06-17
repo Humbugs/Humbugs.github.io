@@ -1,6 +1,5 @@
 ---
 name: Cola Fizz Whizz Popping Candy
-sku: 'HBG-SI-021-03'
 available: FALSE
 purchase_option: 0
 price: 0.2

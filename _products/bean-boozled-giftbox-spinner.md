@@ -1,6 +1,5 @@
 ---
 name: 'Bean Boozled Giftbox/Spinner'
-sku: Xmas011
 available: TRUE
 image: 'bean-boozled-giftbox-spinner.jpg'
 purchase_option: 0

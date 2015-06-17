@@ -1,6 +1,5 @@
 ---
 name: Luxury Belgian Chocolate Gardening Set
-sku: 'HBG-NV-025-04'
 available: FALSE
 image: 'luxury-belgian-chocolate-set-gardening.jpg'
 purchase_option: 0

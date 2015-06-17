@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (B is for Banana)'
-sku: 'HBG-NV-001-02'
 available: FALSE
 image: 'alphabet-chocolate-b-is-for-banana.jpg'
 purchase_option: 0

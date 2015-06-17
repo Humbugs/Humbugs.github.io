@@ -1,6 +1,5 @@
 ---
 name: Tom Thumb Fruit Drops
-sku: 'HBG-JR-039-07'
 available: TRUE
 image: 'drops-tom-thumb-fruit.jpg'
 purchase_option: 1

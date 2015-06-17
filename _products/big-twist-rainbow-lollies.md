@@ -1,6 +1,5 @@
 ---
 name: Big Twist Rainbow Lollies
-sku: 'HBG-SI-005-01'
 available: FALSE
 purchase_option: 0
 price: 1.5

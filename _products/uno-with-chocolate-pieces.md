@@ -1,6 +1,5 @@
 ---
 name: Uno with chocolate pieces
-sku: Xmas005
 available: TRUE
 image: 'uno-with-chocolate-pieces.jpg'
 purchase_option: 0

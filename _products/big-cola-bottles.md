@@ -1,6 +1,5 @@
 ---
 name: Big Cola Bottles
-sku: 'HBG-PM-001-01'
 available: FALSE
 purchase_option: 2
 price: 0.1

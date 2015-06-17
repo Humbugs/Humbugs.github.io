@@ -1,6 +1,5 @@
 ---
 name: Sour Sherbet Gummy Face Plastic Fruits
-sku: 'HBG-SI-035-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

@@ -1,6 +1,5 @@
 ---
 name: Winter Mix
-sku: 'HBG-JR-115-02'
 available: FALSE
 image: 'winter-mix-unwrapped.jpg'
 purchase_option: 1

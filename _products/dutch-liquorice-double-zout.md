@@ -1,6 +1,5 @@
 ---
 name: Dutch Liquorice Double Zout
-sku: 'HBG-JR-040-04'
 available: FALSE
 purchase_option: 1
 price: 1.6

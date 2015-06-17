@@ -1,6 +1,5 @@
 ---
 name: Finitennis
-sku: 'HBG-NV-015-01'
 available: FALSE
 image: finitennis.jpg
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Spearmint Chews
-sku: 'HBG-JR-098-01'
 available: FALSE
 purchase_option: 1
 price: 1

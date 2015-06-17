@@ -1,6 +1,5 @@
 ---
 name: Coal Dust Crystals
-sku: 'HBG-JR-033-03'
 available: FALSE
 purchase_option: 1
 price: 1

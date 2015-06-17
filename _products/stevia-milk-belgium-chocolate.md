@@ -1,6 +1,5 @@
 ---
 name: Stevia Milk Belgium Chocolate
-sku: 'HBG-NV-004-02'
 available: FALSE
 purchase_option: 0
 price: 1.39

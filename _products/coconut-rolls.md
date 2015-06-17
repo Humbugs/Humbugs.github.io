@@ -1,6 +1,5 @@
 ---
 name: Coconut Rolls
-sku: 'HBG-JR-027-01'
 available: TRUE
 image: 'coconut-rolls.jpg'
 purchase_option: 1

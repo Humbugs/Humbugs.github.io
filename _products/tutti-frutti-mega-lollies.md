@@ -1,6 +1,5 @@
 ---
 name: Tutti Frutti Mega Lollies
-sku: 'HBG-NV-023-07'
 available: FALSE
 image: 'joseph-dobson-sons-ltd-mega-lollies-tutti-frutti.jpg'
 purchase_option: 0

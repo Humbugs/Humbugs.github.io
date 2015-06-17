@@ -1,6 +1,5 @@
 ---
 name: Twist Wrapped Toffees
-sku: 'HBG-JR-110-01'
 available: FALSE
 purchase_option: 1
 price: 1

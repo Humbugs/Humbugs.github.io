@@ -1,6 +1,5 @@
 ---
 name: Weirds Strawberry & Orange Tangy Candy
-sku: 'HBG-SI-090-02'
 available: FALSE
 purchase_option: 0
 price: 0.35

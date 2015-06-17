@@ -1,6 +1,5 @@
 ---
 name: 'Chocolate Brazils'
-sku: 'HBG-JR-017-02'
 available: TRUE
 image: 'brazils-chocolate.jpg'
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: 'Lemon & Lime Bonbons'
-sku: 'HBG-JR-016-08'
 available: TRUE
 image: 'bonbons-lemon-lime.jpg'
 purchase_option: 1

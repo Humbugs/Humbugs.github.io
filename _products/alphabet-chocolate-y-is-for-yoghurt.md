@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (Y is for Yoghurt)'
-sku: 'HBG-NV-001-25'
 available: FALSE
 image: 'alphabet-chocolate-y-is-for-yoghurt.jpg'
 purchase_option: 0

@@ -1,6 +1,5 @@
 ---
 name: Jelly Belly Assorted Flavours
-sku: 'HBG-NV-019-01'
 available: TRUE
 image: 'jelly-belly-assorted-flavours.jpg'
 purchase_option: 0

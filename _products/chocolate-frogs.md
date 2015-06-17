@@ -1,6 +1,5 @@
 ---
 name: Chocolate Frogs
-sku: 'HBG-PM-009-01'
 available: FALSE
 purchase_option: 2
 price: 0.1

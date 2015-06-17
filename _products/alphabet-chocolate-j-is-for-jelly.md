@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (J is for Jelly)'
-sku: 'HBG-NV-001-10'
 available: FALSE
 image: 'alphabet-chocolate-j-is-for-jelly.jpg'
 purchase_option: 0

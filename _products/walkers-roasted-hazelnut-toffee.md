@@ -1,6 +1,5 @@
 ---
 name: Walkers Roasted Hazelnut Toffee
-sku: 'HBG-SI-089-02'
 available: FALSE
 purchase_option: 0
 price: 0.95

@@ -1,6 +1,5 @@
 ---
 name: Candy Posing Pouch
-sku: Xmas010
 available: TRUE
 image: 'candy-posing-pouch.jpg'
 purchase_option: 0

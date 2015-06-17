@@ -1,6 +1,5 @@
 ---
 name: Kinder Surprise
-sku: 'HBG-SI-047-01'
 available: FALSE
 purchase_option: 0
 price: 0.5

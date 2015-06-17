@@ -1,6 +1,5 @@
 ---
 name: 'Lemon, Strawberry & Orange Turkish Delight'
-sku: 'HBG-NV-037-01'
 available: FALSE
 image: 'sebahat-turkish-delight-lemon-strawberry-orange.jpg'
 purchase_option: 0

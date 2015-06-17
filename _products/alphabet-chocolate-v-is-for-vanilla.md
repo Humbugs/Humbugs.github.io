@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (V is for Vanilla)'
-sku: 'HBG-NV-001-22'
 available: FALSE
 image: 'alphabet-chocolate-v-is-for-vanilla.jpg'
 purchase_option: 0

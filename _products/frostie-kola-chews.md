@@ -1,6 +1,5 @@
 ---
 name: Frostie Kola Chews
-sku: 'HBG-SI-024-01'
 available: FALSE
 purchase_option: 0
 price: 0.2

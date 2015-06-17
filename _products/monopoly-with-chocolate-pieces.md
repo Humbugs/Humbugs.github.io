@@ -1,6 +1,5 @@
 ---
 name: Monopoly with Chocolate pieces
-sku: Xmas002
 available: TRUE
 image: 'monopoly-with-chocolate-pieces.jpg'
 purchase_option: 0

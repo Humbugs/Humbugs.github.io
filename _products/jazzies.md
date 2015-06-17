@@ -1,6 +1,5 @@
 ---
 name: Jazzies
-sku: 'HBG-PM-034-01'
 available: FALSE
 image: jazzies.jpg
 purchase_option: 2

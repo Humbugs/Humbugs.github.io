@@ -1,6 +1,5 @@
 ---
 name: 'Cherry Bonbons'
-sku: 'HBG-JR-016-06'
 available: TRUE
 image: 'bonbons-cherry.jpg'
 purchase_option: 1

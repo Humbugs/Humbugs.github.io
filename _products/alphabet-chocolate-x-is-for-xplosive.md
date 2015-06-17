@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (X is for Xplosive)'
-sku: 'HBG-NV-001-24'
 available: FALSE
 image: 'alphabet-chocolate-x-is-for-xplosive.jpg'
 purchase_option: 0

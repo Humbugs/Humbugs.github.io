@@ -1,6 +1,5 @@
 ---
 name: Rainblo
-sku: 'HBG-SI-071-01'
 available: FALSE
 purchase_option: 0
 price: 0.1

@@ -1,6 +1,5 @@
 ---
 name: Pez Dispensers
-sku: 'HBG-SI-066-01'
 available: FALSE
 purchase_option: 0
 price: 1.5

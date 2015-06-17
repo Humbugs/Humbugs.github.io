@@ -1,6 +1,5 @@
 ---
 name: Coconut Mushrooms
-sku: 'HBG-JR-026-01'
 available: FALSE
 image: 'coconut-mushrooms.jpg'
 purchase_option: 1

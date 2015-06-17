@@ -1,6 +1,5 @@
 ---
 name: Stevia Rice White Crisp Belgium Chocolate
-sku: 'HBG-NV-004-03'
 available: FALSE
 purchase_option: 0
 price: 1.39

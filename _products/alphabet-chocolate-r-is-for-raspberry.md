@@ -1,6 +1,5 @@
 ---
 name: 'Alphabet Chocolate (R is for Raspberry)'
-sku: 'HBG-NV-001-18'
 available: FALSE
 image: 'alphabet-chocolate-r-is-for-raspberry.jpg'
 purchase_option: 0

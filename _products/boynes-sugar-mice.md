@@ -1,6 +1,5 @@
 ---
 name: Boynes Sugar Mice
-sku: 'HBG-NV-005-01'
 available: TRUE
 image: 'boynes-sugar-mice.jpg'
 purchase_option: 0

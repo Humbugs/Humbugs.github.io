@@ -1,6 +1,5 @@
 ---
 name: Shrimps
-sku: 'HBG-PM-049-01'
 available: FALSE
 image: shrimps.jpg
 purchase_option: 1

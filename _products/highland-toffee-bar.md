@@ -1,6 +1,5 @@
 ---
 name: Highland Toffee Bar
-sku: 'HBG-SI-039-01'
 available: FALSE
 purchase_option: 0
 price: 0.3

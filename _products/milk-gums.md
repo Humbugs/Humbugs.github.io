@@ -1,6 +1,5 @@
 ---
 name: Milk Gums
-sku: 'HBG-JR-081-01'
 available: FALSE
 purchase_option: 1
 price: 1.35

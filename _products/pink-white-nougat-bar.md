@@ -1,6 +1,5 @@
 ---
 name: 'Pink & White Nougat Bar'
-sku: 'HBG-SI-068-01'
 available: FALSE
 purchase_option: 0
 price: 1.25

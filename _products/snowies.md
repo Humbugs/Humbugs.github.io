@@ -1,6 +1,5 @@
 ---
 name: Snowies
-sku: 'HBG-PM-051-01'
 available: FALSE
 image: snowies.jpg
 purchase_option: 1

@@ -1,6 +1,5 @@
 ---
 name: Clicker Pop
-sku: 'HBG-SI-015-01'
 available: FALSE
 purchase_option: 0
 price: 0.4

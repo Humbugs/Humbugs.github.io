@@ -1,16 +1,18 @@
 <header id='nav' role='banner'>
   <div id='nav-wrapper'>
     <a href='{{ site.baseurl }}/' id='mobile-logo'>
-      <img src='{{ site.image_prefix }}logo-stripey.png' alt='Logo'>
+      <img src='{{ site.image_prefix }}logo-new.png' alt='Logo'>
     </a>
     <i id='nav-mobile-menu' onclick='toggle("nav-menu", "show")'>MENU</i>
     <nav role='navigation'>
       <ul id='nav-menu'>
-        <li class='nav-link'><a href='/about'>About Us</a></li>
-        <li class='nav-link'><a href='javascript:void(0)'>Contact</a></li>
+        <li class='nav-link'><a href='{{ site.baseurl }}/about/'>About</a></li>
+        <li class='nav-link'>
+          <a href='{{ site.baseurl }}/deliveries/'>Deliveries</a>
+        </li>
         <li class='nav-link logo'>
           <a href='{{ site.baseurl }}/'>
-            <img src='{{ site.image_prefix }}logo-stripey.png' alt='Logo'>
+            <img src='{{ site.image_prefix }}logo-new.png' alt='Logo'>
           </a>
         </li>
         <li class='nav-link'>

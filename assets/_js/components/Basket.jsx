@@ -9,7 +9,7 @@ var Basket = React.createClass({
   render: function() {
     return (
       <div>
-        <h1 className='title'>Basket</h1>
+        <h1>Basket</h1>
         <table>
           <tbody>
             <tr>

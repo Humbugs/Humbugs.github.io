@@ -1,0 +1,56 @@
+<section itemscope itemtype='http://schema.org/Store'>
+  <h2>Details</h2>
+  <table>
+    <tbody>
+      <tr>
+        <th>Telephone:</th>
+        <td itemprop='telephone'>{{ site.telephone }}</td>
+      </tr>
+
+      <tr>
+        <th>Email:</th>
+        <td><a href='mailto:{{ site.email }}' itemprop='email'>
+          {{ site.email }}
+        </a></td>
+      </tr>
+
+      <tr>
+        <th>Social Media:</th>
+        <td>
+          <a href='{{ site.facebook }}' target='_blank'>
+            <i class="fa fa-facebook-square"></i>
+          </a>
+          <a href='https://twitter.com/{{ site.twitter | replace: '@', ''}}' target='_blank'>
+            <i class="fa fa-twitter-square"></i>
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <th>Address:</th>
+        <td><address itemprop='address'
+                     itemscope itemtype='http://schema.org/PostalAddress'>
+          <span itemprop='streetAddress'>
+            {{ site.address1 }}
+          </span><br />
+
+          <span itemprop='addressLocality'>
+            {{ site.city }}
+          </span><br />
+
+          <span itemprop='addressRegion'>
+            {{ site.county }}
+          </span><br />
+
+          <span itemprop='addressCountry'>
+            {{ site.country }}
+          </span><br />
+
+          <span itemprop='postalCode'>
+            {{ site.postcode }}
+          </span>
+        </address></td>
+      </tr>
+    </tbody>
+  </table>
+</section>

@@ -1,7 +1,15 @@
 title: Humbugs
 description: Purveyor of Quality Confectionery
-baseurl: ''
-url: ''
+siteurl: 'https://humbu.gs'
+email: 'inquires@humbu.gs'
+address1: 19 Latimer Street
+city: Romsey
+county: Hampshire
+country: UK
+postcode: SO518DF
+telephone: 01794 521317
+facebook: "https://www.facebook.com/pages/Humbugs-Sweet-Shop/159696124046864?ref=hl"
+twitter: "@humbugsofromsey"
 
 # Jekyll-Store Engine
 defaultAddress:
@@ -34,7 +42,12 @@ prose:
     - assets
     - json
     - node_modules
-    - pages
+    - pages/basket.html
+    - pages/checkout.html
+    - pages/favourites.html
+    - pages/index.html
+    - pages/basket.html
+    - pages/thankyou.html
     - .gitignore
     - _config.yml
     - CNAME

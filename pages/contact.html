@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /contact/
+title: Contact
+---
+<main>
+  <h1>Contact</h1>
+  <section>
+    <form action='//formspree.io/{{ site.email }}' method='POST'>
+      <input type='hidden' name='_next' value='{{ site.siteurl }}' />
+      <input type='text' name='_gotcha' style='display:none' />
+      <label>Name</label><input type='text' name='name' />
+      <label>Email</label><input type='email' name='_replyto' />
+      <label>Subject</label><input type='text' name='_subject' />
+      <label>Message</label><textarea name='message' rows='5'></textarea>
+      <input type='submit' value='Send' />
+    </form>
+  </section>
+</main>

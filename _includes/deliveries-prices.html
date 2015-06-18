@@ -1,0 +1,53 @@
+{% assign l48 = site.data.delivery-methods[0].args.tiers %}
+{% assign l24 = site.data.delivery-methods[1].args.tiers %}
+{% assign p48 = site.data.delivery-methods[2].args.tiers %}
+{% assign p24 = site.data.delivery-methods[3].args.tiers %}
+
+<table>
+  <thead>
+    <tr>
+      <th>Weight Range</th>
+      <th>Large Letter 48</th>
+      <th>Large Letter 24</th>
+      <th>Parcel 48</th>
+      <th>Parcel 24</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for tier in l48 %}
+    {% if tier[1] or l24[forloop.index0][1] %}
+      <tr>
+        <td>{{ tier[0] }}g - {{ l48[forloop.index][0] }}g</td>
+        <td>£{{ tier[1] }}</td>
+        <td>
+          {% if l24[forloop.index0][1] %}
+            £{{ l24[forloop.index0][1] }}
+          {% else %}
+            -
+          {% endif %}
+        </td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+
+  {% for tier in p24 %}
+    {% if tier[1] or p48[forloop.index0][1] %}
+      <tr>
+        <td>{{ tier[0] }}g - {{ p24[forloop.index][0] }}g</td>
+        <td>-</td>
+        <td>-</td>
+        <td>
+          {% if p48[forloop.index0][1] %}
+            £{{ p48[forloop.index0][1] }}
+          {% else %}
+            -
+          {% endif %}
+        </td>
+        <td>£{{ tier[1] }}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+  </tbody>
+</table>

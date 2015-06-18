@@ -11,13 +11,13 @@ function setItem(args) {
   var previousQuantity = item.quantity || 0;
 
   if(item.purchase_option === '1') {
-  	if(0 < args.quantity && args.quantity < 100) {
-  		args.quantity = previousQuantity >= 100 ? 0 : 100;
-  	}
+    if(0 < args.quantity && args.quantity < 100) {
+      args.quantity = previousQuantity >= 100 ? 0 : 100;
+    }
   }
 
-	var subtotal = +B(item.price).times(args.quantity);
-	item = item.merge({ quantity: args.quantity, subtotal: subtotal });
-	t.basket = t.basket.merge(m(args.name, item));
+  var subtotal = +B(item.price).times(args.quantity);
+  item = item.merge({ quantity: args.quantity, subtotal: subtotal });
+  t.basket = t.basket.merge(m(args.name, item));
   t.update();
 }

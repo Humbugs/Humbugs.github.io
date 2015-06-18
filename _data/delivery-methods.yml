@@ -37,27 +37,6 @@
       [16000, 22.39], [17000, 23.58], [18000, 24.76], [19000, 25.95], [20000]
     ]
 
-- name: Tracked Parcel 48
-  packing_type: Parcel
-  calculator: Tiered
-  zones: [Domestic]
-  args:
-    field: weight
-    tiers: [[0, 4.7], [1000, 5.58], [1250, 5.73], [1500, 6.69], [1750, 6.8], [2000]]
-
-- name: Tracked Parcel 24
-  packing_type: Parcel
-  calculator: Tiered
-  zones: [Domestic]
-  args:
-    field: weight
-    tiers: [
-      [0, 5.2], [1000, 5.73], [1250, 5.88], [1500, 6.84], [1750, 6.95],
-      [2000, 10.46], [3000, 10.79], [3500, 11.33], [4000, 12.29], [5000, 13.99],
-      [6000, 16.37], [7000,17.74], [8000, 19.51], [9000, 21.41], [10000, 23.25],
-      [11000, 25.09], [12000, 27], [13000, 28.77], [14000, 30.68], [15000]
-    ]
-
 - name: International
   calculator: Fixed
   zones: [International]

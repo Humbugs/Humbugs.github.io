@@ -1,3 +1,24 @@
 #info {
-  p { margin: 35px; }
+  p { font-size: 1.4em; }
+  i { font-size: 2em !important; }
+
+  table {
+    width: 96%;
+    margin: 2%;
+  }
+
+  h3 { font-size: 1.5em; }
+
+  address.terms { padding: 0 30px 15px; }
+
+  li {
+    list-style-type: disc;
+    margin-left: 50px;
+  }
+}
+
+iframe {
+  width: 100%;
+  height: 500px;
+  margin-bottom: 30px;
 }

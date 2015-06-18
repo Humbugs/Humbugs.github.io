@@ -2,25 +2,6 @@
   margin-top: 15px;
   header { padding: 10px 0; @include row; }
 
-  h1, h2 {
-    padding-left: 15px;
-  }
-
-  h1 {
-    font-size: 3.5em;
-    background: #C8DED9;
-    margin: 10px 0;
-    text-align: left;
-  }
-
-  h2 {
-    font-size: 2.5em;
-    margin: 0 0 20px;
-    background: #FFEFB2;
-
-    span { margin-right: -5px; }
-  }
-
   .units { font-size: 0.8em; }
 
   @include media($medium-screen) {

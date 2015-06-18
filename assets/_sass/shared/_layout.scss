@@ -12,11 +12,6 @@ main { @include outer-container; }
 
 .footer-social { font-size: 1.5em; }
 
-.title {
-  font-size: 3em;
-  margin: 5px 0 0;
-}
-
 .flash {  margin: 0.5em 0; }
 
 .hide { display: none; }
@@ -49,15 +44,29 @@ i.favourite, i.favourited {
 i.favourite { @extend .fa-star-o; }
 i.favourited { @extend .fa-star; }
 
-h1 {
-  font-size: 3em;
-  margin: 0;
-  text-align: center;
-
-  @include media($large-screen) { font-size: 4em; }
+h1, h2 {
+  padding-left: 15px;
 }
 
-.footer-2 { background: #C8DED9; }
+h1 {
+  font-size: 3.5em;
+  background: #C8DED9;
+  margin: 20px 0;
+  text-align: left;
+}
+
+h2 {
+  font-size: 2.5em;
+  margin: 0 0 20px;
+  background: #FFEFB2;
+
+  span { margin-right: -5px; }
+}
+
+.footer-2 {
+  background: #C8DED9;
+  display: block;
+}
 
 .footer-2 ul li a {
   color: #555555;

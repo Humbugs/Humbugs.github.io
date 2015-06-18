@@ -19,10 +19,13 @@ layout: default
         <span class='units'>/100g</span>
         {% endif %}
       </h2>
-      <section itemprop='description'>
-        <h4>Description:</h4>
-        {{ content }}
-      </section>
+      {% assign stripped_content = content | strip_html | strip_newlines %}
+      {% if stripped_content != '' %}
+        <section itemprop='description'>
+          <h4>Description:</h4>
+          {{ content }}
+        </section>
+      {% endif %}
       {% if page.ingredients or contains != [] %}
         <div {% if page.serving_size %}class='half'{% endif %}>
           {% if page.ingredients %}

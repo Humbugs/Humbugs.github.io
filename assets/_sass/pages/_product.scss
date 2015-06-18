@@ -32,11 +32,18 @@
     padding: 10px;
     box-shadow: 0 0 1px 1px #DADADA;
     background: #F7F7F7;
-    margin: 10px 0;
+    margin: 10px;
   }
 
-  .half {
-    @include span-columns(4 of 8);
+  @include media($medium-screen) {
+    section { margin: 10px 0; }
+
+    .half {
+      width: 48.5%;
+      display: inline-block;
+      vertical-align: top;
+      margin-right: 1%;
+    }
   }
 
   table { margin: 0; text-align: right; }
@@ -53,6 +60,7 @@
   #visited-products {
     margin-top: 10px;
     h2 { font-size: 2em; }
+    img { max-height: 200px; }
 
     @include media($medium-screen) {
       margin-top: 5em;
@@ -61,6 +69,7 @@
         @include omega(3n);
         margin-bottom: 2em;
       }
+      img { max-height: initial; }
     }
   }
 

@@ -15,14 +15,14 @@ To qualify for this option, the order must be able to fit into Royal Mail regula
 
 ## Royal Mail Services
 
-For deliveries in the UK, we use [Royal Mail 24 and 48](http://www.royalmail.com/parcel-despatch-medium/uk-delivery/royal-mail-24-and-48) for it's trusted and value for money service. The estimated delivery time for each service are as follows:
+For deliveries in the UK, we use [Royal Mail 24 and 48](http://www.royalmail.com/parcel-despatch-medium/uk-delivery/royal-mail-24-and-48) for it's trusted and value for money service.
+
+### Estimated Delivery Time
 
 * 24 aims to be delivered by the next working day
 
 * 48 aims to be delivered within two working days, with a small minority within 3 working days
 
 ### Prices
-
-The prices for Royal Mail deliveries are as follows:
 
 {% include deliveries-prices.html %}

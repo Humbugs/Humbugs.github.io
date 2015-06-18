@@ -46,6 +46,7 @@
   .no-products {
     text-align: center;
     line-height: 750px;
+    background: #fff;
   }
 }
 
@@ -55,19 +56,21 @@
   padding: 10px 0 25px;
 }
 
-#search-and-sort-bar {
-  @include row;
-}
+#search-and-sort-bar { margin-top: 5px; }
 
 #search {
-  width: inherit;
-  float: right;
-  margin: 10px 25px;
-  input { border-color: #bbb; }
+  padding: 5px 1% 0;
+
+  input {
+    border-color: #bbb;
+    margin: 0;
+  }
 }
 
 #sort {
-  float: right;
+  text-align: center;
+  @include media($large-screen) { text-align: right; }
+
   ul, li {
     margin-left: 15px;
     display: inline-block;

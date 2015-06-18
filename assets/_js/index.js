@@ -18,6 +18,7 @@ require('./store-decorators/BasketStoreDecorator');
 // Helpers
 window.toggle = require('./helpers/toggle');
 window.loadJSON = require('./helpers/loadJSON');
+window.scrollToTop = require('./helpers/scrollToTop');
 
 // After Load
 var afterLoad = require('reflux').joinLeading(

@@ -2,6 +2,7 @@ var React = require('react');
 var Reflux = require('reflux');
 var JSE = require('jekyll-store-engine');
 var I = require('seamless-immutable');
+var scrollToTop = require('../helpers/scrollToTop');
 
 var Pagination = React.createClass({
   mixins: [Reflux.listenTo(JSE.Stores.Display, 'onChange')],
@@ -14,8 +15,13 @@ var Pagination = React.createClass({
     return { current: 1, numbers: I([1]), prev: null, next: null };
   },
 
-  prev: function() { this.setPage(this.state.prev); },
-  next: function() { this.setPage(this.state.next); },
+  prev: function() { this.userSetPage(this.state.prev); },
+  next: function() { this.userSetPage(this.state.next); },
+
+  userSetPage: function(i) {
+    scrollToTop();
+    this.setPage(i);
+  },
 
   setPage: function(i) {
     JSE.Actions.setDisplayFilter({
@@ -39,7 +45,7 @@ var Pagination = React.createClass({
                     <li key={i}>
                       {this.state.current == i ?
                         <a href={nope} className='selected'>{i}</a> :
-                        <a href={nope} onClick={this.setPage.bind(this, i)}>{i}</a>}
+                        <a href={nope} onClick={this.userSetPage.bind(this, i)}>{i}</a>}
                     </li>
                   );
                 }, this)

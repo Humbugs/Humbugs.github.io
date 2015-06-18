@@ -17,10 +17,6 @@ function scrollTo(element, to, duration) {
     animateScroll();
 }
 
-//t = current time
-//b = start value
-//c = change in value
-//d = duration
 function easeInOutQuad(t, b, c, d) {
   t /= d/2;
   if (t < 1) return c/2*t*t + b;
@@ -28,4 +24,9 @@ function easeInOutQuad(t, b, c, d) {
   return -c/2 * (t*(t-2) - 1) + b;
 };
 
-module.exports = scrollTo;
+var body = document.getElementsByTagName('body')[0];
+function scrollToTop() {
+  scrollTo(body, 0, 1000);
+}
+
+module.exports = scrollToTop;

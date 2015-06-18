@@ -116,8 +116,10 @@
 
     @include media($horizontal-bar-mode) {
       background: transparent;
-      display: inline;
       line-height: $nav-height;
+      display: inline-block;
+      width: 100px;
+      vertical-align: middle;
       &:hover { background: transparent; }
 
       a {

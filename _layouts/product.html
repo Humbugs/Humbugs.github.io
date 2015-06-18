@@ -23,30 +23,32 @@ layout: default
         <h4>Description:</h4>
         {{ content }}
       </section>
-      {% if page.ingredients %}
-      <div class='half'>
-        <section>
-          <h4>Ingredients:</h4>
-          <p>{{ page.ingredients }}</p>
-        </section>
-        {% endif %}
-        {% if contains != [] %}
-        <section>
-          <h4>Contains:</h4>
-          <ul>
-          {% for ingredient in contains %}
-            <li class='contains-item'>
-              <img src='{{ site.image_prefix }}{{ ingredient }}.png'
-                   alt='{{ ingredient }}' />
-              <span>{{ ingredient }}</span>
-            </li>
-          {% endfor %}
-          </ul>
-        </section>
-        {% endif %}
-      </div>
+      {% if page.ingredients or contains != [] %}
+        <div {% if page.serving_size %}class='half'{% endif %}>
+          {% if page.ingredients %}
+          <section>
+            <h4>Ingredients:</h4>
+            <p>{{ page.ingredients }}</p>
+          </section>
+          {% endif %}
+          {% if contains != [] %}
+          <section>
+            <h4>Contains:</h4>
+            <ul>
+            {% for ingredient in contains %}
+              <li class='contains-item'>
+                <img src='{{ site.image_prefix }}{{ ingredient }}.png'
+                     alt='{{ ingredient }}' />
+                <span>{{ ingredient }}</span>
+              </li>
+            {% endfor %}
+            </ul>
+          </section>
+          {% endif %}
+        </div>
+      {% endif %}
       {% if page.serving_size %}
-      <section class='half'>
+      <section {% if page.ingredients or contains != [] %}class='half'{% endif %}>
         <table>
           <tr>
             <th>Serving Size</th>

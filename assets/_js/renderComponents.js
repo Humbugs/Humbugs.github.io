@@ -4,11 +4,11 @@ var renderComponent = require('./helpers/renderComponent');
 renderComponent('basket-summary', require('./components/BasketSummary.jsx'));
 
 // Index
+renderComponent('pagination', require('./components/Pagination.jsx'));
 renderComponent('taxonomies', require('./components/TaxonomiesMenu.jsx'));
 renderComponent('search', require('./components/SearchBox.jsx'));
 renderComponent('sort', require('./components/Sort.jsx'));
 renderComponent('display', require('./components/Display.jsx'));
-renderComponent('pagination', require('./components/Pagination.jsx'));
 
 // Product
 renderComponent('addToBasket', require('./components/AddToBasket.jsx'));

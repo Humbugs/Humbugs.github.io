@@ -10,7 +10,7 @@ var BasketSummary = React.createClass({
     var total = this.state.order.totals.price;
     return (
       <a href={this.props.link}>
-        <i className='fa fa-shopping-cart'></i>
+        <i className='fa-shopping-cart'></i>
         <span>{money(total)}</span>
       </a>
     );

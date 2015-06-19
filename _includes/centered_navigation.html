@@ -6,21 +6,18 @@
     <span id='nav-mobile-menu' onclick='toggle("nav-menu", "show")'>MENU</span>
     <nav role='navigation'>
       <ul id='nav-menu'>
-        <li class='nav-link'><a href='{{ site.baseurl }}/about/'>About</a></li>
         <li class='nav-link'>
-          <a href='{{ site.baseurl }}/deliveries/'>Deliveries</a>
+          <a href='{{ site.baseurl }}/favourites'>
+            <i class='fa-star'></i>
+            <span>Favourites</span>
+          </a>
         </li>
         <li class='nav-link logo'>
           <a href='{{ site.baseurl }}/'>
             <img src='{{ site.image_prefix }}logo-new.png' alt='Logo'>
           </a>
         </li>
-        <li class='nav-link'>
-          <a href='{{ site.baseurl }}/favourites'>Favourites</a>
-        </li>
-        <li class='nav-link'
-            id='basket-summary'
-            data-img='"{{ site.image_prefix }}cart.png"'
+        <li class='nav-link' id='basket-summary'
             data-link='"{{ site.baseurl }}/basket"'></li>
       </ul>
     </nav>

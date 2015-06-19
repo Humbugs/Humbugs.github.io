@@ -1,14 +1,18 @@
+body { font-family: 'Raleway', sans-serif; }
 main { @include outer-container; }
 #nav {
   box-shadow: 0 0 1px 1px #333;
-  border-color: #fff;
+  .nav-link a { vertical-align: middle; }
+
+  i {
+    font-size: inherit;
+    vertical-align: baseline;
+    padding: 0;
+  }
 }
 
-#nav .nav-link a { vertical-align: middle; }
-
-.fa-shopping-cart {
-  padding: 0 5px 0 0;
-}
+.logo.nav-link img { padding-bottom: 10px; }
+#basket-summary i { padding-right: 5px; }
 
 .footer-social { font-size: 1.5em; }
 
@@ -61,6 +65,10 @@ h2 {
   background: #FFEFB2;
 
   span { margin-right: -5px; }
+}
+
+h3, h4, h5, h6 {
+  font-family: inherit;
 }
 
 .footer-2 {

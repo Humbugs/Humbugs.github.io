@@ -1,6 +1,6 @@
 ---
 layout: compress
-permalink: /real-products.json
+permalink: /products.json
 ---
 
 {% assign available_products = site.products | where: 'available', true %}

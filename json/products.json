@@ -1,6 +1,6 @@
 ---
 layout: compress
-permalink: /products.json
+permalink: /real-products.json
 ---
 
 {% assign available_products = site.products | where: 'available', true %}
@@ -10,9 +10,11 @@ permalink: /products.json
       {% if product.purchase_option == 1 %}
         {% capture price %}{{ product.price | divided_by: 100.00 }}{% endcapture %}
         {% capture cost_price %}{{ product.cost_price | divided_by: 100.00 }}{% endcapture %}
+        {% assign weight = 1 %}
       {% else %}
         {% assign price = product.price %}
         {% assign cost_price = product.cost_price %}
+        {% assign weight = product.weight %}
       {% endif %}
     {
       "name": "{{ product.name }}",
@@ -33,7 +35,7 @@ permalink: /products.json
       {% if product.width %}"width": {{ product.width }},{% endif %}
       {% if product.height %}"height": {{ product.height }},{% endif %}
       {% if product.depth %}"depth": {{ product.depth }},{% endif %}
-      {% if product.weight %}"weight": {{ product.weight }},{% endif %}
+      {% if weight %}"weight": {{ weight }},{% endif %}
 
       "brand": ["{{ product.brand }}"],
       "type": [

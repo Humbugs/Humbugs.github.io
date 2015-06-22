@@ -22,14 +22,14 @@ var DeliverySelect = React.createClass({
               return (
                 <button type='button' key={i}
                   onClick={this.select.bind(this, name)}
-                  className={this.state.delivery.name == name ? 'selected' : ''}>
+                  className={this.state.delivery && this.state.delivery.name == name ? 'selected' : ''}>
                   {name}
                 </button>
               );
             }, this)
           }
         </div>
-        <h2>{money(this.state.delivery.amount)}</h2>
+        <h2>{money(this.state.delivery && this.state.delivery.amount)}</h2>
       </div>
     );
   }

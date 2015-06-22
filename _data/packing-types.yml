@@ -1,13 +1,13 @@
 - name: Large Letter
   width: 353
-  length: 250
+  height: 250
   depth: 25
   weight_limit: 750
   weight: 25
 
 - name: Parcel
   width: 610
-  length: 460
+  height: 460
   depth: 460
   weight_limit: 20000
   weight: 50

@@ -1,6 +1,5 @@
 // Vendor
 window.accounting = require('accounting');
-window.SuperAgent = require('superagent');
 require('./vendor/es5-shim.min');
 require('./vendor/es5-sham.min');
 require('./vendor/html5shiv');
@@ -14,6 +13,7 @@ require('jekyll-store-visited');
 require('jekyll-store-favourites');
 require('jekyll-store-google-analytics');
 require('./store-decorators/BasketStoreDecorator');
+require('humbugs-packings');
 
 // Helpers
 window.toggle = require('./helpers/toggle');

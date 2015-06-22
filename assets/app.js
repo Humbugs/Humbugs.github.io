@@ -8,9 +8,10 @@ accounting.settings.currency = {{ site.accounting | replace: '=>', ':' }};
 PAYMILL_PUBLIC_KEY = '{{ site.paymillPublicKey }}';
 JSE.Actions.setTrackingId({ id: '{{ site.tracking_id }}' });
 JSE.Actions.setPaymentOptions({{ site.payment | replace: '=>', ':' }});
+JSE.Actions.setPackHook({ hook: 'http://127.0.0.1:4567/pack' });
 
 // Data
-loadJSON('{{ site.baseurl }}/cached-products.json', function(products){
+loadJSON('{{ site.baseurl }}/products.json', function(products){
   JSE.Actions.loadProducts({ products: products });
 });
 

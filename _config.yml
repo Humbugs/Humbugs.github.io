@@ -259,5 +259,3 @@ exclude:
   - README.md
   - CNAME
   - package.json
-gems:
-  - jekyll-sitemap

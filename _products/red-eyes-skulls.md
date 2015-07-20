@@ -1,5 +1,6 @@
 ---
-name: Red Eyes available: FALSE
+name: Red Eyes Skulls
+available: FALSE
 purchase_option: 1
 price: 0.95
 cost_price: 0.38

@@ -1,5 +1,6 @@
 ---
-name: Chocolate available: FALSE
+name: Chocolate Skulls
+available: FALSE
 purchase_option: 2
 price: 0.05
 cost_price: 0.03

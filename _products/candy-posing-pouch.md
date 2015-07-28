@@ -1,6 +1,6 @@
 ---
 name: Candy Posing Pouch
-available: TRUE
+available: FALSE
 image: 'candy-posing-pouch.jpg'
 purchase_option: 0
 price: 5.99

@@ -1,6 +1,6 @@
 ---
 name: Candy Bra
-available: TRUE
+available: FALSE
 image: 'candy-bra.jpg'
 purchase_option: 0
 price: 5.99

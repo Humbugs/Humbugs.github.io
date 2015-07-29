@@ -1,7 +1,7 @@
 ---
 name: Dolly Mixtures
 available: TRUE
-image: 'dolly-mixtures.jpg'
+image: "dolly-mixtures.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.6

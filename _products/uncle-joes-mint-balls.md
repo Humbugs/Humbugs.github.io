@@ -1,7 +1,7 @@
 ---
 name: Uncle Joes Mint Balls
 available: TRUE
-image: 'uncle-joes-mint-balls.jpg'
+image: "uncle-joes-mint-balls.jpg"
 purchase_option: 1
 price: 1.3
 cost_price: 0.52
@@ -11,7 +11,7 @@ type: [Hard, Mint, Traditional, Wrapped]
 flavour: [Mint]
 colour: [Brown]
 free: [Alcohol, Gluten, Lactose, Nut]
-ingredients: 'Pure Soft Golden Brown Cane Sugar, Cream of Tartar and Oil of Peppermint.'
+ingredients: "Pure Soft Golden Brown Cane Sugar, Cream of Tartar and Oil of Peppermint."
 serving_size: 100
 energy: 393
 carbohydrates: 97

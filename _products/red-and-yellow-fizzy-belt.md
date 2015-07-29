@@ -1,5 +1,5 @@
 ---
-name: 'Red & Yellow Fizzy Belt'
+name: "Red & Yellow Fizzy Belt"
 available: FALSE
 purchase_option: 2
 price: 0.05

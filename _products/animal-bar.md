@@ -11,7 +11,7 @@ weight: 20
 brand: Nestle
 type: [Chocolate, Wrapped]
 free: [Alcohol, Gelatin]
-ingredients: 'Sugar, Whole Milk Powder, Cocoa Butter, Whey Powder, Emulsifier: Soya Lecithin; Flavouring '
+ingredients: "Sugar, Whole Milk Powder, Cocoa Butter, Whey Powder, Emulsifier: Soya Lecithin; Flavouring "
 serving_size: 20
 energy: 100
 protein: 1

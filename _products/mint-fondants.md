@@ -1,7 +1,7 @@
 ---
 name: Mint Fondants
 available: TRUE
-image: 'mint-fondants.jpg'
+image: "mint-fondants.jpg"
 purchase_option: 1
 price: 1.2
 cost_price: 0.48
@@ -11,6 +11,6 @@ type: [Mint, Wrapped]
 flavour: [Mint]
 colour: [White]
 free: [Alcohol, Gluten, Lactose, Nut]
-ingredients: 'Sugar, Glucose Syrup'
+ingredients: "Sugar, Glucose Syrup"
 ---
 Creamy peppermint fondants in a crisp shell.

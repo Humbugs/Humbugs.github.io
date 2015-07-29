@@ -1,7 +1,7 @@
 ---
 name: Cherry Cola Bottles
 available: FALSE
-image: 'cherry-cola-bottles.jpg'
+image: "cherry-cola-bottles.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.6

@@ -1,7 +1,7 @@
 ---
 name: Large Pear Drops
 available: FALSE
-image: 'drops-pear-large.jpg'
+image: "drops-pear-large.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.6
@@ -11,6 +11,6 @@ type: [Hard, Traditional, Wrapped]
 flavour: [Pear]
 colour: [Pink, Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Glucose Syrup, Citric Acid, Colours: E104, E129'
+ingredients: "Sugar, Glucose Syrup, Citric Acid, Colours: E104, E129"
 ---
 Large, hard boiled pear flavoured sweets.

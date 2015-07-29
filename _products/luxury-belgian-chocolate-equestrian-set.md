@@ -1,7 +1,7 @@
 ---
 name: Luxury Belgian Chocolate Equestrian Set
 available: FALSE
-image: 'luxury-belgian-chocolate-set-equestrian.jpg'
+image: "luxury-belgian-chocolate-set-equestrian.jpg"
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

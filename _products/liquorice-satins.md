@@ -10,6 +10,6 @@ brand: Gibb
 type: [Liquorice]
 flavour: [Aniseed]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Sweetened Condensed Milk, Butter, Soya Lecithin, Flavouring, E102, E122, E129, E142, E153'
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Sweetened Condensed Milk, Butter, Soya Lecithin, Flavouring, E102, E122, E129, E142, E153"
 ---
 Brightly coloured satins with a liquorice chewy centre.

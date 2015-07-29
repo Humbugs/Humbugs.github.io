@@ -12,6 +12,6 @@ brand: Maoam
 type: [Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Gluten, Nut]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Sorbital Syrup, Citric Acid, Gelling Agent (Gelatine), Flavourings, Fruit and Plant Concentrates (Lemon, Safflower, Spirulina, Blackcurrant, Carrot, Radish, Apple, Glazing Agent (White and Yellow Beeswax), Caramelised Sugar Syrup, Liquorice Extract, Release Agent, Talc, Invert Sugar Syrup.'
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Sorbital Syrup, Citric Acid, Gelling Agent (Gelatine), Flavourings, Fruit and Plant Concentrates (Lemon, Safflower, Spirulina, Blackcurrant, Carrot, Radish, Apple, Glazing Agent (White and Yellow Beeswax), Caramelised Sugar Syrup, Liquorice Extract, Release Agent, Talc, Invert Sugar Syrup."
 ---
 Assortment of little chewy balls that are tangy and fruity.

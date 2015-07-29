@@ -10,6 +10,6 @@ depth: 0
 weight: 0
 type: [Chewy, Wrapped]
 free: [Alcohol, Nut]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Citric Acid, Beef Gelatine, Flavourings: Pineapple, Raspberry, Natural Colours: Paprika Extract, Anthocyanins'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Citric Acid, Beef Gelatine, Flavourings: Pineapple, Raspberry, Natural Colours: Paprika Extract, Anthocyanins"
 ---
 Pineapple and raspberry chew bar.

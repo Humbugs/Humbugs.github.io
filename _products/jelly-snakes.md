@@ -1,7 +1,7 @@
 ---
 name: Jelly Snakes
 available: FALSE
-image: 'jelly-snakes.jpg'
+image: "jelly-snakes.jpg"
 purchase_option: 1
 price: 0.95
 cost_price: 0.38

@@ -12,6 +12,6 @@ brand: Maoam
 type: [Chewy, Wrapped]
 flavour: [Cola, Lemon, Sour]
 free: [Alcohol, Gluten, Nut]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Fruit Juice From Concentrate, Gelling Agent (Gelatine), Citric Acid, Fruit & Plant Concentrates, Flavouring, Invert Sugar Syrup'
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Fruit Juice From Concentrate, Gelling Agent (Gelatine), Citric Acid, Fruit & Plant Concentrates, Flavouring, Invert Sugar Syrup"
 ---
 Sour chew bar.

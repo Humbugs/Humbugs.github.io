@@ -1,7 +1,7 @@
 ---
 name: "Maynard's Wine Gums"
 available: TRUE
-image: 'maynards-wine-gums.jpg'
+image: "maynards-wine-gums.jpg"
 purchase_option: 1
 price: 1.3
 cost_price: 0.52
@@ -12,6 +12,6 @@ type: [Chewy, Gummy, Liquorice]
 flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol]
-ingredients: 'Glucose Syrup, Sugar, Starch, Gelatine (Bovine), Water, Acids (Malic, Acetic), Vegetable Oil, Concentrated Vegetable Extracts (Black Carrot, Spinach, Stinging Nettle, Turmeric), Flavourings, Glazing Agent (Carnauba Wax), Colours (Vegetable Carbon, Paprika Extract, Lutein).'
+ingredients: "Glucose Syrup, Sugar, Starch, Gelatine (Bovine), Water, Acids (Malic, Acetic), Vegetable Oil, Concentrated Vegetable Extracts (Black Carrot, Spinach, Stinging Nettle, Turmeric), Flavourings, Glazing Agent (Carnauba Wax), Colours (Vegetable Carbon, Paprika Extract, Lutein)."
 ---
 Fruit flavoured gums.

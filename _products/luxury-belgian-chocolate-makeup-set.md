@@ -1,7 +1,7 @@
 ---
 name: Luxury Belgian Chocolate Makeup Set
 available: FALSE
-image: 'luxury-belgian-chocolate-set-makeup.jpg'
+image: "luxury-belgian-chocolate-set-makeup.jpg"
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

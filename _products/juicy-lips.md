@@ -1,7 +1,7 @@
 ---
 name: Juicy Lips
 available: FALSE
-image: 'juicy-lips.jpg'
+image: "juicy-lips.jpg"
 purchase_option: 1
 price: 0.95
 cost_price: 0.38

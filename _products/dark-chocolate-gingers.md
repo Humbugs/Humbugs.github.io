@@ -1,7 +1,7 @@
 ---
 name: Dark Chocolate Gingers
 available: TRUE
-image: 'dark-chocolate-gingers.jpg'
+image: "dark-chocolate-gingers.jpg"
 purchase_option: 1
 price: 1.2
 cost_price: 0.8

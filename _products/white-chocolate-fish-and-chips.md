@@ -1,7 +1,7 @@
 ---
-name: 'White Chocolate Fish & Chips'
+name: "White Chocolate Fish & Chips"
 available: TRUE
-image: 'fish-chips-white-chocolate.jpg'
+image: "fish-chips-white-chocolate.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4
@@ -11,6 +11,6 @@ type: [Chocolate]
 flavour: [Chocolate]
 colour: [White]
 free: [Alcohol]
-ingredients: 'Sugar, Vegetable Fat, Whey Powder, Wheat Flour, Emulsifier: Soya Lecithin'
+ingredients: "Sugar, Vegetable Fat, Whey Powder, Wheat Flour, Emulsifier: Soya Lecithin"
 ---
 Fish and chip shaped white chocolate.

@@ -10,6 +10,6 @@ type: [Chewy, Traditional, Toffee, Wrapped]
 flavour: [Toffee]
 colour: [Brown]
 free: [Alcohol, Gluten]
-ingredients: 'Glucose Syrup, Sugar, Sweetened Condensed Milk, Vegetable Oil, Butter, Salt, Emulsifier: E471; Flavourings'
+ingredients: "Glucose Syrup, Sugar, Sweetened Condensed Milk, Vegetable Oil, Butter, Salt, Emulsifier: E471; Flavourings"
 ---
 Individually wrapped creamy toffees.

@@ -12,6 +12,6 @@ brand: Weirds
 type: [Wrapped]
 flavour: [Orange, Strawberry]
 free: [Alcohol, Lactose, Gelatin]
-ingredients: 'Sugar, Glucose Powder, E330, Artificial Flavours, Corn Syrup, Colours: E102, E129, E171. Glazing Agent: E903'
+ingredients: "Sugar, Glucose Powder, E330, Artificial Flavours, Corn Syrup, Colours: E102, E129, E171. Glazing Agent: E903"
 ---
 Tiny, tangy, crunchy candy in 2 flavours: strawberry and orange.

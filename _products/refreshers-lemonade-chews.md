@@ -11,6 +11,6 @@ weight: 0
 brand: Swizzels Matlow
 type: [Chewy, Wrapped]
 free: [Alcohol, Gluten, Nut]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator, Citric Acid, Gelling Agent, Citric Acid, Modified Starch, Emulsifier, Glycerol Monostearate, Anti-Caking Agent, Magnesium Stearate, Flavourings, Colour: Lutein'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator, Citric Acid, Gelling Agent, Citric Acid, Modified Starch, Emulsifier, Glycerol Monostearate, Anti-Caking Agent, Magnesium Stearate, Flavourings, Colour: Lutein"
 ---
 Lemon flavoured chews with a sherbet centre.

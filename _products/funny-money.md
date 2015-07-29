@@ -10,6 +10,6 @@ depth: 10
 weight: 0
 type: [Wrapped]
 free: [Alcohol]
-ingredients: ' Starch, Vegetable Oil, Sweetener: Sucralose; Flavourings, Colours:  E120,  E141,  E160A'
+ingredients: " Starch, Vegetable Oil, Sweetener: Sucralose; Flavourings, Colours:  E120,  E141,  E160A"
 ---
 Edible rice paper money.

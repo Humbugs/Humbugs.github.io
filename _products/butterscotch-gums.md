@@ -9,5 +9,5 @@ container_sweets_weight: 573
 type: [Butter, Gummy]
 colour: [Yellow]
 free: [Alcohol]
-ingredients: 'Glucose Syrup, Sugar, Gelatine, Modified Potato Starch, Butter, Vegetable Oil, Glazing Agents (Carnauba Wax)'
+ingredients: "Glucose Syrup, Sugar, Gelatine, Modified Potato Starch, Butter, Vegetable Oil, Glazing Agents (Carnauba Wax)"
 ---

@@ -12,6 +12,6 @@ brand: Wham
 type: [Wrapped]
 flavour: [Apple]
 free: [Alcohol, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322, Colours: Curcumin, Chlorophyll'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322, Colours: Curcumin, Chlorophyll"
 ---
 Sour apple flavoured chew bar.

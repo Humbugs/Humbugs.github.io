@@ -11,6 +11,6 @@ weight: 17
 brand: Swizzels Matlow
 type: [Chewy, Wrapped]
 free: [Alcohol, Gluten, Nut]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator, Citric Acid, Gelling Agent, Gelatine, Stearic Acid, Modified Starch, Flavourings, Emulsifier, Glycerol Mono Saturate, Anti-Caking Agent, Magnesium Carbonate, Magnesium Stearate, Colour, Anthocyanin'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator, Citric Acid, Gelling Agent, Gelatine, Stearic Acid, Modified Starch, Flavourings, Emulsifier, Glycerol Mono Saturate, Anti-Caking Agent, Magnesium Carbonate, Magnesium Stearate, Colour, Anthocyanin"
 ---
 Fruit flavoured chew bar with a sherbet centre.

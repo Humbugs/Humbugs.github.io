@@ -1,7 +1,7 @@
 ---
-name: 'Black & White Mints Round'
+name: "Black & White Mints Round"
 available: FALSE
-image: 'black-white-mints-round.jpg'
+image: "black-white-mints-round.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65

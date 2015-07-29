@@ -1,5 +1,5 @@
 ---
-name: 'Blue Crystals'
+name: "Blue Crystals"
 available: FALSE
 purchase_option: 1
 price: 1

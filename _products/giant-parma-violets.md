@@ -10,6 +10,6 @@ depth: 15
 weight: 0
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Stearic Acid, Modified Starch, Glucose Syrup, Anti-Caking Agent: Magnesium Carbonate, Flavourings, Colours: E124, E132, Anthocyanin'
+ingredients: "Sugar, Stearic Acid, Modified Starch, Glucose Syrup, Anti-Caking Agent: Magnesium Carbonate, Flavourings, Colours: E124, E132, Anthocyanin"
 ---
 Hard violet flavoured sweets.

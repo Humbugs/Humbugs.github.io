@@ -11,6 +11,6 @@ type: [Mint, Wrapped]
 flavour: [Mint]
 colour: [White]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Glucose Syrup, Treacle'
+ingredients: "Sugar, Glucose Syrup, Treacle"
 ---
 Boiled sweets with a buttery mint flavour.

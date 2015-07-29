@@ -11,5 +11,5 @@ weight: 0
 type: [Gum, Wrapped]
 flavour: [Strawberry]
 free: [Alcohol, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Gum Base, Glucose Syrup, Flavourings, Citric Acid, Humectant Glycerine (Non-Animal), Emulsifier Soybean Lecithin, Colour E129, Antioxidant BHA'
+ingredients: "Sugar, Gum Base, Glucose Syrup, Flavourings, Citric Acid, Humectant Glycerine (Non-Animal), Emulsifier Soybean Lecithin, Colour E129, Antioxidant BHA"
 ---

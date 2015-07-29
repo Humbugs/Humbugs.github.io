@@ -1,7 +1,7 @@
 ---
 name: Salted Caramel
 available: FALSE
-image: 'salted-caramel.jpg'
+image: "salted-caramel.jpg"
 purchase_option: 3
 price: 3.99
 cost_price: 0.01596

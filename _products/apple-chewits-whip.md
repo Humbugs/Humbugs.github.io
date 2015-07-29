@@ -13,6 +13,6 @@ type: [Chewy]
 flavour: [Apple]
 colour: [Green]
 free: [Alcohol, Lactose, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Wheat Flour, Sugar, Starch, Apple Juice Concentrate 1.5%, Hydrogenated Vegetable Oil, Citric Acid, Flavouring, Glazing Agent (Shellac), Emulsifier (E471), Colours: E102, E133'
+ingredients: "Glucose Syrup, Wheat Flour, Sugar, Starch, Apple Juice Concentrate 1.5%, Hydrogenated Vegetable Oil, Citric Acid, Flavouring, Glazing Agent (Shellac), Emulsifier (E471), Colours: E102, E133"
 ---
 Apple flavoured jelly whips.

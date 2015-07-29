@@ -1,7 +1,7 @@
 ---
-name: 'Eclairs (Sugar Free)'
+name: "Eclairs (Sugar Free)"
 available: TRUE
-image: 'eclairs-sugar-free.jpg'
+image: "eclairs-sugar-free.jpg"
 purchase_option: 1
 price: 1.3
 cost_price: 0.8

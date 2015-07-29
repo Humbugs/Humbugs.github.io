@@ -1,7 +1,7 @@
 ---
 name: Luxury Belgian Chocolate Toolkit Set
 available: FALSE
-image: 'luxury-belgian-chocolate-set-toolkit.jpg'
+image: "luxury-belgian-chocolate-set-toolkit.jpg"
 purchase_option: 0
 price: 5.99
 cost_price: 2.396

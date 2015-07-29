@@ -10,6 +10,6 @@ type: [Liquorice]
 flavour: [Aniseed, Salt]
 colour: [Black]
 free: [Alcohol, Sugar]
-ingredients: 'Modified Starch, Sugar, Glucose Syrup, Ammonium Chloride, Molasses, Colour Caramel, Liquorice Extract, Flavours, Glazing Agent: Vegetable Oil, Bees Wax'
+ingredients: "Modified Starch, Sugar, Glucose Syrup, Ammonium Chloride, Molasses, Colour Caramel, Liquorice Extract, Flavours, Glazing Agent: Vegetable Oil, Bees Wax"
 ---
 Double salt liquorice.

@@ -1,7 +1,7 @@
 ---
 name: Haribo Yellow Bellies
 available: FALSE
-image: 'haribo-yellow-bellies.jpg'
+image: "haribo-yellow-bellies.jpg"
 purchase_option: 2
 price: 0.2
 cost_price: 0.08

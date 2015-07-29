@@ -12,7 +12,7 @@ brand: Cadburys
 type: [Chocolate, Wrapped]
 colour: [Purple]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Milk, Sugar, Cocoa Butter, Cocoa Mass, Vegetable Fat, Emulsifiers: E442, E476; Flavourings.'
+ingredients: "Milk, Sugar, Cocoa Butter, Cocoa Mass, Vegetable Fat, Emulsifiers: E442, E476; Flavourings."
 serving_size: 100
 energy: 530
 protein: 7.5

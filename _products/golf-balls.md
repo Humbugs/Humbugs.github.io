@@ -11,6 +11,6 @@ weight: 0
 type: [Gum, Wrapped]
 flavour: [Mint]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Dextrose, Sucrose, Gum Base, Glucose Syrup, Flavourings, Colour E171, Glazing Agents: Carnauba Wax, Shellac, Antioxidant'
+ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Flavourings, Colour E171, Glazing Agents: Carnauba Wax, Shellac, Antioxidant"
 ---
 Minty chewing gum in the shape of a golf ball.

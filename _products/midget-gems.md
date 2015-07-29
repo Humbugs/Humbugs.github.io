@@ -1,7 +1,7 @@
 ---
 name: Midget Gems
 available: TRUE
-image: 'midget-gems.jpg'
+image: "midget-gems.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4

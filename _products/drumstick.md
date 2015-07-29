@@ -11,6 +11,6 @@ weight: 0
 type: [Lollipop, Wrapped]
 flavour: [Raspberry]
 free: [Alcohol, Gluten, Lactose, Nut]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator (Citric Acid), Gelatine, Emulsifier (Glycerol Mono Stearate), Flavouring, Natural Colour'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator (Citric Acid), Gelatine, Emulsifier (Glycerol Mono Stearate), Flavouring, Natural Colour"
 ---
 Small wrapped raspberry and milk chews.

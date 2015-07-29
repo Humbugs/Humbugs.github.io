@@ -13,6 +13,6 @@ type: [Chewy]
 flavour: [Cola]
 colour: [Brown]
 free: [Alcohol, Lactose, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Wheat Flour, Sugar, Starch, Apple Juice Concentrate, Hydrogenated Vegetable Oil, Citric Acid, Flavouring, Glazing Agent (Shellac), Emulsifier (E471), Colours: E102, E133'
+ingredients: "Glucose Syrup, Wheat Flour, Sugar, Starch, Apple Juice Concentrate, Hydrogenated Vegetable Oil, Citric Acid, Flavouring, Glazing Agent (Shellac), Emulsifier (E471), Colours: E102, E133"
 ---
 Cola flavoured jelly whips.

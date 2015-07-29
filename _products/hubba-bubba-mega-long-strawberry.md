@@ -8,11 +8,11 @@ width: 80
 height: 75
 depth: 20
 weight: 0
-brand: 'Hubba-Bubba'
+brand: "Hubba-Bubba"
 type: [Gummy, Wrapped]
 flavour: [Strawberry]
 colour: [Red]
 free: [Alcohol, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Gum Base, Glucose Syrup, Humectant Glycerine Non Animal, Modified Starch, Flavourings, Malic Acid, Emulsifier: Soybean Lecithin; Citric Acid'
+ingredients: "Sugar, Gum Base, Glucose Syrup, Humectant Glycerine Non Animal, Modified Starch, Flavourings, Malic Acid, Emulsifier: Soybean Lecithin; Citric Acid"
 ---
 Strawberry bubblegum.

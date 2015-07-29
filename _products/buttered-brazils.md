@@ -1,7 +1,7 @@
 ---
 name: Buttered Brazils
 available: FALSE
-image: 'brazils-buttered.jpg'
+image: "brazils-buttered.jpg"
 purchase_option: 1
 price: 1.7
 cost_price: 0.85
@@ -11,6 +11,6 @@ brand: Buchanans
 type: [Nuts, Toffee, Wrapped]
 colour: [Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Brazils Nuts (30%), Sugar, Glucose Syrup, Butter (10%), Salt'
+ingredients: "Brazils Nuts (30%), Sugar, Glucose Syrup, Butter (10%), Salt"
 ---
 Whole brazil nuts encased in a smooth butterscotch

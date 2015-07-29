@@ -1,7 +1,7 @@
 ---
-name: 'Candy G-string'
+name: "Candy G-string"
 available: FALSE
-image: 'candy-g-string.jpg'
+image: "candy-g-string.jpg"
 purchase_option: 0
 price: 5.99
 cost_price: 3.89

@@ -1,7 +1,7 @@
 ---
-name: 'Multi-Flavoured Bonbons'
+name: "Multi-Flavoured Bonbons"
 available: TRUE
-image: 'bonbons-multi-flavoured.jpg'
+image: "bonbons-multi-flavoured.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65

@@ -1,5 +1,5 @@
 ---
-name: 'Pink & White Nougat Bar'
+name: "Pink & White Nougat Bar"
 available: FALSE
 purchase_option: 0
 price: 1.25

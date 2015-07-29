@@ -12,7 +12,7 @@ brand: Nestle
 type: [Caramel, Wrapped]
 colour: [Red, Yellow]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Vegetable Fat, Sugar, Lactose, Sweetened Condensed Skimmed Milk, Skimmed Milk Powder, Butter, Emulsifier (Soya Lecithin), Treacle, Salt, Flavouring '
+ingredients: "Vegetable Fat, Sugar, Lactose, Sweetened Condensed Skimmed Milk, Skimmed Milk Powder, Butter, Emulsifier (Soya Lecithin), Treacle, Salt, Flavouring "
 energy: 174
 protein: 1.8
 carbohydrates: 16.9

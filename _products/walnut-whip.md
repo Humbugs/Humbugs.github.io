@@ -12,7 +12,7 @@ brand: Nestle
 type: [Chocolate, Nuts, Wrapped]
 colour: [Blue]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Milk Chocolate (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Lactose and Proteins From Whey, Whey Powder, Vegetable Fat, Emulsifier (Soy Lecithin)), Butterfat, Sugar, Walnuts 5%, Glucose Syrup, Glucose-Fructose Syrup, Dried Egg White, Humectant (Glycerol, Flavouring, Tartaric Acid)'
+ingredients: "Milk Chocolate (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Lactose and Proteins From Whey, Whey Powder, Vegetable Fat, Emulsifier (Soy Lecithin)), Butterfat, Sugar, Walnuts 5%, Glucose Syrup, Glucose-Fructose Syrup, Dried Egg White, Humectant (Glycerol, Flavouring, Tartaric Acid)"
 energy: 171
 protein: 1.7
 carbohydrates: 21.2

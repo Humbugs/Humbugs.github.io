@@ -1,5 +1,5 @@
 ---
-name: 'Gummy Teeth & Toothbrushes'
+name: "Gummy Teeth & Toothbrushes"
 available: FALSE
 purchase_option: 2
 price: 0.01

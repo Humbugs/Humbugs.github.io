@@ -11,5 +11,5 @@ weight: 0
 type: [Hard, Wrapped]
 flavour: [Mixed Fruit, Ginger, Sour]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Citric Acid, Malic Acid, Dextrose, Maltodextrin, Glazing Agents: Beeswax'
+ingredients: "Sugar, Glucose Syrup, Citric Acid, Malic Acid, Dextrose, Maltodextrin, Glazing Agents: Beeswax"
 ---

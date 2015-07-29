@@ -1,7 +1,7 @@
 ---
 name: Crystal Fruits
 available: FALSE
-image: 'crystal-fruits.jpg'
+image: "crystal-fruits.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.5

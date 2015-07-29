@@ -12,7 +12,7 @@ brand: Frys
 type: [Chocolate, Wrapped]
 flavour: [Cream]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Cocoa Butter, Cocoa Mass, Humectant (Glycerol), Vegetable Fats (Palm, Shea), Emulsifiers (Soya Lecithin, E476), Flavourings'
+ingredients: "Sugar, Glucose Syrup, Cocoa Butter, Cocoa Mass, Humectant (Glycerol), Vegetable Fats (Palm, Shea), Emulsifiers (Soya Lecithin, E476), Flavourings"
 serving_size: 100
 energy: 415
 protein: 2.8

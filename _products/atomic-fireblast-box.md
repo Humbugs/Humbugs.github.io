@@ -1,5 +1,5 @@
 ---
-name: 'Atomic Fireblast (Box)'
+name: "Atomic Fireblast (Box)"
 available: FALSE
 purchase_option: 0
 price: 0.4
@@ -12,7 +12,7 @@ type: [Hard, Wrapped]
 flavour: [Aniseed]
 colour: [Red]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Sugar, Gelling Agent (E414), Flavourings, Corn Starch, Glazing Agent (Carnauba Wax), Colours: E129, E171'
+ingredients: "Sugar, Gelling Agent (E414), Flavourings, Corn Starch, Glazing Agent (Carnauba Wax), Colours: E129, E171"
 serving_size: 21
 energy: 98
 protein: 0

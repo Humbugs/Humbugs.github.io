@@ -10,6 +10,6 @@ type: [Liquorice]
 flavour: [Aniseed, Cream]
 colour: [Black, White, Yellow]
 free: [Alcohol]
-ingredients: 'Sugar, Molasses, Wheat Flour, Wheat Starch, Glucose Syrup, Vegetable Fat, Gelatine, Dextrose, Liquorice Extract, Citric Acid, Lactic Acid, Glazing Agents: Vegetable Oil, Colours: E150C, E160A, E120'
+ingredients: "Sugar, Molasses, Wheat Flour, Wheat Starch, Glucose Syrup, Vegetable Fat, Gelatine, Dextrose, Liquorice Extract, Citric Acid, Lactic Acid, Glazing Agents: Vegetable Oil, Colours: E150C, E160A, E120"
 ---
 A soft centre wrapped in liquorice.

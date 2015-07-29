@@ -1,5 +1,5 @@
 ---
-name: 'Cream Soda Crystals'
+name: "Cream Soda Crystals"
 available: FALSE
 purchase_option: 1
 price: 1

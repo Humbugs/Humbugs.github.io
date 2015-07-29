@@ -11,6 +11,6 @@ weight: 0
 type: [Fizzy, Wrapped]
 flavour: [Strawberry]
 free: [Alcohol, Gelatin]
-ingredients: 'Sugar, Lactose, Glucose, Artificial Flavour, Carbon Dioxide E-290'
+ingredients: "Sugar, Lactose, Glucose, Artificial Flavour, Carbon Dioxide E-290"
 ---
 Cola popping candy.

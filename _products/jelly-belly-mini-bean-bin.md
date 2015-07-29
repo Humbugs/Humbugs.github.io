@@ -8,7 +8,7 @@ width: 145
 height: 125
 depth: 95
 weight: 0
-brand: 'Jelly-Belly'
+brand: "Jelly-Belly"
 type: [Novelty, Wrapped]
 free: [Alcohol, Gelatin]
 ---

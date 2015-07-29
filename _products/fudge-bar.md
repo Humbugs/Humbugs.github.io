@@ -11,7 +11,7 @@ weight: 153
 brand: Cadburys
 type: [Chocolate, Wrapped]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Sugar, Milk Chocolate (24%) (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Dried Whey, Vegetable Fat, Emulsifier (E442), Flavourings), Glucose Syrup, Sweetened Condensed Skimmed Milk, Vegetable Oil, Flavourings, Emulsifier (E471), Salt'
+ingredients: "Sugar, Milk Chocolate (24%) (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Dried Whey, Vegetable Fat, Emulsifier (E442), Flavourings), Glucose Syrup, Sweetened Condensed Skimmed Milk, Vegetable Oil, Flavourings, Emulsifier (E471), Salt"
 serving_size: 100
 energy: 440
 protein: 2.5

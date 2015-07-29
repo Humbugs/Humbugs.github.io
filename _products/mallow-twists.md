@@ -1,7 +1,7 @@
 ---
 name: Mallow Twists
 available: FALSE
-image: 'mallow-twists.jpg'
+image: "mallow-twists.jpg"
 purchase_option: 1
 price: 0.95
 cost_price: 0.38

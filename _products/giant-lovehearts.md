@@ -10,6 +10,6 @@ depth: 74
 weight: 444
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Acidity Regulators (Tartaric Acid, Malic Acid), Stearic Acid, Sodium Bicarbonate, Modified Starch, E470B, Anticaking Agent (Magnesium Carbonate), Flavourings, Natural Colours'
+ingredients: "Sugar, Acidity Regulators (Tartaric Acid, Malic Acid), Stearic Acid, Sodium Bicarbonate, Modified Starch, E470B, Anticaking Agent (Magnesium Carbonate), Flavourings, Natural Colours"
 ---
 Large, hard fruit sweets.

@@ -1,7 +1,7 @@
 ---
 name: Twister with Chocolate pieces
 available: TRUE
-image: 'twister-with-chocolate-pieces.jpg'
+image: "twister-with-chocolate-pieces.jpg"
 purchase_option: 0
 price: 9.99
 cost_price: 6.74

@@ -11,6 +11,6 @@ weight: 0
 type: [Chewy, Wrapped]
 flavour: [Blackcurrant]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Hydrogenated Vegetable Oil, Blackcurrant Juice From Concentrate 3% Acid (Citric Acid), Starch, Concentrates (Black Carrot, Hibiscus) Gelling Agents, E414, E418, Flavouring Emulsifier E473.'
+ingredients: "Sugar, Glucose Syrup, Hydrogenated Vegetable Oil, Blackcurrant Juice From Concentrate 3% Acid (Citric Acid), Starch, Concentrates (Black Carrot, Hibiscus) Gelling Agents, E414, E418, Flavouring Emulsifier E473."
 ---
 Tiny blackcurrant flavoured chews.

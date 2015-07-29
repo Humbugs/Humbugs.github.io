@@ -10,6 +10,6 @@ type: [Hard]
 flavour: [Apple]
 colour: [Green]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Glucose, Citric Acid, Flavouring, Colours: E102, E104, E142'
+ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E102, E104, E142"
 ---
 Crunchy sour apple flavoured cubes which are succulent and will have you sucking your cheeks in!

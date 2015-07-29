@@ -10,6 +10,6 @@ brand: Sultans
 flavour: [Ginger]
 colour: [Brown]
 free: [Alcohol, Sugar]
-ingredients: 'Stem Ginger, Sugar '
+ingredients: "Stem Ginger, Sugar "
 ---
 Pieces of crystallised stem ginger.

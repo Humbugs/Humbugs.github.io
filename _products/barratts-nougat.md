@@ -13,7 +13,7 @@ type: [Nougat, Wrapped]
 flavour: [Raspberry, Vanilla]
 colour: [Pink, White]
 free: [Alcohol, Gluten]
-ingredients: 'Glucose Syrup, Sugar, Beef Gelatine, Peanuts, Desiccated Coconut, Cornflour, Flavourings, Colour: Cochineal'
+ingredients: "Glucose Syrup, Sugar, Beef Gelatine, Peanuts, Desiccated Coconut, Cornflour, Flavourings, Colour: Cochineal"
 serving_size: 100
 energy: 375
 protein: 4.5

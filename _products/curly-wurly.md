@@ -11,7 +11,7 @@ weight: 28
 brand: Cadburys
 type: [Caramel, Chocolate, Wrapped]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Caramel (69%) (Glucose Syrup, Sweetened Condensed Skimmed Milk, Sugar, Vegetable Oil, Emulsifiers: E471, Soya Lecithin; Salt, Flavourings), Milk Chocolate (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Dried Whey, Vegetable Fat, Emulsifiers: E442, E476; Flavourings).'
+ingredients: "Caramel (69%) (Glucose Syrup, Sweetened Condensed Skimmed Milk, Sugar, Vegetable Oil, Emulsifiers: E471, Soya Lecithin; Salt, Flavourings), Milk Chocolate (Sugar, Dried Whole Milk, Cocoa Butter, Cocoa Mass, Dried Whey, Vegetable Fat, Emulsifiers: E442, E476; Flavourings)."
 serving_size: 100
 energy: 450
 protein: 3.4

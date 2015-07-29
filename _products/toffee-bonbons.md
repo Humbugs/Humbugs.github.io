@@ -1,7 +1,7 @@
 ---
 name: Toffee Bonbons
 available: TRUE
-image: 'bonbons-toffee.jpg'
+image: "bonbons-toffee.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65
@@ -11,6 +11,6 @@ type: [Chewy]
 flavour: [Toffee]
 colour: [Brown]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Sweetened Condensed Milk, Hydrogenated Vegetable Oil, Dextrose, Salt, Emulsifier (E471)'
+ingredients: "Sugar, Glucose Syrup, Sweetened Condensed Milk, Hydrogenated Vegetable Oil, Dextrose, Salt, Emulsifier (E471)"
 ---
 Chewy toffee flavoured bonbons.

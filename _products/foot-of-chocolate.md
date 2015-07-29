@@ -1,7 +1,7 @@
 ---
 name: Foot Of Chocolate
 available: TRUE
-image: 'foot-of-chocolate.jpg'
+image: "foot-of-chocolate.jpg"
 purchase_option: 0
 price: 3.99
 cost_price: 1.596

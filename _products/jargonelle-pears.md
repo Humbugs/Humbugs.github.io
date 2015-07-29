@@ -1,7 +1,7 @@
 ---
 name: Jargonelle Pears
 available: FALSE
-image: 'jargonelle-pears.jpg'
+image: "jargonelle-pears.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4

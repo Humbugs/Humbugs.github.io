@@ -1,7 +1,7 @@
 ---
 name: Jelly Belly Jelly Bean Machine
 available: FALSE
-image: 'jelly-belly-jelly-bean-machine.jpg'
+image: "jelly-belly-jelly-bean-machine.jpg"
 purchase_option: 0
 price: 24.99
 cost_price: 9.996
@@ -9,7 +9,7 @@ width: 250
 height: 135
 depth: 135
 weight: 0
-brand: 'Jelly-Belly'
+brand: "Jelly-Belly"
 type: [Novelty, Wrapped]
 free: [Alcohol, Gelatin]
 ---

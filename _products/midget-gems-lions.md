@@ -1,7 +1,7 @@
 ---
 name: "Lion's Midget Gems"
 available: TRUE
-image: 'midget-gems-lions.jpg'
+image: "midget-gems-lions.jpg"
 purchase_option: 1
 price: 1.35
 cost_price: 0.54
@@ -12,6 +12,6 @@ type: [Chewy, Gummy]
 flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, White, Yellow]
 free: [Alcohol, Nut]
-ingredients: 'Lion Midget Gems Glucose Syrup, Sugar, Water, Beef Gelatine, Potato Starch, Citric Acid, Liquorice Powder, Natural Flavourings, Vegetable Oil, Acetic Acid, Natural Colours (Vegetable Carbon, Chlorophyll, Lutein, Paprika Extract, Anthocyanins), Glazing Agent (Carnuba Wax). May Contain Traces of Milk.'
+ingredients: "Lion Midget Gems Glucose Syrup, Sugar, Water, Beef Gelatine, Potato Starch, Citric Acid, Liquorice Powder, Natural Flavourings, Vegetable Oil, Acetic Acid, Natural Colours (Vegetable Carbon, Chlorophyll, Lutein, Paprika Extract, Anthocyanins), Glazing Agent (Carnuba Wax). May Contain Traces of Milk."
 ---
 Chewy firm fruit flavoured gums.

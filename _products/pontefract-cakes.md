@@ -10,6 +10,6 @@ type: [Liquorice, Traditional]
 flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol, Lactose, Nut, Gelatin]
-ingredients: 'Treacle, Glucose Syrup, Cornflour, Invert Sugar Syrup, Wheat Flour, Liquorice Extract, Modified Potato Starch, Vegetable Oil, Aniseed Oil, Glazing Agent (Carnauba Wax)'
+ingredients: "Treacle, Glucose Syrup, Cornflour, Invert Sugar Syrup, Wheat Flour, Liquorice Extract, Modified Potato Starch, Vegetable Oil, Aniseed Oil, Glazing Agent (Carnauba Wax)"
 ---
 Small tablets of liquorice with embossed design.

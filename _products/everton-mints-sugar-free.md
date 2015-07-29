@@ -1,7 +1,7 @@
 ---
-name: 'Everton Mints (Sugar Free)'
+name: "Everton Mints (Sugar Free)"
 available: TRUE
-image: 'everton-mints-sugar-free.jpg'
+image: "everton-mints-sugar-free.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.8

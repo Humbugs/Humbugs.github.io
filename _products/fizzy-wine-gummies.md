@@ -11,6 +11,6 @@ weight: 0
 type: [Fizzy, Gummy, Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Gelling Agent: Gelatine; Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Copper Chlorophyllin, Lutein, Paprika'
+ingredients: "Sugar, Glucose Syrup, Gelling Agent: Gelatine; Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Copper Chlorophyllin, Lutein, Paprika"
 ---
 Assorted colour wine gums.

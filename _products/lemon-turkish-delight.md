@@ -1,7 +1,7 @@
 ---
 name: Lemon Turkish Delight
 available: FALSE
-image: 'turkish-delight-lemon.jpg'
+image: "turkish-delight-lemon.jpg"
 purchase_option: 1
 price: 3.99
 cost_price: 0.01596

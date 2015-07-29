@@ -1,7 +1,7 @@
 ---
-name: 'Strawberry Sherbets (Sugar Free)'
+name: "Strawberry Sherbets (Sugar Free)"
 available: FALSE
-image: 'sherbets-strawberry-sugar-free.jpg'
+image: "sherbets-strawberry-sugar-free.jpg"
 purchase_option: 1
 price: 1.2
 cost_price: 0.48
@@ -11,6 +11,6 @@ type: [Hard, Traditional]
 flavour: [Strawberry]
 colour: [Red]
 free: [Alcohol, Sugar]
-ingredients: 'Sweetener: Isomalt; Citric Acid, Maltitol Powder, Bicarbonate of Soda, Lemon Oil, Natural Colour: E100'
+ingredients: "Sweetener: Isomalt; Citric Acid, Maltitol Powder, Bicarbonate of Soda, Lemon Oil, Natural Colour: E100"
 ---
 Sugar free, hard boiled strawberry flavoured sweets with a sherbet centre.

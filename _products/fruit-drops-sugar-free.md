@@ -1,5 +1,5 @@
 ---
-name: 'Fruit Drops (Sugar Free)'
+name: "Fruit Drops (Sugar Free)"
 available: FALSE
 purchase_option: 1
 price: 1.2

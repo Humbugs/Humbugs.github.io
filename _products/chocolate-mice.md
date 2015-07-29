@@ -10,5 +10,5 @@ weight: 0
 type: [Chocolate]
 colour: [White]
 free: [Alcohol, Nut, Gelatin]
-ingredients: 'Sugar, Vegetable, Fat, Whey, Powder, Wheat, Flour, Emulsifier, Soya, Lecithin, Flavourings'
+ingredients: "Sugar, Vegetable, Fat, Whey, Powder, Wheat, Flour, Emulsifier, Soya, Lecithin, Flavourings"
 ---

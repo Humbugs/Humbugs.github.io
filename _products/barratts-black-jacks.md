@@ -13,7 +13,7 @@ type: [Chewy, Wrapped]
 flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol, Gluten]
-ingredients: 'Glucose Syrup, Sugar, Hydrogenated Vegetable Fat, Colours: E153, E151, E129; Citric Acid, Gelatine, Flavouring, Emulsifier: Soya Lecithin'
+ingredients: "Glucose Syrup, Sugar, Hydrogenated Vegetable Fat, Colours: E153, E151, E129; Citric Acid, Gelatine, Flavouring, Emulsifier: Soya Lecithin"
 serving_size: 100
 energy: 395
 protein: 0.8

@@ -1,7 +1,7 @@
 ---
 name: Fried Eggs
 available: FALSE
-image: 'fried-eggs.jpg'
+image: "fried-eggs.jpg"
 purchase_option: 2
 price: 0.01
 cost_price: 0.004

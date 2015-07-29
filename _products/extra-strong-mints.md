@@ -1,7 +1,7 @@
 ---
 name: Extra Strong Mints
 available: FALSE
-image: 'extra-strong-mints.jpg'
+image: "extra-strong-mints.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4

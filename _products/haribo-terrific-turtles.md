@@ -10,5 +10,5 @@ weight: 0
 brand: Haribo
 type: [Gummy]
 free: [Alcohol]
-ingredients: 'Glucose Syrup, Sugar, Gelatine, Dextrose, Citric Acid, Flavouring, Fruit and Plant Concentrates: Apple, Kiwi, Lemon, MangoNettle, Orange, Passion Fruit, Spinach; Colour: Copper Complexes of Chlorophyll, Glazing Agents: Vegetable Oil, BeeswaxCarnauba Wax; Invert Sugar Syrup, Fruit Extract: Carob'
+ingredients: "Glucose Syrup, Sugar, Gelatine, Dextrose, Citric Acid, Flavouring, Fruit and Plant Concentrates: Apple, Kiwi, Lemon, MangoNettle, Orange, Passion Fruit, Spinach; Colour: Copper Complexes of Chlorophyll, Glazing Agents: Vegetable Oil, BeeswaxCarnauba Wax; Invert Sugar Syrup, Fruit Extract: Carob"
 ---

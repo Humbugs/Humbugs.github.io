@@ -1,7 +1,7 @@
 ---
 name: Rose Turkish Delight
 available: FALSE
-image: 'turkish-delight-rose.jpg'
+image: "turkish-delight-rose.jpg"
 purchase_option: 1
 price: 3.99
 cost_price: 0.01596

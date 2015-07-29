@@ -1,7 +1,7 @@
 ---
 name: Clarinco Mint Creams
 available: TRUE
-image: 'clarinco-mint-creams.jpg'
+image: "clarinco-mint-creams.jpg"
 purchase_option: 1
 price: 1.5
 cost_price: 0.9
@@ -12,7 +12,7 @@ type: [Mint, Wrapped]
 flavour: [Mint]
 colour: [White]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Water, Flavourings.'
+ingredients: "Sugar, Glucose Syrup, Water, Flavourings."
 serving_size: 10
 energy: 36.5
 protein: 0

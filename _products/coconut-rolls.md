@@ -1,7 +1,7 @@
 ---
 name: Coconut Rolls
 available: TRUE
-image: 'coconut-rolls.jpg'
+image: "coconut-rolls.jpg"
 purchase_option: 1
 price: 0.2
 cost_price: 0.12
@@ -11,6 +11,6 @@ type: [Liquorice]
 flavour: [Aniseed, Coconut]
 colour: [Black, Pink, White, Yellow]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Coconut, Treacle, Wheat Flour, Vegetable Oil, Humectant (Glycerol) Gelatine, Liquorice Extract, Cocoa Powder. Flavours: Apple Juice Concentrate, Hibiscus, Spinach, Nettle'
+ingredients: "Sugar, Glucose Syrup, Coconut, Treacle, Wheat Flour, Vegetable Oil, Humectant (Glycerol) Gelatine, Liquorice Extract, Cocoa Powder. Flavours: Apple Juice Concentrate, Hibiscus, Spinach, Nettle"
 ---
 Pink and yellow coconut candy rolls with a small tube of liquorice through the centre.

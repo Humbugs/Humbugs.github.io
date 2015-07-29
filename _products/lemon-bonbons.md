@@ -1,7 +1,7 @@
 ---
 name: Lemon Bonbons
 available: TRUE
-image: 'bonbons-lemon.jpg'
+image: "bonbons-lemon.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65
@@ -11,6 +11,6 @@ type: [Chewy]
 flavour: [Lemon]
 colour: [Yellow]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Hydrogenated Vegetable Oil, Dextrose, Sorbitol, Citric Acid, Gelatine, Emulsifier: Sucrose, Colours: E100'
+ingredients: "Sugar, Glucose Syrup, Hydrogenated Vegetable Oil, Dextrose, Sorbitol, Citric Acid, Gelatine, Emulsifier: Sucrose, Colours: E100"
 ---
 Chewy lemon flavoured bonbons.

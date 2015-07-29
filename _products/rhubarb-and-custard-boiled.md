@@ -1,7 +1,7 @@
 ---
 name: Rhubarb & Custard Boiled
 available: TRUE
-image: 'rhubarb-and-custard-boiled.jpg'
+image: "rhubarb-and-custard-boiled.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65
@@ -11,6 +11,6 @@ type: [Hard, Wrapped]
 flavour: [Custard, Rhubarb]
 colour: [Pink, Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Glucose, Citric Acid, Flavouring, Colours: E104, E122'
+ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E104, E122"
 ---
 Hard boiled rhubarb and custard flavoured sweets

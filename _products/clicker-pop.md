@@ -11,6 +11,6 @@ weight: 0
 type: [Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Lactose, Nut]
-ingredients: 'Sugar, Glucose Syrup, Acidity Regulators (E270, E325), Flavourings, Colours: E163, E100'
+ingredients: "Sugar, Glucose Syrup, Acidity Regulators (E270, E325), Flavourings, Colours: E163, E100"
 ---
 Novelty assorted fruit flavoured lolly with a noisy plastic top.

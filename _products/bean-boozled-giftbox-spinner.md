@@ -1,7 +1,7 @@
 ---
-name: 'Bean Boozled Giftbox/Spinner'
+name: "Bean Boozled Giftbox/Spinner"
 available: TRUE
-image: 'bean-boozled-giftbox-spinner.jpg'
+image: "bean-boozled-giftbox-spinner.jpg"
 purchase_option: 0
 price: 7.99
 cost_price: 4.51

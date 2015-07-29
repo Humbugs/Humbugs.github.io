@@ -1,7 +1,7 @@
 ---
 name: "Jameson's Caramels"
 available: TRUE
-image: 'jamesons-caramels.jpg'
+image: "jamesons-caramels.jpg"
 purchase_option: 1
 price: 1.45
 cost_price: 0.58
@@ -11,6 +11,6 @@ brand: "Jameson's"
 type: [Caramel, Chocolate, Wrapped]
 colour: [Yellow]
 free: [Alcohol]
-ingredients: 'Milk Chocolate (Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Milk Fat, Emulsifier: Soya Lecithin E322), Glucose Syrup, Sugar, Sweetened Condensed Skimmed Milk, Hydrogenated Vegetable Oil, Butteroil, Invert Sugar Syrup, Salt, Emulsifier: Soya Lecithin E322'
+ingredients: "Milk Chocolate (Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Milk Fat, Emulsifier: Soya Lecithin E322), Glucose Syrup, Sugar, Sweetened Condensed Skimmed Milk, Hydrogenated Vegetable Oil, Butteroil, Invert Sugar Syrup, Salt, Emulsifier: Soya Lecithin E322"
 ---
 Chunky pieces of creamy toffee covered in thick chocolate.

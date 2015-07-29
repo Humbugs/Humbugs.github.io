@@ -11,6 +11,6 @@ weight: 0
 type: [Wrapped]
 flavour: [Apple]
 free: [Alcohol, Gluten, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Carbon Dioxide, Lactose, Flavouring, Colours: E192, E102, E133, E129, E102'
+ingredients: "Sugar, Glucose Syrup, Carbon Dioxide, Lactose, Flavouring, Colours: E192, E102, E133, E129, E102"
 ---
 Apple flavoured lollipop with popping candy.

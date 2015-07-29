@@ -12,6 +12,6 @@ brand: Wham
 type: [Wrapped]
 flavour: [Cola]
 free: [Alcohol, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322. Colours: Beetroot, Caramel'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322. Colours: Beetroot, Caramel"
 ---
 Cola flavoured chew bar.

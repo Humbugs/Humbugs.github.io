@@ -1,7 +1,7 @@
 ---
 name: Chocolate Bonbons
 available: TRUE
-image: 'bonbons-chocolate.jpg'
+image: "bonbons-chocolate.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65

@@ -8,7 +8,7 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-brand: 'Walkers-Nonsuch'
+brand: "Walkers-Nonsuch"
 type: [Nougat, Wrapped]
 free: [Alcohol]
 ---

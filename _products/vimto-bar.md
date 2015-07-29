@@ -11,6 +11,6 @@ weight: 0
 type: [Chewy, Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Citric Acid, Maltodextrin, Concentrated Fruit Juices (Grape, Blackcurrant & Raspberry), Vimto Flavour, Solubilised Milk Protein, Stabiliser (Glycerol E422), Emulsifier (Soya Lecithin), Natural Colour'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Citric Acid, Maltodextrin, Concentrated Fruit Juices (Grape, Blackcurrant & Raspberry), Vimto Flavour, Solubilised Milk Protein, Stabiliser (Glycerol E422), Emulsifier (Soya Lecithin), Natural Colour"
 ---
 Classic grape, blackcurrant and raspberry flavour chew bar with real fruit juice.

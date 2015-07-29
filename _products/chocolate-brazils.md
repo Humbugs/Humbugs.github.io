@@ -1,7 +1,7 @@
 ---
-name: 'Chocolate Brazils'
+name: "Chocolate Brazils"
 available: TRUE
-image: 'brazils-chocolate.jpg'
+image: "brazils-chocolate.jpg"
 purchase_option: 1
 price: 1.2
 cost_price: 0.65

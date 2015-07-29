@@ -10,6 +10,6 @@ height: 90
 depth: 10
 weight: 0
 free: [Alcohol]
-ingredients: 'Milk Chocolate (Cane Sugar, Cocoa Butter, Milk, Chocolate Liquor)'
+ingredients: "Milk Chocolate (Cane Sugar, Cocoa Butter, Milk, Chocolate Liquor)"
 ---
 Noumea (35%) chocolate bar.

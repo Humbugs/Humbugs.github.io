@@ -11,6 +11,6 @@ weight: 0
 brand: Wham
 type: [Sherbet, Wrapped]
 free: [Alcohol, Gluten, Lactose]
-ingredients: 'Sugar, Cornflour, Sodium Bicarbonate, Glucose Syrup, Citric Acid, Tartaric Acid, Dextrose, Beef Gelatine, Anti-Caking Agent, Flavourings, Natural Colours (Beetroot Red, Curcumin, Chlorophylls)'
+ingredients: "Sugar, Cornflour, Sodium Bicarbonate, Glucose Syrup, Citric Acid, Tartaric Acid, Dextrose, Beef Gelatine, Anti-Caking Agent, Flavourings, Natural Colours (Beetroot Red, Curcumin, Chlorophylls)"
 ---
 Sour raspberry flavoured sherbet, served with a raspberry flavour foam dipping stick.

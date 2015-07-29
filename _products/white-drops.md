@@ -1,7 +1,7 @@
 ---
 name: White Drops
 available: FALSE
-image: 'white-drops.jpg'
+image: "white-drops.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.38

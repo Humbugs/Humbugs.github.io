@@ -10,6 +10,6 @@ depth: 20
 weight: 0
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Curcumin, Paprika '
+ingredients: "Sugar, Glucose Syrup, Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Curcumin, Paprika "
 ---
 Fruity lollies.

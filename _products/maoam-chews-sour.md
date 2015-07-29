@@ -11,6 +11,6 @@ weight: 0
 type: [Chewy, Wrapped]
 flavour: [Sour]
 free: [Alcohol, Gluten, Nut]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Fat, Humectant (Sorbitol Syrup), Citric Acid, Gelatine. Flavouring:'
+ingredients: "Sugar, Glucose Syrup, Vegetable Fat, Humectant (Sorbitol Syrup), Citric Acid, Gelatine. Flavouring:"
 ---
 Wrapped sour flavoured chews.

@@ -1,7 +1,7 @@
 ---
-name: 'Lemon Sherbets (Sugar Free)'
+name: "Lemon Sherbets (Sugar Free)"
 available: TRUE
-image: 'sherbets-lemon-sugar-free.jpg'
+image: "sherbets-lemon-sugar-free.jpg"
 purchase_option: 1
 price: 1.2
 cost_price: 0.48
@@ -11,6 +11,6 @@ type: [Hard, Traditional]
 flavour: [Lemon]
 colour: [Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Isomalt, Citric Acid, Maltitol, Bicarbonate of Soda, Colours: E100, Flavours: Lemon Oil'
+ingredients: "Isomalt, Citric Acid, Maltitol, Bicarbonate of Soda, Colours: E100, Flavours: Lemon Oil"
 ---
 Sugar free, hard boiled lemon flavoured sweets with a sherbet centre.

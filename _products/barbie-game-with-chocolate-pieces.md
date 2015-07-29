@@ -1,7 +1,7 @@
 ---
 name: Barbie Game with Chocolate Pieces
 available: TRUE
-image: 'barbie-game-with-chocolate-pieces.jpg'
+image: "barbie-game-with-chocolate-pieces.jpg"
 purchase_option: 0
 price: 7.99
 cost_price: 4.23

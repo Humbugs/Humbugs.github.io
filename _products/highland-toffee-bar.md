@@ -10,6 +10,6 @@ depth: 3
 weight: 0
 type: [Chewy, Toffee, Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Sugar, Sweetened Condensed Milk, Vegetable Oil, Salt, Flavouring'
+ingredients: "Glucose Syrup, Sugar, Sweetened Condensed Milk, Vegetable Oil, Salt, Flavouring"
 ---
 A soft toffee chew bar.

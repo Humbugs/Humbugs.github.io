@@ -11,6 +11,6 @@ weight: 0
 type: [Chewy, Wrapped]
 flavour: [Raspberry]
 free: [Alcohol, Gluten, Lactose, Nut]
-ingredients: 'Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator (Citric Acid), Gelatine, Emulsifier (Glycerol Mono Stearate), Flavouring, Natural Colours'
+ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator (Citric Acid), Gelatine, Emulsifier (Glycerol Mono Stearate), Flavouring, Natural Colours"
 ---
 Raspberry and milk flavoured chew bar.

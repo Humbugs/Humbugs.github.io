@@ -11,6 +11,6 @@ weight: 0
 brand: Maoam
 type: [Wrapped]
 free: [Alcohol, Gluten, Nut]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Gelatine, Citric Acid, Flavouring.'
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Gelatine, Citric Acid, Flavouring."
 ---
 Wrapped fruit flavoured chews.

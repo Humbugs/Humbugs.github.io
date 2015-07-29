@@ -1,7 +1,7 @@
 ---
 name: Mega Sour Fruits
 available: TRUE
-image: 'mega-sour-fruits.jpg'
+image: "mega-sour-fruits.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4
@@ -12,6 +12,6 @@ type: [Hard]
 flavour: [Sour]
 colour: [Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Gluten, Lactose, Nut]
-ingredients: 'Sugar, Glucose, Citric Acid, Malic Acid, Bicarbonate of Soda, Flavouring, Colours: E129, E102, E142, E110'
+ingredients: "Sugar, Glucose, Citric Acid, Malic Acid, Bicarbonate of Soda, Flavouring, Colours: E129, E102, E142, E110"
 ---
 Hard boiled sour fruit flavoured balls.

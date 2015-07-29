@@ -1,5 +1,5 @@
 ---
-name: 'Cherry Fizz Whizz Popping Candy'
+name: "Cherry Fizz Whizz Popping Candy"
 available: FALSE
 purchase_option: 0
 price: 0.2
@@ -11,6 +11,6 @@ weight: 0
 type: [Fizzy, Wrapped]
 flavour: [Strawberry]
 free: [Alcohol, Gelatin]
-ingredients: 'Sugar, Lactose, Glucose, Artificial Flavour, Carbon Dioxide E-290'
+ingredients: "Sugar, Lactose, Glucose, Artificial Flavour, Carbon Dioxide E-290"
 ---
 Cherry popping candy.

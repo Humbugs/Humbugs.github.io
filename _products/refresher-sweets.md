@@ -11,7 +11,7 @@ weight: 36
 brand: Barratt
 type: [Fizzy, Wrapped]
 free: [Alcohol, Gelatin]
-ingredients: 'Sugar, Malic Acid, Sodium Bicarbonate, Releasre Agent (Magnesium Stearate), Maltose Syrup, Vegetable Fat, Maltodextrin, Natural Flavourings, Natural Colours'
+ingredients: "Sugar, Malic Acid, Sodium Bicarbonate, Releasre Agent (Magnesium Stearate), Maltose Syrup, Vegetable Fat, Maltodextrin, Natural Flavourings, Natural Colours"
 serving_size: 36
 energy: 130
 protein: 0

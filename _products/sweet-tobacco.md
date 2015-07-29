@@ -10,6 +10,6 @@ type: [Chocolate, Traditional]
 flavour: [Coconut]
 colour: [Brown]
 free: [Alcohol, Lactose]
-ingredients: 'Coconut, Sugar, Cocoa Powder, Glucose Syrup'
+ingredients: "Coconut, Sugar, Cocoa Powder, Glucose Syrup"
 ---
 Sweet coconut strips dusted in chocolate powder.

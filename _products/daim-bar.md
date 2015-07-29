@@ -11,7 +11,7 @@ weight: 0
 type: [Chocolate, Nuts, Wrapped]
 colour: [Red]
 free: [Alcohol]
-ingredients: 'Sugar, Vegetable Fat, Cocoa Butter, Skimmed Milk Powder, Butter, Cocoa Mass, Milk Fat, Whey Powder, Almonds, Sweetened Condensed Skimmed Milk, Salt, Emulsifier (Soy Lecithin), Flavouring'
+ingredients: "Sugar, Vegetable Fat, Cocoa Butter, Skimmed Milk Powder, Butter, Cocoa Mass, Milk Fat, Whey Powder, Almonds, Sweetened Condensed Skimmed Milk, Salt, Emulsifier (Soy Lecithin), Flavouring"
 serving_size: 28
 energy: 150
 protein: 1

@@ -1,7 +1,7 @@
 ---
 name: Strawberry Sherbets
 available: TRUE
-image: 'sherbets-strawberry.jpg'
+image: "sherbets-strawberry.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4

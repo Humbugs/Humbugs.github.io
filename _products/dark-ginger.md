@@ -1,7 +1,7 @@
 ---
 name: Dark Ginger
 available: FALSE
-image: 'dark-ginger.jpg'
+image: "dark-ginger.jpg"
 purchase_option: 3
 price: 120
 cost_price: 0.8

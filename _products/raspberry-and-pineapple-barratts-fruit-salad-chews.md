@@ -1,5 +1,5 @@
 ---
-name: 'Raspberry & Pineapple Barratts Fruit Salad Chews'
+name: "Raspberry & Pineapple Barratts Fruit Salad Chews"
 available: FALSE
 purchase_option: 0
 price: 0.4
@@ -13,7 +13,7 @@ type: [Chewy, Wrapped]
 flavour: [Mixed Fruit, Ginger, Raspberry]
 colour: [Yellow]
 free: [Alcohol, Gluten]
-ingredients: 'Glucose Syrup, Sugar, Hydrogenated Vegetable Fat, Citric Acid, Gelatine, Emulsifier: Soya Lecithin; Flavourings, Colours: E104, E124, E122'
+ingredients: "Glucose Syrup, Sugar, Hydrogenated Vegetable Fat, Citric Acid, Gelatine, Emulsifier: Soya Lecithin; Flavourings, Colours: E104, E124, E122"
 serving_size: 100
 energy: 382
 protein: 0.5

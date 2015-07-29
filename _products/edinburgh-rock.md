@@ -10,6 +10,6 @@ type: [Hard]
 flavour: [Mixed Fruit]
 colour: [Green, Pink, White, Yellow]
 free: [Alcohol, Gluten, Sugar, Gelatin]
-ingredients: 'Sugar, Citric Acid, Cream of Tartar, Ground Ginger, Flavouring, E102, E124, E129, E142'
+ingredients: "Sugar, Citric Acid, Cream of Tartar, Ground Ginger, Flavouring, E102, E124, E129, E142"
 ---
 Sot and crumbly rock.

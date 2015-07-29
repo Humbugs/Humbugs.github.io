@@ -1,5 +1,5 @@
 ---
-name: 'Dew Drops'
+name: "Dew Drops"
 available: FALSE
 purchase_option: 1
 price: 1
@@ -10,6 +10,6 @@ type: [Gummy, Jelly]
 flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Glucose Syrup, Maize Starch, Water, Citric Acid, Flavourings, Natural Colours: Anthocyanins, Curcumin, Capsanthin, Vegetable Concentrates (Nettle, Spinach)'
+ingredients: "Sugar, Glucose Syrup, Maize Starch, Water, Citric Acid, Flavourings, Natural Colours: Anthocyanins, Curcumin, Capsanthin, Vegetable Concentrates (Nettle, Spinach)"
 ---
 Small soft fruity jelly pieces with a sugar coating

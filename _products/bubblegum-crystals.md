@@ -1,5 +1,5 @@
 ---
-name: 'Bubblegum Crystals'
+name: "Bubblegum Crystals"
 available: FALSE
 purchase_option: 1
 price: 1

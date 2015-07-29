@@ -1,7 +1,7 @@
 ---
-name: 'Peaches & Cream Bonbons'
+name: "Peaches & Cream Bonbons"
 available: TRUE
-image: 'bonbons-peaches-cream.jpg'
+image: "bonbons-peaches-cream.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65
@@ -11,6 +11,6 @@ type: [Chewy]
 flavour: [Cream]
 colour: [Orange]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Vegetable Oil, Humectant: Sorbitol, Emulsifier: Soya Lecithin, Colours: E120, Citric Acid, Pork Gelatine, Dextrose, Flavouring'
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant: Sorbitol, Emulsifier: Soya Lecithin, Colours: E120, Citric Acid, Pork Gelatine, Dextrose, Flavouring"
 ---
 Chewy peaches and cream flavoured bonbons.

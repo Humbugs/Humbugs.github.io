@@ -1,7 +1,7 @@
 ---
 name: Small Pear Drops
 available: TRUE
-image: 'drops-pear-small.jpg'
+image: "drops-pear-small.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.6
@@ -11,6 +11,6 @@ type: [Hard, Traditional, Wrapped]
 flavour: [Pear]
 colour: [Pink, Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Glucose, Citric Acid, Flavourings, Colours: E104, E129'
+ingredients: "Sugar, Glucose, Citric Acid, Flavourings, Colours: E104, E129"
 ---
 Small, hard boiled pear flavoured sweets.

@@ -10,6 +10,6 @@ type: [Liquorice]
 flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol]
-ingredients: 'Ingredients:  Glucose Syrup, Sugar, Water, Beef Gelatine, Potato Starch, Liquorice Powder, Natural Colour (Vegetable Carbon), Palm Oil, Glazing Agent (Carnauba Wax).'
+ingredients: "Ingredients:  Glucose Syrup, Sugar, Water, Beef Gelatine, Potato Starch, Liquorice Powder, Natural Colour (Vegetable Carbon), Palm Oil, Glazing Agent (Carnauba Wax)."
 ---
 Liquorice flavoured gums.

@@ -10,6 +10,6 @@ depth: 9
 weight: 30
 type: [Gummy, Wrapped]
 free: [Alcohol, Lactose, Nut]
-ingredients: 'Glucose Syrup, Sugar, Fruit Juice (6%) From Concentrate, Beef Gelatine, Humectant Sorbitol, Citric Acid, Lactic Acid, Milk Protein, Flavourings, Glazing Agents, Beeswax, Carnauba Wax, Ascorbic Acid (Vitamin C), Colours: E100, E110, E129, E160C, E171'
+ingredients: "Glucose Syrup, Sugar, Fruit Juice (6%) From Concentrate, Beef Gelatine, Humectant Sorbitol, Citric Acid, Lactic Acid, Milk Protein, Flavourings, Glazing Agents, Beeswax, Carnauba Wax, Ascorbic Acid (Vitamin C), Colours: E100, E110, E129, E160C, E171"
 ---
 Novelty gummy pizza sweet.

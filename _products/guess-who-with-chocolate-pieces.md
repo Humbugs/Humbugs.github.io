@@ -1,7 +1,7 @@
 ---
 name: Guess Who with Chocolate pieces
 available: TRUE
-image: 'guess-who-with-chocolate-pieces.jpg'
+image: "guess-who-with-chocolate-pieces.jpg"
 purchase_option: 0
 price: 9.99
 cost_price: 6.74

@@ -10,6 +10,6 @@ depth: 10
 weight: 0
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Maize Starch, Rice, Glucose Syrup. Colours: Beetroot, Carmine Extract, Copper Chlorophyll, Lutein, Paprika Extract'
+ingredients: "Sugar, Maize Starch, Rice, Glucose Syrup. Colours: Beetroot, Carmine Extract, Copper Chlorophyll, Lutein, Paprika Extract"
 ---
 Large bag of sugar-coated cereal-type puffed maize and rice confectionery.

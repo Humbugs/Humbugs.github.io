@@ -1,7 +1,7 @@
 ---
 name: Fizzy Cola Bottles
 available: TRUE
-image: 'cola-bottles-fizzy-cola-bottles.jpg'
+image: "cola-bottles-fizzy-cola-bottles.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.5

@@ -1,7 +1,7 @@
 ---
 name: Dinosaur Novelty Lollies
 available: FALSE
-image: 'novelty-lollies-dinosaur.jpg'
+image: "novelty-lollies-dinosaur.jpg"
 purchase_option: 0
 price: 1.5
 cost_price: 0.6

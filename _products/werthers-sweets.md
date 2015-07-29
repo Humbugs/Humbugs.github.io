@@ -12,6 +12,6 @@ brand: Werthers
 type: [Wrapped]
 flavour: [Cream]
 free: [Alcohol, Gluten, Nut, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Cream (7%), Condensed Whey, Butter (4.5%), Cane Sugar Syrup, Salt, Butterfat. Emulsifier: Soya Lecithin, Flavouring'
+ingredients: "Sugar, Glucose Syrup, Cream (7%), Condensed Whey, Butter (4.5%), Cane Sugar Syrup, Salt, Butterfat. Emulsifier: Soya Lecithin, Flavouring"
 ---
 Traditional caramel, butter candies.

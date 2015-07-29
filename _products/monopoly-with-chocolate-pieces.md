@@ -1,7 +1,7 @@
 ---
 name: Monopoly with Chocolate pieces
 available: TRUE
-image: 'monopoly-with-chocolate-pieces.jpg'
+image: "monopoly-with-chocolate-pieces.jpg"
 purchase_option: 0
 price: 9.99
 cost_price: 6.74

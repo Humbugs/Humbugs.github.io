@@ -1,5 +1,5 @@
 ---
-name: 'Blackcurrant Chewits Pack'
+name: "Blackcurrant Chewits Pack"
 available: FALSE
 purchase_option: 0
 price: 0.4
@@ -13,6 +13,6 @@ type: [Chewy, Wrapped]
 flavour: [Blackcurrant]
 colour: [Purple]
 free: [Alcohol, Nut, Gelatin]
-ingredients: 'Glucose Syrup, Sugar, Blackcurrant Juice, Hydrogenated Vegetable Oil, Lactic Acid (E270), Egg White, Hydrolysed Milk Protein, Undefined Flavouring, Anthocyanins (E163)'
+ingredients: "Glucose Syrup, Sugar, Blackcurrant Juice, Hydrogenated Vegetable Oil, Lactic Acid (E270), Egg White, Hydrolysed Milk Protein, Undefined Flavouring, Anthocyanins (E163)"
 ---
 Small wrapped blackcurrant flavoured chews.

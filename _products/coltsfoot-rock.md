@@ -9,6 +9,6 @@ container_sweets_weight: 459
 type: [Traditional]
 colour: [Brown]
 free: [Alcohol, Gluten]
-ingredients: 'Sugar, Liquorice Extract, Gelatine, Flavouring: Coltsfoot Extract'
+ingredients: "Sugar, Liquorice Extract, Gelatine, Flavouring: Coltsfoot Extract"
 ---
 Sticks of brittle rock containing coltsfoot, a herb which comes from a plant that tastes similar to aniseed.

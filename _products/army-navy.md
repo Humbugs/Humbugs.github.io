@@ -1,7 +1,7 @@
 ---
-name: 'Army & Navy'
+name: "Army & Navy"
 available: TRUE
-image: 'army-navy.jpg'
+image: "army-navy.jpg"
 purchase_option: 1
 price: 1.2
 cost_price: 0.85
@@ -11,6 +11,6 @@ type: [Hard]
 flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol, Gluten, Lactose]
-ingredients: 'Sugar, Glucose Syrup, Citric Acid, Liquorice Extract, Colours: Carbon Black'
+ingredients: "Sugar, Glucose Syrup, Citric Acid, Liquorice Extract, Colours: Carbon Black"
 ---
 Traditional hard boiled sweets flavoured with liquorice and herbs.

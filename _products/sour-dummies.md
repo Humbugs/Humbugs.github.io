@@ -1,7 +1,7 @@
 ---
 name: Sour Dummies
 available: FALSE
-image: 'sour-dummies.jpg'
+image: "sour-dummies.jpg"
 purchase_option: 1
 price: 0.95
 cost_price: 0.38

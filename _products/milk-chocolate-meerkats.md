@@ -1,7 +1,7 @@
 ---
 name: Milk Chocolate Meerkats
 available: FALSE
-image: 'milk-chocolate-meerkats.jpg'
+image: "milk-chocolate-meerkats.jpg"
 purchase_option: 0
 price: 3.29
 cost_price: 1.316

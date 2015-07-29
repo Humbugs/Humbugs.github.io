@@ -1,7 +1,7 @@
 ---
-name: 'Dutch Liquorice School Chalks'
+name: "Dutch Liquorice School Chalks"
 available: TRUE
-image: 'dutch-liquorice-school-chalks.jpg'
+image: "dutch-liquorice-school-chalks.jpg"
 purchase_option: 1
 price: 1.6
 cost_price: 0.75
@@ -11,6 +11,6 @@ type: [Liquorice]
 flavour: [Aniseed, Salt]
 colour: [Yellow]
 free: [Alcohol]
-ingredients: 'Sugar, Molasses, Glucose Syrup, Wheat Flour, Liquorice Extract, Coco Fat, Ammonium Chloride, Stabiliser (E420), Vegetable Oil, Gelatine, Glazing Agent (E904), Colours (E171), Flavours. Contains Gluten.'
+ingredients: "Sugar, Molasses, Glucose Syrup, Wheat Flour, Liquorice Extract, Coco Fat, Ammonium Chloride, Stabiliser (E420), Vegetable Oil, Gelatine, Glazing Agent (E904), Colours (E171), Flavours. Contains Gluten."
 ---
 Salt liquorice school chalks.

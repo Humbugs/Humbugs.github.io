@@ -12,6 +12,6 @@ brand: Kinder
 type: [Chocolate, Wrapped]
 colour: [White]
 free: [Alcohol, Gluten, Nut, Gelatin]
-ingredients: 'Ingredients Fine Milk Chocolate 47% (Sugar, Whole Milk Powder, Cocoa Butter, Cocoa Mass. Emulsifier: Lecithins (Soya); Vanillin), Skimmed Milk Powder, Sugar, Vegetable Fat, Concentrated Butter. Emulsifier: Lecithins (Soya), Vanillin.'
+ingredients: "Ingredients Fine Milk Chocolate 47% (Sugar, Whole Milk Powder, Cocoa Butter, Cocoa Mass. Emulsifier: Lecithins (Soya); Vanillin), Skimmed Milk Powder, Sugar, Vegetable Fat, Concentrated Butter. Emulsifier: Lecithins (Soya), Vanillin."
 ---
 Chocolate egg with a surprise toy inside.

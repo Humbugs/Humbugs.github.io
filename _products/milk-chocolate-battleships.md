@@ -1,7 +1,7 @@
 ---
 name: Milk Chocolate Battleships
 available: TRUE
-image: 'milk-chocolate-battleships.jpg'
+image: "milk-chocolate-battleships.jpg"
 purchase_option: 0
 price: 5.99
 cost_price: 2.396
@@ -11,6 +11,6 @@ depth: 40
 weight: 140
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
-ingredients: 'Milk Chocolate (Sugar, Whole Milk Powder, Cocoa Butter, Cocoa Mass, Emulsifier: Soya, Lecithin; Flavouring: Natural Vanilla), Milk Chocolate Contains: Cocoa Solids 31%, Milk Solids 20%'
+ingredients: "Milk Chocolate (Sugar, Whole Milk Powder, Cocoa Butter, Cocoa Mass, Emulsifier: Soya, Lecithin; Flavouring: Natural Vanilla), Milk Chocolate Contains: Cocoa Solids 31%, Milk Solids 20%"
 ---
 Milk chocolate battleships game in gift box.

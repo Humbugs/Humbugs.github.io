@@ -1,5 +1,5 @@
 ---
-name: 'Strawberries & Cream Sweets'
+name: "Strawberries & Cream Sweets"
 available: FALSE
 purchase_option: 1
 price: 1.2
@@ -10,6 +10,6 @@ type: [Hard, Wrapped]
 flavour: [Cream, Strawberry]
 colour: [Red, White]
 free: [Alcohol, Sugar]
-ingredients: 'Sweetener: Isomalt; Citric Acid, Flavouring, Natural Colour: E162'
+ingredients: "Sweetener: Isomalt; Citric Acid, Flavouring, Natural Colour: E162"
 ---
 Boiled strawberry and cream flavoured sweets.

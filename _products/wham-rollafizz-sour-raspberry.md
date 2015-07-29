@@ -12,6 +12,6 @@ brand: Wham
 type: [Chewy, Wrapped]
 flavour: [Raspberry]
 free: [Alcohol, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Glucose-Fructose Syrup, Wheat Flour, Dextrose, Malic Acid, Palm Oil, Citric Acid, Fruit Concentrates, Asorbic Acid, Tocopherol-Rich Extract'
+ingredients: "Sugar, Glucose-Fructose Syrup, Wheat Flour, Dextrose, Malic Acid, Palm Oil, Citric Acid, Fruit Concentrates, Asorbic Acid, Tocopherol-Rich Extract"
 ---
 Fizzy, sour raspberry flavoured chewy belts with a tingling sugar coating.

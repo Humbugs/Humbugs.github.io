@@ -1,7 +1,7 @@
 ---
 name: Aniseed Twists
 available: TRUE
-image: 'aniseed-twists.jpg'
+image: "aniseed-twists.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65
@@ -11,6 +11,6 @@ type: [Hard, Traditional, Wrapped]
 flavour: [Aniseed]
 colour: [Red]
 free: [Alcohol, Lactose]
-ingredients: 'Sugar, Glucose, Citric acid, Flavouring, Colour: E129'
+ingredients: "Sugar, Glucose, Citric acid, Flavouring, Colour: E129"
 ---
 Red, aniseed-flavoured boiled sweet

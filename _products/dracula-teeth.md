@@ -1,7 +1,7 @@
 ---
 name: Dracula Teeth
 available: FALSE
-image: 'dracula-teeth.jpg'
+image: "dracula-teeth.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.5

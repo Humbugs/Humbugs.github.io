@@ -10,7 +10,7 @@ type: [Liquorice]
 flavour: [Aniseed]
 colour: [Green, Orange, Pink, Purple, Rainbow, Red, Yellow]
 free: [Alcohol, Sugar]
-ingredients: 'Sugar, Wheat Flour, Treacle, Glucose Syrup, Modified Tapioca and Maize Starches, E171, E104, E129, E124, E133, E110, Shellac, Carnauba Wax, Vegetable Oil, Flavouring, Liquorice Extract'
+ingredients: "Sugar, Wheat Flour, Treacle, Glucose Syrup, Modified Tapioca and Maize Starches, E171, E104, E129, E124, E133, E110, Shellac, Carnauba Wax, Vegetable Oil, Flavouring, Liquorice Extract"
 serving_size: 100
 energy: 448
 protein: 2.1

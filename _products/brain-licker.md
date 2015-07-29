@@ -11,6 +11,6 @@ weight: 100
 type: [Wrapped]
 flavour: [Sour]
 free: [Alcohol, Nut]
-ingredients: 'Glucose-Fructose Syrup (Corn Syrup), Water, Sugar, Acidifiers, Citric Acid, Lactic Acid, Malic Acid, Artificial Flavourings, Colours: E102/Yellow.'
+ingredients: "Glucose-Fructose Syrup (Corn Syrup), Water, Sugar, Acidifiers, Citric Acid, Lactic Acid, Malic Acid, Artificial Flavourings, Colours: E102/Yellow."
 ---
 Mega sour liquid to roll on the tongue.

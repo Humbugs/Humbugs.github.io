@@ -11,6 +11,6 @@ weight: 0
 type: [Wrapped]
 flavour: [Sour]
 free: [Alcohol, Gluten, Nut, Gelatin]
-ingredients: 'Glucose-Fructose Syrup, Water, Sugar, Citric Acid, Lactic Acid, Malic Acid, Flavouring, Natural and Artificial Colour: E133, E163'
+ingredients: "Glucose-Fructose Syrup, Water, Sugar, Citric Acid, Lactic Acid, Malic Acid, Flavouring, Natural and Artificial Colour: E133, E163"
 ---
 Strawberry flavoured roll on sour fruit candy.

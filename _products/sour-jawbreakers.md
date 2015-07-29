@@ -11,6 +11,6 @@ weight: 0
 type: [Gummy, Wrapped]
 flavour: [Sour]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Dextrose, Sucrose, Gum Base, Glucose Syrup, Citric Acid, Flavourings, Colours: E104, E133; Glazing Agents: Carnauba Wax; Antioxidant: E321'
+ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Citric Acid, Flavourings, Colours: E104, E133; Glazing Agents: Carnauba Wax; Antioxidant: E321"
 ---
 Sour jawbreakers with a bubblegum centre.

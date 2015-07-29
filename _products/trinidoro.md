@@ -10,6 +10,6 @@ height: 90
 depth: 10
 weight: 0
 free: [Alcohol]
-ingredients: 'Cocoa Massa, Cane Sugar, Cocoa Butter, Cocoa: 70% '
+ingredients: "Cocoa Massa, Cane Sugar, Cocoa Butter, Cocoa: 70% "
 ---
 Trinidoro (75%) chocolate bar.

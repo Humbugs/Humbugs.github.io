@@ -12,5 +12,5 @@ brand: Pez
 type: [Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Sugar, Glucose Syrup, Citric Acid, Acid Regulator, Hydrogenated Vegetable Fat, Emulsifier, Flavourings'
+ingredients: "Sugar, Glucose Syrup, Citric Acid, Acid Regulator, Hydrogenated Vegetable Fat, Emulsifier, Flavourings"
 ---

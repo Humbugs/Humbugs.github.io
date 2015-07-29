@@ -1,7 +1,7 @@
 ---
 name: Pistachio Turkish Delight
 available: FALSE
-image: 'turkish-delight-pistachio.jpg'
+image: "turkish-delight-pistachio.jpg"
 purchase_option: 1
 price: 3.99
 cost_price: 0.01596

@@ -10,6 +10,6 @@ depth: 15
 weight: 0
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Gelatin]
-ingredients: 'Sugar, Stearic Acid, Modified Starch, Acidity Regulator (Tartaric Acid), Cornflour, Magnesium Stearate. Colours: Anthocyanins'
+ingredients: "Sugar, Stearic Acid, Modified Starch, Acidity Regulator (Tartaric Acid), Cornflour, Magnesium Stearate. Colours: Anthocyanins"
 ---
 Fruit flavoured sweets in plastic whistles.

@@ -1,7 +1,7 @@
 ---
-name: 'Cherry Bonbons'
+name: "Cherry Bonbons"
 available: TRUE
-image: 'bonbons-cherry.jpg'
+image: "bonbons-cherry.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.65
@@ -11,6 +11,6 @@ type: [Chewy]
 flavour: [Cherry]
 colour: [Pink]
 free: [Alcohol]
-ingredients: 'Sugar, Glucose Syrup, Water, Hydrogenated Vegetable Fat, Dextrose, Sorbitol, Citric Acid, Flavourings, Gelatine, Emulsifier: E473, Colours: E120 '
+ingredients: "Sugar, Glucose Syrup, Water, Hydrogenated Vegetable Fat, Dextrose, Sorbitol, Citric Acid, Flavourings, Gelatine, Emulsifier: E473, Colours: E120 "
 ---
 Chewy cherry flavoured bonbons.

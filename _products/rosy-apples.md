@@ -1,7 +1,7 @@
 ---
 name: Rosy Apples
 available: TRUE
-image: 'rosy-apples-unwrapped.jpg'
+image: "rosy-apples-unwrapped.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4

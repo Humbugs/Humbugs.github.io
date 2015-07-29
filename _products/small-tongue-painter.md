@@ -10,6 +10,6 @@ depth: 20
 weight: 0
 type: [Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut]
-ingredients: 'Sugar, Glucose Syrup, Citric Acid, Flavouring, Colours (E129, E131)'
+ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavouring, Colours (E129, E131)"
 ---
 Sour lollies that paint your tongue red, blue or green

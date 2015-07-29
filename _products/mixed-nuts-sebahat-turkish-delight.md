@@ -1,7 +1,7 @@
 ---
 name: Mixed Nuts Turkish Delight
 available: FALSE
-image: 'sebahat-turkish-delight-mixed-nuts.jpg'
+image: "sebahat-turkish-delight-mixed-nuts.jpg"
 purchase_option: 0
 price: 7.99
 cost_price: 3.196
@@ -12,6 +12,6 @@ weight: 400
 brand: Sebahat
 type: [Nuts]
 free: [Alcohol]
-ingredients: 'Sugar, Wheat Starch, Hazelnuts, Pistachios, Almonds, Acidifier: Citric Acid, E330'
+ingredients: "Sugar, Wheat Starch, Hazelnuts, Pistachios, Almonds, Acidifier: Citric Acid, E330"
 ---
 Mixed nuts Turkish Delight in deluxe wooden box.

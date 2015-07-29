@@ -10,6 +10,6 @@ depth: 20
 weight: 0
 type: [Gummy, Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
-ingredients: 'Dextrose, Sucrose, Gum Base, Glucose Syrup, Modified Starch, Glazing Agents: Carnauba Wax, Antioxidant: E321. Colours: E120, E160A'
+ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Modified Starch, Glazing Agents: Carnauba Wax, Antioxidant: E321. Colours: E120, E160A"
 ---
 Spicy jawbreakers with a bubblegum centre.

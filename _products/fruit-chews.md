@@ -1,7 +1,7 @@
 ---
 name: Fruit Chews
 available: TRUE
-image: 'fruit-chews.jpg'
+image: "fruit-chews.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4

@@ -1,7 +1,7 @@
 ---
 name: Fruit Pastilles
 available: TRUE
-image: 'fruit-pastilles.jpg'
+image: "fruit-pastilles.jpg"
 purchase_option: 1
 price: 1
 cost_price: 0.4
@@ -11,6 +11,6 @@ type: [Gummy]
 flavour: [Custard]
 colour: [Black, Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Gluten]
-ingredients: 'Sugar, Glucose Syrup, Fruit Juices From Concentrate 25% (Grape, Blackcurrant, Strawberry, Lime, Orange, Lemon), Gelatine, Gum Arabic, Modified Starch, Malic Acid, Acidity Regulator (Trisodium Citrate), Citric Acid, Flavourings, Colours (Anthocyanins, Copper Complexes of Chlorophyllins, Beta-Carotene, Curcumin), Lactic Acid'
+ingredients: "Sugar, Glucose Syrup, Fruit Juices From Concentrate 25% (Grape, Blackcurrant, Strawberry, Lime, Orange, Lemon), Gelatine, Gum Arabic, Modified Starch, Malic Acid, Acidity Regulator (Trisodium Citrate), Citric Acid, Flavourings, Colours (Anthocyanins, Copper Complexes of Chlorophyllins, Beta-Carotene, Curcumin), Lactic Acid"
 ---
 Gummy fruit flavour sweets with a sugar coating.

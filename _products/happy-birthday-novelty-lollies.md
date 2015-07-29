@@ -1,7 +1,7 @@
 ---
 name: Happy Birthday Novelty Lollies
 available: FALSE
-image: 'novelty-lollies-happy-birthday.jpg'
+image: "novelty-lollies-happy-birthday.jpg"
 purchase_option: 0
 price: 1.5
 cost_price: 0.6

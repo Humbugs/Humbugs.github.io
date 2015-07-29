@@ -1,6 +1,6 @@
 ---
 name: Sour Raspberry Bonbons
-available: TRUE
+available: true
 image: "bonbons-sour-raspberry.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Cola, Pear, Raspberry]
 colour: [Blue]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Hydrogenated Vegetable Fat, Water, Dextrose, Citric Acid, Sorbitol, Flavouring, Gelatine, Emulsifier: E473, Colour: E133"
+published: true
 ---
 Chewy sour blue raspberry flavoured bonbons.

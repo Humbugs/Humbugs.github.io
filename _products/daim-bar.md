@@ -1,6 +1,6 @@
 ---
 name: Daim Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.6
 cost_price: 0.3
@@ -17,5 +17,6 @@ energy: 150
 protein: 1
 carbohydrates: 16.5
 fat: 9
+published: true
 ---
 Crunchy butter almond bar covered in milk chocolate.

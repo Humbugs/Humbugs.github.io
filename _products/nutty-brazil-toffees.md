@@ -1,6 +1,6 @@
 ---
 name: Nutty Brazil Toffees
-available: FALSE
+available: false
 image: "nutty-brazil-toffees.jpg"
 purchase_option: "1"
 price: 1
@@ -13,5 +13,6 @@ flavour: [Watermelon]
 colour: [Brown]
 free: [Alcohol]
 ingredients: "Glucose Syrup, Sugar, Sweetened Condensed Milk, Hydrogenated Vegeatble Oil, Brazil Nuts, Butter, Salt, Emulsifier (E471), Flavourings"
+published: true
 ---
 Brazil nuts surrounded by creamy toffee, individually wrapped.

@@ -1,6 +1,6 @@
 ---
 name: Acid Drops
-available: TRUE
+available: true
 image: "acid-drops.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Hard, Wrapped]
 flavour: [Sour]
 free: [Alcohol, Lactose, Gelatin]
 ingredients: "Sugar, Glucose, Citric Acid, Flavour"
+published: true
 ---
 Traditional sour hard boiled sweets.

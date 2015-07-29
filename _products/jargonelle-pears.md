@@ -1,6 +1,6 @@
 ---
 name: Jargonelle Pears
-available: FALSE
+available: false
 image: "jargonelle-pears.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Hard, Wrapped]
 flavour: [Pear]
 colour: [Orange, Pink, White, Yellow]
 free: [Alcohol]
+published: true
 ---
 Hard boiled pear flavoured sweets.

@@ -1,6 +1,6 @@
 ---
 name: Peanut Brittle
-available: FALSE
+available: false
 image: "peanut-brittle.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,5 +11,6 @@ type: [Nuts]
 colour: [Brown]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Peanuts Salt, Colours: Caramel, Flavours: Caramel"
+published: true
 ---
 Peanut brittle pieces.

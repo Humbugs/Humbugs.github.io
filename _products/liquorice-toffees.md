@@ -1,6 +1,6 @@
 ---
 name: Liquorice Toffees
-available: FALSE
+available: false
 image: "liquorice-toffees.jpg"
 purchase_option: "1"
 price: 1.2
@@ -13,5 +13,6 @@ flavour: [Aniseed, Toffee]
 colour: [Black, Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Glucose Syrup, Sugar, Sweetened Condensed Milk 21%, Vegetable Oil (Palm Oil), Black Treacle 5%, Natural Colour (Vegetable Carbon), Liquorice Extract 0.7%, Salt, Emulsifier (E471), Oil of Aniseed."
+published: true
 ---
 Liquorice flavoured toffees.

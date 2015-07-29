@@ -1,6 +1,6 @@
 ---
 name: "Butter Drops (Sugar Free)"
-available: TRUE
+available: true
 image: "drops-butter-sugar-free.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,4 +11,5 @@ type: [Hard]
 flavour: [Cream]
 colour: [Yellow]
 free: [Alcohol, Sugar, Gelatin]
+published: true
 ---

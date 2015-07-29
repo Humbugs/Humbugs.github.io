@@ -1,6 +1,6 @@
 ---
 name: Ring Pop
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.5
 cost_price: 0.2
@@ -11,4 +11,5 @@ weight: 0
 type: [Lollipop]
 flavour: [Strawberry]
 free: [Alcohol]
+published: true
 ---

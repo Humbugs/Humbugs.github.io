@@ -1,6 +1,6 @@
 ---
 name: "Cherry Fizz Balls"
-available: TRUE
+available: true
 image: "fizz-balls-cherry.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Cherry]
 colour: [Pink]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Bicarbonate of Soda, Malic Acid, Citric Acid, Colours: E122"
+published: true
 ---
 Tangy, fizzy cherry flavoured balls dusted in a sugar coating.

@@ -1,6 +1,6 @@
 ---
 name: Small Pear Drops
-available: TRUE
+available: true
 image: "drops-pear-small.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Pear]
 colour: [Pink, Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Citric Acid, Flavourings, Colours: E104, E129"
+published: true
 ---
 Small, hard boiled pear flavoured sweets.

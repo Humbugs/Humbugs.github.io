@@ -1,6 +1,6 @@
 ---
 name: Chocolate Mice
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.05
 cost_price: 0.03
@@ -11,4 +11,5 @@ type: [Chocolate]
 colour: [White]
 free: [Alcohol, Nut, Gelatin]
 ingredients: "Sugar, Vegetable, Fat, Whey, Powder, Wheat, Flour, Emulsifier, Soya, Lecithin, Flavourings"
+published: true
 ---

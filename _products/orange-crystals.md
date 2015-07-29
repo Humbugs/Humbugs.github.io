@@ -1,6 +1,6 @@
 ---
 name: Orange Crystals
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.5
@@ -10,5 +10,6 @@ type: [Sherbet]
 flavour: [Orange]
 colour: [Orange]
 free: [Alcohol, Sugar]
+published: true
 ---
 Orange flavoured crystal sherbet.

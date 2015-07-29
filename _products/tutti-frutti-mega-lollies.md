@@ -1,6 +1,6 @@
 ---
 name: Tutti Frutti Mega Lollies
-available: FALSE
+available: false
 image: "joseph-dobson-sons-ltd-mega-lollies-tutti-frutti.jpg"
 purchase_option: "0"
 price: 0.2
@@ -14,5 +14,6 @@ type: [Liquorice, Lollipop]
 colour: [Blue, Red, Yellow]
 free: [Alcohol, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Salt. Colours: E100, E141, E153, E160A, E163"
+published: true
 ---
 Tutti frutti lollies.

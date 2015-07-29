@@ -1,6 +1,6 @@
 ---
 name: Fudge Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.2
 cost_price: 0.08
@@ -17,5 +17,6 @@ energy: 440
 protein: 2.5
 carbohydrates: 73.9
 fat: 13.1
+published: true
 ---
 Soft fudge bar wrapped in Cadbury’s milk chocolate.

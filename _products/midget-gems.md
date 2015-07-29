@@ -1,6 +1,6 @@
 ---
 name: Midget Gems
-available: TRUE
+available: true
 image: "midget-gems.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Chewy]
 flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, White, Yellow]
 free: [Alcohol, Nut]
+published: true
 ---
 Chewy firm fruit flavoured gums.

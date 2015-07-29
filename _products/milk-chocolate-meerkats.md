@@ -1,6 +1,6 @@
 ---
 name: Milk Chocolate Meerkats
-available: FALSE
+available: false
 image: "milk-chocolate-meerkats.jpg"
 purchase_option: "0"
 price: 3.29
@@ -11,5 +11,6 @@ depth: 0
 weight: 0
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
+published: true
 ---
 Delicious milk chocolate shaped meerkats, guaranteed to make someone chuckle.

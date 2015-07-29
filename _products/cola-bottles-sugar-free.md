@@ -1,6 +1,6 @@
 ---
 name: "Cola Bottles (Sugar Free)"
-available: TRUE
+available: true
 image: "cola-bottles-sugar-free-cola-bottles.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,5 +11,6 @@ type: [Jelly]
 flavour: [Cola]
 colour: [Brown]
 free: [Alcohol, Sugar]
+published: true
 ---
 Sugar free fizzy cola flavoured bottle gums.

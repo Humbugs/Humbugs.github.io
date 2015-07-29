@@ -1,6 +1,6 @@
 ---
 name: "Apple & Blackcurrant Bonbons"
-available: TRUE
+available: true
 image: "bonbons-apple-blackcurrant.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Apple, Blackcurrant]
 colour: [Green, Purple]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant: Sorbitol, Citric Acid, Pork Gelatine, Dextrose, Flavourings, Colours: E163, E100, E141; Emulsifier: Soya Lecithin"
+published: true
 ---
 Chewy apple and blackcurrant flavoured bonbons.

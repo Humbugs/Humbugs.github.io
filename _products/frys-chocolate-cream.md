@@ -1,6 +1,6 @@
 ---
 name: Frys Chocolate Cream
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.7
 cost_price: 0.28
@@ -18,5 +18,6 @@ energy: 415
 protein: 2.8
 carbohydrates: 70.5
 fat: 13
+published: true
 ---
 A fondant centre enrobed in dark chocolate.

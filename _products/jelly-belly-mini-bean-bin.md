@@ -1,6 +1,6 @@
 ---
 name: Jelly Belly Mini Bean Bin
-available: FALSE
+available: false
 purchase_option: "0"
 price: 8.99
 cost_price: 3.596
@@ -11,5 +11,6 @@ weight: 0
 brand: "Jelly-Belly"
 type: [Novelty, Wrapped]
 free: [Alcohol, Gelatin]
+published: true
 ---
 Jelly bean dispenser.

@@ -1,6 +1,6 @@
 ---
 name: Mint Humbugs
-available: TRUE
+available: true
 image: "mint-humbugs.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Mint]
 colour: [White]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Sweetened Condensed Milk, Hard Palm Kernal Oil, Flavour, Salt, Colour (E150), Emulsifier (Soya Lecithin)"
+published: true
 ---
 Hard boiled mint flavoured sweets.

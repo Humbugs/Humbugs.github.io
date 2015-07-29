@@ -1,6 +1,6 @@
 ---
 name: Strawberries
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.48
@@ -10,4 +10,5 @@ type: [Gummy]
 flavour: [Strawberry]
 colour: [Red]
 free: [Alcohol]
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: West Indian Limes
-available: TRUE
+available: true
 image: "west-indian-limes.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Lime]
 colour: [Green]
 free: [Alcohol, Gluten, Lactose, Nut]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, E102, E142"
+published: true
 ---
 Hard boiled lime sweets, individually wrapped.

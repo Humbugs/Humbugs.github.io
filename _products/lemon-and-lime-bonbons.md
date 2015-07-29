@@ -1,6 +1,6 @@
 ---
 name: "Lemon & Lime Bonbons"
-available: TRUE
+available: true
 image: "bonbons-lemon-lime.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Lemon, Lime]
 colour: [Green, Yellow]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humactant: Sorbitol, Citric Acid, Pork Gelatine, Dextrose, Flavouring, Colour: E100, E141; Emulisifier: Soya Leithin."
+published: true
 ---
 Chewy lemon and lime flavoured bonbons.

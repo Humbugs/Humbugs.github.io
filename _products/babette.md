@@ -1,6 +1,6 @@
 ---
 name: Babette
-available: FALSE
+available: false
 image: babette.jpg
 purchase_option: "3"
 price: 6
@@ -10,5 +10,6 @@ type: [Chocolate]
 flavour: [Vanilla]
 colour: [White]
 free: [Gluten]
+published: true
 ---
 Vanilla Cream And Praline

@@ -1,6 +1,6 @@
 ---
 name: Traffic Light Mega Lollies
-available: FALSE
+available: false
 image: "joseph-dobson-sons-ltd-mega-lollies-traffic-light.jpg"
 purchase_option: "0"
 price: 0.2
@@ -14,5 +14,6 @@ type: [Liquorice, Lollipop]
 colour: [Red]
 free: [Alcohol, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Colours: E-102, E-129, E-142. Contains Sulphates."
+published: true
 ---
 Traffic light lollies.

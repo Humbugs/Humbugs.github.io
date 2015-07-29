@@ -1,6 +1,6 @@
 ---
 name: Bassetts Liquorice Allsorts
-available: FALSE
+available: false
 image: "bassetts-liquorice-allsorts.jpg"
 purchase_option: "1"
 price: 1.3
@@ -18,5 +18,6 @@ energy: 380
 protein: 5.6
 carbohydrates: 77.8
 fat: 4.2
+published: true
 ---
 A British favourite, a varied and colourful assortment of liquorice featuring flavours of coconut and aniseed.

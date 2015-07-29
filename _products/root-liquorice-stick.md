@@ -1,6 +1,6 @@
 ---
 name: Root Liquorice Stick
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.3
 cost_price: 0.12
@@ -13,5 +13,6 @@ flavour: [Aniseed]
 colour: [Brown]
 free: [Alcohol, Lactose, Nut, Sugar, Gelatin]
 ingredients: Liquorice Wood
+published: true
 ---
 A Liquorice root to chew.

@@ -1,6 +1,6 @@
 ---
 name: "Pink & White Nougat Bar"
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.25
 cost_price: 0.5
@@ -11,4 +11,5 @@ weight: 147
 type: [Nougat, Wrapped]
 colour: [Pink, White]
 free: [Alcohol]
+published: true
 ---

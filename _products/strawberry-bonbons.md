@@ -1,6 +1,6 @@
 ---
 name: Strawberry Bonbons
-available: TRUE
+available: true
 image: "bonbons-strawberry.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Rhubarb]
 colour: [Red]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Water, Hydrogenated Vegetable Oil, Dextrose, Sorbitol, Gelatine, Citric Acid, Flavourings, Emulsifier: E471, Colour: E120"
+published: true
 ---
 Chewy strawberry flavoured bonbons.

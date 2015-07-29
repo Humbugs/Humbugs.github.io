@@ -1,6 +1,6 @@
 ---
 name: Maoam Sour Chews
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.15
 cost_price: 0.06
@@ -12,5 +12,6 @@ type: [Chewy, Wrapped]
 flavour: [Sour]
 free: [Alcohol, Gluten, Nut]
 ingredients: "Sugar, Glucose Syrup, Vegetable Fat, Humectant (Sorbitol Syrup), Citric Acid, Gelatine. Flavouring:"
+published: true
 ---
 Wrapped sour flavoured chews.

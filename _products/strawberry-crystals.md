@@ -1,6 +1,6 @@
 ---
 name: Strawberry Crystals
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.5
@@ -10,5 +10,6 @@ type: [Sherbet]
 flavour: [Strawberry]
 colour: [Pink]
 free: [Alcohol]
+published: true
 ---
 Strawberry flavoured crystal sherbet.

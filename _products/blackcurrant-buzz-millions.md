@@ -1,6 +1,6 @@
 ---
 name: Blackcurrant Buzz Millions
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1
 cost_price: 0.4
@@ -12,5 +12,6 @@ type: [Chewy, Wrapped]
 flavour: [Blackcurrant]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Hydrogenated Vegetable Oil, Blackcurrant Juice From Concentrate 3% Acid (Citric Acid), Starch, Concentrates (Black Carrot, Hibiscus) Gelling Agents, E414, E418, Flavouring Emulsifier E473."
+published: true
 ---
 Tiny blackcurrant flavoured chews.

@@ -1,6 +1,6 @@
 ---
 name: Pistachio Turkish Delight
-available: FALSE
+available: false
 image: "turkish-delight-pistachio.jpg"
 purchase_option: "1"
 price: 3.99
@@ -11,5 +11,6 @@ weight: 0
 brand: Sebahat
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---
 Pistachio Turkish Delight.

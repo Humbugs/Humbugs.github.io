@@ -1,6 +1,6 @@
 ---
 name: Mint Imperials
-available: TRUE
+available: true
 image: "mint-imperials.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Mint]
 colour: [White]
 free: [Alcohol, Gluten, Lactose, Nut]
 ingredients: "Sugar, Dextrose, Magnesium Sterate, Peppermint Oil"
+published: true
 ---
 Hard mints with a crumbly texture.

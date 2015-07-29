@@ -1,6 +1,6 @@
 ---
 name: Strawberry Fizz Whizz Popping Candy
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.2
 cost_price: 0.08
@@ -12,5 +12,6 @@ type: [Fizzy, Wrapped]
 flavour: [Strawberry]
 free: [Alcohol, Gelatin]
 ingredients: "Sugar, Lactose, Glucose, Artificial Flavour, Carbon Dioxide E-290"
+published: true
 ---
 Strawberry popping candy.

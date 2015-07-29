@@ -1,6 +1,6 @@
 ---
 name: Frys Peppermint Cream
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.75
 cost_price: 0.3
@@ -18,5 +18,6 @@ energy: 415
 protein: 2.8
 carbohydrates: 70.5
 fat: 13.2
+published: true
 ---
 A peppermint fondant centre enrobed in dark chocolate.

@@ -1,6 +1,6 @@
 ---
 name: Liquorice Gums
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.3
 cost_price: 0.52
@@ -11,5 +11,6 @@ flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol]
 ingredients: "Ingredients:  Glucose Syrup, Sugar, Water, Beef Gelatine, Potato Starch, Liquorice Powder, Natural Colour (Vegetable Carbon), Palm Oil, Glazing Agent (Carnauba Wax)."
+published: true
 ---
 Liquorice flavoured gums.

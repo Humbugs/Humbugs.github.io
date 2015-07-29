@@ -1,6 +1,6 @@
 ---
 name: Haribo Yellow Bellies
-available: FALSE
+available: false
 image: "haribo-yellow-bellies.jpg"
 purchase_option: "2"
 price: 0.2
@@ -11,4 +11,5 @@ weight: 0
 brand: Haribo
 flavour: [Mixed Fruit]
 free: [Alcohol]
+published: true
 ---

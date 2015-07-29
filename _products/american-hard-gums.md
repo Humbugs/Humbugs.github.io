@@ -1,6 +1,6 @@
 ---
 name: American Hard Gums
-available: TRUE
+available: true
 image: "american-hard-gums.jpg"
 purchase_option: "1"
 price: 1
@@ -17,4 +17,5 @@ energy: 353
 protein: 0.3
 carbohydrates: 86.1
 fat: 0.2
+published: true
 ---

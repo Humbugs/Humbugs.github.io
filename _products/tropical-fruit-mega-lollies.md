@@ -1,6 +1,6 @@
 ---
 name: Tropical Fruit Mega Lollies
-available: FALSE
+available: false
 image: "joseph-dobson-sons-ltd-mega-lollies-tropical-fruit.jpg"
 purchase_option: "0"
 price: 0.2
@@ -15,5 +15,6 @@ flavour: [Mixed Fruit]
 colour: [Green, Red]
 free: [Alcohol, Gelatin]
 ingredients: "Sugar Glucose Syrup, Citric Acid, Salt, Flavourings, Colours: E102, E129, E142."
+published: true
 ---
 Tropical fruit lollies.

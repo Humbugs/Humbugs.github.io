@@ -1,6 +1,6 @@
 ---
 name: Chocolate Bonbons
-available: TRUE
+available: true
 image: "bonbons-chocolate.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Chewy]
 flavour: [Chocolate]
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---
 Chewy chocolate flavoured bonbons.

@@ -1,6 +1,6 @@
 ---
 name: Red Fizzy Cable
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.1
 cost_price: 0.04
@@ -11,4 +11,5 @@ type: [Fizzy]
 flavour: [Sour]
 colour: [Red]
 free: [Alcohol]
+published: true
 ---

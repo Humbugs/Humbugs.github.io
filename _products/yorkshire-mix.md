@@ -1,6 +1,6 @@
 ---
 name: Yorkshire Mix
-available: TRUE
+available: true
 image: "yorkshire-mix.jpg"
 purchase_option: "1"
 price: 1.2
@@ -13,5 +13,6 @@ flavour: [Lemon]
 colour: [Green, Orange, Pink, Rainbow, Red, White, Yellow]
 free: [Alcohol, Nut, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Natural Colours"
+published: true
 ---
 A variety of hard boiled sweets, including pear drops and humbugs.

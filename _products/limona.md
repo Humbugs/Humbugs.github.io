@@ -1,6 +1,6 @@
 ---
 name: Limona
-available: FALSE
+available: false
 image: limona.jpg
 purchase_option: "3"
 price: 3.99
@@ -10,5 +10,6 @@ type: [Chocolate]
 flavour: [Lemon]
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---
 Praline with lemon flavour.

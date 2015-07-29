@@ -1,6 +1,6 @@
 ---
 name: "Dew Drops"
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.6
@@ -11,5 +11,6 @@ flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Maize Starch, Water, Citric Acid, Flavourings, Natural Colours: Anthocyanins, Curcumin, Capsanthin, Vegetable Concentrates (Nettle, Spinach)"
+published: true
 ---
 Small soft fruity jelly pieces with a sugar coating

@@ -1,6 +1,6 @@
 ---
 name: Uncle Joes Mint Balls
-available: TRUE
+available: true
 image: "uncle-joes-mint-balls.jpg"
 purchase_option: "1"
 price: 1.3
@@ -16,5 +16,6 @@ serving_size: 100
 energy: 393
 carbohydrates: 97
 fat: 0.5
+published: true
 ---
 Traditional hard boiled mints.

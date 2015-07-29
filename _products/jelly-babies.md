@@ -1,6 +1,6 @@
 ---
 name: Jelly Babies
-available: FALSE
+available: false
 image: "jelly-babies.jpg"
 purchase_option: "2"
 price: 0.0095
@@ -11,4 +11,5 @@ weight: 0
 type: [Jelly]
 flavour: [Mixed Fruit]
 free: [Alcohol]
+published: true
 ---

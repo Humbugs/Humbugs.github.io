@@ -1,6 +1,6 @@
 ---
 name: Fried Eggs
-available: FALSE
+available: false
 image: "fried-eggs.jpg"
 purchase_option: "2"
 price: 0.01
@@ -12,4 +12,5 @@ type: [Gummy]
 flavour: [Mixed Fruit]
 colour: [White, Yellow]
 free: [Alcohol]
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: White Drops
-available: FALSE
+available: false
 image: "white-drops.jpg"
 purchase_option: "1"
 price: 1
@@ -11,4 +11,5 @@ type: [Chocolate]
 flavour: [Chocolate]
 colour: [White]
 free: [Alcohol, Gelatin]
+published: true
 ---

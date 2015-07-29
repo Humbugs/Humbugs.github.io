@@ -1,6 +1,6 @@
 ---
 name: Bubblegum Bottles
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.6
@@ -10,4 +10,5 @@ type: [Gummy]
 flavour: [Bubblegum]
 colour: [Blue, Pink]
 free: [Alcohol]
+published: true
 ---

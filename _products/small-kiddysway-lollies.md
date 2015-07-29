@@ -1,6 +1,6 @@
 ---
 name: Small Kiddysway Lollies
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.5
 cost_price: 0.2
@@ -11,4 +11,5 @@ weight: 0
 brand: Kiddysway
 type: [Wrapped]
 free: [Alcohol]
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: ABC Letters
-available: TRUE
+available: true
 image: "abc-letters.jpg"
 purchase_option: "1"
 price: 1
@@ -16,5 +16,7 @@ energy: 383
 protein: 0.5
 carbohydrates: 94.9
 fat: 0
+published: true
 ---
 Fruit letter shaped candies to spell out with.
+w

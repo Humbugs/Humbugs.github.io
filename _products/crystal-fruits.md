@@ -1,6 +1,6 @@
 ---
 name: Crystal Fruits
-available: FALSE
+available: false
 image: "crystal-fruits.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ type: [Hard, Wrapped]
 flavour: [Mixed Fruit]
 colour: [Green, Orange, Pink, Rainbow, Red]
 free: [Alcohol, Sugar]
+published: true
 ---
 Hard boiled fruit sweets.

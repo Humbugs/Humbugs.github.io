@@ -1,6 +1,6 @@
 ---
 name: Noumea
-available: FALSE
+available: false
 image: noumea.jpg
 purchase_option: "0"
 price: 2.8
@@ -11,5 +11,6 @@ depth: 10
 weight: 0
 free: [Alcohol]
 ingredients: "Milk Chocolate (Cane Sugar, Cocoa Butter, Milk, Chocolate Liquor)"
+published: true
 ---
 Noumea (35%) chocolate bar.

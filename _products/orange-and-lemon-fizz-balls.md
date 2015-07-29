@@ -1,6 +1,6 @@
 ---
 name: "Orange & Lemon Fizz Balls"
-available: TRUE
+available: true
 image: "fizz-balls-orange-lemon.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Orange]
 colour: [Orange, Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Sodium Bicarbonate, Malic Acid, Citric Acid, Flavour, Colours: E102, E129"
+published: true
 ---
 Tangy, fizzy orange and lemon flavoured balls dusted in a sugar coating.

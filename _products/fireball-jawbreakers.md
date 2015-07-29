@@ -1,6 +1,6 @@
 ---
 name: Fireball Jawbreakers
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.3
 cost_price: 0.12
@@ -11,5 +11,6 @@ weight: 0
 type: [Gummy, Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Modified Starch, Glazing Agents: Carnauba Wax, Antioxidant: E321. Colours: E120, E160A"
+published: true
 ---
 Spicy jawbreakers with a bubblegum centre.

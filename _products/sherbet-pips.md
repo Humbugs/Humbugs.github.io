@@ -1,6 +1,6 @@
 ---
 name: Sherbet Pips
-available: TRUE
+available: true
 image: "pips-sherbet.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,5 +11,6 @@ type: [Hard, Sherbet]
 colour: [Pink, White, Yellow]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Bicarbonate of Soda, Colours: Beetroot, Carotene"
+published: true
 ---
 Sherbet hard boiled pips.

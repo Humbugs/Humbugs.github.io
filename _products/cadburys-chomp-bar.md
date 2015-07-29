@@ -1,6 +1,6 @@
 ---
 name: Cadburys Chomp Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.2
 cost_price: 0.15
@@ -18,5 +18,6 @@ energy: 465
 protein: 3.1
 carbohydrates: 68.3
 fat: 19.9
+published: true
 ---
 Caramel bar wrapped in Cadbury’s milk chocolate.

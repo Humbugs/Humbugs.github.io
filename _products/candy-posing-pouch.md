@@ -1,6 +1,6 @@
 ---
 name: Candy Posing Pouch
-available: FALSE
+available: false
 image: "candy-posing-pouch.jpg"
 purchase_option: "0"
 price: 5.99
@@ -11,4 +11,5 @@ depth: 37
 weight: 335
 type: [Novelty]
 free: [Alcohol]
+published: true
 ---

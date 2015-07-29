@@ -1,6 +1,6 @@
 ---
 name: Smarties
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0
 cost_price: 0
@@ -17,5 +17,6 @@ energy: 256
 protein: 2.2
 carbohydrates: 45
 fat: 7.6
+published: true
 ---
 Chocolate coated in a crisp coloured sugar shell.

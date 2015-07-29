@@ -1,6 +1,6 @@
 ---
 name: Giant Strawbs
-available: FALSE
+available: false
 image: "giant-strawbs.jpg"
 purchase_option: "1"
 price: 0.95
@@ -11,4 +11,5 @@ type: [Gummy]
 flavour: [Strawberry]
 colour: [Red]
 free: [Alcohol, Gelatin]
+published: true
 ---

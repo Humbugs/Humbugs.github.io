@@ -1,6 +1,6 @@
 ---
 name: Sour Apple Mega Lollies
-available: FALSE
+available: false
 image: "joseph-dobson-sons-ltd-mega-lollies-sour-apple.jpg"
 purchase_option: "0"
 price: 0.2
@@ -15,5 +15,6 @@ flavour: [Apple]
 colour: [Green]
 free: [Alcohol, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Colours: E-102, E-142. Contains Sulphates. "
+published: true
 ---
 Sour apple lollies.

@@ -1,6 +1,6 @@
 ---
 name: Barley Sugars
-available: TRUE
+available: true
 image: "barley-sugars.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Hard, Traditional, Wrapped]
 colour: [Orange]
 free: [Alcohol, Gluten, Lactose, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Colours: E110, E102"
+published: true
 ---
 Traditional hard boiled sweets with an extract of barley.

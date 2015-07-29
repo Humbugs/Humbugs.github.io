@@ -1,6 +1,6 @@
 ---
 name: Caramac
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.6
 cost_price: 0.4
@@ -17,5 +17,6 @@ energy: 174
 protein: 1.8
 carbohydrates: 16.9
 fat: 11
+published: true
 ---
 Cocoa free bar of caramel.

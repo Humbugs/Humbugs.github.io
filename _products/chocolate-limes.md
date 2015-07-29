@@ -1,6 +1,6 @@
 ---
 name: Chocolate Limes
-available: TRUE
+available: true
 image: "chocolate-limes.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Lime]
 colour: [Green]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Chocolate Flavouring (Sugar, Vegetable Oil, Whey Powder, Cocoa Powder, Emulsifier: Soya Lecithin, E322, E476, Salt), Citric Acid, Vegetable Oil, Colours: E102, E104, E142; Flavours: Chocolate Flavour"
+published: true
 ---
 A hard boiled shell of lime with a milk chocolate centre.

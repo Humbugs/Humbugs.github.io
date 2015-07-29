@@ -1,6 +1,6 @@
 ---
 name: Starburst
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.5
 cost_price: 0.2
@@ -12,5 +12,6 @@ type: [Chewy, Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Gluten, Nut, Gelatin]
 ingredients: "Glucose Syrup, Sugar, Palm Fat, Citric Acid, Concentrated Fruit Juices (0.6%) (Pear, Cherry, Lime, Strawberry, Raspberry), Maltodextrin, Modified Starch, Dextrin, Flavourings, Dextrose, Emulsifier Soybean Lecithin, Colour Anthocyanins"
+published: true
 ---
 Wrapped fruit flavoured chews.

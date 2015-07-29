@@ -1,6 +1,6 @@
 ---
 name: Animal Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1
 cost_price: 0.1
@@ -17,5 +17,6 @@ energy: 100
 protein: 1
 carbohydrates: 12
 fat: 5.3
+published: true
 ---
 Milk chocolate bar with a fun game on the inside of the wrapper.

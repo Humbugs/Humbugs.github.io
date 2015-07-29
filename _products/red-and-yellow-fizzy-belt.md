@@ -1,6 +1,6 @@
 ---
 name: "Red & Yellow Fizzy Belt"
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.05
 cost_price: 0.02
@@ -10,4 +10,5 @@ weight: 0
 type: [Fizzy]
 colour: [Red, Yellow]
 free: [Alcohol]
+published: true
 ---

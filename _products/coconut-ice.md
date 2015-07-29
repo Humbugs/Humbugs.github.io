@@ -1,6 +1,6 @@
 ---
 name: Coconut Ice
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.3
 cost_price: 0.8
@@ -9,4 +9,5 @@ container_sweets_weight: 0
 flavour: [Coconut]
 colour: [Pink, White]
 free: [Alcohol, Sugar]
+published: true
 ---

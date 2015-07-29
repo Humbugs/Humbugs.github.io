@@ -1,6 +1,6 @@
 ---
 name: English Creamy Toffees
-available: FALSE
+available: false
 image: "english-creamy-toffees.jpg"
 purchase_option: "1"
 price: 1
@@ -18,5 +18,6 @@ energy: 480
 protein: 2
 carbohydrates: 72.1
 fat: 20.4
+published: true
 ---
 Individually wrapped creamy toffees.

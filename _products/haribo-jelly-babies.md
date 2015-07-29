@@ -1,6 +1,6 @@
 ---
 name: Haribo Jelly Babies
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.01
 cost_price: 0.004
@@ -11,4 +11,5 @@ brand: Haribo
 flavour: [Mixed Fruit]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Gelatine, Citric Acid, Flavourings, Fruit & Plant Concentrates, Colours (Carmine, Copper Complexes of Chlorophyll), Glazing Agents (Vegetable Oil, Beeswax, Carnauba Wax), Invert Sugar Syrup, Fruit Extract (Carob)"
+published: true
 ---

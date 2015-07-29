@@ -1,6 +1,6 @@
 ---
 name: Highland Toffee Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.3
 cost_price: 0.12
@@ -11,5 +11,6 @@ weight: 0
 type: [Chewy, Toffee, Wrapped]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Glucose Syrup, Sugar, Sweetened Condensed Milk, Vegetable Oil, Salt, Flavouring"
+published: true
 ---
 A soft toffee chew bar.

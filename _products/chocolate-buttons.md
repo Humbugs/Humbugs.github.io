@@ -1,6 +1,6 @@
 ---
 name: Chocolate Buttons
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.6
@@ -10,4 +10,5 @@ type: [Chocolate]
 flavour: [Chocolate]
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---

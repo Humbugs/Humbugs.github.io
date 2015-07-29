@@ -1,6 +1,6 @@
 ---
 name: Coconut Mushrooms
-available: FALSE
+available: false
 image: "coconut-mushrooms.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Coconut]
 colour: [Brown, White]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Coconut (15%) Cornflour, Beef Gelatine, Vegetable Oil, Cocoa Powder. Colours: Caramel"
+published: true
 ---
 Traditional chewy mushroom sweets coated in desiccated coconut, with a white fondant stalk.

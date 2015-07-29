@@ -1,6 +1,6 @@
 ---
 name: Boynes Sugar Mice
-available: TRUE
+available: true
 image: "boynes-sugar-mice.jpg"
 purchase_option: "0"
 price: 0.75
@@ -12,5 +12,6 @@ weight: 24
 colour: [Pink, White]
 free: [Alcohol, Gluten, Lactose, Nut]
 ingredients: "Sugar, Glucose Syrup, Water, Softening Agent (Glycerine), Natural Flavouring, Natural Colours"
+published: true
 ---
 With four/five colours to choose from, the tasty traditional sugared mice, complete with the little cotton tails!

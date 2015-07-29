@@ -1,6 +1,6 @@
 ---
 name: Bulls Eyes
-available: TRUE
+available: true
 image: "bulls-eyes.jpg"
 purchase_option: "1"
 price: 1
@@ -13,5 +13,6 @@ flavour: [Mint]
 colour: [Black, White]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colour (E153)"
+published: true
 ---
 Traditional hard boiled black and white mint sweets.

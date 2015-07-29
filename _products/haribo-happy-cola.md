@@ -1,6 +1,6 @@
 ---
 name: Haribo Happy Cola
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.25
 cost_price: 0.1
@@ -13,5 +13,6 @@ type: [Gummy, Wrapped]
 flavour: [Cola]
 free: [Alcohol, Nut, Gelatin]
 ingredients: "Glucose Syrup, Sugar, Gelatine, Dextrose, Citric Acid, Caramelised Sugar Syrup, Flavouring, Vegetable Oil, Glazing Agents: Beeswax, Carnauba Wax"
+published: true
 ---
 Gummy cola flavoured bottles.

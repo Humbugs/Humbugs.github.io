@@ -1,6 +1,6 @@
 ---
 name: Clarinco Mint Creams
-available: TRUE
+available: true
 image: "clarinco-mint-creams.jpg"
 purchase_option: "1"
 price: 1.5
@@ -18,5 +18,6 @@ energy: 36.5
 protein: 0
 carbohydrates: 9.18
 fat: 0
+published: true
 ---
 Soft, sugary mint creams that are refreshing and melt in the mouth.

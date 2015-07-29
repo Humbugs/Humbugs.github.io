@@ -1,6 +1,6 @@
 ---
 name: Candy Pistol
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.65
 cost_price: 0.5
@@ -10,4 +10,5 @@ depth: 0
 weight: 0
 type: [Wrapped]
 free: [Alcohol]
+published: true
 ---

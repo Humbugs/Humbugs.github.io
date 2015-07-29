@@ -1,6 +1,6 @@
 ---
 name: Bubblegum Mega Lollies
-available: FALSE
+available: false
 image: "joseph-dobson-sons-ltd-mega-lollies-bubblegum.jpg"
 purchase_option: "0"
 price: 0.2
@@ -15,5 +15,6 @@ flavour: [Bubblegum]
 colour: [Blue]
 free: [Alcohol]
 ingredients: "Sugar Glucose Syrup, Citric Acid, Salt, Flavourings, Colours: E133, E129. Contains Sulphites. May contain traces of milk."
+published: true
 ---
 Bubblegum lollies.

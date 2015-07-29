@@ -1,6 +1,6 @@
 ---
 name: Fruit Caramels
-available: TRUE
+available: true
 image: "fruit-caramels.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Mixed Fruit]
 colour: [White]
 free: [Alcohol]
 ingredients: "Glucose Syrup, Sugar, Hydrogenated Vegetable Oil, Acid, (Citric Acid), Gelatine, Gelling Agent, (Gun Arabic), Flavourings, Colours (Beetroot Red, Beta-Carotene, Beta-Apo-8'-Corotinal)"
+published: true
 ---
 Individually wrapped fruit flavoured chews.

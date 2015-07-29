@@ -1,6 +1,6 @@
 ---
 name: Toffee Mega Lollies
-available: FALSE
+available: false
 image: "joseph-dobson-sons-ltd-mega-lollies-toffee.jpg"
 purchase_option: "0"
 price: 0.2
@@ -13,5 +13,6 @@ brand: "Joseph-Dobson-&-Sons-Ltd"
 type: [Liquorice, Lollipop, Toffee]
 colour: [Brown]
 free: [Alcohol, Gelatin]
+published: true
 ---
 Toffee lollies.

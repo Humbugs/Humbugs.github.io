@@ -1,6 +1,6 @@
 ---
 name: Curly Wurly
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.3
 cost_price: 0.2
@@ -17,5 +17,6 @@ energy: 450
 protein: 3.4
 carbohydrates: 69.2
 fat: 17.4
+published: true
 ---
 Chewy caramel wrapped in Cadbury’s milk chocolate.

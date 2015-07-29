@@ -1,6 +1,6 @@
 ---
 name: "Fruit Drops (Sugar Free)"
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.8
@@ -10,4 +10,5 @@ type: [Butter]
 flavour: [Mixed Fruit]
 colour: [Green, Red, White, Yellow]
 free: [Alcohol]
+published: true
 ---

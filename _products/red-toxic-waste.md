@@ -1,6 +1,6 @@
 ---
 name: Red Toxic Waste
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1
 cost_price: 0.4
@@ -12,4 +12,5 @@ type: [Hard, Wrapped]
 flavour: [Mixed Fruit, Ginger, Sour]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Malic Acid, Dextrose, Maltodextrin, Glazing Agents: Beeswax"
+published: true
 ---

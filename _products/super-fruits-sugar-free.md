@@ -1,6 +1,6 @@
 ---
 name: "Super Fruits (Sugar Free)"
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.48
@@ -10,4 +10,5 @@ type: [Hard]
 colour: [Black, Green, Red, Yellow]
 free: [Alcohol, Gluten, Lactose, Sugar]
 ingredients: "Isomalt, Citric Acid, Colours: E100, E153, E162, E160C"
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: Banana Milkshakes
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.48
@@ -10,4 +10,5 @@ type: [Hard]
 flavour: [Banana]
 colour: [Yellow]
 free: [Alcohol, Sugar]
+published: true
 ---

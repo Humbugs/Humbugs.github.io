@@ -1,6 +1,6 @@
 ---
 name: Werthers Originals
-available: FALSE
+available: false
 image: "werthers-originals.jpg"
 purchase_option: "1"
 price: 1
@@ -17,5 +17,6 @@ energy: 425
 protein: 0.3
 carbohydrates: 86.7
 fat: 8.6
+published: true
 ---
 The original buttered caramel candies which are delightfully smooth and creamy.

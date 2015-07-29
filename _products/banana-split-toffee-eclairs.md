@@ -1,6 +1,6 @@
 ---
 name: "Banana Split Toffee Eclairs"
-available: FALSE
+available: false
 image: "eclairs-banana-split-toffees.jpg"
 purchase_option: "1"
 price: 1
@@ -18,5 +18,6 @@ energy: 501
 protein: 2.75
 carbohydrates: 72.4
 fat: 22.2
+published: true
 ---
 Creamy toffee with a banana cream centre.

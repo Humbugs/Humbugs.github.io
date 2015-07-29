@@ -1,6 +1,6 @@
 ---
 name: Everton Mints
-available: TRUE
+available: true
 image: "everton-mints.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Mint]
 colour: [Black, White]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Sweetened Condensed Milk, Hard Palm Kernal Oil, Flavour, Salt, Colour (E153). Emulsifier: Soya Lecithin"
+published: true
 ---
 Black and white mint flavoured sweets with a toffee centre.

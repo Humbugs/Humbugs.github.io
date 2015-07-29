@@ -1,6 +1,6 @@
 ---
 name: "Crème Brulée Pyramid"
-available: FALSE
+available: false
 image: "crme-brule-pyramid.jpg"
 purchase_option: "3"
 price: 3.99
@@ -9,4 +9,5 @@ weight: 12
 type: [Chocolate]
 colour: [Brown]
 free: [Gluten]
+published: true
 ---

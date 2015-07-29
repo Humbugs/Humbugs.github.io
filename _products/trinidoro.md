@@ -1,6 +1,6 @@
 ---
 name: Trinidoro
-available: FALSE
+available: false
 image: trinidoro.jpg
 purchase_option: "0"
 price: 2.8
@@ -11,5 +11,6 @@ depth: 10
 weight: 0
 free: [Alcohol]
 ingredients: "Cocoa Massa, Cane Sugar, Cocoa Butter, Cocoa: 70% "
+published: true
 ---
 Trinidoro (75%) chocolate bar.

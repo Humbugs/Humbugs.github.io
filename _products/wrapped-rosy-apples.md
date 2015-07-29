@@ -1,6 +1,6 @@
 ---
 name: Wrapped Rosy Apples
-available: TRUE
+available: true
 image: "rosy-apples-wrapped.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Apple]
 colour: [Green, Red]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E104, E122, E142"
+published: true
 ---
 Hard boiled apple flavoured sweets that are individually wrapped.

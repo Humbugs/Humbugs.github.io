@@ -1,6 +1,6 @@
 ---
 name: "Strawberry & Cream Bonbons'
-available: TRUE
+available: true
 image: "bonbons-strawberry-cream.jpg'
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Coconut, Rhubarb]
 colour: [Red, White]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant: Sorbitol, Pork Gelatine, Citric Acid, Dextrose, Flavourings, Colour: E120, Emulisifier: Soya Lecithin'
+published: true
 ---
 Chewy strawberry and cream flavoured bonbons.

@@ -1,6 +1,6 @@
 ---
 name: Devon Toffees
-available: TRUE
+available: true
 image: "devon-toffees.jpg"
 purchase_option: "1"
 price: 1.2
@@ -12,5 +12,6 @@ flavour: [Toffee]
 colour: [White]
 free: [Alcohol, Sugar]
 ingredients: "Maltitol, Isomalt, Hydrogenated Palm Kernal Oil, Whole Milk Powder, Butter, Salt, Emulsifier: Soya Lecithin E322"
+published: true
 ---
 Sugar free creamy Devon toffees.

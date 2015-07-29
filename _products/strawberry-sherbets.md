@@ -1,6 +1,6 @@
 ---
 name: Strawberry Sherbets
-available: TRUE
+available: true
 image: "sherbets-strawberry.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Hard, Traditional]
 flavour: [Strawberry]
 colour: [Red]
 free: [Alcohol]
+published: true
 ---
 Hard boiled strawberry flavoured sweets with a sherbet centre.

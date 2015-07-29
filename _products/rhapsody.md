@@ -1,6 +1,6 @@
 ---
 name: Rhapsody
-available: FALSE
+available: false
 image: rhapsody.jpg
 purchase_option: "3"
 price: 3.99
@@ -9,5 +9,6 @@ weight: 14
 type: [Chocolate]
 flavour: [Raspberry]
 free: [Gluten, Nut]
+published: true
 ---
 Creamy raspberry flavoured centre with a layer of raspberry jam.

@@ -1,6 +1,6 @@
 ---
 name: Extra Strong Mints
-available: FALSE
+available: false
 image: "extra-strong-mints.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Mint]
 flavour: [Mint]
 colour: [White]
 free: [Alcohol]
+published: true
 ---
 Traditional hot mints.

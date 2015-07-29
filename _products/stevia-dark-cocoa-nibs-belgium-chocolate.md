@@ -1,6 +1,6 @@
 ---
 name: "Stevia Dark Cocoa-Nibs Belgium Chocolate"
-available: FALSE
+available: false
 image: "belgian-stevia-cocoa-dark-nibs.jpg"
 purchase_option: "0"
 price: 1.39
@@ -12,5 +12,6 @@ weight: 0
 type: [Chocolate, Wrapped]
 free: [Alcohol, Sugar]
 ingredients: "Cocoa Mass, Alimentary Fibre: Dextrin, Inulin, Oligofructose.  Sweeteners: Erythritol, Steviol Glycosides. Cocoa Butter, Roasted Cocoa Bean Kernels, Soya Lecithin, Natural Flavourings. Cocoa Solids: 55%. Factory Processes: Milk, Soya & Nuts. Contains naturally occurring sugars."
+published: true
 ---
 Solid belgian chocolate bar.

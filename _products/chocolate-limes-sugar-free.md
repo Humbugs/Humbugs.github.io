@@ -1,6 +1,6 @@
 ---
 name: "Chocolate Limes (Sugar Free)"
-available: TRUE
+available: true
 image: "chocolate-limes-sugar-free.jpg"
 purchase_option: "1"
 price: 1.2
@@ -12,5 +12,6 @@ flavour: [Lime]
 colour: [Green]
 free: [Alcohol, Sugar]
 ingredients: "Isomalt, Chocolate (5%): (Cocoa Mass, Maltitol, Cocoa Butter, Emulsifier: Soya Lecithin E322), Whole Milk Powder, Citric Acid, Colours: E102, E142; Flavours: Lime Oil"
+published: true
 ---
 A sugar free hard boiled shell of lime with a milk chocolate centre.

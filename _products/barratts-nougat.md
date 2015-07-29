@@ -1,6 +1,6 @@
 ---
 name: Barratts Nougat
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.45
 cost_price: 0.3
@@ -19,5 +19,6 @@ energy: 375
 protein: 4.5
 carbohydrates: 80.6
 fat: 3.7
+published: true
 ---
 Vanilla and raspberry flavoured nougat bar, sprinkled with peanuts.

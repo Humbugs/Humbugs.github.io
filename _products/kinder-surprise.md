@@ -1,6 +1,6 @@
 ---
 name: Kinder Surprise
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.5
 cost_price: 0.2
@@ -13,5 +13,6 @@ type: [Chocolate, Wrapped]
 colour: [White]
 free: [Alcohol, Gluten, Nut, Gelatin]
 ingredients: "Ingredients Fine Milk Chocolate 47% (Sugar, Whole Milk Powder, Cocoa Butter, Cocoa Mass. Emulsifier: Lecithins (Soya); Vanillin), Skimmed Milk Powder, Sugar, Vegetable Fat, Concentrated Butter. Emulsifier: Lecithins (Soya), Vanillin."
+published: true
 ---
 Chocolate egg with a surprise toy inside.

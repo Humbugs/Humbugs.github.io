@@ -1,6 +1,6 @@
 ---
 name: Foam Bananas
-available: FALSE
+available: false
 purchase_option: "1"
 price: 0.95
 cost_price: 0.38
@@ -10,4 +10,5 @@ type: [Chewy]
 flavour: [Banana]
 colour: [Yellow]
 free: [Alcohol]
+published: true
 ---

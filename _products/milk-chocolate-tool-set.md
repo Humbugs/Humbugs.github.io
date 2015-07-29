@@ -1,6 +1,6 @@
 ---
 name: Milk Chocolate Tool Set
-available: FALSE
+available: false
 image: "milk-chocolate-tool-set.jpg"
 purchase_option: "0"
 price: 5.99
@@ -11,5 +11,6 @@ depth: 60
 weight: 0
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
+published: true
 ---
 Toolkit shaped tin of milk chocolate tools.

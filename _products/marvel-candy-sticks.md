@@ -1,6 +1,6 @@
 ---
 name: Marvel Candy Sticks
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.4
 cost_price: 0.16
@@ -11,5 +11,6 @@ weight: 0
 brand: Marvel
 type: [Wrapped]
 free: [Alcohol]
+published: true
 ---
 Hard candy sticks.

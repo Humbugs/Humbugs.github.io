@@ -1,6 +1,6 @@
 ---
 name: "Bean Boozled Giftbox/Spinner"
-available: TRUE
+available: true
 image: "bean-boozled-giftbox-spinner.jpg"
 purchase_option: "0"
 price: 7.99
@@ -11,5 +11,6 @@ depth: 29
 weight: 155
 type: [Novelty]
 free: [Alcohol, Gluten, Gelatin]
+published: true
 ---
 It's a game of luck, with weird & wild flavours. 3rd Edition new flavours.

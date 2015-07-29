@@ -1,6 +1,6 @@
 ---
 name: Luxury Belgian Chocolate Fishing Set
-available: FALSE
+available: false
 image: "luxury-belgian-chocolate-set-fishing.jpg"
 purchase_option: "0"
 price: 5.99
@@ -11,5 +11,6 @@ depth: 20
 weight: 0
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
+published: true
 ---
 Milk chocolate fishing set.

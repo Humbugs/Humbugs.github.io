@@ -1,6 +1,6 @@
 ---
 name: Caramel Cup
-available: FALSE
+available: false
 image: "caramel-cup.jpg"
 purchase_option: "3"
 price: 3.99
@@ -10,5 +10,6 @@ type: [Caramel, Chocolate]
 flavour: [Chocolate]
 colour: [Brown]
 free: [Gluten]
+published: true
 ---
 Dark chocolate cup with layers of caramel flavoured mallow, a blend of caramel & milk, chocolate topping & chocolate shavings.

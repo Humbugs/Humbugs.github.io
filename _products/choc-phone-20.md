@@ -1,6 +1,6 @@
 ---
 name: Choc Phone 2.0
-available: FALSE
+available: false
 image: "choc-phone-20.jpg"
 purchase_option: "0"
 price: 3.99
@@ -12,5 +12,6 @@ weight: 0
 type: [Chocolate, Novelty, Wrapped]
 colour: [White]
 free: [Alcohol]
+published: true
 ---
 Decorated white chocolate smartphone.

@@ -1,6 +1,6 @@
 ---
 name: "Jakeman's Honey & Menthol"
-available: TRUE
+available: true
 image: "jakemans-honey-menthol.jpg"
 purchase_option: "1"
 price: 1.2
@@ -12,5 +12,6 @@ type: [Hard, Traditional, Wrapped]
 colour: [Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Honey (25%), Malic Acid, Menthol Crystals, Natural Lemon Oil, Natural Flavour, Colour: Carotenes"
+published: true
 ---
 Honey and lemon flavour cough sweets containing soothing menthol.

@@ -1,6 +1,6 @@
 ---
 name: "Soft & Sweet Dutch Liquorice Buttons"
-available: TRUE
+available: true
 image: "dutch-liquorice-buttons-soft-sweet.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,5 +11,6 @@ type: [Liquorice]
 flavour: [Aniseed, Salt]
 colour: [Black]
 free: [Alcohol]
+published: true
 ---
 Salt liquorice buttons with a chewy texture.

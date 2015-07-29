@@ -1,6 +1,6 @@
 ---
 name: Weirds Strawberry & Orange Tangy Candy
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.35
 cost_price: 0.14
@@ -13,5 +13,6 @@ type: [Wrapped]
 flavour: [Orange, Strawberry]
 free: [Alcohol, Lactose, Gelatin]
 ingredients: "Sugar, Glucose Powder, E330, Artificial Flavours, Corn Syrup, Colours: E102, E129, E171. Glazing Agent: E903"
+published: true
 ---
 Tiny, tangy, crunchy candy in 2 flavours: strawberry and orange.

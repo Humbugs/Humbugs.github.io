@@ -1,6 +1,6 @@
 ---
 name: Tom Thumb Fruit Drops
-available: TRUE
+available: true
 image: "drops-tom-thumb-fruit.jpg"
 purchase_option: "1"
 price: 1.2
@@ -12,5 +12,6 @@ flavour: [Mixed Fruit]
 colour: [Green, Orange, Pink, Rainbow, Yellow]
 free: [Alcohol, Gluten, Lactose, Nut, Sugar, Gelatin]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E129, E102, E142, E110"
+published: true
 ---
 Fruit flavoured hard boiled pips.

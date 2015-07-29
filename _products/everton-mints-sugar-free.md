@@ -1,6 +1,6 @@
 ---
 name: "Everton Mints (Sugar Free)"
-available: TRUE
+available: true
 image: "everton-mints-sugar-free.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Hard, Mint, Wrapped]
 flavour: [Mint]
 colour: [Black, White]
 free: [Alcohol]
+published: true
 ---
 Sugar free black and white mint flavoured sweets with a toffee centre.

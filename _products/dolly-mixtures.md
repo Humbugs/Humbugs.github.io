@@ -1,6 +1,6 @@
 ---
 name: Dolly Mixtures
-available: TRUE
+available: true
 image: "dolly-mixtures.jpg"
 purchase_option: "1"
 price: 1
@@ -10,5 +10,6 @@ container_sweets_weight: 708
 type: [Jelly, Traditional]
 colour: [Green, Orange, Pink, Rainbow, White, Yellow]
 free: [Alcohol]
+published: true
 ---
 Multi coloured fondant shapes.

@@ -1,6 +1,6 @@
 ---
 name: Dutch Liquorice Zout
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.6
 cost_price: 0.75
@@ -10,5 +10,6 @@ type: [Liquorice]
 flavour: [Aniseed, Salt]
 colour: [Black]
 free: [Alcohol]
+published: true
 ---
 Salt liquorice.

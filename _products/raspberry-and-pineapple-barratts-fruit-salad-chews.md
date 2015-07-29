@@ -1,6 +1,6 @@
 ---
 name: "Raspberry & Pineapple Barratts Fruit Salad Chews"
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.4
 cost_price: 0.25
@@ -19,5 +19,6 @@ energy: 382
 protein: 0.5
 carbohydrates: 87.9
 fat: 3.1
+published: true
 ---
 Small wrapped raspberry and pineapple chews.

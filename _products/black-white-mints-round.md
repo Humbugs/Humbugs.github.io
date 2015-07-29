@@ -1,6 +1,6 @@
 ---
 name: "Black & White Mints Round"
-available: FALSE
+available: false
 image: "black-white-mints-round.jpg"
 purchase_option: "1"
 price: 1
@@ -11,4 +11,5 @@ type: [Mint, Wrapped]
 flavour: [Mint]
 colour: [Black, White]
 free: [Alcohol]
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: Barratts Black Jacks
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.4
 cost_price: 0.25
@@ -19,5 +19,6 @@ energy: 395
 protein: 0.8
 carbohydrates: 84.5
 fat: 6
+published: true
 ---
 Small wrapped aniseed chews

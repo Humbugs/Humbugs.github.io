@@ -1,6 +1,6 @@
 ---
 name: Cherry Cola Bottles
-available: FALSE
+available: false
 image: "cherry-cola-bottles.jpg"
 purchase_option: "1"
 price: 1
@@ -10,4 +10,5 @@ container_sweets_weight: 0
 type: [Gummy]
 flavour: [Cherry, Cola]
 free: [Alcohol]
+published: true
 ---

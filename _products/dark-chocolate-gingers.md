@@ -1,6 +1,6 @@
 ---
 name: Dark Chocolate Gingers
-available: TRUE
+available: true
 image: "dark-chocolate-gingers.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,5 +11,6 @@ type: [Chocolate]
 flavour: [Ginger]
 colour: [Brown]
 free: [Alcohol, Sugar]
+published: true
 ---
 Ginger wrapped in dark chocolate.

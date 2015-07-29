@@ -1,6 +1,6 @@
 ---
 name: "Cream Soda Crystals"
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.5
@@ -10,5 +10,6 @@ type: [Sherbet]
 flavour: [Cream]
 colour: [Pink]
 free: [Alcohol, Sugar]
+published: true
 ---
 Cream soda flavoured crystal sherbet.

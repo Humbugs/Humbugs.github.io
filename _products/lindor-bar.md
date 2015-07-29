@@ -1,6 +1,6 @@
 ---
 name: Lindor Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.75
 cost_price: 0.3
@@ -14,5 +14,6 @@ energy: 200
 protein: 2
 carbohydrates: 15
 fat: 15
+published: true
 ---
 Lindor milk chocolate bar.

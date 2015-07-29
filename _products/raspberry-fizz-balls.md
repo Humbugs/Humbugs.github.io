@@ -1,6 +1,6 @@
 ---
 name: Raspberry Fizz Balls
-available: TRUE
+available: true
 image: "fizz-balls-raspberry.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Raspberry, Sour]
 colour: [Blue]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Sodium Bicarbonate, Malic Acid, Citric Acid, Flavour, Colour: E133"
+published: true
 ---
 Tangy, fizzy raspberry flavoured balls dusted in a sugar coating.

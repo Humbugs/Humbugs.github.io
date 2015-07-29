@@ -1,6 +1,6 @@
 ---
 name: Medium Kiddysway Lollies
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1
 cost_price: 0.4
@@ -10,4 +10,5 @@ depth: 0
 weight: 0
 type: [Wrapped]
 free: [Alcohol]
+published: true
 ---

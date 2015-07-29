@@ -1,6 +1,6 @@
 ---
 name: Jazzies
-available: FALSE
+available: false
 image: jazzies.jpg
 purchase_option: "2"
 price: 0.0095
@@ -11,4 +11,5 @@ weight: 0
 type: [Chocolate]
 flavour: [Chocolate]
 free: [Alcohol, Gelatin]
+published: true
 ---

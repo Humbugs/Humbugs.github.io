@@ -1,6 +1,6 @@
 ---
 name: Watermelon Bonbons
-available: TRUE
+available: true
 image: "bonbons-watermelon.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Watermelon]
 colour: [Green]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Hydrogenated Vegetable Fat, Dextrose, Sorbitol, Citric Acid, Gelatine, Emulsifier: E473, Colours: E141"
+published: true
 ---
 Chewy watermelon flavoured bonbons.

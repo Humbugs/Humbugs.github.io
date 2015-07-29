@@ -1,6 +1,6 @@
 ---
 name: Big Twist Rainbow Lollies
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.5
 cost_price: 1
@@ -11,4 +11,5 @@ weight: 143
 type: [Lollipop, Wrapped]
 colour: [Rainbow]
 free: [Alcohol]
+published: true
 ---

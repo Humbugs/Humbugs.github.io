@@ -1,6 +1,6 @@
 ---
 name: Pontefract cakes
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.4
@@ -11,5 +11,6 @@ flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol, Lactose, Nut, Gelatin]
 ingredients: "Treacle, Glucose Syrup, Cornflour, Invert Sugar Syrup, Wheat Flour, Liquorice Extract, Modified Potato Starch, Vegetable Oil, Aniseed Oil, Glazing Agent (Carnauba Wax)"
+published: true
 ---
 Small tablets of liquorice with embossed design.

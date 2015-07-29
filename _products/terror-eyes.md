@@ -1,6 +1,6 @@
 ---
 name: Terror Eyes
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.1
 cost_price: 0.04
@@ -11,5 +11,6 @@ weight: 0
 type: [Gum]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Glazing Agents, Carnauba Wax, Shellac Antioxidant: E321. Colours: E120, E171"
+published: true
 ---
 Minty bubblegum balls that resemble eyeballs.

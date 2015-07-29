@@ -1,6 +1,6 @@
 ---
 name: Fruit Chews
-available: TRUE
+available: true
 image: "fruit-chews.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Chewy]
 flavour: [Mixed Fruit]
 colour: [Orange, Pink]
 free: [Alcohol]
+published: true
 ---
 Individually wrapped fruit flavoured chews.

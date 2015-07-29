@@ -1,6 +1,6 @@
 ---
 name: "Cola Cubes"
-available: TRUE
+available: true
 image: "cubes-cola.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Cola]
 colour: [Red]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E104, E120"
+published: true
 ---
 Cola flavoured cube shaped boiled sweets.

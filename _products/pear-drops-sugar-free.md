@@ -1,6 +1,6 @@
 ---
 name: "Pear Drops (Sugar Free)"
-available: TRUE
+available: true
 image: "drops-pear-sugar-free.jpg"
 purchase_option: "1"
 price: 1.2
@@ -12,5 +12,6 @@ flavour: [Pear]
 colour: [Pink, Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Isomalt, Citric Acid, Flavouring, Sweetener: Sucralose, Colours: E129 E102"
+published: true
 ---
 Sugar free, hard boiled sweets with pear flavouring.

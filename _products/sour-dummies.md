@@ -1,6 +1,6 @@
 ---
 name: Sour Dummies
-available: FALSE
+available: false
 image: "sour-dummies.jpg"
 purchase_option: "1"
 price: 0.95
@@ -10,4 +10,5 @@ container_sweets_weight: 0
 type: [Chewy]
 flavour: [Sour]
 free: [Alcohol]
+published: true
 ---

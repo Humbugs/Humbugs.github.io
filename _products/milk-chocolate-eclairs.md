@@ -1,6 +1,6 @@
 ---
 name: Milk Chocolate Eclairs
-available: FALSE
+available: false
 image: "eclairs-milk-chocolate.jpg"
 purchase_option: "1"
 price: 1
@@ -18,5 +18,6 @@ energy: 506
 protein: 2.9
 carbohydrates: 70.9
 fat: 23.4
+published: true
 ---
 Individually wrapped chewy caramels with a milk chocolate centre.

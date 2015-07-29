@@ -1,6 +1,6 @@
 ---
 name: Crystal Liquorice
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.6
@@ -10,4 +10,5 @@ type: [Caramel, Liquorice, Wrapped]
 flavour: [Aniseed]
 colour: [Red]
 free: [Alcohol]
+published: true
 ---

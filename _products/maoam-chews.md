@@ -1,6 +1,6 @@
 ---
 name: Maoam Chews
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.15
 cost_price: 0.06
@@ -12,5 +12,6 @@ brand: Maoam
 type: [Chewy, Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Gluten, Nut]
+published: true
 ---
 Wrapped fruit flavoured chews.

@@ -1,6 +1,6 @@
 ---
 name: Wonka Millionaires Shortbread Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.65
 cost_price: 0.26
@@ -17,5 +17,6 @@ energy: 200
 protein: 2.8
 carbohydrates: 19.5
 fat: 12.2
+published: true
 ---
 A combination of caramel and shortbread biscuit pieces, wrapped in milk chocolate.

@@ -1,6 +1,6 @@
 ---
 name: Happy Birthday Novelty Lollies
-available: FALSE
+available: false
 image: "novelty-lollies-happy-birthday.jpg"
 purchase_option: "0"
 price: 1.5
@@ -11,4 +11,5 @@ depth: 0
 weight: 0
 type: [Lollipop]
 free: [Alcohol]
+published: true
 ---

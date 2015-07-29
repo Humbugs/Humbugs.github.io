@@ -1,6 +1,6 @@
 ---
 name: "Jakeman's Throat & Chest"
-available: TRUE
+available: true
 image: "jakemans-throat-chest.jpg"
 purchase_option: "1"
 price: 1.2
@@ -13,4 +13,5 @@ flavour: [Aniseed]
 colour: [Black]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Menthol Crystals, Aniseed Oil, Eucalyptus Oil, Colour: Vegetable Carbon, Natural Flavouring"
+published: true
 ---

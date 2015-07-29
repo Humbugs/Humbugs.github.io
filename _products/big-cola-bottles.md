@@ -1,6 +1,6 @@
 ---
 name: Big Cola Bottles
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.1
 cost_price: 0.05
@@ -11,4 +11,5 @@ type: [Gummy, Jelly]
 flavour: [Cola]
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---

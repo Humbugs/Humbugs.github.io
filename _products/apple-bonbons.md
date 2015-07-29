@@ -1,6 +1,6 @@
 ---
 name: "Apple Bonbons"
-available: TRUE
+available: true
 image: "bonbons-apple.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Apple]
 colour: [Green]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Water, Hydrogenated Vegetable Fat, Dextrose, Citric Acid, Sorbitol, Gelatine, Flavouring, Emulsifier: E473, Colour: E100, E141"
+published: true
 ---
 Chewy apple flavoured bonbons.

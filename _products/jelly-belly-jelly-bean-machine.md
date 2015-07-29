@@ -1,6 +1,6 @@
 ---
 name: Jelly Belly Jelly Bean Machine
-available: FALSE
+available: false
 image: "jelly-belly-jelly-bean-machine.jpg"
 purchase_option: "0"
 price: 24.99
@@ -12,5 +12,6 @@ weight: 0
 brand: "Jelly-Belly"
 type: [Novelty, Wrapped]
 free: [Alcohol, Gelatin]
+published: true
 ---
 Jelly bean dispenser.

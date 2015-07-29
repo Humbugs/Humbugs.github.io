@@ -1,6 +1,6 @@
 ---
 name: Rose Turkish Delight
-available: FALSE
+available: false
 image: "turkish-delight-rose.jpg"
 purchase_option: "1"
 price: 3.99
@@ -11,5 +11,6 @@ weight: 0
 brand: Sebahat
 colour: [Pink]
 free: [Alcohol]
+published: true
 ---
 Cube shaped pieces of gel which are soft and chewy, with a delicate dusting of icing sugar and a delicate infusion of rosewater.

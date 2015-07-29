@@ -1,6 +1,6 @@
 ---
 name: Jelly Snakes
-available: FALSE
+available: false
 image: "jelly-snakes.jpg"
 purchase_option: "1"
 price: 0.95
@@ -10,4 +10,5 @@ container_sweets_weight: 0
 type: [Jelly]
 flavour: [Mixed Fruit]
 free: [Alcohol]
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: Orange Chewits Pack
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.4
 cost_price: 0.16
@@ -14,5 +14,6 @@ flavour: [Orange]
 colour: [Orange]
 free: [Alcohol, Nut, Gelatin]
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Orange Juice 3% (From Concentrate), Lactic Acid, Egg White, Citric Acid, Hydrolysed Rice Protein, Natural Flavouring, Colour: Paprika Extract"
+published: true
 ---
 Small wrapped orange flavoured chews.

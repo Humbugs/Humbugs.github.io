@@ -1,6 +1,6 @@
 ---
 name: Treacle Toffees
-available: FALSE
+available: false
 image: "treacle-toffees.jpg"
 purchase_option: "1"
 price: 1
@@ -18,5 +18,6 @@ energy: 466
 protein: 2
 carbohydrates: 72.3
 fat: 18.9
+published: true
 ---
 Chewy chunks of smooth, chewy toffee with the flavour of black treacle.

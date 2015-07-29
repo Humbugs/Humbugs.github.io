@@ -1,6 +1,6 @@
 ---
 name: Walkers Nougat Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.25
 cost_price: 0.38
@@ -11,4 +11,5 @@ weight: 0
 brand: "Walkers-Nonsuch"
 type: [Nougat, Wrapped]
 free: [Alcohol]
+published: true
 ---

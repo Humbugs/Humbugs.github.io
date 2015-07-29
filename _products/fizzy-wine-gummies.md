@@ -1,6 +1,6 @@
 ---
 name: Fizzy Wine Gummies
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.1
 cost_price: 0.04
@@ -12,5 +12,6 @@ type: [Fizzy, Gummy, Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Gelling Agent: Gelatine; Acidity Regulator: Citric Acid, Flavourings; Colours: Anthocyanin, Copper Chlorophyllin, Lutein, Paprika"
+published: true
 ---
 Assorted colour wine gums.

@@ -1,6 +1,6 @@
 ---
 name: Freddo Frog Caramel
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.2
 cost_price: 0.08
@@ -17,5 +17,6 @@ energy: 95
 protein: 1
 carbohydrates: 12
 fat: 5
+published: true
 ---
 Cadbury’s milk chocolate bar with a caramel centre.

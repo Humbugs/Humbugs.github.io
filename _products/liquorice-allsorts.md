@@ -1,6 +1,6 @@
 ---
 name: Liquorice Allsorts
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.4
@@ -10,5 +10,6 @@ type: [Liquorice]
 flavour: [Aniseed]
 colour: [Black, Pink, Yellow]
 free: [Alcohol]
+published: true
 ---
 A variety of liquorice treats.

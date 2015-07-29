@@ -1,6 +1,6 @@
 ---
 name: Dairy Milk Little Bars
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.25
 cost_price: 0.15
@@ -17,5 +17,6 @@ energy: 110
 protein: 1.6
 carbohydrates: 12
 fat: 6.3
+published: true
 ---
 Cadbury’s milk chocolate bar.

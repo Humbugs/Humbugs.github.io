@@ -1,6 +1,6 @@
 ---
 name: Gobstoppers
-available: TRUE
+available: true
 image: gobstoppers.jpg
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Toffee]
 colour: [Green, Orange, Pink, Rainbow, Red, Yellow]
 free: [Alcohol, Gelatin]
 ingredients: "Dextrose, Sugar, Maize Starch, Glazing Agents: Carnauba Wax, Colours: E104, E120, E122, E129, E132, E133, E153, E171"
+published: true
 ---
 Hard, round sweets.

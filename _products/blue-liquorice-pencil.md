@@ -1,6 +1,6 @@
 ---
 name: Blue Liquorice Pencil
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.1
 cost_price: 0.04
@@ -11,4 +11,5 @@ brand: "Tuck-Shop"
 type: [Liquorice]
 colour: [Blue]
 free: [Alcohol, Gelatin]
+published: true
 ---

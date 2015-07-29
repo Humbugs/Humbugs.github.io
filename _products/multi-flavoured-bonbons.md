@@ -1,6 +1,6 @@
 ---
 name: "Multi-Flavoured Bonbons"
-available: TRUE
+available: true
 image: "bonbons-multi-flavoured.jpg"
 purchase_option: "1"
 price: 1
@@ -10,5 +10,6 @@ container_sweets_weight: 673
 type: [Chewy]
 flavour: [Mixed Fruit]
 free: [Alcohol]
+published: true
 ---
 Chewy multi flavoured bonbons.

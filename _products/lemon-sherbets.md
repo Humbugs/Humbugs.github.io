@@ -1,6 +1,6 @@
 ---
 name: Lemon Sherbets
-available: TRUE
+available: true
 image: "sherbets-lemon.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Lemon]
 colour: [Yellow]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose, Dextrose, Sodium Bicarbonate, Citric Acid, Flavour, Colour: E104; Calcium Stearate"
+published: true
 ---
 Hard boiled lemon flavoured sweets with a sherbet centre.

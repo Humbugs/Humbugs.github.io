@@ -1,6 +1,6 @@
 ---
 name: Super Fruits
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.48
@@ -10,4 +10,5 @@ type: [Hard, Wrapped]
 flavour: [Mixed Fruit]
 colour: [Black, Red, White, Yellow]
 free: [Alcohol]
+published: true
 ---

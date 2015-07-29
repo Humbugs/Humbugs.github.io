@@ -1,6 +1,6 @@
 ---
 name: Wonka Nice Cream Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.65
 cost_price: 0.26
@@ -19,5 +19,6 @@ energy: 193
 protein: 2
 carbohydrates: 21.5
 fat: 10.9
+published: true
 ---
 Smooth vanilla creme topped with chocolate , wrapped in milk chocolate.

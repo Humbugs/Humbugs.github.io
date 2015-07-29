@@ -1,6 +1,6 @@
 ---
 name: Golf Balls
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.3
 cost_price: 0.12
@@ -12,5 +12,6 @@ type: [Gum, Wrapped]
 flavour: [Mint]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Flavourings, Colour E171, Glazing Agents: Carnauba Wax, Shellac, Antioxidant"
+published: true
 ---
 Minty chewing gum in the shape of a golf ball.

@@ -1,6 +1,6 @@
 ---
 name: Gumball Refills
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.5
 cost_price: 0.2
@@ -10,5 +10,6 @@ depth: 40
 weight: 0
 type: [Gum, Wrapped]
 free: [Alcohol]
+published: true
 ---
 Gumballs.

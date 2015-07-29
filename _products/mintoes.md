@@ -1,6 +1,6 @@
 ---
 name: Mintoes
-available: TRUE
+available: true
 image: mintoes.jpg
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Mint]
 colour: [White]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Treacle"
+published: true
 ---
 Boiled sweets with a buttery mint flavour.

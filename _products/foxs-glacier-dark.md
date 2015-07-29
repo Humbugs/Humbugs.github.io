@@ -1,6 +1,6 @@
 ---
 name: Foxs Glacier Dark
-available: TRUE
+available: true
 image: "foxs-glacier-dark.jpg"
 purchase_option: "1"
 price: 1.2
@@ -17,5 +17,6 @@ energy: 360
 protein: 0
 carbohydrates: 90
 fat: 0
+published: true
 ---
 Liquorice and aniseed flavoured boiled sweets

@@ -1,6 +1,6 @@
 ---
 name: Bel Canto
-available: FALSE
+available: false
 image: "bel-canto.jpg"
 purchase_option: "0"
 price: 1.2
@@ -13,5 +13,6 @@ type: [Hard, Liquorice, Wrapped]
 flavour: [Aniseed]
 free: [Alcohol, Gluten, Lactose, Nut, Sugar, Gelatin]
 ingredients: "Acacia Gum, Sugar, Plant Extracts, Black Carbo Medicinalis Vegetalis"
+published: true
 ---
 Extra strong liquorice imps in tins.

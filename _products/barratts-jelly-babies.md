@@ -1,6 +1,6 @@
 ---
 name: Barratts Jelly Babies
-available: FALSE
+available: false
 image: "barratts-jelly-babies.jpg"
 purchase_option: "1"
 price: 1
@@ -13,5 +13,6 @@ flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Gluten, Nut]
 ingredients: "Sugar, Glucose Syrup From Wheat, Gelatine, Food Acid Citric Acid, Flavourings, Natural Colours (Anthocyanin, Curcumin, Capsanthin), Vegetable Concentrate, Maize Starch"
+published: true
 ---
 Mixture of fruity soft jelly candy shaped like babies dusted with sugar.

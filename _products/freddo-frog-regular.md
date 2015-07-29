@@ -1,6 +1,6 @@
 ---
 name: Freddo Frog Regular
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.2
 cost_price: 0.08
@@ -18,5 +18,6 @@ energy: 530
 protein: 7.5
 carbohydrates: 87
 fat: 29.8
+published: true
 ---
 Cadbury’s milk chocolate bar.

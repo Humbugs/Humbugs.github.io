@@ -1,6 +1,6 @@
 ---
 name: Milk Chocolate Peanuts
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.4
@@ -10,5 +10,6 @@ type: [Chocolate, Nuts]
 flavour: [Chocolate]
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---
 Peanuts covered in milk chocolate.

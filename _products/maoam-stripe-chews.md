@@ -1,6 +1,6 @@
 ---
 name: Maoam Stripe Chews
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.05
 cost_price: 0.02
@@ -12,5 +12,6 @@ brand: Maoam
 type: [Wrapped]
 free: [Alcohol, Gluten, Nut]
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Gelatine, Citric Acid, Flavouring."
+published: true
 ---
 Wrapped fruit flavoured chews.

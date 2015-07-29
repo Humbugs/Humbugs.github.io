@@ -1,6 +1,6 @@
 ---
 name: Dutch Liquorice Cats
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.65
@@ -10,5 +10,6 @@ type: [Liquorice]
 flavour: [Aniseed, Salt]
 colour: [Black]
 free: [Alcohol]
+published: true
 ---
 Cat shaped liquorice with a violet flavour.

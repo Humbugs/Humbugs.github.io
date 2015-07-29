@@ -1,6 +1,6 @@
 ---
 name: "Eclairs (Sugar Free)"
-available: TRUE
+available: true
 image: "eclairs-sugar-free.jpg"
 purchase_option: "1"
 price: 1.3
@@ -11,5 +11,6 @@ type: [Chocolate, Toffee, Wrapped]
 flavour: [Toffee]
 colour: [Brown]
 free: [Alcohol, Sugar]
+published: true
 ---
 Individually wrapped sugar free chewy caramels with a milk chocolate centre.

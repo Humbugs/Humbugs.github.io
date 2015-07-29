@@ -1,6 +1,6 @@
 ---
 name: Dinosaur Novelty Lollies
-available: FALSE
+available: false
 image: "novelty-lollies-dinosaur.jpg"
 purchase_option: "0"
 price: 1.5
@@ -11,5 +11,6 @@ depth: 10
 weight: 0
 type: [Lollipop]
 free: [Alcohol]
+published: true
 ---
 Assorted dinosaur shape lollies - strawberry, mixed fruit, lemon and apple flavours.

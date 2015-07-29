@@ -1,6 +1,6 @@
 ---
 name: Spearmint Chunks
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.48
@@ -10,4 +10,5 @@ type: [Hard, Nuts]
 flavour: [Mint]
 colour: [Blue]
 free: [Alcohol, Sugar]
+published: true
 ---

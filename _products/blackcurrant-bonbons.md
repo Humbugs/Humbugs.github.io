@@ -1,6 +1,6 @@
 ---
 name: "Blackcurrant Bonbons"
-available: TRUE
+available: true
 image: "bonbons-blackcurrant.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Blackcurrant]
 colour: [Purple]
 free: [Alcohol]
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant, Sorbitol, Citric Acid, Pork Gelatine, Dextrose, Flavourings, Colours: E163, E153; Emulsifier: Soya Lecithin"
+published: true
 ---
 Chewy blackcurrant flavoured bonbons.

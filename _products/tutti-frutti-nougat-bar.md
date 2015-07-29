@@ -1,6 +1,6 @@
 ---
 name: Tutti Frutti Nougat Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.25
 cost_price: 0.5
@@ -11,5 +11,6 @@ weight: 110
 type: [Nougat, Wrapped]
 flavour: [Mixed Fruit]
 free: [Alcohol]
+published: true
 ---
 Tutti frutti flavoured nougat bar.

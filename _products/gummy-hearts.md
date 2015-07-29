@@ -1,6 +1,6 @@
 ---
 name: Gummy Hearts
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.02
 cost_price: 0.008
@@ -11,4 +11,5 @@ type: [Gummy]
 flavour: [Mixed Fruit]
 colour: [Red]
 free: [Alcohol]
+published: true
 ---

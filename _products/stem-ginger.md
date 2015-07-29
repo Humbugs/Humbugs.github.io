@@ -1,6 +1,6 @@
 ---
 name: Stem Ginger
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.5
 cost_price: 0.6
@@ -11,5 +11,6 @@ flavour: [Ginger]
 colour: [Brown]
 free: [Alcohol, Sugar]
 ingredients: "Stem Ginger, Sugar "
+published: true
 ---
 Pieces of crystallised stem ginger.

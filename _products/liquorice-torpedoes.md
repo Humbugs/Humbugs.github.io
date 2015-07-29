@@ -1,6 +1,6 @@
 ---
 name: Liquorice Torpedoes
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.4
@@ -16,5 +16,6 @@ energy: 448
 protein: 2.1
 carbohydrates: 74.5
 fat: 15.8
+published: true
 ---
 Hard candy shell with a chewy liquorice centre.

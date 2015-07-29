@@ -1,6 +1,6 @@
 ---
 name: Sour Apple Cubes
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.6
@@ -11,5 +11,6 @@ flavour: [Apple]
 colour: [Green]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E102, E104, E142"
+published: true
 ---
 Crunchy sour apple flavoured cubes which are succulent and will have you sucking your cheeks in!

@@ -1,6 +1,6 @@
 ---
 name: Cream rock
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.55
@@ -11,5 +11,6 @@ flavour: [Aniseed, Cream]
 colour: [Black, White, Yellow]
 free: [Alcohol]
 ingredients: "Sugar, Molasses, Wheat Flour, Wheat Starch, Glucose Syrup, Vegetable Fat, Gelatine, Dextrose, Liquorice Extract, Citric Acid, Lactic Acid, Glazing Agents: Vegetable Oil, Colours: E150C, E160A, E120"
+published: true
 ---
 A soft centre wrapped in liquorice.

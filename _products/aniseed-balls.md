@@ -1,6 +1,6 @@
 ---
 name: Aniseed Balls
-available: TRUE
+available: true
 image: "aniseed-balls.jpg"
 purchase_option: "1"
 price: 1
@@ -17,5 +17,6 @@ energy: 401
 protein: 0.1
 carbohydrates: 98.48
 fat: 0.02
+published: true
 ---
 Boiled aniseed flavoured candy balls with a pip in the middle.

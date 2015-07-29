@@ -1,6 +1,6 @@
 ---
 name: Bus Lollies
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.3
 cost_price: 0.8
@@ -10,4 +10,5 @@ depth: 0
 weight: 0
 type: [Lollipop, Wrapped]
 free: [Alcohol]
+published: true
 ---

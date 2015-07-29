@@ -1,6 +1,6 @@
 ---
 name: Black Liquorice Pencil
-available: FALSE
+available: false
 purchase_option: "2"
 price: 0.1
 cost_price: 0.04
@@ -12,4 +12,5 @@ type: [Liquorice]
 colour: [Black]
 free: [Alcohol]
 ingredients: "Wheat Flour, Glucose Syrup, Molasses, Vegetable Fat, Invert Sugar Syrup, Stabiliser (Glycerol), Potato Starch, Liquorice, Gelling Agent (Gelatine), Emulsifier (Mono and Di-Glycerides of Fatty Acids), Lactic Acid, Flavourings, Glazing Agents (Vegetable Oil, Mono and Di-Glycerides of Fatty Acids, Vegetable Fat), Salt, Colour (Vegetable Carbon)"
+published: true
 ---

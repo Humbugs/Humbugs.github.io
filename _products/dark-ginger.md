@@ -1,6 +1,6 @@
 ---
 name: Dark Ginger
-available: FALSE
+available: false
 image: "dark-ginger.jpg"
 purchase_option: "3"
 price: 120
@@ -10,5 +10,6 @@ type: [Chocolate]
 flavour: [Ginger]
 colour: [Brown]
 free: [Alcohol, Gluten, Nut]
+published: true
 ---
 Ginger flavoured ganache with a crystallised ginger decoration.

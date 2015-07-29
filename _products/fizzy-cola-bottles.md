@@ -1,6 +1,6 @@
 ---
 name: Fizzy Cola Bottles
-available: TRUE
+available: true
 image: "cola-bottles-fizzy-cola-bottles.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Fizzy, Jelly]
 flavour: [Cola]
 colour: [Brown]
 free: [Alcohol]
+published: true
 ---
 Fizzy cola flavoured bottle gums.

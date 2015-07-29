@@ -1,6 +1,6 @@
 ---
 name: Boiled Assortment
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.65
@@ -12,4 +12,5 @@ flavour: [Custard]
 free: [Alcohol, Sugar]
 serving_size: 28
 energy: 92
+published: true
 ---

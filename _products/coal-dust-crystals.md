@@ -1,6 +1,6 @@
 ---
 name: Coal Dust Crystals
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.5
@@ -9,5 +9,6 @@ container_sweets_weight: 845
 type: [Sherbet]
 colour: [Black]
 free: [Alcohol, Sugar]
+published: true
 ---
 Black crystal sherbet.

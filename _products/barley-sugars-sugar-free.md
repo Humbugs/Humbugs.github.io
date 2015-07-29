@@ -1,6 +1,6 @@
 ---
 name: "Barley Sugars (Sugar Free)"
-available: FALSE
+available: false
 image: "barley-sugars-sugar-free.jpg"
 purchase_option: "1"
 price: 1.2
@@ -11,5 +11,6 @@ type: [Hard, Traditional, Wrapped]
 colour: [Orange]
 free: [Alcohol, Lactose, Sugar, Gelatin]
 ingredients: "Isomalt, Colours: E160"
+published: true
 ---
 Traditional hard boiled sweets with an extract of barley. Sugar free.

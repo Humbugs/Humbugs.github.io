@@ -1,6 +1,6 @@
 ---
 name: Wham Cola Bar
-available: FALSE
+available: false
 purchase_option: "0"
 price: 0.2
 cost_price: 0.08
@@ -13,5 +13,6 @@ type: [Wrapped]
 flavour: [Cola]
 free: [Alcohol, Nut, Gelatin]
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322. Colours: Beetroot, Caramel"
+published: true
 ---
 Cola flavoured chew bar.

@@ -1,6 +1,6 @@
 ---
 name: Pez Dispensers
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.5
 cost_price: 0.6
@@ -11,4 +11,5 @@ weight: 0
 brand: Maoam
 type: [Wrapped]
 free: [Alcohol]
+published: true
 ---

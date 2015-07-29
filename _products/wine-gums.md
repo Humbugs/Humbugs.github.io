@@ -1,6 +1,6 @@
 ---
 name: Wine Gums
-available: FALSE
+available: false
 image: "wine-gums.jpg"
 purchase_option: "1"
 price: 1
@@ -11,5 +11,6 @@ type: [Gummy]
 flavour: [Mixed Fruit]
 colour: [Black, Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Lactose, Nut]
+published: true
 ---
 Sugar free fruit flavoured gums.

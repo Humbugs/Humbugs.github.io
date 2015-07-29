@@ -1,6 +1,6 @@
 ---
 name: "Black & White Mint Squares"
-available: TRUE
+available: true
 image: "black-white-mint-squares.jpg"
 purchase_option: "1"
 price: 1
@@ -16,5 +16,6 @@ ingredients: "Sugar, Glucose Syrup, Treacle, Wheat Flour, Desiccated Coconut, Ve
 protein: 1
 carbohydrates: 83.7
 fat: 6.4
+published: true
 ---
  Mint flavour sweets using peppermint oil with a delicious toffee centre.

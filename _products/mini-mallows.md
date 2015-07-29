@@ -1,6 +1,6 @@
 ---
 name: Mini Mallows
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.4
@@ -9,5 +9,6 @@ container_sweets_weight: 0
 type: [Chewy, Nuts]
 colour: [Pink, White, Yellow]
 free: [Alcohol]
+published: true
 ---
 Miniature marshmallows.

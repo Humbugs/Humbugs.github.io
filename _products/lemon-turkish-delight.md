@@ -1,6 +1,6 @@
 ---
 name: Lemon Turkish Delight
-available: FALSE
+available: false
 image: "turkish-delight-lemon.jpg"
 purchase_option: "1"
 price: 3.99
@@ -12,5 +12,6 @@ brand: Sebahat
 flavour: [Lemon]
 colour: [Yellow]
 free: [Alcohol]
+published: true
 ---
 Lemon Turkish Delight.

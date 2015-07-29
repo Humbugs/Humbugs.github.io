@@ -1,6 +1,6 @@
 ---
 name: Mint Dragees
-available: TRUE
+available: true
 image: "mint-dragees.jpg"
 purchase_option: "1"
 price: 1
@@ -12,5 +12,6 @@ flavour: [Mint]
 colour: [White]
 free: [Alcohol, Sugar]
 ingredients: "Sugar, Glucose Syrup, Hydrogenated Coconut Oil, Rice Starch, Flavour, Gum Arabic, Stabiliser: E473 E148. Beeswax Carnauba Wax"
+published: true
 ---
 Soft chewy mints in a hard shell.

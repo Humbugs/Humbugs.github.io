@@ -1,6 +1,6 @@
 ---
 name: Ginger Creams
-available: FALSE
+available: false
 image: "ginger-creams.jpg"
 purchase_option: "1"
 price: 1.45
@@ -12,5 +12,6 @@ flavour: [Cream, Ginger]
 colour: [White]
 free: [Alcohol, Lactose]
 ingredients: "Sugar, Cream of Tarter, Butter, Ground Ginger"
+published: true
 ---
 A soft sweet with the flavour of ginger. Soft on the outside and with a dry cream centre.

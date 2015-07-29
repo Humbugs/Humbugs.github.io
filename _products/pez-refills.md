@@ -1,6 +1,6 @@
 ---
 name: Pez Refills
-available: FALSE
+available: false
 purchase_option: "0"
 price: 1.3
 cost_price: 0.52
@@ -13,4 +13,5 @@ type: [Wrapped]
 flavour: [Mixed Fruit, Ginger]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Acid Regulator, Hydrogenated Vegetable Fat, Emulsifier, Flavourings"
+published: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: Finitennis
-available: FALSE
+available: false
 image: finitennis.jpg
 purchase_option: "0"
 price: 1.2
@@ -10,4 +10,5 @@ height: 0
 depth: 0
 weight: 0
 free: [Alcohol]
+published: true
 ---

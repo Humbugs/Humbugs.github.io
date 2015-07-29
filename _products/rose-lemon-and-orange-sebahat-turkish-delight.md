@@ -1,6 +1,6 @@
 ---
 name: "Rose, Lemon & Orange Turkish Delight"
-available: FALSE
+available: false
 image: "sebahat-turkish-delight-rose-lemon-orange.jpg"
 purchase_option: "0"
 price: 6.99
@@ -12,5 +12,6 @@ weight: 500
 brand: Sebahat
 flavour: [Lemon, Orange]
 free: [Alcohol]
+published: true
 ---
 Rose, lemon and orange Turkish Delight in deluxe wooden box.

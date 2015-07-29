@@ -1,6 +1,6 @@
 ---
 name: Fruit Pips
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1.2
 cost_price: 0.48
@@ -11,5 +11,6 @@ flavour: [Mixed Fruit]
 colour: [Green, Orange, Rainbow, Red, Yellow]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose,  Citric Acid, Sodium Bicarbonate, Dextrose, Maize Starch, Flavouring, Colours: E104, E122, E129, E133; Anit-Caking Agent: Tri-Calcium Phosate"
+published: true
 ---
 Traditional fruit flavoured hard boiled pips.

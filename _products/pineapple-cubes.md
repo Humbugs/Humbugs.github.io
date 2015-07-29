@@ -1,6 +1,6 @@
 ---
 name: Pineapple Cubes
-available: FALSE
+available: false
 purchase_option: "1"
 price: 1
 cost_price: 0.6
@@ -10,5 +10,6 @@ type: [Hard]
 colour: [Yellow]
 free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colour: E104"
+published: true
 ---
 Pineapple flavoured cube shaped boiled sweets.

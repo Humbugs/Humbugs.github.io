@@ -1,6 +1,6 @@
 ---
 name: "Duncan's Chocolate Stacks"
-available: FALSE
+available: false
 image: "duncans-chocolate-stacks.jpg"
 purchase_option: "0"
 price: 5.99
@@ -11,5 +11,6 @@ depth: 0
 weight: 0
 type: [Chocolate, Novelty, Wrapped]
 free: [Alcohol]
+published: true
 ---
 Assorted chocolate stacks game in gift box.

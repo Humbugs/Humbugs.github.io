@@ -2,7 +2,7 @@
 name: Boynes Sugar Mice
 available: TRUE
 image: "boynes-sugar-mice.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 0.75
 cost_price: 0.5
 width: 65

@@ -2,7 +2,7 @@
 name: Uncle Joes Mint Balls
 available: TRUE
 image: "uncle-joes-mint-balls.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.3
 cost_price: 0.52
 container_water_weight: 919

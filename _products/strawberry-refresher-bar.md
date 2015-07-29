@@ -1,7 +1,7 @@
 ---
 name: Strawberry Refresher Bar
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.2
 cost_price: 0.08
 width: 175

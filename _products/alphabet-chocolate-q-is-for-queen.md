@@ -2,7 +2,7 @@
 name: "Alphabet Chocolate (Q is for Queen)"
 available: FALSE
 image: "alphabet-chocolate-q-is-for-queen.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 2.89
 cost_price: 1.8
 width: 165

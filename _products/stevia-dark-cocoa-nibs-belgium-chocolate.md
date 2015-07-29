@@ -2,7 +2,7 @@
 name: "Stevia Dark Cocoa-Nibs Belgium Chocolate"
 available: FALSE
 image: "belgian-stevia-cocoa-dark-nibs.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 1.39
 cost_price: 0.556
 width: 0

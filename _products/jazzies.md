@@ -2,7 +2,7 @@
 name: Jazzies
 available: FALSE
 image: jazzies.jpg
-purchase_option: 2
+purchase_option: "2"
 price: 0.0095
 cost_price: 0.0038
 container_water_weight: 919

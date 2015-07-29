@@ -1,7 +1,7 @@
 ---
 name: Walnut Whip
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.8
 cost_price: 0.32
 width: 70

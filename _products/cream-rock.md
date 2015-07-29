@@ -1,7 +1,7 @@
 ---
 name: Cream rock
 available: FALSE
-purchase_option: 1
+purchase_option: "1"
 price: 1.2
 cost_price: 0.55
 container_water_weight: 919

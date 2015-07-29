@@ -1,7 +1,7 @@
 ---
 name: Lovehearts Whistles
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.15
 cost_price: 0.06
 width: 80

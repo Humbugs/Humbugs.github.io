@@ -2,7 +2,7 @@
 name: Jelly Babies
 available: FALSE
 image: "jelly-babies.jpg"
-purchase_option: 2
+purchase_option: "2"
 price: 0.0095
 cost_price: 0.0038
 container_water_weight: 919

@@ -2,7 +2,7 @@
 name: Luxury Belgian Chocolate Football Set
 available: FALSE
 image: "luxury-belgian-chocolate-set-football.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 5.99
 cost_price: 2.396
 width: 220

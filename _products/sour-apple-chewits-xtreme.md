@@ -1,7 +1,7 @@
 ---
 name: Sour Apple Chewits Xtreme
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.4
 cost_price: 0.16
 width: 180

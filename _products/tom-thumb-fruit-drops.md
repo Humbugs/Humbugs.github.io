@@ -2,7 +2,7 @@
 name: Tom Thumb Fruit Drops
 available: TRUE
 image: "drops-tom-thumb-fruit.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.2
 cost_price: 0.6
 container_water_weight: 919

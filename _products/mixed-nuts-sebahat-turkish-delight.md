@@ -2,7 +2,7 @@
 name: Mixed Nuts Turkish Delight
 available: FALSE
 image: "sebahat-turkish-delight-mixed-nuts.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 7.99
 cost_price: 3.196
 width: 0

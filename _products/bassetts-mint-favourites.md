@@ -2,7 +2,7 @@
 name: Bassetts Mint Favourites
 available: TRUE
 image: "bassetts-mint-favourites.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.3
 cost_price: 1
 container_water_weight: 919

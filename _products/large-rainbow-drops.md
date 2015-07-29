@@ -1,7 +1,7 @@
 ---
 name: Large Rainbow Drops
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.38
 cost_price: 0.152
 width: 190

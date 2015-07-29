@@ -2,7 +2,7 @@
 name: Nutty Brazil Toffees
 available: FALSE
 image: "nutty-brazil-toffees.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1
 cost_price: 0.4
 container_water_weight: 919

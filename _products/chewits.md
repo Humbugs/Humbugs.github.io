@@ -1,7 +1,7 @@
 ---
 name: Chewits
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.35
 cost_price: 0.25
 width: 0

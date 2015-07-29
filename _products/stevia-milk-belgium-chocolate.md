@@ -1,7 +1,7 @@
 ---
 name: Stevia Milk Belgium Chocolate
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.39
 cost_price: 0.556
 width: 0

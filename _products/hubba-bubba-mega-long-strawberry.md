@@ -1,7 +1,7 @@
 ---
 name: Hubba Bubba Mega Long Strawberry
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1
 cost_price: 0.4
 width: 80

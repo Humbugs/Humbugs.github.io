@@ -2,7 +2,7 @@
 name: Wrapped Winter Mix
 available: TRUE
 image: "winter-mix-wrapped.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.2
 cost_price: 0.4
 container_water_weight: 919

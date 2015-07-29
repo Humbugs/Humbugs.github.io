@@ -2,7 +2,7 @@
 name: "Rose, Lemon & Orange Turkish Delight"
 available: FALSE
 image: "sebahat-turkish-delight-rose-lemon-orange.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 6.99
 cost_price: 2.796
 width: 0

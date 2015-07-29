@@ -1,7 +1,7 @@
 ---
 name: "Raspberry & Pineapple Barratts Fruit Salad Chews"
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.4
 cost_price: 0.25
 width: 110

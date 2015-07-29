@@ -2,7 +2,7 @@
 name: Guacimo
 available: FALSE
 image: guacimo.jpg
-purchase_option: 0
+purchase_option: "0"
 price: 2.8
 cost_price: 1.12
 width: 190

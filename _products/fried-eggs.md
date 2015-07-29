@@ -2,7 +2,7 @@
 name: Fried Eggs
 available: FALSE
 image: "fried-eggs.jpg"
-purchase_option: 2
+purchase_option: "2"
 price: 0.01
 cost_price: 0.004
 container_water_weight: 919

@@ -1,7 +1,7 @@
 ---
 name: Jelly Belly Mini Bean Bin
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 8.99
 cost_price: 3.596
 width: 145

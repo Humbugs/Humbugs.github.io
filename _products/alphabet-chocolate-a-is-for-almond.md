@@ -2,7 +2,7 @@
 name: "Alphabet Chocolate (A is For Almond)"
 available: FALSE
 image: "alphabet-chocolate-a-is-for-almond.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 2.89
 cost_price: 1.8
 width: 165

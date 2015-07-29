@@ -2,7 +2,7 @@
 name: Toffee Crumble
 available: TRUE
 image: "toffee-crumble.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1
 cost_price: 0.4
 container_water_weight: 919

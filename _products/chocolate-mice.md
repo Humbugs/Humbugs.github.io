@@ -1,7 +1,7 @@
 ---
 name: Chocolate Mice
 available: FALSE
-purchase_option: 2
+purchase_option: "2"
 price: 0.05
 cost_price: 0.03
 container_water_weight: 919

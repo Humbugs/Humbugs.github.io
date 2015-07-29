@@ -1,7 +1,7 @@
 ---
 name: Caramac
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.6
 cost_price: 0.4
 width: 160

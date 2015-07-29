@@ -2,7 +2,7 @@
 name: Buttered Brazils
 available: FALSE
 image: "brazils-buttered.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.7
 cost_price: 0.85
 container_water_weight: 919

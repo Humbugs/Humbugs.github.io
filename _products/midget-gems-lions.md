@@ -2,7 +2,7 @@
 name: "Lion's Midget Gems"
 available: TRUE
 image: "midget-gems-lions.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.35
 cost_price: 0.54
 container_water_weight: 919

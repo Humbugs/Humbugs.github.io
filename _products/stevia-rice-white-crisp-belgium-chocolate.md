@@ -1,7 +1,7 @@
 ---
 name: Stevia Rice White Crisp Belgium Chocolate
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.39
 cost_price: 0.556
 width: 0

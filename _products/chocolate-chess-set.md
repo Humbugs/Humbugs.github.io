@@ -2,7 +2,7 @@
 name: Chocolate Chess Set
 available: TRUE
 image: "chocolate-chess-set.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 5.99
 cost_price: 3.75
 width: 290

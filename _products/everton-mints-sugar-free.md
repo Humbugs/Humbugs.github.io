@@ -2,7 +2,7 @@
 name: "Everton Mints (Sugar Free)"
 available: TRUE
 image: "everton-mints-sugar-free.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1
 cost_price: 0.8
 container_water_weight: 919

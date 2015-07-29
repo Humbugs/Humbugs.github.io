@@ -2,7 +2,7 @@
 name: Candy Sticks
 available: FALSE
 image: "candy-sticks.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 0.4
 cost_price: 0.2
 container_water_weight: 919

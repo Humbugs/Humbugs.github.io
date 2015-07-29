@@ -1,7 +1,7 @@
 ---
 name: White Chocolate Discs
 available: FALSE
-purchase_option: 2
+purchase_option: "2"
 price: 0.1
 cost_price: 0.5
 container_water_weight: 919

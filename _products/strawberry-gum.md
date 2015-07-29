@@ -1,7 +1,7 @@
 ---
 name: Strawberry Gum
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.05
 cost_price: 0.02
 width: 95

@@ -2,7 +2,7 @@
 name: Choc Pad 2.0
 available: FALSE
 image: "choc-pad-20.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 13.99
 cost_price: 9.99
 width: 0

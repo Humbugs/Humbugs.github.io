@@ -2,7 +2,7 @@
 name: Milk Chocolate Eclairs
 available: FALSE
 image: "eclairs-milk-chocolate.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1
 cost_price: 0.6
 container_water_weight: 919

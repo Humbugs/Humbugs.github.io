@@ -2,7 +2,7 @@
 name: New Berry Fruits With A Liquid Centre
 available: FALSE
 image: "new-berry-fruits-with-a-liquid-centre.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 4.29
 cost_price: 1.716
 width: 0

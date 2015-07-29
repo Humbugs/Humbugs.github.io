@@ -1,7 +1,7 @@
 ---
 name: Mini Gumball Machine
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.1
 cost_price: 0.44
 width: 100

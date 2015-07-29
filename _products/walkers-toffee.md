@@ -1,7 +1,7 @@
 ---
 name: Walkers Toffee
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.95
 cost_price: 0.38
 width: 110

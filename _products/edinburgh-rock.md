@@ -1,7 +1,7 @@
 ---
 name: Edinburgh Rock
 available: FALSE
-purchase_option: 1
+purchase_option: "1"
 price: 1.4
 cost_price: 0.8
 container_water_weight: 919

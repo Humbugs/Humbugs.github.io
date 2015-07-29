@@ -1,7 +1,7 @@
 ---
 name: Animal Bar
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1
 cost_price: 0.1
 width: 85

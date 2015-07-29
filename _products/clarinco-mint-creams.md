@@ -2,7 +2,7 @@
 name: Clarinco Mint Creams
 available: TRUE
 image: "clarinco-mint-creams.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.5
 cost_price: 0.9
 container_water_weight: 919

@@ -2,7 +2,7 @@
 name: "Lemon, Strawberry & Orange Turkish Delight"
 available: FALSE
 image: "sebahat-turkish-delight-lemon-strawberry-orange.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 4.49
 cost_price: 1.796
 width: 0

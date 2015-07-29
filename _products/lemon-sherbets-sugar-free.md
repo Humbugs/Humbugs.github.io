@@ -2,7 +2,7 @@
 name: "Lemon Sherbets (Sugar Free)"
 available: TRUE
 image: "sherbets-lemon-sugar-free.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.2
 cost_price: 0.48
 container_water_weight: 919

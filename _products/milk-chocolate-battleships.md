@@ -2,7 +2,7 @@
 name: Milk Chocolate Battleships
 available: TRUE
 image: "milk-chocolate-battleships.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 5.99
 cost_price: 2.396
 width: 290

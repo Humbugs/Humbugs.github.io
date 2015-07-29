@@ -2,7 +2,7 @@
 name: Ginger Creams
 available: FALSE
 image: "ginger-creams.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.45
 cost_price: 0.58
 container_water_weight: 919

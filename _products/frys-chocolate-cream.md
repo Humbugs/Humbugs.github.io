@@ -1,7 +1,7 @@
 ---
 name: Frys Chocolate Cream
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.7
 cost_price: 0.28
 width: 160

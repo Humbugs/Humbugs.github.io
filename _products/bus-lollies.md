@@ -1,7 +1,7 @@
 ---
 name: Bus Lollies
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.3
 cost_price: 0.8
 width: 0

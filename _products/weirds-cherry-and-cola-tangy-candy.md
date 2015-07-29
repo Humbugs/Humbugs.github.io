@@ -1,7 +1,7 @@
 ---
 name: Weirds Cherry & Cola Tangy Candy
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.35
 cost_price: 0.14
 width: 80

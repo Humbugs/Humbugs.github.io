@@ -1,7 +1,7 @@
 ---
 name: Clicker Pop
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.4
 cost_price: 0.22
 width: 115

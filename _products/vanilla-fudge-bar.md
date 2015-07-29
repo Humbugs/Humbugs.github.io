@@ -1,7 +1,7 @@
 ---
 name: Vanilla Fudge Bar
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.25
 cost_price: 0.5
 width: 200

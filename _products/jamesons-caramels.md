@@ -2,7 +2,7 @@
 name: "Jameson's Caramels"
 available: TRUE
 image: "jamesons-caramels.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.45
 cost_price: 0.58
 container_water_weight: 919

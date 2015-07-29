@@ -1,7 +1,7 @@
 ---
 name: Stem Ginger
 available: FALSE
-purchase_option: 1
+purchase_option: "1"
 price: 1.5
 cost_price: 0.6
 container_water_weight: 919

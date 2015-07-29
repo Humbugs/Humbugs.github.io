@@ -1,7 +1,7 @@
 ---
 name: Big Twist Rainbow Lollies
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.5
 cost_price: 1
 width: 396

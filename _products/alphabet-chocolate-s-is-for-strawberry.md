@@ -2,7 +2,7 @@
 name: "Alphabet Chocolate (S is for Strawberry)"
 available: FALSE
 image: "alphabet-chocolate-s-is-for-strawberry.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 2.89
 cost_price: 1.8
 width: 165

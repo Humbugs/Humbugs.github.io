@@ -2,7 +2,7 @@
 name: "Dutch Liquorice School Chalks"
 available: TRUE
 image: "dutch-liquorice-school-chalks.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.6
 cost_price: 0.75
 container_water_weight: 919

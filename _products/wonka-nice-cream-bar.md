@@ -1,7 +1,7 @@
 ---
 name: Wonka Nice Cream Bar
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.65
 cost_price: 0.26
 width: 135

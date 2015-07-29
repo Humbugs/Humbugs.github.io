@@ -2,7 +2,7 @@
 name: Tropical Fruit Mega Lollies
 available: FALSE
 image: "joseph-dobson-sons-ltd-mega-lollies-tropical-fruit.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 0.2
 cost_price: 0.08
 width: 110

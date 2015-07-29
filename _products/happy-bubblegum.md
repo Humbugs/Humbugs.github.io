@@ -1,7 +1,7 @@
 ---
 name: Happy Bubblegum
 available: FALSE
-purchase_option: 2
+purchase_option: "2"
 price: 0.05
 cost_price: 0.02
 container_water_weight: 919

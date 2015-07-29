@@ -2,7 +2,7 @@
 name: Fizzy Cola Bottles
 available: TRUE
 image: "cola-bottles-fizzy-cola-bottles.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1
 cost_price: 0.5
 container_water_weight: 919

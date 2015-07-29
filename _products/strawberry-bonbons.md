@@ -2,7 +2,7 @@
 name: Strawberry Bonbons
 available: TRUE
 image: "bonbons-strawberry.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1
 cost_price: 0.65
 container_water_weight: 919

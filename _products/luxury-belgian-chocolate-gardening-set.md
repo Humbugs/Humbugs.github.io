@@ -2,7 +2,7 @@
 name: Luxury Belgian Chocolate Gardening Set
 available: FALSE
 image: "luxury-belgian-chocolate-set-gardening.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 5.99
 cost_price: 2.396
 width: 220

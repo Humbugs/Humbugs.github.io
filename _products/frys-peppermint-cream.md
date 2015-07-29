@@ -1,7 +1,7 @@
 ---
 name: Frys Peppermint Cream
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.75
 cost_price: 0.3
 width: 160

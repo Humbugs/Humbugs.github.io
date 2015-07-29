@@ -1,7 +1,7 @@
 ---
 name: Walkers Nougat Bar
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.25
 cost_price: 0.38
 width: 0

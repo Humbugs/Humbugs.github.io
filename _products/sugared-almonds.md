@@ -2,7 +2,7 @@
 name: Sugared Almonds
 available: TRUE
 image: "sugared-almonds.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.4
 cost_price: 0.56
 container_water_weight: 919

@@ -2,7 +2,7 @@
 name: Chocolate Stem Ginger
 available: TRUE
 image: "chocolate-stem-ginger.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 1.7
 cost_price: 1
 container_water_weight: 919

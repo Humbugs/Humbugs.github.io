@@ -1,7 +1,7 @@
 ---
 name: Sour Sherbet Gummy Face Plastic Fruits
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.2
 cost_price: 0.08
 width: 0

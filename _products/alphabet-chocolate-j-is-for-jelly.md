@@ -2,7 +2,7 @@
 name: "Alphabet Chocolate (J is for Jelly)"
 available: FALSE
 image: "alphabet-chocolate-j-is-for-jelly.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 2.89
 cost_price: 1.8
 width: 165

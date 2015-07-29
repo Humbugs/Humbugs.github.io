@@ -2,7 +2,7 @@
 name: Jelly Belly Assorted Flavours Pocket Pack
 available: TRUE
 image: "jelly-belly-assorted-flavours-pocket-pack.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 1.1
 cost_price: 0.44
 width: 80

@@ -1,7 +1,7 @@
 ---
 name: Large Kiddysway Lollies
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 1.5
 cost_price: 0.6
 width: 0

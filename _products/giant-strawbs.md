@@ -2,7 +2,7 @@
 name: Giant Strawbs
 available: FALSE
 image: "giant-strawbs.jpg"
-purchase_option: 1
+purchase_option: "1"
 price: 0.95
 cost_price: 0.38
 container_water_weight: 919

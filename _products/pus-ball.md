@@ -1,7 +1,7 @@
 ---
 name: Pus Ball
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.1
 cost_price: 0.04
 width: 60

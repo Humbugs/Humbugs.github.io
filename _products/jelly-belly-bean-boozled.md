@@ -2,7 +2,7 @@
 name: Jelly Belly Bean Boozled
 available: TRUE
 image: "jelly-belly-bean-boozled.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 2.5
 cost_price: 1
 width: 80

@@ -1,7 +1,7 @@
 ---
 name: Refresher Sweets
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.45
 cost_price: 0.18
 width: 112

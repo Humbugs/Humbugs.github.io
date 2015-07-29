@@ -2,7 +2,7 @@
 name: Milk Chocolate Tool Set
 available: FALSE
 image: "milk-chocolate-tool-set.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 5.99
 cost_price: 2.396
 width: 200

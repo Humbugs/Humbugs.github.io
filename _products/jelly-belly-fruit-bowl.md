@@ -2,7 +2,7 @@
 name: Jelly Belly Fruit Bowl
 available: TRUE
 image: "jelly-belly-fruit-bowl.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 3.3
 cost_price: 1.32
 width: 145

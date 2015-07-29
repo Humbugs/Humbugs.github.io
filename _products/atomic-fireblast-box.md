@@ -1,7 +1,7 @@
 ---
 name: "Atomic Fireblast (Box)"
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.4
 cost_price: 0.25
 width: 85

@@ -2,7 +2,7 @@
 name: Bel Canto
 available: FALSE
 image: "bel-canto.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 1.2
 cost_price: 0.8
 width: 50

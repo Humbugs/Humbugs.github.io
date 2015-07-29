@@ -1,7 +1,7 @@
 ---
 name: Haribo Happy Cola
 available: FALSE
-purchase_option: 0
+purchase_option: "0"
 price: 0.25
 cost_price: 0.1
 width: 0

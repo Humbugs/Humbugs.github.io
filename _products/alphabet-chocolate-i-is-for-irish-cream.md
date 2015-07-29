@@ -2,7 +2,7 @@
 name: "Alphabet Chocolate (I is for Irish Cream)"
 available: FALSE
 image: "alphabet-chocolate-i-is-for-irish-cream.jpg"
-purchase_option: 0
+purchase_option: "0"
 price: 2.89
 cost_price: 1.85
 width: 165

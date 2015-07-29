@@ -9,9 +9,15 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Chocolate, Novelty, Wrapped]
-colour: [Brown]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+  - Wrapped
+colour: 
+  - Brown
+free: 
+  - Alcohol
 published: true
 ---
+
 An affordable and edible milk chocolate computer tablet! Whilst it may not have the technological features or specifications, it certainly does satisfy chocolate cravings. For technology fans and most importantly, chocolate lovers.

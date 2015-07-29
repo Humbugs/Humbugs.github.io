@@ -8,9 +8,14 @@ width: 60
 height: 45
 depth: 20
 weight: 0
-type: [Gum, Wrapped]
-flavour: [Bubblegum]
-free: [Alcohol, Gelatin]
+type: 
+  - Gum
+  - Wrapped
+flavour: 
+  - Bubblegum
+free: 
+  - Alcohol
+  - Gelatin
 ingredients: "Sucrose, Dextrose, Glucose Syrup, Gum Base, Glycerin, Malic Acid, Flavourings, Modified Starch, Colours: E100, E120, E171. Glazing Agents: Carnauba Wax, Shellac, Antioxidant E321"
 published: true
 ---

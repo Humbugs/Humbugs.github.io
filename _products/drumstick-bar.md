@@ -8,9 +8,16 @@ width: 180
 height: 30
 depth: 3
 weight: 0
-type: [Chewy, Wrapped]
-flavour: [Raspberry]
-free: [Alcohol, Gluten, Lactose, Nut]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Raspberry
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator (Citric Acid), Gelatine, Emulsifier (Glycerol Mono Stearate), Flavouring, Natural Colours"
 published: true
 ---

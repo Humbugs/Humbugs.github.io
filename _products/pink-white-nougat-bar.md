@@ -8,8 +8,13 @@ width: 235
 height: 64
 depth: 11
 weight: 147
-type: [Nougat, Wrapped]
-colour: [Pink, White]
-free: [Alcohol]
+type: 
+  - Nougat
+  - Wrapped
+colour: 
+  - Pink
+  - White
+free: 
+  - Alcohol
 published: true
 ---

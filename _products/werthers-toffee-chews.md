@@ -9,9 +9,16 @@ height: 30
 depth: 15
 weight: 0
 brand: Werthers
-type: [Toffee, Wrapped]
-flavour: [Cream]
-free: [Alcohol, Gluten, Nut, Gelatin]
+type: 
+  - Toffee
+  - Wrapped
+flavour: 
+  - Cream
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Sweetened, Condensed Skimmed Milk (21.6%), Sugar, Vegetable Fat, Humectant: Sorbitol Syrup, Whey Powder, Cream (3.9%), Condensed Whey, Butter (2.5%), Salt, Cane Sugar Syrup. Emulsifier: Soya Lecithin, Flavouring"
 published: true
 ---

@@ -8,8 +8,10 @@ width: 100
 height: 60
 depth: 60
 weight: 0
-type: [Wrapped]
-free: [Alcohol]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 Gumball dispensing machine.

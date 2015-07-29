@@ -9,8 +9,12 @@ height: 50
 depth: 7
 weight: 20
 brand: Nestle
-type: [Chocolate, Wrapped]
-free: [Alcohol, Gelatin]
+type: 
+  - Chocolate
+  - Wrapped
+free: 
+  - Alcohol
+  - Gelatin
 ingredients: "Sugar, Whole Milk Powder, Cocoa Butter, Whey Powder, Emulsifier: Soya Lecithin; Flavouring "
 serving_size: 20
 energy: 100
@@ -19,4 +23,5 @@ carbohydrates: 12
 fat: 5.3
 published: true
 ---
+
 Milk chocolate bar with a fun game on the inside of the wrapper.

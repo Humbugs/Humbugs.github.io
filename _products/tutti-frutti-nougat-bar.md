@@ -8,9 +8,13 @@ width: 190
 height: 30
 depth: 25
 weight: 110
-type: [Nougat, Wrapped]
-flavour: [Mixed Fruit]
-free: [Alcohol]
+type: 
+  - Nougat
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+free: 
+  - Alcohol
 published: true
 ---
 Tutti frutti flavoured nougat bar.

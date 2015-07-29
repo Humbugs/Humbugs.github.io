@@ -9,7 +9,9 @@ height: 30
 depth: 15
 weight: 0
 brand: Lindor
-free: [Alcohol, Gelatin]
+free: 
+  - Alcohol
+  - Gelatin
 energy: 200
 protein: 2
 carbohydrates: 15

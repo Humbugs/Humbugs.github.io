@@ -9,8 +9,11 @@ width: 180
 height: 160
 depth: 45
 weight: 200
-type: [Novelty]
-free: [Alcohol]
+type: 
+  - Novelty
+free: 
+  - Alcohol
 published: true
 ---
+
 Fun Sweet & Sexy candy G-string. One size fits most.

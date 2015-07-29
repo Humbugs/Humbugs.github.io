@@ -8,8 +8,11 @@ width: 125
 height: 30
 depth: 20
 weight: 0
-type: [Wrapped]
-free: [Alcohol, Gelatin]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
+  - Gelatin
 published: true
 ---
 Assorted flavours of super sour liquid in a sachet.

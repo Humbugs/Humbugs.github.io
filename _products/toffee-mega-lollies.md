@@ -10,9 +10,15 @@ height: 40
 depth: 20
 weight: 0
 brand: "Joseph-Dobson-&-Sons-Ltd"
-type: [Liquorice, Lollipop, Toffee]
-colour: [Brown]
-free: [Alcohol, Gelatin]
+type: 
+  - Liquorice
+  - Lollipop
+  - Toffee
+colour: 
+  - Brown
+free: 
+  - Alcohol
+  - Gelatin
 published: true
 ---
 Toffee lollies.

@@ -7,10 +7,18 @@ price: 1
 cost_price: 0.5
 container_water_weight: 919
 container_sweets_weight: 761
-type: [Hard]
-flavour: [Cola]
-colour: [Red]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Hard
+flavour: 
+  - Cola
+colour: 
+  - Red
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E104, E120"
 published: true
 ---

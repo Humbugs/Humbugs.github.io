@@ -8,8 +8,11 @@ width: 60
 height: 40
 depth: 20
 weight: 0
-type: [Gummy, Wrapped]
-free: [Alcohol]
+type: 
+  - Gummy
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 Novelty gummy ‘make your own’ hamburger.

@@ -9,10 +9,17 @@ height: 4
 depth: 4
 weight: 17
 brand: Chewits
-type: [Chewy]
-flavour: [Strawberry]
-colour: [Red]
-free: [Alcohol, Lactose, Nut, Gelatin]
+type: 
+  - Chewy
+flavour: 
+  - Strawberry
+colour: 
+  - Red
+free: 
+  - Alcohol
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Wheat Flour, Sugar, Starch, Apple Juice Concentrate, Hydrogenated Vegetable Oil, Citric Acid, Flavouring, Glazing Agent (Shellac), Emulsifier (E471), Colours: E102, E133"
 published: true
 ---

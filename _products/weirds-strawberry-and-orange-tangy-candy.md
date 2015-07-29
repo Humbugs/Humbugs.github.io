@@ -9,9 +9,15 @@ height: 60
 depth: 20
 weight: 29
 brand: Weirds
-type: [Wrapped]
-flavour: [Orange, Strawberry]
-free: [Alcohol, Lactose, Gelatin]
+type: 
+  - Wrapped
+flavour: 
+  - Orange
+  - Strawberry
+free: 
+  - Alcohol
+  - Lactose
+  - Gelatin
 ingredients: "Sugar, Glucose Powder, E330, Artificial Flavours, Corn Syrup, Colours: E102, E129, E171. Glazing Agent: E903"
 published: true
 ---

@@ -9,7 +9,10 @@ width: 180
 height: 160
 depth: 37
 weight: 335
-type: [Novelty]
-free: [Alcohol]
+type: 
+  - Novelty
+free: 
+  - Alcohol
 published: true
 ---
+

@@ -9,10 +9,21 @@ width: 50
 height: 50
 depth: 15
 weight: 0
-type: [Hard, Liquorice, Wrapped]
-flavour: [Aniseed]
-free: [Alcohol, Gluten, Lactose, Nut, Sugar, Gelatin]
+type: 
+  - Hard
+  - Liquorice
+  - Wrapped
+flavour: 
+  - Aniseed
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Sugar
+  - Gelatin
 ingredients: "Acacia Gum, Sugar, Plant Extracts, Black Carbo Medicinalis Vegetalis"
 published: true
 ---
+
 Extra strong liquorice imps in tins.

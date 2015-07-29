@@ -8,7 +8,11 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Lollipop, Wrapped]
-free: [Alcohol]
+type: 
+  - Lollipop
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
+

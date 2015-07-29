@@ -9,10 +9,16 @@ height: 30
 depth: 3
 weight: 0
 brand: Maoam
-type: [Chewy, Wrapped]
-flavour: [Ginger]
-free: [Alcohol, Gluten, Nut]
-ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Food Acid (E330) , Artificial Flavourings, Humectant (Sorbitol Syrup), Fruit Juice  3% From Concentrate, Strawberry, Celling Agent Gelatine, Citric Acid, Fruit and Plant Concentrates; Safflower, Sweet Potato, Carrot, Radish, Blackcurrant, Hibiscus, Flavourings, Invert Sugar Syrup"
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Ginger
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Food Acid (E330) , Artificial Flavourings, Humectant (Sorbitol Syrup), Fruit Juice 3% From Concentrate, Strawberry, Celling Agent Gelatine, Citric Acid, Fruit and Plant Concentrates; Safflower, Sweet Potato, Carrot, Radish, Blackcurrant, Hibiscus, Flavourings, Invert Sugar Syrup"
 published: true
 ---
 Fruit chew bar.

@@ -9,9 +9,16 @@ height: 25
 depth: 15
 weight: 0
 brand: Maoam
-type: [Chewy, Wrapped]
-flavour: [Mixed Fruit, Ginger]
-free: [Alcohol, Gluten, Nut]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+  - Ginger
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
 published: true
 ---
 Wrapped fruit flavoured chews.

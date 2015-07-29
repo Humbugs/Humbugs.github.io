@@ -10,9 +10,14 @@ height: 40
 depth: 20
 weight: 0
 brand: "Joseph-Dobson-&-Sons-Ltd"
-type: [Liquorice, Lollipop]
-colour: [Red]
-free: [Alcohol, Gelatin]
+type: 
+  - Liquorice
+  - Lollipop
+colour: 
+  - Red
+free: 
+  - Alcohol
+  - Gelatin
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Colours: E-102, E-129, E-142. Contains Sulphates."
 published: true
 ---

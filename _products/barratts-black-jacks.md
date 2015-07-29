@@ -9,10 +9,16 @@ height: 20
 depth: 20
 weight: 0
 brand: Barratt
-type: [Chewy, Wrapped]
-flavour: [Aniseed]
-colour: [Black]
-free: [Alcohol, Gluten]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Aniseed
+colour: 
+  - Black
+free: 
+  - Alcohol
+  - Gluten
 ingredients: "Glucose Syrup, Sugar, Hydrogenated Vegetable Fat, Colours: E153, E151, E129; Citric Acid, Gelatine, Flavouring, Emulsifier: Soya Lecithin"
 serving_size: 100
 energy: 395
@@ -21,4 +27,5 @@ carbohydrates: 84.5
 fat: 6
 published: true
 ---
+
 Small wrapped aniseed chews

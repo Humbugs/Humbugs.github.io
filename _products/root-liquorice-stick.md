@@ -8,10 +8,18 @@ width: 180
 height: 10
 depth: 10
 weight: 0
-type: [Liquorice]
-flavour: [Aniseed]
-colour: [Brown]
-free: [Alcohol, Lactose, Nut, Sugar, Gelatin]
+type: 
+  - Liquorice
+flavour: 
+  - Aniseed
+colour: 
+  - Brown
+free: 
+  - Alcohol
+  - Lactose
+  - Nut
+  - Sugar
+  - Gelatin
 ingredients: Liquorice Wood
 published: true
 ---

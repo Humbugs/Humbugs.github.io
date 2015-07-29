@@ -8,8 +8,14 @@ width: 150
 height: 20
 depth: 15
 weight: 0
-type: [Wrapped]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Acidity Regulators: Malic Acid, Tartaric Acid; Sodium Bicarbonate, Stearic Acid, Modified Starch, E470B, Anti-Caking Agent: Magnesium Carbonate; Flavourings, Colours: E100, E104, E110, E122, E124, E129, E132, Elderberry Extract."
 published: true
 ---

@@ -9,9 +9,15 @@ height: 30
 depth: 3
 weight: 0
 brand: Wham
-type: [Chewy, Wrapped]
-flavour: [Raspberry]
-free: [Alcohol, Nut, Gelatin]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Raspberry
+free: 
+  - Alcohol
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Solublised Milk Protein, Glycerol E422, Soya Lethicin, Flavouring, Colour: E163"
 published: true
 ---

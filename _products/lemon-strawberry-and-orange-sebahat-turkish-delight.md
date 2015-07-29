@@ -10,8 +10,12 @@ height: 0
 depth: 0
 weight: 400
 brand: Sebahat
-flavour: [Lemon, Orange, Strawberry]
-free: [Alcohol]
+flavour: 
+  - Lemon
+  - Orange
+  - Strawberry
+free: 
+  - Alcohol
 ingredients: "Sugar, Wheat Starch, Acidifier: Citric Acid, E330, Flavourings: Orange, Lemon, Strawberry, Colourings: E120, E141, E160B"
 published: true
 ---

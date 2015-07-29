@@ -8,7 +8,10 @@ width: 220
 height: 50
 depth: 20
 weight: 0
-type: [Nuts, Wrapped]
-free: [Alcohol]
+type: 
+  - Nuts
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---

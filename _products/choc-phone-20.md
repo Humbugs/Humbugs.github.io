@@ -9,9 +9,15 @@ width: 120
 height: 65
 depth: 15
 weight: 0
-type: [Chocolate, Novelty, Wrapped]
-colour: [White]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+  - Wrapped
+colour: 
+  - White
+free: 
+  - Alcohol
 published: true
 ---
+
 Decorated white chocolate smartphone.

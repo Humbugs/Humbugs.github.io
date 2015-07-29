@@ -8,8 +8,13 @@ width: 85
 height: 25
 depth: 20
 weight: 0
-type: [Wrapped]
-free: [Alcohol, Gluten, Lactose, Nut]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavouring, Colours (E129, E131)"
 published: true
 ---

@@ -82,6 +82,8 @@ prose:
               value: 1
             - name: Pick'n'Mix
               value: 2
+            - name: Chocolate Selection
+              value: 3
       - name: price
         field:
           element: number

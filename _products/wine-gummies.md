@@ -8,9 +8,16 @@ width: 100
 height: 15
 depth: 10
 weight: 0
-type: [Gummy, Wrapped]
-flavour: [Mixed Fruit, Ginger]
-free: [Alcohol, Lactose, Nut]
+type: 
+  - Gummy
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+  - Ginger
+free: 
+  - Alcohol
+  - Lactose
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Gelling Agent: Gelatine, Acidity Regulator: Citric Acid, Flavourings, Glazing Agents: Vegetable Oil, Carnaubawax, Colours: Anthocyanin, Carmine, Copper, Chlorophyllin, Lutein, Paprika"
 published: true
 ---

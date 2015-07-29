@@ -9,10 +9,19 @@ height: 35
 depth: 10
 weight: 0
 brand: Chewits
-type: [Chewy, Wrapped]
-flavour: [Apple, Sour]
-colour: [Green]
-free: [Alcohol, Gluten, Nut, Gelatin]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Apple
+  - Sour
+colour: 
+  - Green
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Sugar, Apple Juice 3% From Concentrate, Vegetable Oil, Citric Acid, Lactic Acid, Egg White, Hydrolysed Rice Protein, Flavouring, Colour: Sodium Copper Chlorophyllin, Curcumin"
 published: true
 ---

@@ -9,9 +9,15 @@ height: 40
 depth: 10
 weight: 0
 brand: Cadburys
-type: [Chocolate, Wrapped]
-colour: [Purple]
-free: [Alcohol, Gluten, Gelatin]
+type: 
+  - Chocolate
+  - Wrapped
+colour: 
+  - Purple
+free: 
+  - Alcohol
+  - Gluten
+  - Gelatin
 ingredients: "Milk, Sugar, Cocoa Butter, Cocoa Mass, Vegetable Fat, Emulsifiers: E442, E476; Flavourings."
 serving_size: 100
 energy: 530

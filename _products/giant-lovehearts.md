@@ -8,8 +8,14 @@ width: 375
 height: 74
 depth: 74
 weight: 444
-type: [Wrapped]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Acidity Regulators (Tartaric Acid, Malic Acid), Stearic Acid, Sodium Bicarbonate, Modified Starch, E470B, Anticaking Agent (Magnesium Carbonate), Flavourings, Natural Colours"
 published: true
 ---

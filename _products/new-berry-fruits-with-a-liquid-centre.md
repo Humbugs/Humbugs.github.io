@@ -9,9 +9,13 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Jelly, Wrapped]
-flavour: [Mixed Fruit]
-free: [Alcohol]
+type: 
+  - Jelly
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+free: 
+  - Alcohol
 ingredients: "Glucose Syrup, Water, Dextrose, Apricot 4.5%, Flavour, Thickener (Agar Agar), Acidulant (Citric Acid, Ascorbic Acid, Organic Vinegar), Antifoaming Agent (Soy Oil), Preservative (E211), Colour (E104, E110, E122, E124, E132, E151)"
 published: true
 ---

@@ -10,8 +10,10 @@ height: 0
 depth: 0
 weight: 400
 brand: Sebahat
-type: [Nuts]
-free: [Alcohol]
+type: 
+  - Nuts
+free: 
+  - Alcohol
 ingredients: "Sugar, Wheat Starch, Hazelnuts, Pistachios, Almonds, Acidifier: Citric Acid, E330"
 published: true
 ---

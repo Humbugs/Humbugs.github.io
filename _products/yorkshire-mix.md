@@ -8,10 +8,22 @@ cost_price: 0.48
 container_water_weight: 919
 container_sweets_weight: 775
 brand: Maxons
-type: [Hard]
-flavour: [Lemon]
-colour: [Green, Orange, Pink, Rainbow, Red, White, Yellow]
-free: [Alcohol, Nut, Gelatin]
+type: 
+  - Hard
+flavour: 
+  - Lemon
+colour: 
+  - Green
+  - Orange
+  - Pink
+  - Rainbow
+  - Red
+  - White
+  - Yellow
+free: 
+  - Alcohol
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Natural Colours"
 published: true
 ---

@@ -9,9 +9,16 @@ height: 40
 depth: 10
 weight: 0
 brand: Cadburys
-type: [Caramel, Chocolate, Wrapped]
-colour: [Yellow]
-free: [Alcohol, Gluten, Gelatin]
+type: 
+  - Caramel
+  - Chocolate
+  - Wrapped
+colour: 
+  - Yellow
+free: 
+  - Alcohol
+  - Gluten
+  - Gelatin
 ingredients: "Milk Chocolate: Milk, Sugar, Cocoa Mass, Cocoa Butter, Vegetable Fat, E442, Flavouring. Caramel: Glucose Syrup, Sugar, Dried Whey, Salt, Flavouring"
 energy: 95
 protein: 1

@@ -8,9 +8,12 @@ cost_price: 0.01596
 width: 290
 height: 145
 depth: 40
-type: [Chocolate]
-colour: [Brown]
-free: [Gluten]
+type: 
+  - Chocolate
+colour: 
+  - Brown
+free: 
+  - Gluten
 published: true
 ---
 Coffee cream and gianduja.

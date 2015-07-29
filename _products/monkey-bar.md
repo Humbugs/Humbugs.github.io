@@ -8,9 +8,14 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Chewy, Wrapped]
-flavour: [Banana, Toffee]
-free: [Alcohol]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Banana
+  - Toffee
+free: 
+  - Alcohol
 published: true
 ---
 Toffee and banana chew bar.

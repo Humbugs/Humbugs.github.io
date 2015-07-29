@@ -9,10 +9,18 @@ height: 20
 depth: 20
 weight: 0
 brand: Barratt
-type: [Chewy, Wrapped]
-flavour: [Mixed Fruit, Ginger, Raspberry]
-colour: [Yellow]
-free: [Alcohol, Gluten]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+  - Ginger
+  - Raspberry
+colour: 
+  - Yellow
+free: 
+  - Alcohol
+  - Gluten
 ingredients: "Glucose Syrup, Sugar, Hydrogenated Vegetable Fat, Citric Acid, Gelatine, Emulsifier: Soya Lecithin; Flavourings, Colours: E104, E124, E122"
 serving_size: 100
 energy: 382

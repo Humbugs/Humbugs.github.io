@@ -9,8 +9,11 @@ height: 0
 depth: 0
 weight: 0
 brand: Chewits
-type: [Wrapped]
-free: [Alcohol]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
+
 Small wrapped fruit chews.

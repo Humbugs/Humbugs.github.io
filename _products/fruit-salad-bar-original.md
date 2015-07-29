@@ -8,8 +8,12 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Chewy, Wrapped]
-free: [Alcohol, Nut]
+type: 
+  - Chewy
+  - Wrapped
+free: 
+  - Alcohol
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Citric Acid, Beef Gelatine, Flavourings: Pineapple, Raspberry, Natural Colours: Paprika Extract, Anthocyanins"
 published: true
 ---

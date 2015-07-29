@@ -9,7 +9,9 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Lollipop]
-free: [Alcohol]
+type: 
+  - Lollipop
+free: 
+  - Alcohol
 published: true
 ---

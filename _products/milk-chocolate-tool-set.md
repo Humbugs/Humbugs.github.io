@@ -9,8 +9,12 @@ width: 200
 height: 85
 depth: 60
 weight: 0
-type: [Chocolate, Novelty, Wrapped]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 Toolkit shaped tin of milk chocolate tools.

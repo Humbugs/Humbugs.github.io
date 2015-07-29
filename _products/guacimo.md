@@ -9,8 +9,11 @@ width: 190
 height: 90
 depth: 10
 weight: 0
-type: [Chocolate, Wrapped]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Wrapped
+free: 
+  - Alcohol
 ingredients: "Cane Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Cocoa Solids 47%, Milk Solids 18%"
 published: true
 ---

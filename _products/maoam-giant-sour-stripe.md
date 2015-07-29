@@ -9,9 +9,17 @@ height: 30
 depth: 3
 weight: 0
 brand: Maoam
-type: [Chewy, Wrapped]
-flavour: [Cola, Lemon, Sour]
-free: [Alcohol, Gluten, Nut]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Cola
+  - Lemon
+  - Sour
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Fruit Juice From Concentrate, Gelling Agent (Gelatine), Citric Acid, Fruit & Plant Concentrates, Flavouring, Invert Sugar Syrup"
 published: true
 ---

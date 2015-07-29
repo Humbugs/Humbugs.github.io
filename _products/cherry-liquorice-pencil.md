@@ -8,7 +8,10 @@ container_water_weight: 919
 container_sweets_weight: 0
 weight: 0
 brand: "Tuck-Shop"
-type: [Liquorice]
-free: [Alcohol]
+type: 
+  - Liquorice
+free: 
+  - Alcohol
 published: true
 ---
+

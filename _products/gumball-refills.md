@@ -8,8 +8,11 @@ width: 120
 height: 70
 depth: 40
 weight: 0
-type: [Gum, Wrapped]
-free: [Alcohol]
+type: 
+  - Gum
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 Gumballs.

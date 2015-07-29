@@ -8,6 +8,7 @@ width: 85
 height: 29
 depth: 26
 weight: 9
-free: [Alcohol]
+free: 
+  - Alcohol
 published: true
 ---

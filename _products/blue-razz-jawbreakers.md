@@ -8,9 +8,18 @@ width: 150
 height: 40
 depth: 20
 weight: 0
-type: [Gummy, Wrapped]
-flavour: [Raspberry]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Gummy
+  - Wrapped
+flavour: 
+  - Raspberry
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 published: true
 ---
+
 Raspberry flavour jawbreakers with a bubblegum centre.

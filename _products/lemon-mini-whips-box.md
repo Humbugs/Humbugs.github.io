@@ -8,9 +8,17 @@ width: 145
 height: 55
 depth: 15
 weight: 0
-type: [Chewy, Wrapped]
-flavour: [Lemon]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Lemon
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 published: true
 ---
 Fizzy lemon flavoured strips which are chewy.

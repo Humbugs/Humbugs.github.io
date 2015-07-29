@@ -8,10 +8,19 @@ width: 100
 height: 30
 depth: 25
 weight: 0
-type: [Gum, Wrapped]
-flavour: [Banana, Lemon]
-colour: [Yellow]
-free: [Alcohol, Nut, Gelatin]
+type: 
+  - Gum
+  - Wrapped
+flavour: 
+  - Banana
+  - Lemon
+colour: 
+  - Yellow
+free: 
+  - Alcohol
+  - Nut
+  - Gelatin
 published: true
 ---
+
 Chewitts fruity bubblegum.

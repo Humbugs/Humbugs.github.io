@@ -8,9 +8,17 @@ width: 100
 height: 90
 depth: 10
 weight: 0
-type: [Gummy, Wrapped]
-flavour: [Mixed Fruit, Ginger]
-free: [Alcohol, Gluten, Nut, Gelatin]
+type: 
+  - Gummy
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+  - Ginger
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Glucose Syrup, Modified Starch, Fruit Juices (6%) (Strawberry, Orange, Blackcurrant, Lime and Lemon), Acidity Regulator (Trisodium Citrate, Malic Acid, Citric Acid), Flavourings, Lactic Acid, Colours (Anthocyanins. Copper Complexes of Chlorophyllins, Beta-Carotene)"
 published: true
 ---

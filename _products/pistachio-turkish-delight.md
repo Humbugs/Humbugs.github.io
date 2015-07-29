@@ -9,8 +9,10 @@ container_water_weight: 0
 container_sweets_weight: 0
 weight: 0
 brand: Sebahat
-colour: [Brown]
-free: [Alcohol]
+colour: 
+  - Brown
+free: 
+  - Alcohol
 published: true
 ---
 Pistachio Turkish Delight.

@@ -6,9 +6,15 @@ price: 1
 cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 0
-type: [Chewy, Nuts]
-colour: [Pink, White, Yellow]
-free: [Alcohol]
+type: 
+  - Chewy
+  - Nuts
+colour: 
+  - Pink
+  - White
+  - Yellow
+free: 
+  - Alcohol
 published: true
 ---
 Miniature marshmallows.

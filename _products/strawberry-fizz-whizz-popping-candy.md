@@ -8,9 +8,14 @@ width: 110
 height: 70
 depth: 3
 weight: 0
-type: [Fizzy, Wrapped]
-flavour: [Strawberry]
-free: [Alcohol, Gelatin]
+type: 
+  - Fizzy
+  - Wrapped
+flavour: 
+  - Strawberry
+free: 
+  - Alcohol
+  - Gelatin
 ingredients: "Sugar, Lactose, Glucose, Artificial Flavour, Carbon Dioxide E-290"
 published: true
 ---

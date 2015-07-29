@@ -7,10 +7,17 @@ price: 1
 cost_price: 0.516
 container_water_weight: 919
 container_sweets_weight: 0
-type: [Butter, Wrapped]
-flavour: [Cream]
-colour: [Yellow]
-free: [Alcohol, Gluten, Nut]
+type: 
+  - Butter
+  - Wrapped
+flavour: 
+  - Cream
+colour: 
+  - Yellow
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
 ingredients: "Sugar, Glucose Syrup, Cream (7%), Condensed Whey, Butter (4.5%), Cane Sugar Syrup, Salt, Butterfat, Emulsifier: Soya Lecithin, Flavouring"
 serving_size: 100
 energy: 425

@@ -8,7 +8,8 @@ width: 40
 height: 40
 depth: 30
 weight: 0
-free: [Alcohol]
+free: 
+  - Alcohol
 published: true
 ---
 Small jawbreaker.

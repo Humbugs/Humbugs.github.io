@@ -8,9 +8,15 @@ width: 100
 height: 35
 depth: 35
 weight: 0
-type: [Wrapped]
-flavour: [Sour]
-free: [Alcohol, Gluten, Nut, Gelatin]
+type: 
+  - Wrapped
+flavour: 
+  - Sour
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
+  - Gelatin
 ingredients: "Glucose-Fructose Syrup, Water, Sugar, Citric Acid, Lactic Acid, Malic Acid, Flavouring, Natural and Artificial Colour: E133, E163"
 published: true
 ---

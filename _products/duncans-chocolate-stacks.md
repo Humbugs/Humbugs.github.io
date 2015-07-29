@@ -9,8 +9,12 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Chocolate, Novelty, Wrapped]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 Assorted chocolate stacks game in gift box.

@@ -8,8 +8,14 @@ width: 140
 height: 75
 depth: 15
 weight: 0
-type: [Wrapped]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Maize Starch, Rice, Glucose Syrup. Colours: Beetroot, Carmine Extract, Copper Chlorophyll, Lutein, Paprika Extract"
 published: true
 ---

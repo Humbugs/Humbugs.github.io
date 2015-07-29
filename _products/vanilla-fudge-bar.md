@@ -8,9 +8,12 @@ width: 200
 height: 40
 depth: 15
 weight: 0
-type: [Wrapped]
-flavour: [Vanilla]
-free: [Alcohol]
+type: 
+  - Wrapped
+flavour: 
+  - Vanilla
+free: 
+  - Alcohol
 published: true
 ---
 Vanilla flavoured fudge bar.

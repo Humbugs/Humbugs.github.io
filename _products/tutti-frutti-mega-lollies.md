@@ -10,9 +10,16 @@ height: 40
 depth: 20
 weight: 0
 brand: "Joseph-Dobson-&-Sons-Ltd"
-type: [Liquorice, Lollipop]
-colour: [Blue, Red, Yellow]
-free: [Alcohol, Gelatin]
+type: 
+  - Liquorice
+  - Lollipop
+colour: 
+  - Blue
+  - Red
+  - Yellow
+free: 
+  - Alcohol
+  - Gelatin
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Flavourings, Salt. Colours: E100, E141, E153, E160A, E163"
 published: true
 ---

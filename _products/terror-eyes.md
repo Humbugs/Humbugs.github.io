@@ -8,8 +8,14 @@ width: 30
 height: 25
 depth: 20
 weight: 0
-type: [Gum]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Gum
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Dextrose, Sucrose, Gum Base, Glucose Syrup, Glazing Agents, Carnauba Wax, Shellac Antioxidant: E321. Colours: E120, E171"
 published: true
 ---

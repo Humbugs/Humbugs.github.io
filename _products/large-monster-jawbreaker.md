@@ -8,7 +8,8 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-free: [Alcohol]
+free: 
+  - Alcohol
 published: true
 ---
 Large jawbreaker.

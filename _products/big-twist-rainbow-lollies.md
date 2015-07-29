@@ -8,8 +8,13 @@ width: 396
 height: 29
 depth: 20
 weight: 143
-type: [Lollipop, Wrapped]
-colour: [Rainbow]
-free: [Alcohol]
+type: 
+  - Lollipop
+  - Wrapped
+colour: 
+  - Rainbow
+free: 
+  - Alcohol
 published: true
 ---
+

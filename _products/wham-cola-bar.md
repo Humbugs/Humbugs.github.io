@@ -9,9 +9,14 @@ height: 30
 depth: 3
 weight: 0
 brand: Wham
-type: [Wrapped]
-flavour: [Cola]
-free: [Alcohol, Nut, Gelatin]
+type: 
+  - Wrapped
+flavour: 
+  - Cola
+free: 
+  - Alcohol
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Maltodextrin, Citric Acid, Milk Protein, Glycerol: E422, Emulsifier: Soya Lecithin, E322. Colours: Beetroot, Caramel"
 published: true
 ---

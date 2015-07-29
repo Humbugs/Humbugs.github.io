@@ -8,8 +8,11 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Lollipop]
-flavour: [Strawberry]
-free: [Alcohol]
+type: 
+  - Lollipop
+flavour: 
+  - Strawberry
+free: 
+  - Alcohol
 published: true
 ---

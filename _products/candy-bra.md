@@ -9,8 +9,11 @@ width: 180
 height: 158
 depth: 42
 weight: 335
-type: [Novelty]
-free: [Alcohol]
+type: 
+  - Novelty
+free: 
+  - Alcohol
 published: true
 ---
+
 Sweet & Sexy Candy bra One Size Fits most

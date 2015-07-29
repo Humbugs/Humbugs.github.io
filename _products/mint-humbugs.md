@@ -7,10 +7,16 @@ price: 1
 cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 611
-type: [Hard, Mint]
-flavour: [Mint]
-colour: [White]
-free: [Alcohol, Sugar]
+type: 
+  - Hard
+  - Mint
+flavour: 
+  - Mint
+colour: 
+  - White
+free: 
+  - Alcohol
+  - Sugar
 ingredients: "Sugar, Glucose, Sweetened Condensed Milk, Hard Palm Kernal Oil, Flavour, Salt, Colour (E150), Emulsifier (Soya Lecithin)"
 published: true
 ---

@@ -7,10 +7,18 @@ price: 1
 cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 767
-type: [Butter, Fizzy]
-flavour: [Apple, Watermelon]
-colour: [Green, Red]
-free: [Alcohol, Sugar]
+type: 
+  - Butter
+  - Fizzy
+flavour: 
+  - Apple
+  - Watermelon
+colour: 
+  - Green
+  - Red
+free: 
+  - Alcohol
+  - Sugar
 ingredients: "Sugar, Glucose Syrup, Bicarbonate of Soda, Malic Acid, Citric Acid, Colours: E102, E129, E133"
 published: true
 ---

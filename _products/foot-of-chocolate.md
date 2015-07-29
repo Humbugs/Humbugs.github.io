@@ -9,8 +9,12 @@ width: 320
 height: 155
 depth: 25
 weight: 200
-type: [Chocolate, Novelty, Wrapped]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 The name says it all! An actual 12 inches of milk chocolate to work your way through from now until next year (or next week even)!

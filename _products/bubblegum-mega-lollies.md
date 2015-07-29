@@ -10,11 +10,17 @@ height: 40
 depth: 20
 weight: 0
 brand: "Joseph-Dobson-&-Sons-Ltd"
-type: [Liquorice, Lollipop]
-flavour: [Bubblegum]
-colour: [Blue]
-free: [Alcohol]
+type: 
+  - Liquorice
+  - Lollipop
+flavour: 
+  - Bubblegum
+colour: 
+  - Blue
+free: 
+  - Alcohol
 ingredients: "Sugar Glucose Syrup, Citric Acid, Salt, Flavourings, Colours: E133, E129. Contains Sulphites. May contain traces of milk."
 published: true
 ---
+
 Bubblegum lollies.

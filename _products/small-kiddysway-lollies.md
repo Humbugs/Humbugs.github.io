@@ -9,7 +9,9 @@ height: 0
 depth: 0
 weight: 0
 brand: Kiddysway
-type: [Wrapped]
-free: [Alcohol]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---

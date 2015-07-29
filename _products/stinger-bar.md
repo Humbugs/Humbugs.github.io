@@ -8,8 +8,13 @@ width: 170
 height: 25
 depth: 3
 weight: 0
-type: [Chewy, Wrapped]
-free: [Alcohol, Lactose, Nut]
+type: 
+  - Chewy
+  - Wrapped
+free: 
+  - Alcohol
+  - Lactose
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulators: Citric Acid, Tartaric Acid, Gelatine, Stearic Acid, Modified Starch, Flavourings, Emulsifier (Glycerol Mono Stearate, Magnesium Stearate), Natural Colours"
 published: true
 ---

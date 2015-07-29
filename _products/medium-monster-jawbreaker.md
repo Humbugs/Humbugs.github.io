@@ -8,7 +8,8 @@ width: 50
 height: 50
 depth: 40
 weight: 0
-free: [Alcohol]
+free: 
+  - Alcohol
 published: true
 ---
 Medium sized jawbreaker.

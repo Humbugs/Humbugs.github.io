@@ -9,7 +9,10 @@ height: 0
 depth: 0
 weight: 0
 brand: "Walkers-Nonsuch"
-type: [Nougat, Wrapped]
-free: [Alcohol]
+type: 
+  - Nougat
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---

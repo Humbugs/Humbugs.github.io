@@ -9,9 +9,16 @@ height: 60
 depth: 20
 weight: 29
 brand: Weirds
-type: [Toffee, Wrapped]
-flavour: [Cherry, Cola]
-free: [Alcohol, Lactose, Gelatin]
+type: 
+  - Toffee
+  - Wrapped
+flavour: 
+  - Cherry
+  - Cola
+free: 
+  - Alcohol
+  - Lactose
+  - Gelatin
 ingredients: "Sugar, Glucose Powder, E330, Artificial Flavours, Corn Syrup. Colours: E129, E150D. Glazing Agent: E903"
 published: true
 ---

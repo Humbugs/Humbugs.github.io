@@ -6,10 +6,18 @@ price: 1
 cost_price: 0.6
 container_water_weight: 919
 container_sweets_weight: 761
-type: [Hard]
-flavour: [Apple]
-colour: [Green]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Hard
+flavour: 
+  - Apple
+colour: 
+  - Green
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Glucose, Citric Acid, Flavouring, Colours: E102, E104, E142"
 published: true
 ---

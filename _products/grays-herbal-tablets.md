@@ -7,8 +7,12 @@ price: 1
 cost_price: 0.4
 container_water_weight: 919
 container_sweets_weight: 0
-type: [Hard, Traditional]
-free: [Alcohol, Sugar]
+type: 
+  - Hard
+  - Traditional
+free: 
+  - Alcohol
+  - Sugar
 ingredients: "Sugar, Glucose Syrup, Malic Acid, Natural Flavours"
 published: true
 ---

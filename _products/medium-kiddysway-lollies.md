@@ -8,7 +8,9 @@ width: 0
 height: 0
 depth: 0
 weight: 0
-type: [Wrapped]
-free: [Alcohol]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---

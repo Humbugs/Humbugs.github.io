@@ -8,9 +8,15 @@ width: 45
 height: 25
 depth: 15
 weight: 0
-type: [Chewy, Wrapped]
-flavour: [Sour]
-free: [Alcohol, Gluten, Nut]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Sour
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
 ingredients: "Sugar, Glucose Syrup, Vegetable Fat, Humectant (Sorbitol Syrup), Citric Acid, Gelatine. Flavouring:"
 published: true
 ---

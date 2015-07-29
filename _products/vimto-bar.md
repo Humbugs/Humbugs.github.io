@@ -8,9 +8,16 @@ width: 225
 height: 25
 depth: 3
 weight: 0
-type: [Chewy, Wrapped]
-flavour: [Mixed Fruit, Ginger]
-free: [Alcohol, Nut, Gelatin]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+  - Ginger
+free: 
+  - Alcohol
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Citric Acid, Maltodextrin, Concentrated Fruit Juices (Grape, Blackcurrant & Raspberry), Vimto Flavour, Solubilised Milk Protein, Stabiliser (Glycerol E422), Emulsifier (Soya Lecithin), Natural Colour"
 published: true
 ---

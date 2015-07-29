@@ -9,8 +9,10 @@ width: 240
 height: 100
 depth: 10
 weight: 0
-type: [Lollipop]
-free: [Alcohol]
+type: 
+  - Lollipop
+free: 
+  - Alcohol
 published: true
 ---
 Strawberry flavoured lollies.

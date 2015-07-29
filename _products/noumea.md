@@ -9,7 +9,8 @@ width: 190
 height: 90
 depth: 10
 weight: 0
-free: [Alcohol]
+free: 
+  - Alcohol
 ingredients: "Milk Chocolate (Cane Sugar, Cocoa Butter, Milk, Chocolate Liquor)"
 published: true
 ---

@@ -9,8 +9,12 @@ width: 220
 height: 155
 depth: 20
 weight: 0
-type: [Chocolate, Novelty, Wrapped]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---
 Milk chocolate makeup set.

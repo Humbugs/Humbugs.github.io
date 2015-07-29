@@ -9,9 +9,17 @@ height: 80
 depth: 15
 weight: 0
 brand: Pez
-type: [Wrapped]
-flavour: [Mixed Fruit, Ginger]
-free: [Alcohol, Gluten, Lactose, Nut, Gelatin]
+type: 
+  - Wrapped
+flavour: 
+  - Mixed Fruit
+  - Ginger
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Acid Regulator, Hydrogenated Vegetable Fat, Emulsifier, Flavourings"
 published: true
 ---

@@ -9,9 +9,15 @@ height: 0
 depth: 0
 weight: 0
 brand: Haribo
-type: [Gummy, Wrapped]
-flavour: [Cola]
-free: [Alcohol, Nut, Gelatin]
+type: 
+  - Gummy
+  - Wrapped
+flavour: 
+  - Cola
+free: 
+  - Alcohol
+  - Nut
+  - Gelatin
 ingredients: "Glucose Syrup, Sugar, Gelatine, Dextrose, Citric Acid, Caramelised Sugar Syrup, Flavouring, Vegetable Oil, Glazing Agents: Beeswax, Carnauba Wax"
 published: true
 ---

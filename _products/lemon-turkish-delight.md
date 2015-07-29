@@ -9,9 +9,12 @@ container_water_weight: 0
 container_sweets_weight: 0
 weight: 0
 brand: Sebahat
-flavour: [Lemon]
-colour: [Yellow]
-free: [Alcohol]
+flavour: 
+  - Lemon
+colour: 
+  - Yellow
+free: 
+  - Alcohol
 published: true
 ---
 Lemon Turkish Delight.

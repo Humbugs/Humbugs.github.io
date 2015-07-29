@@ -7,10 +7,15 @@ price: 1
 cost_price: 0.5
 container_water_weight: 919
 container_sweets_weight: 703
-type: [Fizzy, Jelly]
-flavour: [Cola]
-colour: [Brown]
-free: [Alcohol]
+type: 
+  - Fizzy
+  - Jelly
+flavour: 
+  - Cola
+colour: 
+  - Brown
+free: 
+  - Alcohol
 published: true
 ---
 Fizzy cola flavoured bottle gums.

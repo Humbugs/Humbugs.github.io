@@ -7,10 +7,17 @@ price: 1
 cost_price: 0.8
 container_water_weight: 919
 container_sweets_weight: 547
-type: [Hard, Mint, Wrapped]
-flavour: [Mint]
-colour: [Black, White]
-free: [Alcohol]
+type: 
+  - Hard
+  - Mint
+  - Wrapped
+flavour: 
+  - Mint
+colour: 
+  - Black
+  - White
+free: 
+  - Alcohol
 published: true
 ---
 Sugar free black and white mint flavoured sweets with a toffee centre.

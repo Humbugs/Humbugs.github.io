@@ -7,11 +7,18 @@ price: 1.2
 cost_price: 0.85
 container_water_weight: 919
 container_sweets_weight: 761
-type: [Hard]
-flavour: [Aniseed]
-colour: [Black]
-free: [Alcohol, Gluten, Lactose]
+type: 
+  - Hard
+flavour: 
+  - Aniseed
+colour: 
+  - Black
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
 ingredients: "Sugar, Glucose Syrup, Citric Acid, Liquorice Extract, Colours: Carbon Black"
 published: true
 ---
+
 Traditional hard boiled sweets flavoured with liquorice and herbs.

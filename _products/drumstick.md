@@ -8,9 +8,16 @@ width: 100
 height: 15
 depth: 10
 weight: 0
-type: [Lollipop, Wrapped]
-flavour: [Raspberry]
-free: [Alcohol, Gluten, Lactose, Nut]
+type: 
+  - Lollipop
+  - Wrapped
+flavour: 
+  - Raspberry
+free: 
+  - Alcohol
+  - Gluten
+  - Lactose
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Vegetable Oil, Acidity Regulator (Citric Acid), Gelatine, Emulsifier (Glycerol Mono Stearate), Flavouring, Natural Colour"
 published: true
 ---

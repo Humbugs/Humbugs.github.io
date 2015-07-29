@@ -9,8 +9,11 @@ width: 215
 height: 215
 depth: 35
 weight: 300
-type: [Chocolate, Novelty]
-free: [Alcohol]
+type: 
+  - Chocolate
+  - Novelty
+free: 
+  - Alcohol
 published: true
 ---
 Chocolate versions of some of the worlds most popular board games. Each box comes complete with a miniature version of the game with Belgian chocolate playing pieces.

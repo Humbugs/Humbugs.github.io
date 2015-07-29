@@ -9,8 +9,14 @@ height: 60
 depth: 15
 weight: 0
 brand: "Walkers-Nonsuch"
-type: [Nuts, Toffee, Wrapped]
-free: [Alcohol, Gluten, Gelatin]
+type: 
+  - Nuts
+  - Toffee
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Gelatin
 ingredients: "Glucose Sugar, Sugar, Sweetened Condensed Milk, Vegetable Oil, Roasted Hazelnuts"
 published: true
 ---

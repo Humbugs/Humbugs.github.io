@@ -9,8 +9,12 @@ height: 125
 depth: 95
 weight: 0
 brand: "Jelly-Belly"
-type: [Novelty, Wrapped]
-free: [Alcohol, Gelatin]
+type: 
+  - Novelty
+  - Wrapped
+free: 
+  - Alcohol
+  - Gelatin
 published: true
 ---
 Jelly bean dispenser.

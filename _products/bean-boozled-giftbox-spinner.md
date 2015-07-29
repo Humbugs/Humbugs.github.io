@@ -1,5 +1,5 @@
 ---
-name: "Bean Boozled Giftbox/Spinner"
+name: Bean Boozled Giftbox/Spinner
 available: true
 image: "bean-boozled-giftbox-spinner.jpg"
 purchase_option: "0"
@@ -9,8 +9,13 @@ width: 200
 height: 90
 depth: 29
 weight: 155
-type: [Novelty]
-free: [Alcohol, Gluten, Gelatin]
+type: 
+  - Novelty
+free: 
+  - Alcohol
+  - Gluten
+  - Gelatin
 published: true
 ---
+
 It's a game of luck, with weird & wild flavours. 3rd Edition new flavours.

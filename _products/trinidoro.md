@@ -9,7 +9,8 @@ width: 190
 height: 90
 depth: 10
 weight: 0
-free: [Alcohol]
+free: 
+  - Alcohol
 ingredients: "Cocoa Massa, Cane Sugar, Cocoa Butter, Cocoa: 70% "
 published: true
 ---

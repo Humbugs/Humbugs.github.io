@@ -9,7 +9,9 @@ height: 75
 depth: 60
 weight: 0
 brand: Maoam
-type: [Wrapped]
-free: [Alcohol]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
 published: true
 ---

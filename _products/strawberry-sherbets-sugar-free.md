@@ -7,10 +7,16 @@ price: 1.2
 cost_price: 0.48
 container_water_weight: 919
 container_sweets_weight: 0
-type: [Hard, Traditional]
-flavour: [Strawberry]
-colour: [Red]
-free: [Alcohol, Sugar]
+type: 
+  - Hard
+  - Traditional
+flavour: 
+  - Strawberry
+colour: 
+  - Red
+free: 
+  - Alcohol
+  - Sugar
 ingredients: "Sweetener: Isomalt; Citric Acid, Maltitol Powder, Bicarbonate of Soda, Lemon Oil, Natural Colour: E100"
 published: true
 ---

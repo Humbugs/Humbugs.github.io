@@ -9,9 +9,15 @@ height: 40
 depth: 10
 weight: 0
 brand: Frys
-type: [Chocolate, Wrapped]
-flavour: [Mint]
-free: [Alcohol, Gluten, Gelatin]
+type: 
+  - Chocolate
+  - Wrapped
+flavour: 
+  - Mint
+free: 
+  - Alcohol
+  - Gluten
+  - Gelatin
 ingredients: "Fondant (53%) (Sugar, Glucose Syrup, Humectant:Glycerol; Flavouring), Chocolate (Sugar, Cocoa Mass, Cocoa Butter, Vegetable Fat, Emulsifier: Soya Lecithin, E476)"
 serving_size: 100
 energy: 415

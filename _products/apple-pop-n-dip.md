@@ -8,10 +8,16 @@ width: 120
 height: 70
 depth: 10
 weight: 0
-type: [Wrapped]
-flavour: [Apple]
-free: [Alcohol, Gluten, Gelatin]
+type: 
+  - Wrapped
+flavour: 
+  - Apple
+free: 
+  - Alcohol
+  - Gluten
+  - Gelatin
 ingredients: "Sugar, Glucose Syrup, Carbon Dioxide, Lactose, Flavouring, Colours: E192, E102, E133, E129, E102"
 published: true
 ---
+
 Apple flavoured lollipop with popping candy.

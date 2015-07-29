@@ -8,8 +8,14 @@ width: 193
 height: 150
 depth: 3
 weight: 27
-type: [Sherbet, Wrapped]
-free: [Alcohol, Gluten, Nut, Gelatin]
+type: 
+  - Sherbet
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
+  - Gelatin
 ingredients: "Sugar, Dextrose, Citric Acid, Tartaric Acid, Sodium Bicarbonate, Cornflour, Modified Starch, Stearic Acid, Magnesium Carbonate, Magnesium Strearate, Flavourings, Beetroot Red, Curcumin, Lutein"
 published: true
 ---

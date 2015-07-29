@@ -8,9 +8,14 @@ cost_price: 0.58
 container_water_weight: 919
 container_sweets_weight: 0
 brand: Gibb
-flavour: [Cream, Ginger]
-colour: [White]
-free: [Alcohol, Lactose]
+flavour: 
+  - Cream
+  - Ginger
+colour: 
+  - White
+free: 
+  - Alcohol
+  - Lactose
 ingredients: "Sugar, Cream of Tarter, Butter, Ground Ginger"
 published: true
 ---

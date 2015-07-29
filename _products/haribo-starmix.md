@@ -9,8 +9,13 @@ height: 95
 depth: 3
 weight: 0
 brand: Haribo
-type: [Gummy, Wrapped]
-free: [Alcohol, Lactose, Nut]
+type: 
+  - Gummy
+  - Wrapped
+free: 
+  - Alcohol
+  - Lactose
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Modified Maize Starch, Citric Acid, Caramelised Sugar Syrup, Flavourings, Fruit and Plant Concentrates (Apple, Aronia, Blackcurrant, Elderberry, Grape, Kiwi, Lemon, Mango, Nettle, Orange, Passion Fruit, Spinach), Colours (Copper Complexes of Chlorophyll, Paprika Extract), Glazing Agents (Vegetable Oil, Beeswax, Carnauba Wax), Invert Sugar Syrup, Fruit Extract (Carob)"
 published: true
 ---

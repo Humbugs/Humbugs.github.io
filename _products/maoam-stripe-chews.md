@@ -9,8 +9,12 @@ height: 30
 depth: 3
 weight: 0
 brand: Maoam
-type: [Wrapped]
-free: [Alcohol, Gluten, Nut]
+type: 
+  - Wrapped
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
 ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant (Sorbitol Syrup), Gelatine, Citric Acid, Flavouring."
 published: true
 ---

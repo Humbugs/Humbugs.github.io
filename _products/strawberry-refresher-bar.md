@@ -9,9 +9,15 @@ height: 25
 depth: 5
 weight: 17
 brand: Swizzels Matlow
-type: [Chewy, Wrapped]
-flavour: [Strawberry]
-free: [Alcohol, Gluten, Nut]
+type: 
+  - Chewy
+  - Wrapped
+flavour: 
+  - Strawberry
+free: 
+  - Alcohol
+  - Gluten
+  - Nut
 ingredients: "Glucose Syrup, Sugar, Vegetable Opil, Acidity Regulators (Tartaric Acid, Citric Acid), Gelatine, Stearic Acid, Modified Starch, Flavourings, Emulsifier (Glycerol Mono Stearate), Magnesium Stearate, Natural Colour"
 published: true
 ---

@@ -7,7 +7,7 @@ permalink: /products.json
 
 [
   {% for product in available_products %}
-      {% if product.purchase_option == 1 %}
+      {% if product.purchase_option == "1" %}
         {% capture price %}{{ product.price | divided_by: 100.00 }}{% endcapture %}
         {% capture cost_price %}{{ product.cost_price | divided_by: 100.00 }}{% endcapture %}
         {% assign weight = 1 %}

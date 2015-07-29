@@ -15,7 +15,7 @@ layout: default
       <h2 itemprop='offers' itemscope itemtype='http://schema.org/Offer'>
         <span itemprop='priceCurrency' content='GBP'>£</span>
         <span itemprop='price' content='{{ page.price }}'>{{ page.price }}</span>
-        {% if page.purchase_option == 1 %}
+        {% if page.purchase_option == "1" %}
         <span class='units'>/100g</span>
         {% endif %}
       </h2>

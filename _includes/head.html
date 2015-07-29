@@ -4,7 +4,7 @@
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
   {% if page.layout == 'product' %}
-    <meta name='description' content='{{ page.name }} only £{{ page.price }}{% if page.purchase_option == 1 %}/100g{% endif %}. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'>
+    <meta name='description' content='{{ page.name }} only £{{ page.price }}{% if page.purchase_option == "1" %}/100g{% endif %}. Traditional sweets and more at Humbugs Confectionery Store. Specialists in satisfying your sweet tooth!'>
   {% else %}
     <meta name='description' content='{{ site.description }}'>
   {% endif %}

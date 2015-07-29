@@ -9,7 +9,7 @@ var Quantity = React.createClass({
     });
   },
   render: function() {
-    return this.props.item.purchase_option == 1 ?
+    return this.props.item.purchase_option == "1" ?
             this.weightSelector() :
             <input type='number' value={this.props.item.quantity} onChange={this.set} />
   },

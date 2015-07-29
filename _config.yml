@@ -207,7 +207,7 @@ prose:
             - value: Gelatin
       - name: ingredients
         field:
-          element: textarea
+          element: text
           label: Ingredients
       - name: serving_size
         field:

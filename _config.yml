@@ -55,6 +55,7 @@ prose:
     - Gemfile
     - package.json
     - README.md
+    - favicon.ico
   metadata:
     _products:
       - name: name

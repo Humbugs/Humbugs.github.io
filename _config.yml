@@ -49,6 +49,7 @@ prose:
     - pages/index.html
     - pages/basket.html
     - pages/thankyou.html
+    - pages/contact.html
     - .gitignore
     - _config.yml
     - CNAME

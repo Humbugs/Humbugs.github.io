@@ -1,7 +1,7 @@
 ---
-name: "Strawberry & Cream Bonbons'
+name: "Strawberry & Cream Bonbons"
 available: true
-image: "bonbons-strawberry-cream.jpg'
+image: "bonbons-strawberry-cream.jpg"
 purchase_option: "1"
 price: 1
 cost_price: 0.65
@@ -17,7 +17,7 @@ colour:
   - White
 free: 
   - Alcohol
-ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant: Sorbitol, Pork Gelatine, Citric Acid, Dextrose, Flavourings, Colour: E120, Emulisifier: Soya Lecithin'
+ingredients: "Sugar, Glucose Syrup, Vegetable Oil, Humectant: Sorbitol, Pork Gelatine, Citric Acid, Dextrose, Flavourings, Colour: E120, Emulisifier: Soya Lecithin"
 published: true
 ---
 Chewy strawberry and cream flavoured bonbons.

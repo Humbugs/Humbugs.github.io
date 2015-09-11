@@ -56,6 +56,7 @@ prose:
     - package.json
     - README.md
     - favicon.ico
+    - _data/inventory.csv
   metadata:
     _products:
       - name: name

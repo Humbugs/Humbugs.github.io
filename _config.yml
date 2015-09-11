@@ -80,13 +80,13 @@ prose:
           alterable: false
           options:
             - name: Purchase by Unit
-              value: 0
+              value: "0"
             - name: Purchase by Weight
-              value: 1
+              value: "1"
             - name: Pick'n'Mix
-              value: 2
+              value: "2"
             - name: Chocolate Selection
-              value: 3
+              value: "3"
       - name: price
         field:
           element: number

@@ -22,7 +22,7 @@ tracking_id: ''
 pack_hook: 'https://humbugs-payments.herokuapp.com/pack'
 
 # Jekll-Store Front
-image_prefix: 'http://res.cloudinary.com/dtfg8neiv/'
+image_prefix: 'https://res.cloudinary.com/dtfg8neiv/'
 paymillPublicKey: 8a8394c446f762fd014700e80f991f9c
 wake_up: 'https://humbugs-payments.herokuapp.com/ping'
 disqus_shortname: ''

@@ -1,7 +1,7 @@
 var React = require('react');
 var Reflux = require('reflux');
 var JSE = require('jekyll-store-engine');
-var I = require('immutable');
+var I = require('seamless-immutable');
 
 var TaxonomiesMenu = React.createClass({
   mixins: [Reflux.connect(JSE.Stores.Products)],

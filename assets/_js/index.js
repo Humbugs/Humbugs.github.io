@@ -3,7 +3,6 @@ window.accounting = require('accounting');
 require('./vendor/es5-shim.min');
 require('./vendor/es5-sham.min');
 require('./vendor/html5shiv');
-require('./vendor/paymill');
 require('./vendor/placeholders.min');
 
 // Engine

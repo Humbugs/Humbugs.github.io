@@ -26,6 +26,12 @@
 
   td, th { text-align: right; }
 
+  #card {
+    height: 270px;
+    @media (min-width: 500px) { height: 150px; }
+  }
+
+
   #purchase button {
     width: 100%;
     font-size: 1.2em;

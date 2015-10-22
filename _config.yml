@@ -15,7 +15,6 @@ twitter: "@humbugsofromsey"
 defaultAddress:
   country: GB
 payment:
-  tokenizer: Paymill
   currency: GBP
   hook: 'https://humbugs-payments.herokuapp.com/purchase'
 tracking_id: ''
